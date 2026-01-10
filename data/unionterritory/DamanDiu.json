@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Daman",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Daman",
+    "coordinates": {
+      "lat": 20.4170,
+      "long": 72.8490
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Former Portuguese territory until 1961, Arabian Sea coastal town divided by Damanganga River into Moti Daman (Big Daman) and Nani Daman (Little Daman), Portuguese forts and churches, beaches - Devka, Jampore, Tithal, liberal liquor laws making it popular weekend destination from Gujarat and Maharashtra, water sports, seafood restaurants, budget hotels, Cathedral of Bom Jesus, St. Jerome Fort, Moti Daman Fort, Lighthouse, colonial architecture, Daman Ganga Tourist Complex, shopping for cheap liquor, laid-back beach town atmosphere, 170 km from Mumbai."
+  },
+  {
+    "name": "Devka Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Daman",
+    "coordinates": {
+      "lat": 20.4270,
+      "long": 72.8380
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Most popular beach in Daman, black sand, Arabian Sea, Devka Amusement Park adjacent with rides, musical fountain, gardens, water sports - parasailing, jet-ski, banana boat rides, ATV bikes, camel and horse rides, beach shacks, food stalls serving seafood, street food, evening hangout spot, illuminated promenade, families and couples destination, swimming not recommended due to rocky seabed and waves, sunset views, photography, weekend crowds, 5 km from Daman center, clean maintained beach, parking available, nominal park entry, beach free access, lifeguard services."
+  },
+  {
+    "name": "Jampore Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Daman",
+    "coordinates": {
+      "lat": 20.3990,
+      "long": 72.8440
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Quieter alternative to Devka Beach, golden-black sand stretching 3 km, Moti Daman area, safer swimming beach with gentle waves, cleaner less commercialized, palm and casuarina trees lining, beach shacks, water sports - parasailing, jet-ski, banana rides, horse riding, beach volleyball, camping allowed, bonfire evenings, seafood stalls, budget-friendly, popular with locals, less touristy, peaceful atmosphere, photography spot, sunrise beautiful, fishing activities, beach resorts nearby, free entry, parking available, family picnics, romantic sunset walks, 5 km from Daman Fort."
+  },
+  {
+    "name": "Daman Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Daman",
+    "coordinates": {
+      "lat": 20.4180,
+      "long": 72.8480
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Moti Daman Fort (St. Jerome Fort), massive Portuguese fortification built 1559, 30,000 sq meter area with 10 bastions, 3-meter thick walls, two main gates - Sea Gate (seaward) and Land Gate with coat of arms, Cathedral of Bom Jesus inside compound, Chapel of Our Lady of Rosary, Lighthouse, cannons remnants, administrative buildings now government offices, light and sound show narrating 450 years history, rampart walks, Arabian Sea views, sunset point, ASI protected monument, photography spot, Portuguese architecture with Indo-European fusion, free entry, explore 2 hours, colonial heritage, strategic military importance."
+  },
+  {
+    "name": "Cathedral of Bom Jesus",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Daman",
+    "coordinates": {
+      "lat": 20.4210,
+      "long": 72.8470
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Portuguese Catholic church built 1603 inside Moti Daman Fort, Baroque architecture, 180 feet long and 70 feet wide, three-aisled basilica plan, ornate wooden carvings on ceiling, gilt altarpiece, statue of infant Jesus (Bom Jesus - Good Jesus), stained glass windows depicting biblical scenes, Portuguese inscriptions, main altar with intricate wood carvings, side chapels, well-preserved interiors, Sunday Mass conducted, peaceful atmosphere, architectural photography, similar namesake to Goa's famous church, historical religious significance, ASI protected, open to visitors, shoes removed inside, 450-year heritage, Jesuit missionaries' legacy."
+  },
+  {
+    "name": "St. Jerome Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Diu",
+    "coordinates": {
+      "lat": 20.7190,
+      "long": 70.9900
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Nani Daman Fort (Little Fort), Portuguese fortification built 1614, smaller counterpart to Moti Daman Fort, located across Damanganga River, Church of Our Lady of Remedios (Nossa Senhora dos Remédios) with carved wooden ceiling inside, cemetery with Portuguese tombs, Gateway arch with royal coat of arms, bastions, ramparts, sea-facing walls, lighthouse built 1866 operational until 1900s, now ruins, administrative offices, residential area within fort, walking through narrow lanes, colonial ambiance, photography, sunset views over Arabian Sea, ASI monument, free entry, less crowded, explore 1-hour, connects Portuguese maritime history."
+  },
+  {
+    "name": "Ghoghla Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Diu",
+    "coordinates": {
+      "lat": 20.7200,
+      "long": 70.9905
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Longest beach in Diu island at 7 km, golden sand, Arabian Sea, safest beach for swimming with gentle waves, Blue Flag Beach certification consideration, water sports - parasailing, jet-ski, banana boat rides, windsurfing, bumper rides, beach volleyball, shacks serving seafood and Gujarati snacks, beer available, sunset spectacular, horseback riding, less crowded pristine stretch, palm trees, casuarina groves, clean beach, lifeguard services, changing rooms, toilets, parking, free entry, family-friendly, romantic walks, photography, adjacent to Diu Airport runway end (unique plane spotting), 3 km from Diu town."
+  },
+  {
+    "name": "Nagoa Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Diu",
+    "coordinates": {
+      "lat": 20.7100,
+      "long": 70.9950
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Most popular and commercialized beach in Diu, horseshoe-shaped bay, 1 km golden sand, calm shallow waters ideal for swimming, hoka trees (palms) lining, beach resorts - Kostamar, Radhika, water sports hub - parasailing, jet-ski, banana boat, speed boat, zorbing, camel rides, beach volleyball, shacks with music, seafood restaurants, alcohol served, evening entertainment, illuminated, bustling atmosphere, families and youth crowds, budget accommodation nearby, Nagoa Church overlooking beach, photography, sunrise-sunset beautiful, lifeguards, changing facilities, 7 km from Diu Fort, weekend vibrant, party vibe, Diu's Goa alternative."
+  },
+  {
+    "name": "Diu Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Diu",
+    "coordinates": {
+      "lat": 20.7180,
+      "long": 70.9900
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Massive Portuguese fort built 1535-1541 on Arabian Sea coast, 5.6 hectares, strategic naval importance controlling Arabian Sea trade routes, double moat (one tidal), bastions, ramparts, lighthouse inside operational since 1864, Chapel of St. Paul (now museum), cannons from Portuguese era, underground ammunition storage, sea-facing walls, panoramic ocean views, sunset spectacular, ASI protected World Heritage tentative list, light and sound show (check schedule), fortification walls walk, Portuguese inscriptions, architectural marvel, photography paradise, best-preserved Portuguese fort in India, free entry, 2-hour exploration, connects maritime history, Battle of Diu (1509) site nearby."
+  },
+  {
+    "name": "Diu Lighthouse",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Diu",
+    "coordinates": {
+      "lat": 20.7185,
+      "long": 70.9910
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Active lighthouse inside Diu Fort compound, built 1864 by Portuguese, 28-meter high tower, 84 steps spiral staircase to top, operational beacon visible 13 nautical miles, panoramic 360-degree views of Diu island, Arabian Sea, Gujarat coast, fort ramparts, town rooftops, sunset-sunrise viewpoint, photography spot, maritime heritage, guided tours during specific hours (afternoon 4-6 PM), nominal entry fee, climbing allowed with permission, historical significance for navigation, white cylindrical tower with gallery, maintained by Indian Coast Guard, combine with Diu Fort visit, iconic landmark, painted red-white bands."
+  },
+  {
+    "name": "Daman Carnival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Daman",
+    "coordinates": {
+      "lat": 20.4170,
+      "long": 72.8490
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January"
+    ],
+    "description": "Annual beach carnival held late December-early January on Devka and Jampore beaches, 10-day festivities, Portuguese cultural influence celebrations, folk dances, music concerts, beach volleyball tournaments, sand sculpture competitions, water sports demonstrations, food festival with seafood specialties and Portuguese cuisine, liquor stalls, handicrafts exhibition, fireworks, New Year countdown at beach, DJ nights, celebrity performances, adventure sports, family entertainment zones, tourism promotion, attracts visitors from Gujarat and Maharashtra, illuminated beaches, carnival rides, games, stalls selling souvenirs, beach parties, vibrant atmosphere, government organized, free beach access."
+  },
+  {
+    "name": "Diu Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Diu",
+    "coordinates": {
+      "lat": 20.7180,
+      "long": 70.9900
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January"
+    ],
+    "description": "Week-long tourism festival in December at various venues including Nagoa Beach and Diu Fort, celebrates Portuguese-Indian cultural fusion, folk dances - Garba, Dandia, traditional Gujarati performances, music concerts, kite flying competitions, water sports events, adventure activities, food festival showcasing Gujarati, Portuguese, seafood cuisines, handicrafts bazaar, art exhibitions, heritage walks through colonial town, light and sound show at fort, beach parties, DJ nights, cultural programs, attracts domestic tourists, shopping stalls, promotes Diu tourism, fireworks display, New Year celebrations extend festival, alcohol served, vibrant nightlife, family-friendly day events."
+  },
+  {
+    "name": "Tithal Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Valsad",
+    "coordinates": {
+      "lat": 20.5900,
+      "long": 72.9340
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Black sand beach 24 km north of Daman in Valsad district Gujarat (administratively separate but culturally connected), Arabian Sea coastline, local favorite for weekends, swimming beach with gentle waves, Swaminarayan Temple (Tithal Bhagwan) nearby pilgrimage site, beach park with rides and attractions, food stalls serving chaat, bhajiya, seafood, horse and camel rides, sunset views, fishing boats, less commercialized natural beauty, peaceful compared to Daman beaches, family picnic spot, local Gujarati tourists predominant, budget destination, free entry, parking available, day trip from Daman, Parsi community visits, clean maintained by local municipality."
+  },
+  {
+    "name": "Moti Daman Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Daman and Diu",
+    "city": "Daman",
+    "coordinates": {
+      "lat": 20.4185,
+      "long": 72.8480
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Big Fort spanning 30,000 sq meters built 1559 by Portuguese, massive stone fortifications with 10 bastions including St. Jerome, St. Antony, St. Francis bastions, two ornate gates - Land Gate (north with Portuguese coat of arms) and Sea Gate (west towards Arabian Sea), defensive moat, Cathedral of Bom Jesus centerpiece, Chapel of Our Lady of Rosary ruins, old Portuguese Lighthouse 1866, administrative buildings, cannons positioned along ramparts, rampart walks offering Arabian Sea views, light and sound show evenings, ASI monument, Portuguese inscriptions, tombs, ruins exploration, architecture photography, sunset spectacular, free entry, combine with church visit, 450-year heritage preservation, strategic maritime fort."
+  }
+]

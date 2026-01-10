@@ -1,0 +1,625 @@
+[
+  {
+    "name": "Kedarnath Temple (Jyotirlinga)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Rudraprayag",
+    "coordinates": {
+      "lat": 30.7346,
+      "long": 79.0669
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "One of 12 Jyotirlingas, highest Shiva temple at 3,583m, Chota Char Dham pilgrimage site, trekking route from Gaurikund, Himalayan backdrop, 2013 flood survivor."
+  },
+  {
+    "name": "Badrinath Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "coordinates": {
+      "lat": 30.7433,
+      "long": 79.4938
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Char Dham pilgrimage site dedicated to Lord Vishnu, 3,133m altitude, Tapt Kund hot springs, Neelkanth Peak backdrop, Mana village (last Indian village near Tibet border)."
+  },
+  {
+    "name": "Gangotri Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Uttarkashi",
+    "coordinates": {
+      "lat": 30.9947,
+      "long": 78.9398
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Chota Char Dham site, origin of Ganges River from Gaumukh glacier, 3,100m altitude, 18th-century Ganga temple, Bhagirathi River, trekking to Gaumukh."
+  },
+  {
+    "name": "Yamunotri Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Uttarkashi",
+    "coordinates": {
+      "lat": 31.0140,
+      "long": 78.4600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Chota Char Dham site, source of Yamuna River at 3,293m, Surya Kund hot spring for cooking rice offerings, trekking route from Janki Chatti, Divya Shila rock worship."
+  },
+  {
+    "name": "Haridwar Ganga Ghats",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Haridwar",
+    "coordinates": {
+      "lat": 29.9457,
+      "long": 78.1642
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Where Ganges enters plains from Himalayas, Har Ki Pauri ghat with evening Ganga aarti, Kumbh Mela venue, Mansa Devi and Chandi Devi temples via cable car."
+  },
+  {
+    "name": "Rishikesh (Yoga Capital)",
+    "type": "Wellness / Yoga Retreats",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "coordinates": {
+      "lat": 30.0869,
+      "long": 78.2676
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Yoga capital of the world, ashrams, Beatles Ashram, Ganga aarti at Triveni Ghat, white water rafting, Laxman Jhula, Ram Jhula suspension bridges, adventure hub."
+  },
+  {
+    "name": "Laxman Jhula",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "coordinates": {
+      "lat": 30.1300,
+      "long": 78.3200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Iconic 450-foot suspension bridge over Ganges, mythological connection to Laxman, pedestrian bridge linking Tapovan to Jonk, surrounded by temples and ashrams."
+  },
+  {
+    "name": "Nainital Lake",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Nainital",
+    "coordinates": {
+      "lat": 29.3803,
+      "long": 79.4636
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Kidney-shaped lake at 2,084m, boating, Mall Road, Naina Devi Temple, Snow View Point via ropeway, Tiffin Top, colonial hill station charm, Kumaon hills."
+  },
+  {
+    "name": "Mussoorie",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "coordinates": {
+      "lat": 30.4598,
+      "long": 78.0644
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Queen of Hills at 2,005m, Mall Road, Kempty Falls, Gun Hill viewpoint via cable car, Lal Tibba highest point, colonial architecture, Himalayan views."
+  },
+  {
+    "name": "Auli",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "coordinates": {
+      "lat": 30.5290,
+      "long": 79.5670
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Premier ski destination at 2,500-3,050m, skiing slopes, cable car (Asia's longest), Nanda Devi and Mana Parbat views, artificial lake, adventure sports, winter paradise."
+  },
+  {
+    "name": "Valley of Flowers National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "coordinates": {
+      "lat": 30.7280,
+      "long": 79.6050
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "UNESCO World Heritage Site, alpine flower meadows at 3,658m, 500+ species of flowers including rare Brahma Kamal, snow leopards, Asiatic black bears, trekking paradise."
+  },
+  {
+    "name": "Hemkund Sahib",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "coordinates": {
+      "lat": 30.7100,
+      "long": 79.6100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Sacred Sikh shrine at 4,632m beside glacial lake, seven-peaked mountain setting, Guru Gobind Singh meditation site, Lakshman Temple nearby, challenging trek from Govindghat."
+  },
+  {
+    "name": "Jim Corbett National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Nainital",
+    "coordinates": {
+      "lat": 29.5300,
+      "long": 78.7740
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "description": "India's oldest national park and Project Tiger reserve (1936), Bengal tigers, elephants, 580+ bird species, Dhikala zone, Ramganga River, diverse ecosystems, safari zones."
+  },
+  {
+    "name": "Rajaji National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Haridwar",
+    "coordinates": {
+      "lat": 29.5160,
+      "long": 78.1040
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "description": "820 sq km park at Himalayan foothills, elephants, tigers, leopards, 400+ bird species, Chilla, Motichur, and Rajaji zones, Ganges and Song rivers, sal forests."
+  },
+  {
+    "name": "Chopta (Mini Switzerland)",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Rudraprayag",
+    "coordinates": {
+      "lat": 30.4900,
+      "long": 79.2100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Untouched meadows at 2,680m, base for Tungnath-Chandrashila trek, camping, birdwatching, rhododendron forests, Himalayan panoramas, serene offbeat destination."
+  },
+  {
+    "name": "Tungnath Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Rudraprayag",
+    "coordinates": {
+      "lat": 30.4894,
+      "long": 79.2160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "World's highest Shiva temple at 3,680m, Panch Kedar pilgrimage site, 3.5 km trek from Chopta, 1,000-year-old temple, Nanda Devi and Chaukhamba peaks views."
+  },
+  {
+    "name": "Chandrashila Trek",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Rudraprayag",
+    "coordinates": {
+      "lat": 30.4890,
+      "long": 79.2170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Summit at 4,000m beyond Tungnath, 360-degree Himalayan views of Nanda Devi, Trishul, Chaukhamba peaks, moderate trek, mythological significance where Rama meditated."
+  },
+  {
+    "name": "Pithoragarh",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Pithoragarh",
+    "coordinates": {
+      "lat": 29.5830,
+      "long": 80.2180
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Little Kashmir, Soar Valley at 1,645m, Pithoragarh Fort, gateway to Kailash Mansarovar, Panchachuli peaks views, Askot Wildlife Sanctuary, remote Himalayan charm."
+  },
+  {
+    "name": "Binsar Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Almora",
+    "coordinates": {
+      "lat": 29.6830,
+      "long": 79.7670
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "October",
+      "November"
+    ],
+    "description": "47 sq km sanctuary at 2,420m, 200+ bird species, leopards, Himalayan bears, oak and rhododendron forests, Zero Point with 300 km Himalayan panorama, eco-tourism."
+  },
+  {
+    "name": "Almora",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Almora",
+    "coordinates": {
+      "lat": 29.5892,
+      "long": 79.6467
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "October",
+      "November"
+    ],
+    "description": "Cultural capital of Kumaon at 1,638m, Chand dynasty heritage, Nanda Devi Temple, Kasar Devi, Bright End Corner sunset point, traditional bazaars, copper handicrafts."
+  },
+  {
+    "name": "Jageshwar Dham",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Almora",
+    "coordinates": {
+      "lat": 29.6390,
+      "long": 79.7480
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "October",
+      "November"
+    ],
+    "description": "124 ancient Shiva temples in deodar forest from 9th-13th centuries, one of 12 Jyotirlinga candidates, Nagesh Jyotirlinga, archaeological site, tranquil spiritual atmosphere."
+  },
+  {
+    "name": "Tehri Lake",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Tehri Garhwal",
+    "coordinates": {
+      "lat": 30.3750,
+      "long": 78.4800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "description": "Asia's highest dam reservoir at 830m, water sports including jet skiing, banana boat, kayaking, camping, Himalayan backdrop, created by Tehri Dam on Bhagirathi River."
+  },
+  {
+    "name": "Kausani",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Bageshwar",
+    "coordinates": {
+      "lat": 29.8430,
+      "long": 79.6030
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "October",
+      "November"
+    ],
+    "description": "Switzerland of India at 1,890m, 300 km panoramic view of Nanda Devi, Trishul, Panchachuli peaks, Anasakti Ashram (Mahatma Gandhi stayed), tea gardens, sunrise views."
+  },
+  {
+    "name": "Char Dham Yatra (Route)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 30.0000,
+      "long": 79.0000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Sacred Chota Char Dham circuit covering Yamunotri, Gangotri, Kedarnath, Badrinath, Hindu pilgrimage journey through Himalayas, spiritual significance, challenging mountain routes."
+  }
+]

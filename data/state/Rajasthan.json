@@ -1,0 +1,723 @@
+[
+  {
+    "name": "Amer Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.9855,
+      "long": 75.8513
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, magnificent Rajput fort with Sheesh Mahal (Mirror Palace), elephant rides, light & sound show, blend of Hindu-Mughal architecture."
+  },
+  {
+    "name": "Jantar Mantar, Jaipur",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.9248,
+      "long": 75.8243
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, 18th-century astronomical observatory by Maharaja Sawai Jai Singh II, world's largest stone sundial (Samrat Yantra), 19 instruments."
+  },
+  {
+    "name": "Jaipur City (Pink City)",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.9124,
+      "long": 75.7873
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage City, planned Pink City with Hawa Mahal, City Palace, Jantar Mantar, vibrant bazaars, Rajasthani cuisine, gem & jewelry markets."
+  },
+  {
+    "name": "Hawa Mahal",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.9239,
+      "long": 75.8267
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Palace of Winds, iconic 5-story facade with 953 jharokhas (windows), built for royal women to observe street life, unique honeycomb architecture."
+  },
+  {
+    "name": "City Palace, Jaipur",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.9255,
+      "long": 75.8236
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Royal residence blend of Rajput, Mughal, European architecture, Chandra Mahal, Mubarak Mahal, museums with textiles, arms, royal artifacts."
+  },
+  {
+    "name": "Mehrangarh Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "coordinates": {
+      "lat": 26.2986,
+      "long": 73.0180
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of India's largest forts on 125m hill, intricate lattice windows, palaces with mirror work, museum with palanquins, weapons, paintings, panoramic Blue City views."
+  },
+  {
+    "name": "Umaid Bhawan Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "coordinates": {
+      "lat": 26.2810,
+      "long": 73.0489
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Last great palace of India (1943), Art Deco architecture, 347 rooms, now luxury hotel & museum, royal family residence, vintage car collection."
+  },
+  {
+    "name": "Jaisalmer Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaisalmer",
+    "coordinates": {
+      "lat": 26.9124,
+      "long": 70.9124
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, Golden Fort, one of world's few living forts with residents, yellow sandstone, Jain temples, havelis, desert views."
+  },
+  {
+    "name": "Patwon Ki Haveli",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaisalmer",
+    "coordinates": {
+      "lat": 26.9157,
+      "long": 70.9083
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest haveli complex in Jaisalmer, five-story elaborate yellow sandstone, intricate carvings, jharokhas, 60 balconies, merchant family residence."
+  },
+  {
+    "name": "Sam Sand Dunes",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaisalmer",
+    "coordinates": {
+      "lat": 26.8850,
+      "long": 70.6100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Thar Desert sand dunes 40km from Jaisalmer, camel safaris, desert camping, cultural programs, jeep rides, spectacular sunsets over golden sands."
+  },
+  {
+    "name": "Lake Pichola",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "coordinates": {
+      "lat": 24.5760,
+      "long": 73.6820
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Artificial lake with Lake Palace (luxury hotel), Jag Mandir palace, boat rides, sunset views, City Palace backdrop, romantic Udaipur setting."
+  },
+  {
+    "name": "City Palace, Udaipur",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "coordinates": {
+      "lat": 24.5768,
+      "long": 73.6833
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Magnificent palace complex on Lake Pichola banks, 11 palaces built over 400 years, museums, courtyards, paintings, crystal gallery, panoramic lake views."
+  },
+  {
+    "name": "Sajjangarh (Monsoon Palace)",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "coordinates": {
+      "lat": 24.6080,
+      "long": 73.6890
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Hilltop palace overlooking Fateh Sagar Lake, built to watch monsoon clouds, 360-degree views of Udaipur city, lakes, Aravalli hills, sunset viewpoint."
+  },
+  {
+    "name": "Ranthambore National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Sawai Madhopur",
+    "coordinates": {
+      "lat": 26.0173,
+      "long": 76.5026
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Premier tiger reserve with Ranthambore Fort, high tiger sighting probability, leopards, sloth bears, crocodiles, historic temples, safari zones."
+  },
+  {
+    "name": "Keoladeo National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Bharatpur",
+    "coordinates": {
+      "lat": 27.1595,
+      "long": 77.5230
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, Bharatpur Bird Sanctuary, 370+ bird species, migratory Siberian cranes (historically), wetland ecosystem, cycling trails."
+  },
+  {
+    "name": "Sariska Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Alwar",
+    "coordinates": {
+      "lat": 27.3280,
+      "long": 76.4330
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Tiger reserve in Aravalli hills, leopards, wild boars, sambars, Kankwari Fort, Pandupol Temple, Siliserh Lake, successful tiger reintroduction project."
+  },
+  {
+    "name": "Pushkar Lake",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "coordinates": {
+      "lat": 26.4899,
+      "long": 74.5511
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred lake with 52 ghats, pilgrimage site for Kartik Purnima, holy dip, aarti ceremonies, surrounded by temples, serene spiritual atmosphere."
+  },
+  {
+    "name": "Brahma Temple, Pushkar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "coordinates": {
+      "lat": 26.4895,
+      "long": 74.5510
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of world's few temples dedicated to Lord Brahma, 14th-century temple with four-faced idol, marble floors, silver turtle on entrance, Pushkar Lake views."
+  },
+  {
+    "name": "Ajmer Sharif Dargah",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "coordinates": {
+      "lat": 26.4499,
+      "long": 74.6399
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sufi shrine of Moinuddin Chishti, visited by people of all faiths, qawwali music, Urs festival, Mughal gates (Nizam Gate), spiritual center since 13th century."
+  },
+  {
+    "name": "Mount Abu",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Sirohi",
+    "coordinates": {
+      "lat": 24.5926,
+      "long": 72.7156
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Rajasthan's only hill station, Nakki Lake, Guru Shikhar peak (1,722m), sunset point, Toad Rock, cool climate, Dilwara Jain Temples, Aravalli range."
+  },
+  {
+    "name": "Dilwara Temples",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Sirohi",
+    "coordinates": {
+      "lat": 24.5930,
+      "long": 72.7160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "11th-15th century Jain temples, world-famous intricate marble carvings, Vimal Vasahi and Luna Vasahi temples, architectural masterpiece, spiritual tranquility."
+  },
+  {
+    "name": "Chittorgarh Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Chittorgarh",
+    "coordinates": {
+      "lat": 24.8887,
+      "long": 74.6269
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, largest fort in India (700 acres), Vijay Stambh (Victory Tower), Rani Padmini's Palace, Gaumukh Reservoir, Rajput valor symbol."
+  },
+  {
+    "name": "Kumbhalgarh Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Rajsamand",
+    "coordinates": {
+      "lat": 25.1470,
+      "long": 73.5860
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, birthplace of Maharana Pratap, 36km wall (second longest after Great Wall of China), 360 temples, light & sound show, Aravalli views."
+  },
+  {
+    "name": "Bikaner Junagarh Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Bikaner",
+    "coordinates": {
+      "lat": 28.0229,
+      "long": 73.3170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "16th-century fort never conquered in battle, 986m long wall, palaces with mirror work, gold leaf paintings, museums, Anup Mahal, Karan Mahal."
+  },
+  {
+    "name": "Tal Chhapar Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Churu",
+    "coordinates": {
+      "lat": 27.8330,
+      "long": 74.3950
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Blackbuck sanctuary in Shekhawati region, semi-arid grassland ecosystem, desert foxes, harriers, open landscape perfect for wildlife photography."
+  },
+  {
+    "name": "Kalbeliya Dance Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaisalmer",
+    "coordinates": {
+      "lat": 26.9000,
+      "long": 70.9000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Traditional Kalbeliya gypsy community, UNESCO Intangible Cultural Heritage dance form, snake charmer culture, folk music, vibrant costumes, cultural experiences."
+  },
+  {
+    "name": "Pushkar Camel Fair",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "coordinates": {
+      "lat": 26.4899,
+      "long": 74.5511
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November"
+    ],
+    "description": "World's largest camel fair during Kartik Purnima, livestock trading, camel races, cultural events, folk performances, hot air ballooning, spiritual gatherings."
+  },
+  {
+    "name": "Desert Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaisalmer",
+    "coordinates": {
+      "lat": 26.9157,
+      "long": 70.9083
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February"
+    ],
+    "description": "Annual cultural festival showcasing Rajasthani folk culture, camel races, turban tying competitions, folk music & dance, Mr. Desert competition, Sam Sand Dunes events."
+  }
+]

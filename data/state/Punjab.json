@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Golden Temple (Harmandir Sahib)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Amritsar",
+    "coordinates": {
+      "lat": 31.6200,
+      "long": 74.8765
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Holiest Sikh shrine with gold-plated sanctum, Sarovar (holy pool), 24/7 open for worship, community kitchen (langar) serving 100,000+ daily, spiritual and architectural marvel."
+  },
+  {
+    "name": "Jallianwala Bagh",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Amritsar",
+    "coordinates": {
+      "lat": 31.6110,
+      "long": 74.8730
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Memorial site of 1919 Jallianwala Bagh massacre, preserved bullet marks on walls, martyrs' well, eternal flame, museum depicting British colonial atrocities, independence movement history."
+  },
+  {
+    "name": "Wagah Border",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Amritsar",
+    "coordinates": {
+      "lat": 31.6170,
+      "long": 74.8100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "India-Pakistan border with daily Beating Retreat ceremony, synchronized military drill, flag-lowering ceremony, patriotic atmosphere, spectator galleries, unique Indo-Pak tradition since 1959."
+  },
+  {
+    "name": "Anandpur Sahib",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Rupnagar",
+    "coordinates": {
+      "lat": 31.2200,
+      "long": 76.5000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "City of Bliss where Khalsa was founded by Guru Gobind Singh in 1699, multiple gurudwaras, Kesgarh Sahib, Hola Mohalla festival, Virasat-e-Khalsa museum, Sikh pilgrimage center."
+  },
+  {
+    "name": "Virasat-e-Khalsa Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Anandpur Sahib",
+    "coordinates": {
+      "lat": 31.2180,
+      "long": 76.5230
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "State-of-the-art museum showcasing 500 years of Sikh history and culture, interactive exhibits, multimedia displays, architectural marvel by Moshe Safdie, 300th anniversary of Khalsa commemoration."
+  },
+  {
+    "name": "Bathinda Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Bathinda",
+    "coordinates": {
+      "lat": 30.2115,
+      "long": 74.9458
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Qila Mubarak, one of India's oldest surviving forts (1000-1700 years old), where Razia Sultana was imprisoned, Sikh heritage, Guru Gobind Singh visited, ancient brick structure."
+  },
+  {
+    "name": "Sheesh Mahal, Patiala",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Patiala",
+    "coordinates": {
+      "lat": 30.3285,
+      "long": 76.3980
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Palace of Mirrors within Qila Mubarak complex, museum with miniature paintings, arms collection, coins, medals, Patiala royal artifacts, Mughal and Rajput art, 19th-century architecture."
+  },
+  {
+    "name": "Qila Mubarak, Patiala",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Patiala",
+    "coordinates": {
+      "lat": 30.3270,
+      "long": 76.4000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Patiala royal fort complex founded 1763, multiple palaces including Sheesh Mahal, Darbar Hall, museum, royal architecture, Sikh heritage, UNESCO tentative list for World Heritage Site."
+  },
+  {
+    "name": "Kila Raipur Rural Olympics",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Ludhiana",
+    "coordinates": {
+      "lat": 30.8142,
+      "long": 75.8030
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February",
+      "March"
+    ],
+    "description": "Rural Olympics since 1933, traditional Punjabi sports including bullock cart races, tractor races, kabaddi, horse riding stunts, showcasing rural Punjab culture and strength."
+  },
+  {
+    "name": "Sukhna Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7333,
+      "long": 76.7794
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Artificial reservoir at Shivalik foothills, boating, water sports, walking track, bird watching, migratory birds in winter, Asian Rowing Championships venue, Le Corbusier's vision."
+  },
+  {
+    "name": "Rock Garden",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7370,
+      "long": 76.7800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Nek Chand's sculpture garden created from industrial and urban waste, 40-acre open-air exhibition with thousands of sculptures, waterfalls, unique art installation, recycled art masterpiece."
+  },
+  {
+    "name": "Pul Kanjari",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Amritsar",
+    "coordinates": {
+      "lat": 31.6180,
+      "long": 74.8380
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Historical site built by Maharaja Ranjit Singh for Moran, his Muslim wife, serene baoli (stepwell), gurudwara, temples, mosques, picnic spot, architectural heritage."
+  },
+  {
+    "name": "Ram Tirth",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Pathankot",
+    "coordinates": {
+      "lat": 32.2700,
+      "long": 75.6500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Legendary birthplace of Luv and Kush (sons of Lord Rama), associated with Valmiki Ashram, holy tank, temple complex, annual fair, Ramayana connection, pilgrimage site."
+  },
+  {
+    "name": "Talwandi Sabo",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Bathinda",
+    "coordinates": {
+      "lat": 30.2090,
+      "long": 75.0250
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Damdama Sahib, one of five Takhts of Sikhism, where Guru Gobind Singh compiled final version of Guru Granth Sahib in 1705, significant Sikh heritage, gurudwara complex."
+  },
+  {
+    "name": "Kanjli Wetland",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Kapurthala",
+    "coordinates": {
+      "lat": 31.2640,
+      "long": 75.3640
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Man-made wetland and bird sanctuary, 150+ bird species, migratory waterfowl, boating, eco-tourism, Ramsar site nomination, birdwatching paradise, winter migratory birds."
+  },
+  {
+    "name": "Phillaur Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Jalandhar",
+    "coordinates": {
+      "lat": 31.0140,
+      "long": 75.7820
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "19th-century fort built by Maharaja Ranjit Singh on Sutlej River banks, British-era police training center, historical significance, architectural heritage, red brick structure."
+  },
+  {
+    "name": "Harike Wetland & Bird Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Ferozepur",
+    "coordinates": {
+      "lat": 31.2860,
+      "long": 74.9560
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest wetland in northern India, Ramsar site, confluence of Sutlej and Beas rivers, 300+ bird species, migratory Siberian birds, boat safari, eco-tourism, biodiversity hotspot."
+  },
+  {
+    "name": "Hoshiarpur Cultural Hubs",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Hoshiarpur",
+    "coordinates": {
+      "lat": 31.5320,
+      "long": 75.9110
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Birthplace of Punjabi cinema, wood carving craftsmanship, inlay work tradition, Shivalik hills foothills, Kamahi Devi temple, Takhni-Rehampur Wildlife Sanctuary, cultural heritage."
+  },
+  {
+    "name": "Ranjit Sagar Dam",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Gurdaspur",
+    "coordinates": {
+      "lat": 32.3430,
+      "long": 75.0050
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Thein Dam on Ravi River, vast reservoir surrounded by hills, water sports, boating, fishing, picnic spot, scenic beauty, hydroelectric project, tourist destination."
+  },
+  {
+    "name": "Punjab Heritage & Folk Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Ludhiana",
+    "coordinates": {
+      "lat": 30.9010,
+      "long": 75.8570
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Annual cultural festival celebrating Punjabi heritage, traditional folk music and dance (Bhangra, Giddha), handicrafts, cuisine, rural sports, showcasing Punjab's vibrant culture."
+  }
+]

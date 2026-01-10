@@ -1,0 +1,661 @@
+[
+  {
+    "name": "Shillong",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.5788,
+      "long": 91.8933
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Scotland of East, Meghalaya's capital at 1496m altitude, colonial charm with British-era architecture, Police Bazar shopping hub, Don Bosco Museum Asia's largest indigenous cultures museum, Cathedral Catholic Church, Lady Hydari Park, vibrant music scene (Rock Capital of India), pleasant year-round climate, base for exploring Meghalaya."
+  },
+  {
+    "name": "Elephant Falls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.5790,
+      "long": 91.8950
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Three-tiered waterfall cascading through fern-covered rocks, named by British after elephant-shaped rock (destroyed in 1897 earthquake), locally Ka Kshaid Lai Pateng Khohsiew, 12km from Shillong, well-maintained stairs and viewpoints, monsoon spectacular flow, lush surroundings, popular tourist spot, photography paradise."
+  },
+  {
+    "name": "Shillong Peak",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.6065,
+      "long": 91.8800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Highest point in Shillong at 1965m, panoramic 360-degree views of Shillong city, Himalayas visible on clear days, Bangladesh plains, Air Force radar station, U Lum Sohpetbneng peak sacred to Khasis, trekking trails, sunrise-sunset viewpoint, 10km from city center, hilltop temple."
+  },
+  {
+    "name": "Ward's Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.5780,
+      "long": 91.8900
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Horseshoe-shaped artificial lake built 1894 by Chief Commissioner William Ward, wooden bridges, lush gardens, boating facilities, cobblestone walkway, ornamental fishes, children's play area, joggers' track, Shillong's romantic spot, heart of city, colonial heritage, peaceful retreat."
+  },
+  {
+    "name": "Laitlum Canyons",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.6490,
+      "long": 91.8290
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "End of Hills in Khasi language, dramatic canyon landscapes with amphitheater-like valley views, rolling hills, mist-covered peaks, Grand Canyon of East India, 45km from Shillong, offbeat destination, trekking, camping, photography paradise, Sylhet Bangladesh views, sunrise-sunset spectacular, relatively less crowded."
+  },
+  {
+    "name": "Mawsynram Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.2980,
+      "long": 91.5820
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Wettest place on Earth with 11,872mm average annual rainfall, Guinness World Record holder, stalagmite shaped like Shiva Linga in Mawjymbuin Cave, locals use knup (full-body bamboo umbrella), traditional Khasi culture, betel nut farming, unique monsoon experience, 60km from Shillong, village homestays."
+  },
+  {
+    "name": "Cherrapunji (Sohra)",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.2780,
+      "long": 91.7110
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Second wettest place on Earth, former capital of Meghalaya, Land of Oranges, multiple waterfalls (Seven Sisters Falls, Nohkalikai, Dain Thlen), living root bridges, Mawsmai Cave, Eco Park with valley views, double-decker root bridge trek, biodiversity hotspot, 54km from Shillong, eco-tourism hub, orange honey famous."
+  },
+  {
+    "name": "Nohkalikai Falls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.2920,
+      "long": 91.7130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "India's tallest plunge waterfall at 1115 feet (340m), fourth highest in world, tragic legend of Likai woman jumping to death (hence name Jump of Ka Likai), turquoise green lagoon at base, viewpoint platform, monsoon thunderous flow, surrounded by cliffs, near Cherrapunji, breathtaking sight, must-visit Meghalaya landmark."
+  },
+  {
+    "name": "Mawlynnong Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.2000,
+      "long": 91.7210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Asia's cleanest village and God's Own Garden, winner Discover India Magazine 2003, 100% literacy, matrilineal Khasi society, bamboo dustbins, pebble-paved paths, living root bridge (100+ years old), Sky View tree house (85 feet bamboo watchtower with Bangladesh plains view), sustainable tourism model, homestays, organic farming, 90km from Shillong."
+  },
+  {
+    "name": "Dawki River",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "West Jaintia Hills",
+    "coordinates": {
+      "lat": 25.2930,
+      "long": 92.0320
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Crystal clear turquoise waters of Umngot River at Dawki, boats appear floating on air, India-Bangladesh border town, international trade hub, suspension bridge, snorkeling, cliff diving, boating, kayaking, Jaintia tribal culture, limestone quarries, 96km from Shillong, winter water clarity spectacular, popular photography spot."
+  },
+  {
+    "name": "Umngot River",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "West Jaintia Hills",
+    "coordinates": {
+      "lat": 25.2900,
+      "long": 92.0340
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Considered Asia's cleanest river with visibility up to riverbed, flows through Dawki into Bangladesh as Piyain River, boating (traditional boats and speedboats), water sports, scuba diving, river camping, Shnongpdeng village activities, cliff jumping, zip-lining, Dawki Bridge over it, winter best clarity, tourism hotspot."
+  },
+  {
+    "name": "Balpakram National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "South Garo Hills",
+    "coordinates": {
+      "lat": 25.3320,
+      "long": 90.1650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "220 sq km Land of Spirits (Garo belief souls rest here before final abode), canyon landscapes resembling Grand Canyon, red pandas, elephants, leopards, tigers, barking deer, 150+ bird species, carnivorous plants (pitcher plants), Siju limestone caves, Baghmara gorge, Rongrenggiri Peak (1732m), biodiversity hotspot, 167km from Tura."
+  },
+  {
+    "name": "Nokrek National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "West Garo Hills",
+    "coordinates": {
+      "lat": 25.5620,
+      "long": 90.4400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "47.48 sq km, UNESCO Biosphere Reserve since 2009, gene sanctuary for rare Citrus indica (wild orange ancestor), Nokrek Peak (1412m), elephants, tigers, leopards, red pandas, hoolock gibbons, 250+ bird species, carnivorous plants, trekking, Garo tribal culture, pristine forests, scientific research zone, 45km from Tura."
+  },
+  {
+    "name": "Siju Cave",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "South Garo Hills",
+    "coordinates": {
+      "lat": 25.1290,
+      "long": 90.2070
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Third longest cave system in Indian subcontinent, Dobakkol Cave or Bat Cave, limestone formations with stalactites and stalagmites, subterranean Simsang River passage, million bat colonies, cave swiftlets, speleothem formations, adventure caving, limited access areas, Garo Hills mystery, near Balpakram National Park, guided tours only, unique ecosystem."
+  },
+  {
+    "name": "Dawki Bridge",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "West Jaintia Hills",
+    "coordinates": {
+      "lat": 25.2930,
+      "long": 92.0350
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Suspension bridge over crystal clear Umngot River, India-Bangladesh border gateway (Tamabil checkpoint 2km away), international trade passage, iconic photography spot with boats visible to riverbed, views of surrounding hills, walking across bridge experience, congested during festivals (Kiang Nangbah festival April), scenic approach road, engineering marvel built 1932."
+  },
+  {
+    "name": "Nartiang Monoliths",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "Jaintia Hills",
+    "coordinates": {
+      "lat": 25.2220,
+      "long": 92.0050
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Largest collection of megalithic stones in India, tallest monolith menhir (standing stone) 25 feet, dolmens (table stones), erected by legendary Jaintia warrior Mar Phalyngki and War chiefs as headhunting victory trophies, Durga temple site, summer capital of Jaintia kings, archaeological importance, megalithic culture evidence, 65km from Shillong, spiritual aura."
+  },
+  {
+    "name": "Jowai",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "West Jaintia Hills",
+    "coordinates": {
+      "lat": 25.3080,
+      "long": 92.0300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Headquarters of West Jaintia Hills, gateway to Dawki and Bangladesh border, Jaintia tribal culture hub, Thadlaskein Lake (Sajer Nangli), Lalong Park memorial, Nartiang and Nongkhlieh sacred forests, Tyrshi Falls, limestone quarries, pineapple and areca nut cultivation, Behdienkhlam Festival (July monsoon festival with log beating), betel leaf market, 64km from Shillong."
+  },
+  {
+    "name": "Shillong Golf Course",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.5870,
+      "long": 91.8900
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "One of Asia's oldest and finest natural golf courses, established 1898 by British, 18-hole championship course, natural undulating terrain at 1500m altitude, pine and rhododendron surroundings, European feel, challenging layout, colonial clubhouse, tournaments venue, membership and green fees available, located in heart of Shillong city, golfers' paradise."
+  },
+  {
+    "name": "Mawphlang Sacred Forest",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.6550,
+      "long": 91.8440
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "800+ year old sacred grove protected by Khasi tribe under customary law, Law Kyntang (forbidden forest), 78 hectares biodiversity hotspot with 1000+ plant species, orchids, medicinal plants, carnivorous pitcher plants, ancient trees, monoliths, ritual site, guided walks only, no removal of anything allowed (not even fallen leaf), Khasi traditional ecological knowledge system, 25km from Shillong."
+  },
+  {
+    "name": "Khasi Cultural Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.5790,
+      "long": 91.8880
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Don Bosco Museum complex, largest indigenous cultures museum in Asia, seven-story building showcasing 17 indigenous cultures of Northeast India, Khasi matrilineal society exhibits, traditional attire, musical instruments, tribal artifacts, monolith models, architecture, skywalk with panoramic Shillong views, galleries on rituals, festivals, handicrafts, educational resource."
+  },
+  {
+    "name": "Shillong Autumn Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.5788,
+      "long": 91.8933
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October"
+    ],
+    "description": "Annual cultural extravaganza held October, showcasing Meghalaya's diversity, traditional Khasi-Garo-Jaintia dances and music, rock bands (Rock Capital of India), fashion shows, wine festival, flower shows, ethnic food stalls, handicrafts exhibition, literary events, adventure sports, tourism promotion, Miss Shillong contest, attracts domestic and international tourists."
+  },
+  {
+    "name": "Wangala Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "South Garo Hills",
+    "coordinates": {
+      "lat": 25.3320,
+      "long": 90.1650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December"
+    ],
+    "description": "100 Drums Wangala Festival, Garo tribe's harvest thanksgiving to Misi Saljong (Sun God), celebrated November-December post-harvest, hundreds of drummers in traditional costume (dakmanda, nakka), warrior dances with swords and shields, Garo folk music, beauty pageants, sports, handicrafts, rice beer brewing competition, held at Asanang near Tura, cultural immersion, unique tribal experience."
+  },
+  {
+    "name": "Cherry Blossom Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.5788,
+      "long": 91.8933
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "February",
+      "March"
+    ],
+    "description": "India's first-ever cherry blossom festival since 2016, Shillong transforms into pink paradise during Himalayan cherry (Prunus cerasoides) bloom, Ward's Lake and Polo Grounds main venues, Japanese cultural connect, Ikebana exhibitions, rock concerts, beauty pageants, fashion shows, adventure sports, wine and food festival, tourism boost, Asia's shortest cherry blossom festival coinciding with actual bloom."
+  },
+  {
+    "name": "Double Decker Living Root Bridge",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "East Khasi Hills",
+    "coordinates": {
+      "lat": 25.2940,
+      "long": 91.7110
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "180-year-old bioengineering marvel in Nongriat village, two-tiered bridge from Ficus elastica roots grown and trained by Khasi War tribe, takes 15-20 years to grow, world's only double-decker living root bridge, 3000 steps descent and ascent (2500 stairs), 3km trek from Tyrna village, rainbow falls nearby, can hold 50 people, UNESCO tentative list, sustainable architecture, trek challenge."
+  },
+  {
+    "name": "Umshyrpi",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Meghalaya",
+    "city": "West Khasi Hills",
+    "coordinates": {
+      "lat": 25.5000,
+      "long": 91.8000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Traditional Khasi village showcasing authentic tribal lifestyle, homestays with local families, matrilineal society experience, traditional Khasi cuisine (Jadoh, Dohneiiong, Tungrymbai), betel nut cultivation, handloom weaving demonstrations, village walks, community interactions, organic farming, sacred groves, Ka Pomblang festival participation, offbeat cultural tourism, sustainable livelihoods."
+  }
+]

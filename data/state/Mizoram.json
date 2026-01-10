@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Aizawl",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7271,
+      "long": 92.7176
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Capital of Mizoram perched on ridges at 1132m altitude, vibrant Mizo culture hub, steep streets and staircases, Bawngkawn and Bara Bazar markets, Solomon's Temple, State Museum, Mizoram Presbyterian Church Synod Headquarters, scenic viewpoints, clean and peaceful city."
+  },
+  {
+    "name": "Durtlang Hills",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7540,
+      "long": 92.7150
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Picturesque hill station 5km from Aizawl, panoramic views of Aizawl city and surrounding valleys, sunrise-sunset viewpoint, migratory birds, pine forests, trekking trails, picnic spot, rock formations, peaceful environment, photography destination."
+  },
+  {
+    "name": "Solomon's Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7260,
+      "long": 92.7170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Unique pentagonal structure built by Kohhran Thianghlim sect, replica of Jerusalem's Solomon Temple, 130 feet tall with 5 towers, Biblical architecture, beautiful stained glass windows, panoramic city views, night illumination, peaceful prayer hall, architectural landmark."
+  },
+  {
+    "name": "Vantawng Falls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Champhai",
+    "coordinates": {
+      "lat": 23.4010,
+      "long": 92.8410
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mizoram's highest and most spectacular waterfall at 750 feet, 137km from Aizawl near Thenzawl, plunges into dense forested valley, swimming pool at base, viewpoint, featured on ₹5 stamp, monsoon spectacular, trekking access, natural beauty, photography paradise."
+  },
+  {
+    "name": "Reiek Heritage Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7100,
+      "long": 92.7500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Traditional Mizo cultural village at 1465m, 29km from Aizawl, showcases authentic tribal lifestyle, traditional bamboo huts, cultural performances, handicrafts, trekking to Reiek Peak summit (1548m), panoramic views, adventure activities, camping, Mizo heritage preservation."
+  },
+  {
+    "name": "Dampa Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Mamit",
+    "coordinates": {
+      "lat": 23.6480,
+      "long": 92.6000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "500 sq km Project Tiger reserve, tropical forests, elephants, tigers, leopards, clouded leopards, hoolock gibbons, hornbills, 150+ bird species, Mizoram-Bangladesh border, jungle trails, elephant sightings common, biodiversity hotspot, limited infrastructure."
+  },
+  {
+    "name": "Tuirial Falls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Kolasib",
+    "coordinates": {
+      "lat": 24.0100,
+      "long": 92.8300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic waterfall on Tuirial River, multi-tiered cascades, swimming pools at different levels, picnic spot, lush green surroundings, bamboo forests, monsoon best for water volume, trekking trails, camping, photography, relatively less crowded."
+  },
+  {
+    "name": "Phawngpui Peak (Blue Mountain)",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Lawngtlai",
+    "coordinates": {
+      "lat": 22.6410,
+      "long": 92.9660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mizoram's highest peak at 2157m, Blue Mountain in Phawngpui National Park, endemic orchids (Mizo zirzira - Coelogyne ovalis), rhododendrons, clouded leopards, mountain goats, panoramic views to Bangladesh, temperate climate, 300km from Aizawl, trekking destination."
+  },
+  {
+    "name": "Palak Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Saiha",
+    "coordinates": {
+      "lat": 22.4600,
+      "long": 92.8300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mizoram's largest lake formed by landslide, 30 hectares, mystical beauty with submerged forests visible underwater, boating, kayaking, fishing, migratory birds, Mara tribal legends, eco-tourism, homestays in Phura village, 360km from Aizawl, offbeat destination."
+  },
+  {
+    "name": "Tamdil Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Serchhip",
+    "coordinates": {
+      "lat": 23.0500,
+      "long": 92.8500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Natural lake meaning Lake of Mustard, alligator-shaped water body, boating, paddle boats, water sports, Mizoram Tourism resort, gardens, children's park, scenic picnic spot, 85km from Aizawl, serene environment, legend of two lovers."
+  },
+  {
+    "name": "Lengteng Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Champhai",
+    "coordinates": {
+      "lat": 23.5000,
+      "long": 93.0000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "60 sq km sanctuary near Myanmar border, tropical forests, hoolock gibbons, capped langurs, barking deer, wild boar, hornbills, pheasants, trekking trails, birdwatching, pristine ecosystem, limited tourist infrastructure, research zone."
+  },
+  {
+    "name": "Lunglei",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Lunglei",
+    "coordinates": {
+      "lat": 22.9090,
+      "long": 92.7190
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mizoram's second-largest city meaning Bridge of Rock, 165km south of Aizawl, natural rock bridge, Khawnglung Wildlife Sanctuary nearby, traditional Mizo culture, handicrafts, Nghasih stream, Zobawk Sports Academy, trade hub, scenic surroundings."
+  },
+  {
+    "name": "Seling",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7150,
+      "long": 92.7370
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Traditional Mizo village near Aizawl showcasing rural lifestyle, bamboo houses, terraced cultivation, traditional weaving, handicrafts, community-based tourism, homestays, cultural performances, authentic Mizo cuisine, peaceful village atmosphere, cultural immersion."
+  },
+  {
+    "name": "Kawrthah Falls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7000,
+      "long": 92.7450
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Beautiful waterfall near Aizawl, multi-tiered cascades, natural swimming pool, picnic spot, bamboo forests, easy trekking access, photography destination, local favorite, less commercialized, seasonal flow variation, peaceful environment."
+  },
+  {
+    "name": "Hmuifang Hill",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7270,
+      "long": 92.7070
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic hill station 50km from Aizawl at 1619m altitude, Mizoram Tourism resort, adventure activities including paragliding, zorbing, rock climbing, rappelling, trekking trails, pine forests, panoramic valley views, camping, cool climate, weekend getaway."
+  },
+  {
+    "name": "Mizoram Folk Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7270,
+      "long": 92.7180
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "State museum showcasing Mizo tribal culture and heritage, traditional costumes, weapons, musical instruments (khuang drums), household items, bamboo crafts, weaving looms, photographs, historical artifacts, cultural preservation, educational center."
+  },
+  {
+    "name": "Mizoram Festival (Chapchar Kut)",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7271,
+      "long": 92.7176
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March"
+    ],
+    "description": "Most important Mizo spring festival after bamboo cutting, traditional bamboo dance (Cheraw), folk dances including Chai, Chheih Lam, Khuallam, community feasts, rice beer (Zu), colorful traditional attire, cultural competitions, music performances, March celebration, harvest festival."
+  },
+  {
+    "name": "Durtlang Viewpoint",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "coordinates": {
+      "lat": 23.7540,
+      "long": 92.7150
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Popular viewpoint on Durtlang Hills offering 360-degree panoramic views of Aizawl and surrounding valleys, sunrise-sunset photography spot, clear skies reveal distant mountain ranges, pine trees, prayer flags, peaceful atmosphere, easily accessible from city."
+  },
+  {
+    "name": "Vairengte",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Kolasib",
+    "coordinates": {
+      "lat": 24.1570,
+      "long": 92.8800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Gateway to Mizoram from Assam, picturesque border town, Mizoram Tlangsam Kawn (scenic spot), waterfalls, trekking trails, natural beauty, Vairengte Hill, streams and rivers, trade center, strategic location, entry point for travelers."
+  },
+  {
+    "name": "Khuangchera Peak",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Champhai",
+    "coordinates": {
+      "lat": 23.5000,
+      "long": 93.0000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic peak near Champhai offering panoramic views of Myanmar hills, trekking destination, rhododendron forests, orchids, birdwatching, sunrise-sunset views, border landscapes, adventure tourism, relatively unexplored, pristine environment."
+  },
+  {
+    "name": "Phawngpui National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Lawngtlai",
+    "coordinates": {
+      "lat": 22.6410,
+      "long": 92.9660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "50 sq km national park around Phawngpui Peak, temperate and sub-tropical forests, endemic orchids, rhododendrons, clouded leopards, serow, goral, mountain goats, 150+ bird species including Mrs. Hume's pheasant, biodiversity hotspot, trekking, research zone."
+  },
+  {
+    "name": "Tuirial Dam",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Mizoram",
+    "city": "Kolasib",
+    "coordinates": {
+      "lat": 24.0000,
+      "long": 92.8300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Hydroelectric project on Tuirial River, scenic reservoir surrounded by hills, boating, fishing, picnic spot, engineering marvel, power generation, panoramic views, eco-tourism potential, birdwatching, peaceful environment, infrastructure development."
+  }
+]

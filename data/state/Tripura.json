@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Ujjayanta Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Agartala",
+    "coordinates": {
+      "lat": 23.8310,
+      "long": 91.2860
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Former royal palace of Manikya dynasty built 1901, Indo-Saracenic architecture with Mughal domes, now State Museum, 800 acres Mughal Gardens, archaeological artifacts, tribal heritage galleries, royal memorabilia, sound and light show, illuminated evenings, Agartala's landmark."
+  },
+  {
+    "name": "Tripura State Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Agartala",
+    "coordinates": {
+      "lat": 23.8320,
+      "long": 91.2870
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Located in Ujjayanta Palace, showcases Tripura's 19 tribal communities' heritage, archaeological artifacts from 7th-9th century, stone sculptures, inscriptions, royal artifacts, traditional costumes, handicrafts, coins, manuscripts, cultural diversity exhibition."
+  },
+  {
+    "name": "Neermahal Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Melaghar",
+    "coordinates": {
+      "lat": 23.5510,
+      "long": 91.4980
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Water Palace built 1930 by Maharaja Bir Bikram Kishore Manikya, India's largest water palace on Rudrasagar Lake, Hindu-Muslim architectural blend, open-air theatre, boat rides to palace, light and sound show, royal summer retreat, red-white facade, 53km from Agartala."
+  },
+  {
+    "name": "Jampui Hills",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Tripura",
+    "city": "North Tripura",
+    "coordinates": {
+      "lat": 24.1420,
+      "long": 92.0030
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Tripura's only hill station at 1000m altitude, Land of Eternal Spring with year-round mild climate, orange orchards (Tripura's orange bowl), pineapple gardens, panoramic Bangladesh views, Mizo tribal villages, sunrise-sunset points, trekking, offbeat destination, 250km from Agartala."
+  },
+  {
+    "name": "Sepahijala Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Sepahijala",
+    "coordinates": {
+      "lat": 23.6330,
+      "long": 91.3240
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "18.5 sq km sanctuary housing spectacled monkeys (Phayre's leaf monkey), clouded leopards, botanical gardens, orchidarium (150+ species), artificial lake, boating, toy train, zoo, aviary, Green Imperial Pigeon breeding center, 25km from Agartala, family destination."
+  },
+  {
+    "name": "Dumboor Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Dhalai",
+    "coordinates": {
+      "lat": 24.0020,
+      "long": 91.8460
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Large artificial lake created by Gumti Dam, 41 sq km, scenic beauty with islets, migratory waterfowl including white-winged wood duck, fishing, boating, water sports, picnic spot, sunset views, Twijilikma festival site, 120km from Agartala."
+  },
+  {
+    "name": "Ambassa",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Dhalai",
+    "coordinates": {
+      "lat": 24.0210,
+      "long": 91.8360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "District headquarters of Dhalai, gateway to Jampui Hills and Dumboor Lake, Raima Valley, Longtharai Valley viewpoint, Chebri River, tribal markets, Ambassa Tilla (hillock), base for North Tripura exploration, scenic surroundings, trade center."
+  },
+  {
+    "name": "Trishna Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Tripura",
+    "city": "South Tripura",
+    "coordinates": {
+      "lat": 23.3770,
+      "long": 91.5170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "194 sq km sanctuary, Project Elephant reserve, elephants, leopards, bison, sambar deer, 150+ bird species including hornbills, Trishna Reservoir, dense forests, elephant safari, watchtowers, birdwatching, eco-tourism, tribal villages, near Bangladesh border."
+  },
+  {
+    "name": "Gomati Riverfront",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Gomati",
+    "coordinates": {
+      "lat": 23.5500,
+      "long": 91.5090
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic riverfront development on Gomati River, recreational area with parks, walking tracks, boating, children's play area, sunset views, picnic spot, river cruises, eco-tourism initiatives, community gatherings, cultural events venue."
+  },
+  {
+    "name": "Tripura Sundari Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Udaipur",
+    "coordinates": {
+      "lat": 23.5050,
+      "long": 91.4910
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of 51 Shakti Peeths where Sati's right foot fell, state goddess Tripura Sundari (Kali), 16th-century temple complex, turtle-shaped hill (Kurma Pitha), human sacrifice history replaced by animal sacrifice, Diwali and Durga Puja celebrations, pilgrimage site, 55km from Agartala."
+  },
+  {
+    "name": "Pilak Archaeological Site",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Santirbazar",
+    "coordinates": {
+      "lat": 23.3370,
+      "long": 91.4990
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "8th-12th century Buddhist-Hindu archaeological site, stone sculptures, rock-cut images, terracotta plaques, ancient monastery remains, ASI protected, Buddhist Avalokiteshvara images, Hindu deities, hilltop ruins, heritage significance, 100km from Agartala, near Bangladesh border."
+  },
+  {
+    "name": "Neer Chara Waterfalls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Tripura",
+    "city": "North Tripura",
+    "coordinates": {
+      "lat": 24.1460,
+      "long": 92.0010
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic waterfall cascading from 30 feet in Jampui Hills, natural swimming pool, trekking destination, surrounded by lush forests, monsoon spectacular flow, picnic spot, photography paradise, relatively less crowded, pristine environment, adventure tourism."
+  },
+  {
+    "name": "Rowa Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Tripura",
+    "city": "West Tripura",
+    "coordinates": {
+      "lat": 23.9030,
+      "long": 91.2790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "0.86 sq km micro-sanctuary, hoolock gibbons, spectacled langurs, 85+ bird species, dense bamboo forests, nature trails, birdwatching paradise, conservation area, eco-tourism, research zone, small but biodiverse, 38km from Agartala."
+  },
+  {
+    "name": "Kanchanpur Eco Park",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Tripura",
+    "city": "West Tripura",
+    "coordinates": {
+      "lat": 23.8900,
+      "long": 91.2690
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Eco-tourism park with natural beauty, gardens, children's play area, walking trails, picnic spots, local flora-fauna, recreational facilities, weekend getaway, family destination, nature conservation, community involvement, near Agartala outskirts."
+  },
+  {
+    "name": "Tripura Carnival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Agartala",
+    "coordinates": {
+      "lat": 23.8310,
+      "long": 91.2860
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December"
+    ],
+    "description": "Annual cultural carnival celebrating Tripura's diversity, traditional dances of 19 tribes, handicrafts exhibition, food stalls, music performances, cultural competitions, art exhibitions, tourism promotion, December celebration, showcase of tribal heritage, community participation."
+  },
+  {
+    "name": "Sepahijala Carnival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Sepahijala",
+    "coordinates": {
+      "lat": 23.6330,
+      "long": 91.3240
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February"
+    ],
+    "description": "Annual eco-tourism festival at Sepahijala Wildlife Sanctuary, wildlife awareness programs, nature walks, cultural performances, handicrafts, local cuisine, orchid displays, conservation education, tourism promotion, February celebration, family event."
+  },
+  {
+    "name": "Unakoti",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Unakoti",
+    "coordinates": {
+      "lat": 24.1390,
+      "long": 92.0060
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One Less Than a Crore, 7th-9th century Shaivite pilgrimage site with rock-cut sculptures, 30-foot Unakotiswara Kal Bhairava (largest), bas-relief images of Shiva, Ganesha, Nandi, Ashutosh fair (April), UNESCO tentative list, mystical hillside carvings, 178km from Agartala."
+  },
+  {
+    "name": "Jolaibari",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Tripura",
+    "city": "South Tripura",
+    "coordinates": {
+      "lat": 23.3480,
+      "long": 91.4910
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Traditional tribal village showcasing indigenous Tripuri culture, bamboo houses, traditional weaving, handicrafts, tribal cuisine, community festivals, folk dances, authentic village life experience, homestays, cultural immersion, sustainable tourism, offbeat destination."
+  },
+  {
+    "name": "Baramura Eco Park",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Tripura",
+    "city": "West Tripura",
+    "coordinates": {
+      "lat": 23.8200,
+      "long": 91.3050
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Eco-tourism park on Baramura Hill range, nature trails, trekking routes, panoramic views, biodiversity conservation, medicinal plants, birdwatching, adventure activities, picnic spots, environmental education, sustainable tourism practices, hill station ambiance near Agartala."
+  },
+  {
+    "name": "Trishna River",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Tripura",
+    "city": "South Tripura",
+    "coordinates": {
+      "lat": 23.3770,
+      "long": 91.5170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Tributary of Gomati River, scenic riverine ecosystem, Trishna Reservoir for irrigation and drinking water, fishing spots, riverside picnics, boating opportunities, wildlife corridor, surrounded by Trishna Wildlife Sanctuary, natural beauty, eco-tourism potential."
+  },
+  {
+    "name": "Jampui Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Tripura",
+    "city": "North Tripura",
+    "coordinates": {
+      "lat": 24.1420,
+      "long": 92.0030
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "January"
+    ],
+    "description": "Annual orange and tourism festival in Jampui Hills, celebrates orange harvest season, Mizo cultural performances, traditional dances and music, orange orchards tours, handicrafts exhibition, local cuisine, adventure activities, tourism promotion, January celebration, community fest."
+  }
+]

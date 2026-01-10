@@ -1,0 +1,517 @@
+[
+  {
+    "name": "Chitrakote Falls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Bastar",
+    "coordinates": {
+      "lat": 18.9050,
+      "long": 81.8590
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Niagara Falls of India, widest waterfall in India at 300 feet wide, horseshoe-shaped cascade on Indravati River, 90 feet drop, spectacular during monsoon with multiple streams, rainbow formation in mist, viewpoints from both sides, boating at base during low water, tribal villages nearby, Chitrakoot village 38 km from Jagdalpur, trekking trails, photography paradise, sunset views, seasonal variations dramatic, monsoon thunderous flow, winter peaceful, natural rock formations, unexplored beauty, offbeat destination."
+  },
+  {
+    "name": "Tirathgarh Falls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Bastar",
+    "coordinates": {
+      "lat": 19.0360,
+      "long": 81.7810
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Multi-tiered waterfall cascading 300 feet in series of steps through forested valley on Kanger River, milky white water, 4 separate falls creating amphitheater effect, jungle trekking through Kanger Valley National Park, natural pool at base for bathing, caves behind falls, lush greenery surroundings, 35 km from Jagdalpur, stairs descent 300+ steps, monsoon best flow, tribal legends associated, photography, adventure trekking, pristine natural beauty, relatively less crowded, picnic spot, biodiversity rich zone."
+  },
+  {
+    "name": "Kanger Valley National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Bastar",
+    "coordinates": {
+      "lat": 19.0520,
+      "long": 81.8700
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "200 sq km biosphere reserve declared 1982, Kanger Dhara and Kanger River, limestone caves - Kotumsar Cave (200m underground, blind fish and insects), Kailash Cave with Shiva Linga stalagmite, Dandak Cave, Devgiri Cave, Tirathgarh Falls inside park, diverse flora with sal forests, teak, bamboo, reptiles including crocodiles, tigers, leopards, bison, wild boars, 200+ bird species, trekking, caving expeditions, underground river exploration, 27 km from Jagdalpur, biodiversity hotspot, tribal Gond and Maria villages, eco-tourism, nature photography."
+  },
+  {
+    "name": "Jagdalpur",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Bastar",
+    "coordinates": {
+      "lat": 19.0742,
+      "long": 82.0220
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Capital of Bastar district, tribal culture hub, former Bastar kingdom seat, Dalpat Sagar lake artificial reservoir, Anthropological Museum showcasing tribal artifacts, handicrafts, dhokra metal casting art, Bastar Palace ruins, weekly haats (tribal markets) - Jagdalpur Haat on Sundays, tribal jewelry, bell metal crafts, bamboo products, terracotta, base for exploring Bastar waterfalls and parks, October Bastar Dussehra festival unique 75-day celebration, Kawardha tribal dance, Gond and Maria tribal villages, authentic tribal cuisine, gateway to tribal heartland."
+  },
+  {
+    "name": "Danteshwari Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Dantewada",
+    "coordinates": {
+      "lat": 18.8980,
+      "long": 81.3510
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of 52 Shakti Peeths where Sati's tooth (danta) fell, 14th century temple dedicated to Goddess Danteshwari (patron deity of Bastar), rebuilt by Chalukya kings, ritual significance for Bastar Dussehra festival beginning here with Paat Jatra, wooden chariot procession, tribal worship traditions, silver-topped sanctum, human sacrifice history replaced by animal offerings, archaeological importance, tribal pilgrimage site for Gond and Maria tribes, Dandakaranya forest location, 80 km from Jagdalpur, spiritual significance for region, Navaratri celebrations grand."
+  },
+  {
+    "name": "Bhoramdeo Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Kabirdham",
+    "coordinates": {
+      "lat": 22.1020,
+      "long": 81.2490
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Khajuraho of Chhattisgarh, 11th century Shiva temple built by Nagvanshi rulers, erotic sculptures on exterior walls depicting Kama Sutra scenes, Nagara architectural style, intricate carvings of gods, goddesses, musicians, dancers, animals, 13 temples in complex including Bhoramdeo, Dulhadev, Madwa Mahal, 18 km from Kawardha, Maikala hills backdrop, natural scenic beauty, lake adjacent (Bhoram talab), ASI protected monument, archaeological significance, photography, Mahashivratri festival, tribal dances during festivals, offbeat heritage site, serene atmosphere, Maikal tiger corridor proximity."
+  },
+  {
+    "name": "Raipur",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "coordinates": {
+      "lat": 21.2514,
+      "long": 81.6296
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Capital of Chhattisgarh since 2000, rice bowl of India, Mahant Ghasidas Memorial Museum archaeological artifacts, Nandan Van Zoo and Safari, Vivekananda Sarovar lake, Budha Talab ancient water body, Mahakoshal Art Gallery, Marine Drive Raipur along Kharun River, shopping at Pandri market, Magneto Mall, City Center, Telibandha Lake, Purkhouti Muktangan showcasing tribal dwellings replicas, steel plant town, educational hub, NIT Raipur, food hub with Chhattisghari cuisine - chila, farra, bafauri, base for state exploration, airport connectivity, industrial growth."
+  },
+  {
+    "name": "Nandan Van Zoo",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "coordinates": {
+      "lat": 21.2490,
+      "long": 81.6390
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "800-acre Jungle Safari opened 2017, central India's largest zoo, Royal Bengal tigers, Asiatic lions, leopards, herbivore safari with sambars, spotted deer, nilgai, black bucks, safari buses through naturalistic enclosures, interpretation center, nocturnal animal house, butterfly park, toy train, boating, children's play area, aquarium, musical fountain, biological park with indigenous species conservation, breeding programs, white tiger attraction, spacious modern zoo design, family destination, photography allowed from vehicles, canteen facilities, tribal cultural shows on weekends, eco-education programs."
+  },
+  {
+    "name": "Ghatarani Waterfalls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Dhamtari",
+    "coordinates": {
+      "lat": 20.5000,
+      "long": 81.9500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic waterfall on Pairy River cascading from 100 feet through dense Sal forests, natural pool at base, rock formations, jungle trekking trails, 90 km from Raipur, off-road adventure to reach, monsoon spectacular flow, winter peaceful picnic spot, relatively less commercialized, local tourism developing, tribal villages nearby, birdwatching, photography paradise, Ghatarani Temple nearby, natural beauty unspoiled, sunrise-sunset views, camping spots, seasonal variations, weekend getaway from Raipur, offbeat destination, adventure enthusiasts' favorite."
+  },
+  {
+    "name": "Sirpur",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Mahasamund",
+    "coordinates": {
+      "lat": 22.1090,
+      "long": 82.1640
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient Buddhist archaeological site, 5th-8th century ruins, capital of South Koshala kingdom, Lakshmana Temple (brick temple dedicated to Vishnu with elaborate carvings), Buddha Vihar monastery remains, Swastika Vihar, Anand Prabhu Kutir Vihar, Surang Tila underground tunnels, ASI excavations revealing 100+ Buddhist structures, Hindu temples alongside Buddhist sites proving religious harmony, inscriptions in Sanskrit, stone sculptures, terracotta panels, museum showcasing artifacts, annual Sirpur Mahotsav January with cultural programs, 78 km from Raipur, Mahanadi riverbank location, research destination, UNESCO tentative list consideration, heritage tourism potential."
+  },
+  {
+    "name": "Rajim",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Gariaband",
+    "coordinates": {
+      "lat": 21.3150,
+      "long": 82.0300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Prayag of Chhattisgarh, confluence of Mahanadi, Pairi, and Sondur rivers, Rajiv Lochan Temple dedicated to Vishnu (7th-8th century), Nagar architecture with carved pillars, Rajim Kumbh Mela held annually on Magh Purnima (February), 15-day fair with 5 lakh pilgrims, Kuleshwar Mahadev Temple, Someshwar Temple, Pancheshwar Mahadev Temple, Ramchandra Temple, sacred bathing ghats, religious significance since ancient times, 45 km from Raipur, spiritual tourism hub, boat rides during Kumbh, cultural programs, handicraft stalls, food stalls, traditional rituals, pilgrimage circuit."
+  },
+  {
+    "name": "Chhattisgarh State Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "coordinates": {
+      "lat": 21.2430,
+      "long": 81.6310
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mahant Ghasidas Memorial Museum established 1875, oldest museum in Chhattisgarh, archaeological section with Sirpur artifacts, tribal anthropology gallery showcasing Gond, Baiga, Maria tribal cultures, natural history section, manuscripts, sculptures from 6th-12th century, coins, inscriptions, weapons, musical instruments, terracotta, dhokra metal casting displays, tribal costumes, jewelry, hunting tools, colonial-era building architecture, library, research facility, guided tours, educational programs, nominal entry, Monday closed, cultural heritage preservation, tribal diversity showcase, near Civil Lines Raipur."
+  },
+  {
+    "name": "Chhattisgarh Handicraft Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "coordinates": {
+      "lat": 21.2480,
+      "long": 81.6290
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Purkhouti Muktangan, 62-acre cultural village showcasing tribal life, replicas of tribal dwellings from 35+ tribes - Gond, Baiga, Maria, Halba, Kamar, traditional huts architecture, tribal art demonstrations, dhokra bell metal casting live workshops, terracotta pottery, bamboo crafts, handloom weaving, tribal dance performances on weekends, museum section, open-air theater, tribal cuisine food stalls, handicraft shopping emporium, educational tourism, school excursions, cultural immersion experience, tribals as guides, eco-tourism model, photography, tribal festivals celebrated, near Nandan Van Zoo, family destination, preserving vanishing tribal heritage."
+  },
+  {
+    "name": "Amrit Dhara Waterfalls",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Surguja",
+    "coordinates": {
+      "lat": 23.4000,
+      "long": 82.0300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Nectar Stream waterfall cascading 90 feet with medicinal properties attributed to water, horse-tail like flow, cave behind falls forming natural grotto, Hasdev River tributary, lush Sal forest surroundings, 8 km from Manendragarh, North Chhattisgarh offbeat destination, trekking trails, natural pool for bathing, minerals in water believed healing, local legends of sage meditation, peaceful atmosphere, monsoon thunderous, winter serene, tribal villages nearby, camping potential, relatively unexplored, photography, birdwatching, pristine natural beauty, adventure tourism developing, sunrise-sunset scenic."
+  },
+  {
+    "name": "Mainpat Hill Station",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Surguja",
+    "coordinates": {
+      "lat": 23.4280,
+      "long": 82.0040
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Shimla of Chhattisgarh at 1152m altitude, 3200-acre plateau with rolling meadows, mini Tibet due to Tibetan refugee settlement since 1960s, Buddhist monasteries, Tibetan culture and handicrafts, Jaljali waterfalls, Fish Point viewpoint overlooking valleys, Tiger Point sunrise views, Ulta Pani upward flowing water optical illusion, strawberry cultivation, pleasant climate year-round, winter temperatures drop to 0°C, pine forests, Amrit Dhara Falls nearby, Mehta Point panoramic views, trekking, camping, paragliding potential, offbeat hill station, eco-tourism, tribal villages, 55 km from Ambikapur, relatively less commercialized, serene escape."
+  },
+  {
+    "name": "Barnawapara Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Mahasamund",
+    "coordinates": {
+      "lat": 21.5550,
+      "long": 82.0210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "244.66 sq km sanctuary established 1976, named after two villages Barnawa and Para, dry deciduous forests with teak, sal, bamboo, bison, spotted deer, sambar, nilgai, wild boars, sloth bears, leopards, 150+ bird species including peafowl, jungle fowl, watchtowers, nature trails, jeep safari, interpretation center, Balamdehi reservoir attracting water birds, winter migratory birds, birdwatching paradise, 100 km from Raipur, accessible from Mahasamund, eco-tourism cottages, forest department guided tours, photography, educational programs, buffer zone villages, tribal culture, peaceful wilderness, relatively less crowded, camping with permits."
+  },
+  {
+    "name": "Champaran",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Kanker",
+    "coordinates": {
+      "lat": 20.2830,
+      "long": 81.4660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Birthplace of Vallabhacharya (founder of Pushti Marg devotional tradition 1479), Champaranya Dham temple complex, ancient Vaishnav pilgrimage site, Champakeshwar Mahadev Temple, Prakat Baithak where Vallabhacharya appeared, sacred tank, annual fair on Vaishakh Purnima, religious significance for Pushti Marg followers, pilgrims from Gujarat, Rajasthan, temples architecture showcasing regional styles, Mahanadi river nearby, peaceful spiritual atmosphere, 75 km from Jagdalpur, offbeat pilgrimage, cultural programs during festivals, local handicrafts, tribal influence, heritage conservation, research on Vallabhacharya's philosophy."
+  },
+  {
+    "name": "Rajnandgaon",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Rajnandgaon",
+    "coordinates": {
+      "lat": 21.1000,
+      "long": 81.0340
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Gateway to Khairagarh princely state heritage, Rajnandgaon Palace ruins, Dongargarh hilltop Bambleshwari Temple (42 stairs cable car ropeway or 1040 steps climb), panoramic views from 1600 feet, Indira Kala Sangeet University (music university), Khursipar archaeological site 8th-10th century, coal mining industrial town, shopping at Old Rajnandgaon Market, food hub, Tandula Dam nearby, base for exploring Bhoramdeo Temple, tribal markets, Kosa silk weaving centers, cultural events, music concerts due to university presence, 88 km from Raipur, railway junction connectivity."
+  },
+  {
+    "name": "Sirpur Archaeological Site",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Mahasamund",
+    "coordinates": {
+      "lat": 22.1090,
+      "long": 82.1640
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Extensive Buddhist-Hindu archaeological complex, 5th-12th century Somvanshi capital Shripur, ongoing ASI excavations since 1953, Lakshmana Temple masterpiece of brick architecture with Dashavatara carvings, Gandheswara Temple with shikhar, Ram Temple, Teevardev Mahavihar Buddhist monastery ruins with 40+ monastic cells, Surang Tila underground chambers and tunnels, Ananda Prabhu Kutir Vihar stupas, Sanskrit University proposed, site museum with sculptures, inscriptions, terracotta, coins, pottery, evidence of flourishing Buddhist learning center (6th-8th century), UNESCO World Heritage Site nomination pending, academic research hub, heritage tourism infrastructure developing, guided tours, annual cultural festival."
+  },
+  {
+    "name": "Bastar Dussehra Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Bastar",
+    "coordinates": {
+      "lat": 19.0742,
+      "long": 82.0220
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October"
+    ],
+    "description": "World's longest Dussehra lasting 75 days (July-October), unique tribal festival worshipping Danteshwari Devi not Rama, begins with Paat Jatra (flag planting at Dantewada), sacred tree worship (kaachan gadi), Rath Yatra (chariot procession) of goddess with 16 wheels needing 200+ men, tribal communities participate - Gond, Maria, Muria, Halba, Dhurwa, traditional dances - Madiya, Panthi, Raut Nacha, Karma, tribal costumes, human pyramid formations, culminates with Rath crossing, distinct from North Indian Dussehra, celebrates local deity, cultural identity of Bastar, UNESCO intangible heritage consideration, attracts anthropologists, photography, rituals unchanged centuries, authentic tribal celebration, October climax coincides with Dussehra."
+  }
+]

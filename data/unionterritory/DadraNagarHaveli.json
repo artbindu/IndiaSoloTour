@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Silvassa",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Dadra & Nagar Haveli",
+    "city": "Silvassa",
+    "coordinates": {
+      "lat": 20.2733,
+      "long": 73.0080
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Capital of Dadra and Nagar Haveli, Portuguese colonial enclave until 1954 liberation, industrial hub with manufacturing units, green city with 40% forest cover, Dadra Park, Hirwa Van Garden, shopping at Silvassa Market, tribal handicrafts, budget destination near Mumbai-Gujarat border, Damanganga River banks, Lion Safari Wildlife Park, Vanganga Lake Garden, Tribal Museum, Portuguese churches, peaceful small-town atmosphere, nature tourism, weekend getaway from Mumbai (180 km), local cuisine, tribal villages nearby, eco-tourism, 30 km from Vapi."
+  },
+  {
+    "name": "Vanganga Lake Garden",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Dadra & Nagar Haveli",
+    "city": "Silvassa",
+    "coordinates": {
+      "lat": 20.2690,
+      "long": 73.0070
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "15-hectare landscaped garden around Vanganga Lake Island, Silvassa's tourist hub, musical fountain show with lights and colors synchronized to music, boating facilities - paddle boats, rowing boats, children's park with play equipment, mini train rides, food court, snack stalls, mini golf, walking paths, gardens with seasonal flowers, sculptures, Japanese Garden section, serene island setting, photography spot, evening hangout, families destination, nominal entry fee, well-maintained, illuminated evenings, picnic spot, cultural events venue, tourism department managed."
+  },
+  {
+    "name": "Lion Safari Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Dadra & Nagar Haveli",
+    "city": "Silvassa",
+    "coordinates": {
+      "lat": 20.2750,
+      "long": 73.0120
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Vasona Lion Safari Wildlife Park, 200-acre dedicated lion sanctuary opened 2007, guided bus safari through lion enclosure with 11+ Asiatic lions from Gir Forest translocated here, leopards, deer, hyenas, nilgai in separate zones, mini zoo section, aviary, aquarium, toy train, children's playground, butterfly park, nature trails, interpretation center, conservation education, photography from safari bus, 30-minute safari, advance booking recommended weekends, nominal entry fee, family destination, 3 km from Silvassa center, operated by Forest Department, safe viewing experience."
+  },
+  {
+    "name": "Tribal Cultural Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Dadra & Nagar Haveli",
+    "city": "Silvassa",
+    "coordinates": {
+      "lat": 20.2740,
+      "long": 73.0100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Museum showcasing indigenous tribal cultures of Dadra & Nagar Haveli - Dhodias, Koknas, Varlis, Dublas, Kathodis, traditional huts (kotha), lifestyle exhibits, tribal costumes, jewelry, musical instruments (tarpa, dhol), weapons, farming tools, hunting equipment, marriage customs display, Warli paintings (geometric tribal art form), handicrafts, bamboo and cane works, pottery, artifacts, cultural heritage preservation, educational tours, tribal history from Portuguese rule to liberation, life-size mannequins in traditional attire, photography allowed, nominal entry, air-conditioned galleries, research facility, near Silvassa town."
+  },
+  {
+    "name": "Dudhni Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Dadra & Nagar Haveli",
+    "city": "Silvassa",
+    "coordinates": {
+      "lat": 20.2820,
+      "long": 73.0220
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Man-made reservoir on Damanganga River, 8 km from Silvassa, scenic lake surrounded by Western Ghats hills and dense forests, water sports hub - speed boating, kayaking, jet-ski, banana boat rides, parasailing, water scooters, boat rides to small islands, lakeside resorts - Treat Resort, Khanvel Resort with water villas, camping facilities, trekking trails, nature walks, bird watching, monsoon spectacular with full lake, fishing, photography paradise, sunset views, weekend getaway, picnic spot, tribal villages accessible, eco-tourism initiatives, swimming spots, adventure tourism, serene natural beauty."
+  },
+  {
+    "name": "Silvassa Tribal Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Dadra & Nagar Haveli",
+    "city": "Silvassa",
+    "coordinates": {
+      "lat": 20.2733,
+      "long": 73.0080
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "January"
+    ],
+    "description": "Annual tribal culture festival held in January, showcasing indigenous traditions of Dhodias, Varlis, Koknas, Dublas, Kathodis tribes, traditional folk dances - Tarpa dance with musical instrument, Bhavada dance, Dhol dances, tribal music performances, handicrafts exhibition - Warli paintings, bamboo crafts, terracotta, jewelry, traditional cuisine - ragi rotla, ubadiyu, tribal dishes, archery competitions, wrestling (kushti), cultural programs, costumes display, community gathering, tourism promotion, celebrates tribal heritage and Liberation Day (August 2, 1954), authentic tribal experience, food stalls, craft bazaar, government organized, free entry, multiple venues, preserves indigenous culture."
+  }
+]

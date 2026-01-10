@@ -1,0 +1,673 @@
+[
+  {
+    "name": "Tawang Monastery",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.5867,
+      "long": 91.8667
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Largest monastery in India and second largest in world, 400-year-old Gelugpa Order monastery at 3300m altitude, 65 residential buildings with 450+ monks, birthplace of 6th Dalai Lama, 8-meter golden Buddha statue, library with ancient Buddhist manuscripts, stunning mountain views."
+  },
+  {
+    "name": "Sela Pass",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.6391,
+      "long": 91.8676
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "High-altitude mountain pass at 4170m on Tawang-Guwahati route, Sela Lake (Paradise Lake) at summit, 101 lakes in vicinity, snow-covered most of year, Jaswant Garh War Memorial nearby, Sela Top view point, prayer flags, challenging drive, gateway to Tawang."
+  },
+  {
+    "name": "Bum La Pass",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.6685,
+      "long": 92.0080
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Indo-China border pass at 4571m, open to tourists with permits, historic 1962 war site, Indian Army presence, views of China border, 37km from Tawang, Sangestar Tso (Madhuri Lake) en route, closed Mondays, pristine snow landscape."
+  },
+  {
+    "name": "Madhuri Lake (Sangestar Lake)",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.6680,
+      "long": 91.8990
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "High-altitude lake at 3700m formed after 1950 earthquake, named after Bollywood actress Madhuri Dixit (film 'Koyla' shot here), crystal-clear emerald waters, snow-capped peaks backdrop, en route to Bum La Pass, pristine beauty, photography paradise."
+  },
+  {
+    "name": "Nuranang Waterfall",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.6900,
+      "long": 91.8970
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Spectacular 100-meter waterfall also called Bong Bong Falls or Jang Falls, on Tawang-Bomdila road near Jang village, named after local Monpa girl Nura who helped Indian soldier in 1962 war, hydroelectric project, picnic spot, stunning natural beauty."
+  },
+  {
+    "name": "Dirang Valley",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Kameng",
+    "coordinates": {
+      "lat": 27.3890,
+      "long": 92.2760
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Picturesque valley at 1497m altitude, gateway to Tawang, Monpa tribal villages, apple and kiwi orchards, hot water springs, Dirang Dzong (old fort), sheep breeding farm, yak research center, traditional stone and wood houses, peaceful ambiance."
+  },
+  {
+    "name": "Bomdila Monastery",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Kameng",
+    "coordinates": {
+      "lat": 27.2760,
+      "long": 92.3920
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Largest monastery in Bomdila, Buddhist learning center, Gentse Gaden Rabgyel Lling Monastery, Dalai Lama consecrated in 1997, colorful murals, prayer hall, Buddhist teachings, panoramic Himalayan views, Monpa cultural center, peaceful meditation spot."
+  },
+  {
+    "name": "Sela Lake",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.6360,
+      "long": 91.8680
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Paradise Lake at Sela Pass summit, frozen most of year, crystal-clear turquoise waters in summer, surrounded by snow peaks, prayer flags, sacred to Monpa tribe, legend of Sela's sacrifice for soldiers, part of 101 lakes cluster, breathtaking scenery."
+  },
+  {
+    "name": "Ziro Valley",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Lower Subansiri",
+    "coordinates": {
+      "lat": 27.6120,
+      "long": 93.8260
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "UNESCO World Heritage Site tentative list, home to Apatani tribe with unique facial tattoos and nose plugs, wet rice cultivation terraces, bamboo houses on stilts, Ziro Music Festival (September), pine forests, Old Ziro and Hong villages, sustainable agriculture practices."
+  },
+  {
+    "name": "Talley Valley Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Siang",
+    "coordinates": {
+      "lat": 27.6660,
+      "long": 93.7750
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "337 sq km sanctuary near Ziro Valley, silver fir and pine forests, clouded leopard, red panda, musk deer, Himalayan black bear, 200+ bird species, pristine ecosystem, trekking trails, Apatani tribal area, biodiversity hotspot, research zone."
+  },
+  {
+    "name": "Mechuka Valley",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Siang",
+    "coordinates": {
+      "lat": 28.0660,
+      "long": 95.4330
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Hidden valley at 1800m near China border, Memba tribal villages, Siyom River, Samten Yongcha Monastery (400 years old), Mechuka Gompa, airstrip, snow peaks surrounding, offbeat destination, permits required, pristine Himalayan beauty, adventure hub."
+  },
+  {
+    "name": "Parshuram Kund",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Lohit",
+    "coordinates": {
+      "lat": 27.5760,
+      "long": 95.1260
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred pilgrimage site on Lohit River, legend of Parshuram washing blood after killing Kshatriyas, Makar Sankranti Mela (January) with 70,000+ pilgrims, holy dip rituals, Brahma Kund pool, temples, Mishmi tribal area, scenic river valley."
+  },
+  {
+    "name": "Itanagar",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Papum Pare",
+    "coordinates": {
+      "lat": 27.0844,
+      "long": 93.6053
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Capital of Arunachal Pradesh, Land of the Dawn-Lit Mountains gateway, Ita Fort (14th century), Ganga Lake (Gyakar Sinyi), State Museum, Craft Centre and Emporium, Indira Gandhi Park, Buddhist temple, tribal culture hub, administrative center."
+  },
+  {
+    "name": "Ita Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Itanagar",
+    "coordinates": {
+      "lat": 27.0965,
+      "long": 93.6060
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "14th-15th century fort meaning Brick Fort, irregular-shaped fortification with 8-meter walls, lakhs of bricks used, mystery surrounds its builders (possibly Jitari kings), archaeological significance, partly excavated, historical landmark in Itanagar, panoramic city views."
+  },
+  {
+    "name": "Namdapha National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Changlang",
+    "coordinates": {
+      "lat": 27.5100,
+      "long": 96.0190
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "India's largest protected area in biodiversity, 1985 sq km, only park with four big cats (tiger, leopard, clouded leopard, snow leopard), hoolock gibbons, red pandas, 425+ bird species, altitude ranges 200m to 4571m, Noa-Dihing River, dense rainforests, trekking."
+  },
+  {
+    "name": "Sippi River",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "East Siang",
+    "coordinates": {
+      "lat": 28.0580,
+      "long": 94.8500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Tributary of Siang (Brahmaputra) River, pristine river ecosystem, angling destination (golden mahseer), rafting opportunities, Adi tribal villages, riverside camping, jungle trekking, birdwatching, offbeat eco-tourism, natural beauty, adventure activities."
+  },
+  {
+    "name": "Pakhui Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Kameng",
+    "coordinates": {
+      "lat": 27.7000,
+      "long": 92.7000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "862 sq km tiger reserve, elephants, leopards, clouded leopards, hornbills, Pakke-Kessang district, Pakke River, eco-tourism camps, jungle safari, Nyishi tribal area, butterfly diversity (160+ species), orchids, hornbill nest adoption program, conservation success story."
+  },
+  {
+    "name": "Daporijo",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Upper Subansiri",
+    "coordinates": {
+      "lat": 28.2870,
+      "long": 94.4300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Hill town on Subansiri River banks, headquarters of Upper Subansiri district, Tagin tribal culture, hanging bridge (longest in state), fishing, river rafting, trekking to nearby villages, gateway to Taliha and Kamporijo, offbeat destination, natural beauty."
+  },
+  {
+    "name": "Bomdila Viewpoint",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Kameng",
+    "coordinates": {
+      "lat": 27.2660,
+      "long": 92.3920
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Upper Gompa viewpoint at 2530m altitude, 180-degree panoramic views of snow-capped Himalayan peaks including Gorichen Peak and Kangto, sunrise-sunset views, prayer flags, Bomdila town views, photography spot, clear skies essential, peaceful location."
+  },
+  {
+    "name": "Ganga Lake",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.6580,
+      "long": 91.8670
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "High-altitude lake at 3700m near Tawang, part of 101 lakes around Sela Pass, crystal-clear waters, surrounded by rocky terrain and snow peaks, peaceful atmosphere, prayer flags, Buddhist pilgrimage significance, photography destination, pristine mountain landscape."
+  },
+  {
+    "name": "Tawang War Memorial",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.5900,
+      "long": 91.8750
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Memorial commemorating martyrs of 1962 Sino-Indian War, 40-foot stupa-shaped structure, names of 2,420 soldiers inscribed, flame of remembrance, museum with war artifacts, photographs, weapons, light and sound show, tribute to brave soldiers, national pride symbol."
+  },
+  {
+    "name": "Sangti Valley",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Kameng",
+    "coordinates": {
+      "lat": 27.5300,
+      "long": 92.2400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Scenic valley 17km from Dirang, winter home to black-necked cranes (October-March), Dirang River, Monpa villages, apple orchards, camping destination, trekking, birdwatching paradise, tranquil landscape, homestays, offbeat eco-tourism spot."
+  },
+  {
+    "name": "Malinithan Archaeological Site",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Siang",
+    "coordinates": {
+      "lat": 27.6160,
+      "long": 93.9000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "15th-16th century Hindu temple ruins, dedicated to Goddess Durga (local belief as Parvati's mother Malini), brick structures, stone sculptures, terracotta plaques, ASI protected site, on Subansiri River banks near Likabali, archaeological excavations, Arunachal's ancient history."
+  },
+  {
+    "name": "Siang River",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "West Siang",
+    "coordinates": {
+      "lat": 28.0660,
+      "long": 94.8500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Brahmaputra River in Arunachal (called Siang), white-water rafting paradise with Grade IV-V rapids, angling for golden mahseer, Pasighat to Along stretch, Adi tribal villages, stunning gorges, adventure tourism hub, river festivals, biodiversity hotspot."
+  },
+  {
+    "name": "Arunachal Adventure Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "coordinates": {
+      "lat": 27.5867,
+      "long": 91.8667
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October"
+    ],
+    "description": "Annual adventure sports festival celebrating Arunachal's tourism potential, rock climbing, paragliding, trekking, mountain biking, traditional archery, Monpa cultural performances, local cuisine, handicrafts exhibition, October celebration, promotes adventure tourism, community participation."
+  }
+]

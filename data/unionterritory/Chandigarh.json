@@ -1,0 +1,513 @@
+[
+  {
+    "name": "Rock Garden",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7195,
+      "long": 76.7800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Nek Chand's Rock Garden, 40-acre sculpture garden created 1957 secretly by road inspector Nek Chand using industrial and urban waste, 5000+ sculptures from recycled materials - broken bangles, tiles, bottles, rocks, ceramic pots, electrical waste, fantasy kingdom with human figures, animals, birds, dancers, interlinked courtyards, waterfalls, amphitheater, Museum of Outsider Art, second-most visited Indian attraction after Taj Mahal, sustainable art marvel, labyrinth pathways, photography paradise, unique folk art, eco-art pioneer."
+  },
+  {
+    "name": "Sukhna Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7411,
+      "long": 76.7911
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "3 km² man-made reservoir at Shivalik Hills foothills created 1958 by damming Sukhna Choe seasonal stream, Chandigarh's lung, morning joggers' paradise with 5 km promenade, boating (paddle boats, shikaras, water scooters), rowing and yachting clubs, Asian Rowing Championships venue, migratory birds winter sanctuary (Siberian ducks, storks, cranes), sunset point, Sukhna Choe fountain, Golf Range, sculpture garden, no swimming allowed, Shivalik backdrop views, musical fountain evenings, winter fog scenic, peaceful retreat, city's pride."
+  },
+  {
+    "name": "Rose Garden",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7333,
+      "long": 76.7850
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Zakir Hussain Rose Garden, Asia's largest rose garden spanning 30 acres, 1600+ varieties of roses with 50,000 rose bushes, 825 varieties registered, medicinal plants section, flowering trees, water fountains, Grand Rose Festival February-March with Rose Queen pageant, Chandigarh Carnival venue, morning walkers, family picnics, photography especially February-March peak bloom, named after President Zakir Hussain, Sector 16, jogging track, children's play area, open-air theater, landscaped terraces, seasonal flowers, fragrance paradise, free entry."
+  },
+  {
+    "name": "Sector 17 Plaza",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7356,
+      "long": 76.7911
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Chandigarh's commercial heart designed by Le Corbusier, pedestrian-only shopping plaza (India's first), modernist urban design with geometric patterns, wide boulevards, shopping complex with branded stores, bookshops, restaurants, cafes, street food stalls, fountain shows, Shoping-cum-Cum Plaza, banks, theaters including Chandigarh's first Piccadily cinema (now PVR), adjacent Inter-State Bus Terminus, people-watching hub, evening hangout, New Year's Eve celebrations, City Beautiful's social center, architecture photography, planned city showcase, Neelam Theatre for cultural events."
+  },
+  {
+    "name": "Pinjore Gardens",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Panchkula",
+    "coordinates": {
+      "lat": 30.8478,
+      "long": 76.9190
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Yadavindra Gardens, 17th-century Mughal garden built 1594 during Akbar's reign, revived 1775 by Maharaja Yadavindra Singh of Patiala, seven-terraced garden inspired by Shalimar Bagh Kashmir, Sheesh Mahal (Palace of Mirrors), Rang Mahal with frescoes, Jal Mahal (water palace), Hawa Mahal, fountains, waterfalls, Shish Mahal Heritage Hotel, Japanese Garden, zoo, mini-train, Heritage Festival March-April with folk dances, Mango Festival in July, historic Bhima Devi Temple ruins nearby (11th century), 20 km from Chandigarh, weekend getaway, picnic spot, Mughal architecture showcase."
+  },
+  {
+    "name": "Le Corbusier Centre",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7345,
+      "long": 76.7795
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Museum dedicated to Le Corbusier who designed Chandigarh, located in Sector 19, original drawings, architectural models, furniture designs, photographs, audio-visual presentations, office recreations, understanding modernist city planning, Capitol Complex relationship, Chandigarh's genesis story, Pilotis (stilts) architectural style, rough concrete textures (béton brut), urban planning philosophy, five-point architecture principles, research center, architecture students' destination, guided tours, library, documentation of city's evolution, tribute to master planner, nominal entry fee."
+  },
+  {
+    "name": "Capitol Complex",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7336,
+      "long": 76.7790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site (2016) designed by Le Corbusier, houses Punjab and Haryana High Court, Secretariat, Legislative Assembly, Open Hand Monument (25m high aluminum symbol of peace and reconciliation), Tower of Shadows, Geometric Hill, Martyrs Memorial, spread over 100 acres, modernist architecture with rough concrete, geometric patterns, Shivalik backdrop, restricted entry (permits required on Sundays/holidays), architectural pilgrimage for designers worldwide, represents Chandigarh's brain (head of city body metaphor), Esplanade plaza, Monument of Shadows, photography restrictions, government working complex."
+  },
+  {
+    "name": "Terraced Garden",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7340,
+      "long": 76.7880
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "10-acre multi-level garden in Sector 33, cascading terraces with waterfalls, flower beds, ornamental plants, walking paths, jogging track, children's play area, amphitheater for cultural events, landscaped lawns, shaded sitting areas, fountains, topiary art, seasonal flowers, morning yoga sessions, family picnics, photography backdrop, less crowded alternative to Rose Garden, peaceful ambiance, well-maintained, part of Leisure Valley green belt, evening walks, architectural landscape design, eco-friendly features, meditation spot, community gatherings."
+  },
+  {
+    "name": "Japanese Garden",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7510,
+      "long": 76.7740
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "13-acre Japanese-style garden inaugurated 2014 in Sector 31, Zen philosophy inspired design by Hitoshi Matsushima and PK Das, meditation huts, pagodas, water bodies with koi fish, bamboo groves, bonsai plants, rock gardens, wooden bridges, cherry trees, maple trees, Japanese lanterns, peaceful ambiance, tea house, Buddha statues, raked gravel patterns, seasonal blooms, photography paradise, cultural fusion, entry fee, weekday peaceful visits recommended, evening illumination, natural stone pathways, tranquility in urban setting, mindfulness space."
+  },
+  {
+    "name": "Chandigarh Carnival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7333,
+      "long": 76.7790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January"
+    ],
+    "description": "Annual carnival held late December at Rose Garden celebrating city's anniversary, week-long cultural extravaganza, stalls from various states showcasing handicrafts and cuisine, folk dances, music concerts, adventure sports, hot-air balloon rides, food festival, amusement rides, talent shows, laser shows, fireworks, Rose Queen pageant, vintage car display, flower exhibitions, corporate stalls, tourism promotion, attracts lakhs of visitors, vibrant celebrations, family entertainment, New Year countdown events, shopping bonanzas, cultural performances on amphitheater, festive atmosphere."
+  },
+  {
+    "name": "Sukhna Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7360,
+      "long": 76.7930
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "25.98 km² sanctuary at Shivalik foothills, declared 1998, buffer zone for Sukhna Lake, sambars, spotted deer, Indian porcupines, wild boars, hares, jackals, snakes, 70+ bird species including grey partridge, jungle fowl, parakeets, migratory waterfowl at wetland, Chir pine forests, hiking trails, Nepli Forest picnic spot, nature walks with Forest Department permission, ecological education programs, conservation area, biodiversity hotspot, trekking routes, birdwatching, morning safaris, photography, connects to Morni Hills, restricted entry zones, eco-tourism initiatives."
+  },
+  {
+    "name": "Government Museum and Art Gallery",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7345,
+      "long": 76.7795
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Established 1947, designed by Le Corbusier in Sector 10, 10,000+ exhibits including Gandhara sculptures (2nd-5th century), Pahari and Rajasthani miniature paintings, contemporary art, decorative arts, architectural gallery, natural history section, pre-history artifacts, terracotta, coins, arms and armor, manuscripts, Chandigarh Architecture Museum, Japanese woodblock prints, rotating exhibitions, library with 45,000 books, air-conditioned galleries, nominal entry, Tuesday closed, educational programs, art workshops, heritage conservation, research facility, must-visit for art enthusiasts."
+  },
+  {
+    "name": "Chandigarh Haat",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7333,
+      "long": 76.7860
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Permanent open-air craft bazaar in Sector 12 inspired by Delhi Haat, showcasing handicrafts from Punjab, Haryana, Himachal, Rajasthan, handicraft stalls with Phulkari embroidery, Pashmina shawls, wooden handicrafts, pottery, jewelry, food stalls offering regional cuisines, Punjabi dhaba food, chaat, tandoori, cultural performances on weekends, folk dances, nominal entry fee, village fair atmosphere, souvenir shopping, artisan interactions, family destination, evening best time, illuminated ambiance, tourism promotion, cultural immersion, budget-friendly shopping."
+  },
+  {
+    "name": "Open Hand Monument",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7333,
+      "long": 76.7790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Le Corbusier's iconic symbol at Capitol Complex, 26m high aluminum structure weighing 50 tons, hand with open palm rotating with wind direction like weathervane, represents peace and reconciliation, open to give and receive, Chandigarh's official emblem, erected 1985 (delayed 24 years after Le Corbusier's death), Pit of Consideration (sunken amphitheater for debates) adjacent, Tower of Shadows architectural experiment, part of UNESCO Capitol Complex, photography landmark, modernist sculpture, symbolic of city's utopian vision, restricted access (weekends/holidays with permits), architectural significance."
+  },
+  {
+    "name": "Chandigarh Golf Club",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7380,
+      "long": 76.7780
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Established 1965 in Sector 6, 18-hole championship golf course spread over 134 acres, challenging layout with water hazards, sand bunkers, tree-lined fairways, par 72 course, PGA India tournaments hosted, floodlit driving range, clubhouse with dining, golf academy, pro shop, equipment rentals, coaching available, membership and green fees for visitors, well-maintained greens, Sukhna Lake proximity, morning tee times popular, weekend tournaments, corporate events venue, golfers' paradise in planned city, professional caddies, scenic Shivalik backdrop."
+  },
+  {
+    "name": "Leisure Valley",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7333,
+      "long": 76.7795
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "8 km long green belt running through city sectors, Le Corbusier's lungs of city concept, continuous park system connecting gardens - Rose Garden, Bougainvillea Garden, Hibiscus Garden, Shanti Kunj, Rajendra Park, Garden of Fragrance, jogging and cycling tracks, themed gardens, open-air gym equipment, fountains, water bodies, biodiversity conservation, morning walkers' paradise, yoga sessions, outdoor events, marathon routes, family picnics, pollution mitigation, urban forest, bird habitats, seamless green corridor, sustainable urban planning model, free access."
+  },
+  {
+    "name": "City Centre, Panchkula",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Panchkula",
+    "coordinates": {
+      "lat": 30.8460,
+      "long": 76.9120
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Panchkula's commercial hub in Sector 5, shopping complex with branded stores, electronics, apparel, food courts, restaurants, cafes, cinema multiplex, family entertainment zone, Bowling alley, gaming arcades, weekend markets, street food stalls, adjacent Tau Devi Lal Stadium for sports events, parks nearby, residential shopping destination, less crowded than Chandigarh Sector 17, parking facilities, urban hangout, evening crowd, adjacent to Pinjore Gardens highway, IT park proximity, modern infrastructure, planned city extension."
+  },
+  {
+    "name": "Chhatbir Zoo",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Zirakpur",
+    "coordinates": {
+      "lat": 30.8333,
+      "long": 76.8790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mahendra Chaudhary Zoological Park spread over 505 acres, established 1977, 1200+ animals of 100+ species, Royal Bengal tigers, white tigers, lions, leopards, elephants, bears, crocodiles, gharials, deer, antelopes, herbivore safari (van), lion safari (buses), aviary with exotic birds, reptile house, toy train for children, battery-operated vehicles, forest setting, naturalistic enclosures, breeding programs, conservation initiatives, 17 km from Chandigarh, full-day destination, picnic spots, canteen, best visited winter mornings, educational tours, photography allowed."
+  },
+  {
+    "name": "Sector 22 Market",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7360,
+      "long": 76.7880
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Popular local market known for furniture, home decor, antique reproductions, handicrafts, ethnic wear, Phulkari embroidery, wooden artifacts, budget shopping destination, wholesale rates available, bargaining encouraged, electronics, fashion jewelry, footwear, books, stationery, cafes and restaurants, Sindhi Sweets famous, ghee ki barfi specialty, street food, chaat, less touristy authentic local market, parking challenges, adjacent to Rock Garden and Rose Garden, combine sightseeing with shopping, evening rush, daily needs market, wholesale furniture hub."
+  },
+  {
+    "name": "Chandigarh Literature Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.7333,
+      "long": 76.7790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "January"
+    ],
+    "description": "Annual literary festival held in January at various venues including Capitol Complex, launched 2014, attracts renowned authors, poets, journalists, publishers, panel discussions, book readings, poetry sessions, workshops on writing, translation, publishing, storytelling for children, book exhibitions, meet-and-greet with authors, intellectual debates on politics, culture, society, free entry (some sessions), celebrated writers from India and abroad, promotes reading culture, youth engagement, book launches, literary awards, heritage walks combined, evening cultural performances, food stalls, three-day event, literary tourism."
+  }
+]
