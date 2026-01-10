@@ -38,7 +38,9 @@ const createCustomIcon = (color: string): L.DivIcon => {
 function App(): JSX.Element {
   const [places, setPlaces] = useState<Place[]>([]);
   const [giTags, setGiTags] = useState<GITagItem[]>([]);
-  const [filter, setFilter] = useState<string>('all');
+  const [locationTypeFilter, setLocationTypeFilter] = useState<string>('all');
+  const [showGiTags, setShowGiTags] = useState<boolean>(true);
+  const [stateFilter, setStateFilter] = useState<string>('all');
   const [loading, setLoading] = useState<boolean>(true);
 
   useEffect(() => {
@@ -156,11 +158,34 @@ function App(): JSX.Element {
     loadAllData();
   }, []);
 
-  const filteredPlaces: Place[] = filter === 'all' 
-    ? places 
-    : places.filter(place => place.type === filter);
+  // Apply all filters
+  const filteredPlaces: Place[] = places.filter(place => {
+    // Location Type Filter
+    if (locationTypeFilter !== 'all' && place.type !== locationTypeFilter) {
+      return false;
+    }
+    // State Filter
+    if (stateFilter !== 'all' && place.state !== stateFilter) {
+      return false;
+    }
+    return true;
+  });
 
-  const uniqueTypes: string[] = [...new Set(places.map(place => place.type))];
+  // Filter GI Tags (only by state if enabled)
+  const filteredGiTags: GITagItem[] = showGiTags ? giTags.filter(item => {
+    // State Filter
+    if (stateFilter !== 'all' && item.state !== stateFilter) {
+      return false;
+    }
+    return true;
+  }) : [];
+
+  const uniqueTypes: string[] = [...new Set(
+    places
+      .filter(place => stateFilter === 'all' || place.state === stateFilter)
+      .map(place => place.type)
+  )];
+  const uniqueStates: string[] = [...new Set([...places.map(place => place.state), ...giTags.map(item => item.state)])].sort();
 
   if (loading) {
     return <div className="loading">Loading map data...</div>;
@@ -169,24 +194,58 @@ function App(): JSX.Element {
   return (
     <div className="App">
       <div className="sidebar">
-        <h1>{appConfig.title}</h1>
+        <h1>
+          <img src={appConfig.url} alt="India" className="title-icon" />
+          {appConfig.title}
+        </h1>
         {appConfig.showStatistics && (
           <div className="stats">
-            <p><strong>Total Places:</strong> {places.length}</p>
-            <p><strong>GI Tags:</strong> {giTags.length}</p>
+            <p><strong>Total Places:</strong> {filteredPlaces.length}</p>
+            <p><strong>GI Tags:</strong> {filteredGiTags.length}</p>
           </div>
         )}
         
         <div className="filters">
-          <h3>Filter by Type</h3>
-          <select value={filter} onChange={(e) => setFilter(e.target.value)}>
-            <option value="all">All Places ({places.length})</option>
-            {uniqueTypes.sort().map(type => (
-              <option key={type} value={type}>
-                {type} ({places.filter(p => p.type === type).length})
-              </option>
-            ))}
-          </select>
+          <div className="filter-section">
+            <h3>Location Filter Type</h3>
+            <select value={locationTypeFilter} onChange={(e) => setLocationTypeFilter(e.target.value)}>
+              <option value="all">All Places ({places.filter(p => stateFilter === 'all' || p.state === stateFilter).length})</option>
+              {uniqueTypes.sort().map(type => (
+                <option key={type} value={type}>
+                  {type} ({places.filter(p => p.type === type && (stateFilter === 'all' || p.state === stateFilter)).length})
+                </option>
+              ))}
+            </select>
+          </div>
+
+          <div className="filter-section">
+            <h3>State Wise Location Filter</h3>
+            <select value={stateFilter} onChange={(e) => setStateFilter(e.target.value)}>
+              <option value="all">All States</option>
+              {uniqueStates.map(state => (
+                <option key={state} value={state}>
+                  {state}
+                </option>
+              ))}
+            </select>
+          </div>
+
+          <div className="filter-section">
+            <h3>GI Tag Filter</h3>
+            <div className="switch-container">
+              <label className="switch">
+                <input
+                  type="checkbox"
+                  checked={showGiTags}
+                  onChange={(e) => setShowGiTags(e.target.checked)}
+                />
+                <span className="slider"></span>
+              </label>
+              <span className="switch-label">
+                {showGiTags ? `ON - Showing ${giTags.length} GI Tags` : 'OFF - Hidden'}
+              </span>
+            </div>
+          </div>
         </div>
 
         {appConfig.showLegend && (
@@ -251,34 +310,34 @@ function App(): JSX.Element {
           })}
         </LayerGroup>
 
-        {/* GI Tags - shown when filter is 'all' */}
-        {filter === 'all' && (
+        {/* GI Tags */}
+        {showGiTags && (
           <LayerGroup>
-            {giTags.map((item, index) => {
-              if (!item.coordinates || !item.coordinates.lat || !item.coordinates.long) {
-                return null;
-              }
-              
-              const icon = createCustomIcon(iconColors['GI Tags']);
+            {filteredGiTags.map((item, index) => {
+                if (!item.coordinates || !item.coordinates.lat || !item.coordinates.long) {
+                  return null;
+                }
+                
+                const icon = createCustomIcon(iconColors['GI Tags']);
 
-              return (
-                <Marker 
-                  key={`gi-${index}`}
-                  position={[item.coordinates.lat, item.coordinates.long]}
-                  icon={icon}
-                >
-                  <Popup>
-                    <div className="popup-content">
-                      <h3>🏅 {item.name}</h3>
-                      <p><strong>Type:</strong> {item.Type}</p>
-                      <p><strong>Location:</strong> {item.location}, {item.state}</p>
-                      <p><strong>Significance:</strong> {item.significance}</p>
-                      {item.description && <p className="description">{item.description}</p>}
-                    </div>
-                  </Popup>
-                </Marker>
-              );
-            })}
+                return (
+                  <Marker 
+                    key={`gi-${index}`}
+                    position={[item.coordinates.lat, item.coordinates.long]}
+                    icon={icon}
+                  >
+                    <Popup>
+                      <div className="popup-content">
+                        <h3>🏅 {item.name}</h3>
+                        <p><strong>Type:</strong> {item.Type}</p>
+                        <p><strong>Location:</strong> {item.location}, {item.state}</p>
+                        <p><strong>Significance:</strong> {item.significance}</p>
+                        {item.description && <p className="description">{item.description}</p>}
+                      </div>
+                    </Popup>
+                  </Marker>
+                );
+              })}
           </LayerGroup>
         )}
       </MapContainer>

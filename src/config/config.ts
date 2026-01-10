@@ -36,6 +36,7 @@ export interface DataSources {
 }
 
 export interface AppConfig {
+  url: string;
   title: string;
   sidebarWidth: number;
   enableGITags: boolean;
@@ -125,7 +126,8 @@ export const dataSources: DataSources = {
 
 // App Configuration
 export const appConfig: AppConfig = {
-  title: '🇮🇳 India Solo Tour',
+  url: "https://artbindu-app.github.io/whoami/images/profile/india.svg",
+  title: 'India Solo Tour',
   sidebarWidth: 320,
   enableGITags: true,
   showLegend: true,
@@ -134,8 +136,8 @@ export const appConfig: AppConfig = {
 
 // Feature Flags
 export const features: Features = {
-  clustering: false, // Enable marker clustering (requires additional library)
-  heatmap: false, // Enable heatmap view (requires additional library)
-  search: false, // Enable search functionality
-  routing: false // Enable routing between places
+  clustering: false,
+  heatmap: false,
+  search: false,
+  routing: false
 };
