@@ -8,9 +8,9 @@ import {
   markerConfig, 
   dataSources, 
   appConfig 
-} from './config/config';
-import { Place } from './models/Places';
-import { GITagItem } from './models/Items';
+} from '../config/config';
+import { Place } from '../models/Places';
+import { GITagItem } from '../models/Items';
 
 // Import marker images
 import markerIcon2x from 'leaflet/dist/images/marker-icon-2x.png';
@@ -48,54 +48,54 @@ function App(): JSX.Element {
 
         // Load state files dynamically
         const stateImports: { [key: string]: () => Promise<any> } = {
-          'AndhraPradesh': () => import('./data/state/AndhraPradesh.json'),
-          'ArunachalPradesh': () => import('./data/state/ArunachalPradesh.json'),
-          'Assam': () => import('./data/state/Assam.json'),
-          'Bihar': () => import('./data/state/Bihar.json'),
-          'Chhattisgarh': () => import('./data/state/Chhattisgarh.json'),
-          'Goa': () => import('./data/state/Goa.json'),
-          'Gujarat': () => import('./data/state/Gujarat.json'),
-          'Haryana': () => import('./data/state/Haryana.json'),
-          'HimachalPradesh': () => import('./data/state/HimachalPradesh.json'),
-          'Jharkhand': () => import('./data/state/Jharkhand.json'),
-          'Karnataka': () => import('./data/state/Karnataka.json'),
-          'Kerala': () => import('./data/state/Kerala.json'),
-          'MadhyaPradesh': () => import('./data/state/MadhyaPradesh.json'),
-          'Maharashtra': () => import('./data/state/Maharashtra.json'),
-          'Manipur': () => import('./data/state/Manipur.json'),
-          'Meghalaya': () => import('./data/state/Meghalaya.json'),
-          'Mizoram': () => import('./data/state/Mizoram.json'),
-          'Nagaland': () => import('./data/state/Nagaland.json'),
-          'Odisha': () => import('./data/state/Odisha.json'),
-          'Punjab': () => import('./data/state/Punjab.json'),
-          'Rajasthan': () => import('./data/state/Rajasthan.json'),
-          'Sikkim': () => import('./data/state/Sikkim.json'),
-          'TamilNadu': () => import('./data/state/TamilNadu.json'),
-          'Telangana': () => import('./data/state/Telangana.json'),
-          'Tripura': () => import('./data/state/Tripura.json'),
-          'Uttarakhand': () => import('./data/state/Uttarakhand.json'),
-          'UttarPradesh': () => import('./data/state/UttarPradesh.json'),
-          'WestBengal': () => import('./data/state/WestBengal.json')
+          'AndhraPradesh': () => import('../data/state/AndhraPradesh.json'),
+          'ArunachalPradesh': () => import('../data/state/ArunachalPradesh.json'),
+          'Assam': () => import('../data/state/Assam.json'),
+          'Bihar': () => import('../data/state/Bihar.json'),
+          'Chhattisgarh': () => import('../data/state/Chhattisgarh.json'),
+          'Goa': () => import('../data/state/Goa.json'),
+          'Gujarat': () => import('../data/state/Gujarat.json'),
+          'Haryana': () => import('../data/state/Haryana.json'),
+          'HimachalPradesh': () => import('../data/state/HimachalPradesh.json'),
+          'Jharkhand': () => import('../data/state/Jharkhand.json'),
+          'Karnataka': () => import('../data/state/Karnataka.json'),
+          'Kerala': () => import('../data/state/Kerala.json'),
+          'MadhyaPradesh': () => import('../data/state/MadhyaPradesh.json'),
+          'Maharashtra': () => import('../data/state/Maharashtra.json'),
+          'Manipur': () => import('../data/state/Manipur.json'),
+          'Meghalaya': () => import('../data/state/Meghalaya.json'),
+          'Mizoram': () => import('../data/state/Mizoram.json'),
+          'Nagaland': () => import('../data/state/Nagaland.json'),
+          'Odisha': () => import('../data/state/Odisha.json'),
+          'Punjab': () => import('../data/state/Punjab.json'),
+          'Rajasthan': () => import('../data/state/Rajasthan.json'),
+          'Sikkim': () => import('../data/state/Sikkim.json'),
+          'TamilNadu': () => import('../data/state/TamilNadu.json'),
+          'Telangana': () => import('../data/state/Telangana.json'),
+          'Tripura': () => import('../data/state/Tripura.json'),
+          'Uttarakhand': () => import('../data/state/Uttarakhand.json'),
+          'UttarPradesh': () => import('../data/state/UttarPradesh.json'),
+          'WestBengal': () => import('../data/state/WestBengal.json')
         };
 
         // Load UT files
         const utImports: { [key: string]: () => Promise<any> } = {
-          'AndamanNicobarIslands': () => import('./data/unionterritory/AndamanNicobarIslands.json'),
-          'Chandigarh': () => import('./data/unionterritory/Chandigarh.json'),
-          'DadraNagarHaveli': () => import('./data/unionterritory/DadraNagarHaveli.json'),
-          'DamanDiu': () => import('./data/unionterritory/DamanDiu.json'),
-          'Delhi': () => import('./data/unionterritory/Delhi.json'),
-          'JammuKashmir': () => import('./data/unionterritory/JammuKashmir.json'),
-          'Ladakh': () => import('./data/unionterritory/Ladakh.json'),
-          'Lakshadweep': () => import('./data/unionterritory/Lakshadweep.json'),
-          'Puducherry': () => import('./data/unionterritory/Puducherry.json')
+          'AndamanNicobarIslands': () => import('../data/unionterritory/AndamanNicobarIslands.json'),
+          'Chandigarh': () => import('../data/unionterritory/Chandigarh.json'),
+          'DadraNagarHaveli': () => import('../data/unionterritory/DadraNagarHaveli.json'),
+          'DamanDiu': () => import('../data/unionterritory/DamanDiu.json'),
+          'Delhi': () => import('../data/unionterritory/Delhi.json'),
+          'JammuKashmir': () => import('../data/unionterritory/JammuKashmir.json'),
+          'Ladakh': () => import('../data/unionterritory/Ladakh.json'),
+          'Lakshadweep': () => import('../data/unionterritory/Lakshadweep.json'),
+          'Puducherry': () => import('../data/unionterritory/Puducherry.json')
         };
 
         // Load special files
         const specialImports: { [key: string]: () => Promise<any> } = {
-          'CharDham': () => import('./data/special/CharDham.json'),
-          'JyotirLingas': () => import('./data/special/JyotirLingas.json'),
-          'ShaktiPeeths': () => import('./data/special/ShaktiPeeths.json')
+          'CharDham': () => import('../data/special/CharDham.json'),
+          'JyotirLingas': () => import('../data/special/JyotirLingas.json'),
+          'ShaktiPeeths': () => import('../data/special/ShaktiPeeths.json')
         };
 
         // Load all state files
