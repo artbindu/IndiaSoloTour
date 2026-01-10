@@ -1,0 +1,730 @@
+[
+    {
+        "name": "Srikalahasthi Kalamkari",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Andhra Pradesh",
+        "location": "Srikalahasthi",
+        "coordinates": {
+            "lat": 13.7500,
+            "long": 79.7000
+        },
+        "significance": "GI Tag",
+        "description": "Hand-painted traditional textile"
+    },
+    {
+        "name": "Kondapalli Bommallu",
+        "Type": "Toy / Craft",
+        "country": "India",
+        "state": "Andhra Pradesh",
+        "location": "Kondapalli",
+        "coordinates": {
+            "lat": 16.5000,
+            "long": 80.6500
+        },
+        "significance": "GI Tag",
+        "description": "Wooden toys and dolls"
+    },
+    {
+        "name": "Tirupati Laddu",
+        "Type": "Food / Sweet",
+        "country": "India",
+        "state": "Andhra Pradesh",
+        "location": "Tirupati",
+        "coordinates": {
+            "lat": 13.6320,
+            "long": 79.4190
+        },
+        "significance": "GI Tag",
+        "description": "Famous temple sweet"
+    },
+    {
+        "name": "Banganapalle Mangoes",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Andhra Pradesh",
+        "location": "Banganapalle",
+        "coordinates": {
+            "lat": 15.4670,
+            "long": 78.2830
+        },
+        "significance": "GI Tag",
+        "description": "Sweet mango variety"
+    },
+    {
+        "name": "Arunachal Orange",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Arunachal Pradesh",
+        "location": "Arunachal",
+        "coordinates": {
+            "lat": 28.0000,
+            "long": 95.0000
+        },
+        "significance": "GI Tag",
+        "description": "Juicy and sweet orange"
+    },
+    {
+        "name": "Idu Mishmi Textiles",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Arunachal Pradesh",
+        "location": "Idu Mishmi",
+        "coordinates": {
+            "lat": 28.2000,
+            "long": 97.2000
+        },
+        "significance": "GI Tag",
+        "description": "Traditional woven fabric"
+    },
+    {
+        "name": "Adi Apong",
+        "Type": "Beverage",
+        "country": "India",
+        "state": "Arunachal Pradesh",
+        "location": "Adi",
+        "coordinates": {
+            "lat": 28.2500,
+            "long": 95.7500
+        },
+        "significance": "GI Tag",
+        "description": "Local rice beer"
+    },
+    {
+        "name": "Arunachal Yak",
+        "Type": "Meat / Livestock",
+        "country": "India",
+        "state": "Arunachal Pradesh",
+        "location": "Arunachal",
+        "coordinates": {
+            "lat": 28.2000,
+            "long": 95.0000
+        },
+        "significance": "GI Tag",
+        "description": "High-altitude yak breed"
+    },
+    {
+        "name": "Tangsa Textiles",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Arunachal Pradesh",
+        "location": "Tangsa",
+        "coordinates": {
+            "lat": 27.9000,
+            "long": 96.9000
+        },
+        "significance": "GI Tag",
+        "description": "Traditional handloom"
+    },
+    {
+        "name": "Khaw Tai (Khamti Rice)",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Arunachal Pradesh",
+        "location": "Khamti",
+        "coordinates": {
+            "lat": 27.8000,
+            "long": 95.9000
+        },
+        "significance": "GI Tag",
+        "description": "Traditional aromatic rice"
+    },
+    {
+        "name": "Muga Silk of Assam",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Assam",
+        "location": "Assam",
+        "coordinates": {
+            "lat": 26.0000,
+            "long": 91.0000
+        },
+        "significance": "GI Tag",
+        "description": "Golden silk"
+    },
+    {
+        "name": "Joha Rice",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Assam",
+        "location": "Assam",
+        "coordinates": {
+            "lat": 26.0000,
+            "long": 91.0000
+        },
+        "significance": "GI Tag",
+        "description": "Aromatic rice variety"
+    },
+    {
+        "name": "Tezpur Litchi",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Assam",
+        "location": "Tezpur",
+        "coordinates": {
+            "lat": 26.6330,
+            "long": 92.8000
+        },
+        "significance": "GI Tag",
+        "description": "Sweet litchi"
+    },
+    {
+        "name": "Gamosa of Assam",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Assam",
+        "location": "Assam",
+        "coordinates": {
+            "lat": 26.0000,
+            "long": 91.0000
+        },
+        "significance": "GI Tag",
+        "description": "Traditional woven cloth"
+    },
+    {
+        "name": "Judima",
+        "Type": "Beverage",
+        "country": "India",
+        "state": "Assam",
+        "location": "Assam",
+        "coordinates": {
+            "lat": 26.0000,
+            "long": 91.0000
+        },
+        "significance": "GI Tag",
+        "description": "Fermented rice drink"
+    },
+    {
+        "name": "Boka Saul (sticky rice)",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Assam",
+        "location": "Assam",
+        "coordinates": {
+            "lat": 26.0000,
+            "long": 91.0000
+        },
+        "significance": "GI Tag",
+        "description": "Sticky rice variety"
+    },
+    {
+        "name": "Madhubani Paintings",
+        "Type": "Art",
+        "country": "India",
+        "state": "Bihar",
+        "location": "Madhubani",
+        "coordinates": {
+            "lat": 26.3600,
+            "long": 86.0730
+        },
+        "significance": "GI Tag",
+        "description": "Traditional paintings"
+    },
+    {
+        "name": "Bhagalpuri Silk",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Bihar",
+        "location": "Bhagalpur",
+        "coordinates": {
+            "lat": 25.2500,
+            "long": 87.0000
+        },
+        "significance": "GI Tag",
+        "description": "Silk fabric"
+    },
+    {
+        "name": "Katarni Rice",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Bihar",
+        "location": "Katihar",
+        "coordinates": {
+            "lat": 25.5333,
+            "long": 87.5333
+        },
+        "significance": "GI Tag",
+        "description": "Aromatic rice"
+    },
+    {
+        "name": "Magahi Paan",
+        "Type": "Food / Snack",
+        "country": "India",
+        "state": "Bihar",
+        "location": "Patna",
+        "coordinates": {
+            "lat": 25.5941,
+            "long": 85.1376
+        },
+        "significance": "GI Tag",
+        "description": "Betel leaf specialty"
+    },
+    {
+        "name": "Shahi Litchi",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Bihar",
+        "location": "Muzaffarpur",
+        "coordinates": {
+            "lat": 26.1200,
+            "long": 85.3900
+        },
+        "significance": "GI Tag",
+        "description": "Sweet litchi"
+    },
+    {
+        "name": "Mithila Makhana",
+        "Type": "Food / Snack",
+        "country": "India",
+        "state": "Bihar",
+        "location": "Mithila",
+        "coordinates": {
+            "lat": 26.4000,
+            "long": 85.6000
+        },
+        "significance": "GI Tag",
+        "description": "Fox nut variety"
+    },
+    {
+        "name": "Bastar Dhokra",
+        "Type": "Art / Craft",
+        "country": "India",
+        "state": "Chhattisgarh",
+        "location": "Bastar",
+        "coordinates": {
+            "lat": 19.0742,
+            "long": 82.0220
+        },
+        "significance": "GI Tag",
+        "description": "Bell metal craft"
+    },
+    {
+        "name": "Nagri Dubraj",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Chhattisgarh",
+        "location": "Nagri",
+        "coordinates": {
+            "lat": 21.0000,
+            "long": 81.5000
+        },
+        "significance": "GI Tag",
+        "description": "Local rice variety"
+    },
+    {
+        "name": "Feni",
+        "Type": "Beverage",
+        "country": "India",
+        "state": "Goa",
+        "location": "Goa",
+        "coordinates": {
+            "lat": 15.5000,
+            "long": 73.8000
+        },
+        "significance": "GI Tag",
+        "description": "Cashew apple liquor"
+    },
+    {
+        "name": "Khola Chilli",
+        "Type": "Spice",
+        "country": "India",
+        "state": "Goa",
+        "location": "Goa",
+        "coordinates": {
+            "lat": 15.5000,
+            "long": 73.8000
+        },
+        "significance": "GI Tag",
+        "description": "Hot red chili"
+    },
+    {
+        "name": "Goa Mankurad Mango",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Goa",
+        "location": "Ponda",
+        "coordinates": {
+            "lat": 15.4000,
+            "long": 73.9000
+        },
+        "significance": "GI Tag",
+        "description": "Sweet mango variety"
+    },
+    {
+        "name": "Patan Patola",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Gujarat",
+        "location": "Patan",
+        "coordinates": {
+            "lat": 23.8500,
+            "long": 72.1200
+        },
+        "significance": "GI Tag",
+        "description": "Double ikat silk"
+    },
+    {
+        "name": "Sankheda Furniture",
+        "Type": "Furniture",
+        "country": "India",
+        "state": "Gujarat",
+        "location": "Sankheda",
+        "coordinates": {
+            "lat": 21.3833,
+            "long": 73.4667
+        },
+        "significance": "GI Tag",
+        "description": "Painted teak wood furniture"
+    },
+    {
+        "name": "Kutch Embroidery",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Gujarat",
+        "location": "Kutch",
+        "coordinates": {
+            "lat": 23.2500,
+            "long": 69.6667
+        },
+        "significance": "GI Tag",
+        "description": "Colorful hand embroidery"
+    },
+    {
+        "name": "Gir Kesar Mango",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Gujarat",
+        "location": "Gir",
+        "coordinates": {
+            "lat": 21.1425,
+            "long": 70.8280
+        },
+        "significance": "GI Tag",
+        "description": "Sweet mango"
+    },
+    {
+        "name": "Surat Zari Craft",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Gujarat",
+        "location": "Surat",
+        "coordinates": {
+            "lat": 21.1700,
+            "long": 72.8311
+        },
+        "significance": "GI Tag",
+        "description": "Zari embroidery work"
+    },
+    {
+        "name": "Kullu Shawl",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Himachal Pradesh",
+        "location": "Kullu",
+        "coordinates": {
+            "lat": 31.9580,
+            "long": 77.1090
+        },
+        "significance": "GI Tag",
+        "description": "Woollen shawl"
+    },
+    {
+        "name": "Kangra Tea",
+        "Type": "Beverage",
+        "country": "India",
+        "state": "Himachal Pradesh",
+        "location": "Kangra",
+        "coordinates": {
+            "lat": 32.0980,
+            "long": 76.2690
+        },
+        "significance": "GI Tag",
+        "description": "Aromatic tea"
+    },
+    {
+        "name": "Chamba Rumal",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Himachal Pradesh",
+        "location": "Chamba",
+        "coordinates": {
+            "lat": 32.5500,
+            "long": 76.1500
+        },
+        "significance": "GI Tag",
+        "description": "Embroidered handkerchief"
+    },
+    {
+        "name": "Kinnauri Shawl",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Himachal Pradesh",
+        "location": "Kinnaur",
+        "coordinates": {
+            "lat": 31.5500,
+            "long": 78.2500
+        },
+        "significance": "GI Tag",
+        "description": "Woollen shawl"
+    },
+    {
+        "name": "Kashmir Pashmina",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Jammu & Kashmir",
+        "location": "Kashmir",
+        "coordinates": {
+            "lat": 34.0837,
+            "long": 74.7973
+        },
+        "significance": "GI Tag",
+        "description": "Fine wool shawl"
+    },
+    {
+        "name": "Kani Shawl",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Jammu & Kashmir",
+        "location": "Kashmir",
+        "coordinates": {
+            "lat": 34.0837,
+            "long": 74.7973
+        },
+        "significance": "GI Tag",
+        "description": "Handwoven shawl"
+    },
+    {
+        "name": "Kashmir Saffron",
+        "Type": "Spice",
+        "country": "India",
+        "state": "Jammu & Kashmir",
+        "location": "Pampore",
+        "coordinates": {
+            "lat": 33.8670,
+            "long": 75.0670
+        },
+        "significance": "GI Tag",
+        "description": "Premium saffron"
+    },
+    {
+        "name": "Kashmir Walnut Wood Carving",
+        "Type": "Art / Craft",
+        "country": "India",
+        "state": "Jammu & Kashmir",
+        "location": "Kashmir",
+        "coordinates": {
+            "lat": 34.0837,
+            "long": 74.7973
+        },
+        "significance": "GI Tag",
+        "description": "Traditional wood carving"
+    },
+    {
+        "name": "Mushqbudji Rice",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Jammu & Kashmir",
+        "location": "Kashmir",
+        "coordinates": {
+            "lat": 34.0837,
+            "long": 74.7973
+        },
+        "significance": "GI Tag",
+        "description": "Aromatic rice"
+    },
+    {
+        "name": "Sohrai-Khovar Painting",
+        "Type": "Art",
+        "country": "India",
+        "state": "Jharkhand",
+        "location": "Hazaribagh",
+        "coordinates": {
+            "lat": 23.9940,
+            "long": 85.3340
+        },
+        "significance": "GI Tag",
+        "description": "Tribal painting style"
+    },
+    {
+        "name": "Mysore Silk",
+        "Type": "Textile",
+        "country": "India",
+        "state": "Karnataka",
+        "location": "Mysore",
+        "coordinates": {
+            "lat": 12.2958,
+            "long": 76.6394
+        },
+        "significance": "GI Tag",
+        "description": "Silk sarees"
+    },
+    {
+        "name": "Bidriware",
+        "Type": "Art / Craft",
+        "country": "India",
+        "state": "Karnataka",
+        "location": "Bidar",
+        "coordinates": {
+            "lat": 17.9133,
+            "long": 77.5299
+        },
+        "significance": "GI Tag",
+        "description": "Metal inlay craft"
+    },
+    {
+        "name": "Channapatna Toys & Dolls",
+        "Type": "Toy / Craft",
+        "country": "India",
+        "state": "Karnataka",
+        "location": "Channapatna",
+        "coordinates": {
+            "lat": 12.6550,
+            "long": 77.2200
+        },
+        "significance": "GI Tag",
+        "description": "Wooden toys"
+    },
+    {
+        "name": "Coorg Orange",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Karnataka",
+        "location": "Coorg",
+        "coordinates": {
+            "lat": 12.3375,
+            "long": 75.8069
+        },
+        "significance": "GI Tag",
+        "description": "Sweet orange"
+    },
+    {
+        "name": "Byadagi Chilli",
+        "Type": "Spice",
+        "country": "India",
+        "state": "Karnataka",
+        "location": "Byadagi",
+        "coordinates": {
+            "lat": 14.8000,
+            "long": 75.7000
+        },
+        "significance": "GI Tag",
+        "description": "Red chili variety"
+    },
+    {
+        "name": "Dharwad Pedha",
+        "Type": "Food / Sweet",
+        "country": "India",
+        "state": "Karnataka",
+        "location": "Dharwad",
+        "coordinates": {
+            "lat": 15.4667,
+            "long": 75.0167
+        },
+        "significance": "GI Tag",
+        "description": "Milk-based sweet"
+    },
+    {
+        "name": "Sirsi Supari",
+        "Type": "Food / Nut",
+        "country": "India",
+        "state": "Karnataka",
+        "location": "Sirsi",
+        "coordinates": {
+            "lat": 14.6167,
+            "long": 74.8833
+        },
+        "significance": "GI Tag",
+        "description": "Betel nut"
+    },
+    {
+        "name": "Aranmula Kannadi",
+        "Type": "Art / Craft",
+        "country": "India",
+        "state": "Kerala",
+        "location": "Aranmula",
+        "coordinates": {
+            "lat": 9.3333,
+            "long": 76.7167
+        },
+        "significance": "GI Tag",
+        "description": "Metal mirror"
+    },
+    {
+        "name": "Alleppey Coir",
+        "Type": "Craft",
+        "country": "India",
+        "state": "Kerala",
+        "location": "Alleppey",
+        "coordinates": {
+            "lat": 9.5000,
+            "long": 76.3333
+        },
+        "significance": "GI Tag",
+        "description": "Coir products"
+    },
+    {
+        "name": "Palakkadan Matta Rice",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Kerala",
+        "location": "Palakkad",
+        "coordinates": {
+            "lat": 10.7765,
+            "long": 76.6533
+        },
+        "significance": "GI Tag",
+        "description": "Parboiled rice"
+    },
+    {
+        "name": "Pokkali Rice",
+        "Type": "Grain",
+        "country": "India",
+        "state": "Kerala",
+        "location": "Thrissur",
+        "coordinates": {
+            "lat": 10.5190,
+            "long": 76.2144
+        },
+        "significance": "GI Tag",
+        "description": "Saltwater rice variety"
+    },
+    {
+        "name": "Vazhakulam Pineapple",
+        "Type": "Fruit",
+        "country": "India",
+        "state": "Kerala",
+        "location": "Vazhakulam",
+        "coordinates": {
+            "lat": 10.1033,
+            "long": 76.5377
+        },
+        "significance": "GI Tag",
+        "description": "Sweet pineapple"
+    },
+    {
+        "name": "Marayoor Jaggery",
+        "Type": "Food / Sweet",
+        "country": "India",
+        "state": "Kerala",
+        "location": "Marayoor",
+        "coordinates": {
+            "lat": 10.5380,
+            "long": 77.0940
+        },
+        "significance": "GI Tag",
+        "description": "Palm jaggery"
+    },
+    {
+        "name": "Wayanad Robusta Coffee",
+        "Type": "Beverage",
+        "country": "India",
+        "state": "Kerala",
+        "location": "Wayanad",
+        "coordinates": {
+            "lat": 11.6850,
+            "long": 76.1250
+        },
+        "significance": "GI Tag",
+        "description": "Coffee beans"
+    }
+]
