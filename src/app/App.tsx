@@ -42,6 +42,7 @@ function App(): JSX.Element {
   const [showGiTags, setShowGiTags] = useState<boolean>(true);
   const [stateFilter, setStateFilter] = useState<string>('all');
   const [loading, setLoading] = useState<boolean>(true);
+  const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
 
   useEffect(() => {
     const loadAllData = async (): Promise<void> => {
@@ -187,13 +188,29 @@ function App(): JSX.Element {
   )];
   const uniqueStates: string[] = [...new Set([...places.map(place => place.state), ...giTags.map(item => item.state)])].sort();
 
+  // Auto-hide sidebar on mobile after filter change
+  const handleFilterChange = (callback: () => void) => {
+    callback();
+    if (window.innerWidth <= 768) {
+      setTimeout(() => setSidebarOpen(false), 300);
+    }
+  };
+
   if (loading) {
     return <div className="loading">Loading map data...</div>;
   }
 
   return (
     <div className="App">
-      <div className="sidebar">
+      <button 
+        className="sidebar-toggle" 
+        onClick={() => setSidebarOpen(!sidebarOpen)}
+        aria-label="Toggle sidebar"
+      >
+        <span className="hamburger-icon">{sidebarOpen ? '✕' : '☰'}</span>
+      </button>
+      
+      <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
         <h1>
           <img src={appConfig.url} alt="India" className="title-icon" />
           {appConfig.title}
@@ -208,7 +225,7 @@ function App(): JSX.Element {
         <div className="filters">
           <div className="filter-section">
             <h3>Location Filter Type</h3>
-            <select value={locationTypeFilter} onChange={(e) => setLocationTypeFilter(e.target.value)}>
+            <select value={locationTypeFilter} onChange={(e) => handleFilterChange(() => setLocationTypeFilter(e.target.value))}>
               <option value="all">All Places ({places.filter(p => stateFilter === 'all' || p.state === stateFilter).length})</option>
               {uniqueTypes.sort().map(type => (
                 <option key={type} value={type}>
@@ -220,7 +237,7 @@ function App(): JSX.Element {
 
           <div className="filter-section">
             <h3>State Wise Location Filter</h3>
-            <select value={stateFilter} onChange={(e) => setStateFilter(e.target.value)}>
+            <select value={stateFilter} onChange={(e) => handleFilterChange(() => setStateFilter(e.target.value))}>
               <option value="all">All States</option>
               {uniqueStates.map(state => (
                 <option key={state} value={state}>
@@ -237,7 +254,7 @@ function App(): JSX.Element {
                 <input
                   type="checkbox"
                   checked={showGiTags}
-                  onChange={(e) => setShowGiTags(e.target.checked)}
+                  onChange={(e) => handleFilterChange(() => setShowGiTags(e.target.checked))}
                 />
                 <span className="slider"></span>
               </label>

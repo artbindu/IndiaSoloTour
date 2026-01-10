@@ -2,10 +2,38 @@
   display: flex;
   height: 100vh;
   width: 100vw;
+  position: relative;
+}
+
+.sidebar-toggle {
+  display: none;
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  z-index: 1100;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 8px;
+  width: 45px;
+  height: 45px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s;
+}
+
+.sidebar-toggle:active {
+  transform: scale(0.95);
+}
+
+.hamburger-icon {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1;
 }
 
 .sidebar {
-  width: 320px;
+  width: 20%;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   padding: 20px;
@@ -252,20 +280,252 @@ input:checked + .slider:before {
   font-weight: bold;
 }
 
-/* Responsive */
+/* Responsive Styles */
 @media (max-width: 768px) {
+  .sidebar-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
   .App {
     flex-direction: column;
   }
   
   .sidebar {
-    width: 100%;
-    height: auto;
-    max-height: 40vh;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 50%;
+    max-width: none;
+    height: 100vh;
+    max-height: 100vh;
+    padding: 15px;
+    overflow-y: auto;
+    z-index: 1050;
+    transition: right 0.3s ease-in-out;
+    box-shadow: -2px 0 15px rgba(0, 0, 0, 0.3);
+  }
+
+  .sidebar.open {
+    right: 0;
+  }
+
+  .sidebar h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+  }
+
+  .title-icon {
+    width: 28px;
+    height: 28px;
+  }
+
+  .stats {
+    padding: 12px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+  }
+
+  .stats p {
+    margin: 0;
+    font-size: 13px;
+  }
+
+  .filters {
+    margin-bottom: 15px;
+  }
+
+  .filter-section {
+    margin-bottom: 12px;
+    padding: 8px;
+  }
+
+  .filters h3 {
+    font-size: 13px;
+    margin-bottom: 6px;
+  }
+
+  .filters select {
+    padding: 6px;
+    font-size: 12px;
+  }
+
+  .switch-container {
+    gap: 10px;
+  }
+
+  .switch {
+    width: 45px;
+    height: 24px;
+  }
+
+  .slider:before {
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+  }
+
+  input:checked + .slider:before {
+    transform: translateX(21px);
+  }
+
+  .switch-label {
+    font-size: 12px;
+  }
+
+  .legend {
+    padding: 12px;
+  }
+
+  .legend h3 {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  .legend-item {
+    font-size: 11px;
+    margin: 6px 0;
+  }
+
+  .legend-color {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
   }
   
   .leaflet-container {
-    height: 60vh;
+    height: 55vh;
+  }
+
+  .popup-content {
+    max-width: 250px;
+  }
+
+  .popup-content h3 {
+    font-size: 16px;
+  }
+
+  .popup-content p {
+    font-size: 12px;
+  }
+}
+
+/* Small mobile devices */
+@media (max-width: 480px) {
+  .sidebar {
+    width: 50%;
+    max-width: none;
+  }
+
+  .sidebar.open {
+    right: 0;
+  }
+
+  .sidebar-toggle {
+    width: 40px;
+    height: 40px;
+    top: 12px;
+    right: 12px;
+  }
+
+  .hamburger-icon {
+    font-size: 20 50vh;
+    padding: 12px;
+  }
+
+  .sidebar h1 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+
+  .title-icon {
+    width: 24px;
+    height: 24px;
+  }
+
+  .stats {
+    flex-direction: column;
+    gap: 8px;
+    padding: 10px;
+  }
+
+  .stats p {
+    font-size: 12px;
+  }
+
+  .filter-section {
+    padding: 6px;
+  }
+
+  .filters h3 {
+    font-size: 12px;
+  }
+
+  .filters select {
+    font-size: 11px;
+  }
+
+  .switch-label {
+    font-size: 11px;
+  }
+
+  .legend {
+    padding: 10px;
+  }
+
+  .legend h3 {
+    font-size: 13px;
+  }
+}
+
+/* Landscape orientation for mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+  .sidebar-toggle {
+    display: flex;
+  }
+
+  .sidebar {
+    position: fixed;
+    right: -100%;
+    width: 20%;
+    height: 100vh;
+    max-height: 100vh;
+  }
+
+  .sidebar.open {
+    right: 0;
+  }
+
+  .App {
+    flex-direction: row;
+  }
+
+  .leaflet-container {
+    height: 100vh;
+    width: 100%;
+  }
+
+  .stats {
+    flex-direction: column;
+  }
+}
+
+/* Overlay when sidebar is open on mobile */
+@media (max-width: 768px) {
+  .sidebar.open::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
   }
 }
 
