@@ -1,4 +1,4 @@
-interface Items {
+export interface GITagItem {
     name: string;
     Type: string;
     country: string;

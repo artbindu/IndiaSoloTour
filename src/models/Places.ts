@@ -1,11 +1,10 @@
-
-enum HeritageType {
+export enum HeritageType {
     ShaktiPeeth = 'Shakti Peeth',
     CharDham = 'Char Dham',
     ChotaCharDham = 'Chota Char Dham',
 }
 
-enum TravelPlaceType {
+export enum TravelPlaceType {
   ReligiousSpiritual = "Religious / Spiritual Places",
   HistoricalHeritage = "Historical / Heritage Sites",
   AdventureTrekking = "Adventure / Trekking Destinations",
@@ -20,9 +19,9 @@ enum TravelPlaceType {
   SeasonalClimateBased = "Seasonal / Climate-based Destinations"
 }
 
-interface Places {
+export interface Place {
     name: string;
-    type: TravelPlaceType | HeritageType;
+    type: string;
     country: string;
     state: string;
     city: string;
@@ -30,16 +29,14 @@ interface Places {
         lat: number;
         long: number;
     };
-    heritage: {
+    heritage?: {
         unesco: boolean;
         national: boolean;
         state: boolean;
     };
-    monsoonFriendly: 'High' | 'Medium' | 'Low';
-    bestVisitMonths: string[];
+    monsoonFriendly?: 'High' | 'Medium' | 'Low';
+    bestVisitMonths?: string[];
     description?: string;
     others?: string[];
     images?: string[];
 }
-
-
