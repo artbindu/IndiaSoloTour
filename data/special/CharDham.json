@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Badrinath",
+    "type": "Char Dham",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "coordinates": {
+      "lat": 30.7433,
+      "long": 79.4938
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Presiding Deity: Vishnu (Salvation)"
+  },
+  {
+    "name": "Dwarka",
+    "type": "Char Dham",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Devbhumi Dwarka",
+    "coordinates": {
+      "lat": 22.2394,
+      "long": 68.9678
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Presiding Deity: Krishna (Liberation)",
+    "others": [
+      "ASI Heritage Site"
+    ]
+  },
+  {
+    "name": "Puri (Jagannath)",
+    "type": "Char Dham",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Puri",
+    "coordinates": {
+      "lat": 19.8135,
+      "long": 85.8312
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Presiding Deity: Vishnu/Jagannath (Moksha)"
+  },
+  {
+    "name": "Rameshwaram",
+    "type": "Char Dham",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Ramanathapuram",
+    "coordinates": {
+      "lat": 9.2876,
+      "long": 79.3129
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Presiding Deity: Shiva (Purification)"
+  },
+  {
+    "name": "Yamunotri",
+    "type": "Chota Char Dham",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Uttarkashi",
+    "coordinates": {
+      "lat": 30.9923,
+      "long": 78.4563
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Presiding Deity: Goddess Yamuna"
+  },
+  {
+    "name": "Gangotri",
+    "type": "Chota Char Dham",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Uttarkashi",
+    "coordinates": {
+      "lat": 30.9949,
+      "long": 79.0845
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Presiding Deity: Goddess Ganga"
+  },
+  {
+    "name": "Kedarnath",
+    "type": "Chota Char Dham",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Rudraprayag",
+    "coordinates": {
+      "lat": 30.7346,
+      "long": 79.0669
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Presiding Deity: Lord Shiva"
+  },
+  {
+    "name": "Badrinath",
+    "type": "Chota Char Dham",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "coordinates": {
+      "lat": 30.7433,
+      "long": 79.4938
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Presiding Deity: Lord Vishnu"
+  }
+]

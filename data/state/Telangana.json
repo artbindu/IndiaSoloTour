@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Charminar",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.3616,
+      "long": 78.4747
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Golconda Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.3833,
+      "long": 78.4011
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Qutb Shahi Tombs",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.3950,
+      "long": 78.3940
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Mecca Masjid",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.3615,
+      "long": 78.4746
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Birla Mandir",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.4062,
+      "long": 78.4691
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Ramappa (Rudreshwara) Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Mulugu",
+    "coordinates": {
+      "lat": 18.2590,
+      "long": 79.9430
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Bhadrakali Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Warangal",
+    "coordinates": {
+      "lat": 18.0010,
+      "long": 79.5880
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Warangal Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Warangal",
+    "coordinates": {
+      "lat": 17.9750,
+      "long": 79.6010
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Thousand Pillar Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Warangal",
+    "coordinates": {
+      "lat": 18.0016,
+      "long": 79.5882
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Laknavaram Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Mulugu",
+    "coordinates": {
+      "lat": 18.1400,
+      "long": 80.0660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Kuntala Waterfall",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Adilabad",
+    "coordinates": {
+      "lat": 19.2830,
+      "long": 78.4950
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["July", "August", "September", "October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Bogatha Waterfall",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Bhadradri Kothagudem",
+    "coordinates": {
+      "lat": 17.2750,
+      "long": 80.6400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["July", "August", "September", "October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Kawal Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Mancherial",
+    "coordinates": {
+      "lat": 19.1870,
+      "long": 78.7810
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Eturnagaram Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Mulugu",
+    "coordinates": {
+      "lat": 18.3210,
+      "long": 79.8800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Pocharam Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Medak",
+    "coordinates": {
+      "lat": 18.0700,
+      "long": 77.9600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Ananthagiri Hills",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Vikarabad",
+    "coordinates": {
+      "lat": 17.3050,
+      "long": 77.8660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Medak Cathedral",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Medak",
+    "coordinates": {
+      "lat": 18.0450,
+      "long": 78.2600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Basar Saraswati Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Nirmal",
+    "coordinates": {
+      "lat": 18.8740,
+      "long": 77.9490
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Nagarjuna Sagar Dam",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Nalgonda",
+    "coordinates": {
+      "lat": 16.5720,
+      "long": 79.3130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Hussain Sagar Lake",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.4239,
+      "long": 78.4738
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Shilparamam Crafts Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.4526,
+      "long": 78.3795
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Bathukamma Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 18.1124,
+      "long": 79.0193
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["September", "October"]
+  },
+  {
+    "name": "Bonalu Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.3850,
+      "long": 78.4867
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["July", "August"]
+  }
+]

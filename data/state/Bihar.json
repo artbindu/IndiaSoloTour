@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Mahabodhi Temple, Bodh Gaya",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Gaya",
+    "coordinates": {
+      "lat": 24.6959,
+      "long": 84.9911
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Bodhi Tree",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Gaya",
+    "coordinates": {
+      "lat": 24.6950,
+      "long": 84.9910
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Nalanda Mahavihara",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "coordinates": {
+      "lat": 25.1365,
+      "long": 85.4430
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Rajgir",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "coordinates": {
+      "lat": 25.0280,
+      "long": 85.4200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Gridhakuta (Vulture's Peak)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "coordinates": {
+      "lat": 25.0290,
+      "long": 85.4210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Vikramshila University Ruins",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Bhagalpur",
+    "coordinates": {
+      "lat": 25.2620,
+      "long": 87.3070
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Vaishali",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Vaishali",
+    "coordinates": {
+      "lat": 25.9860,
+      "long": 85.1320
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Kesaria Stupa",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Bihar",
+    "city": "East Champaran",
+    "coordinates": {
+      "lat": 26.0110,
+      "long": 84.8560
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Takht Sri Patna Sahib",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Patna",
+    "coordinates": {
+      "lat": 25.5941,
+      "long": 85.2430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Vishnupad Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Gaya",
+    "coordinates": {
+      "lat": 24.7790,
+      "long": 84.9910
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Barabar Caves",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Jehanabad",
+    "coordinates": {
+      "lat": 25.0030,
+      "long": 85.0620
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Golghar",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Patna",
+    "coordinates": {
+      "lat": 25.6150,
+      "long": 85.1410
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Patna Museum",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Patna",
+    "coordinates": {
+      "lat": 25.6110,
+      "long": 85.1430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Eco Park, Patna",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Patna",
+    "coordinates": {
+      "lat": 25.5940,
+      "long": 85.0910
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Valmiki Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Bihar",
+    "city": "West Champaran",
+    "coordinates": {
+      "lat": 27.0500,
+      "long": 84.2000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Kanwar Lake Bird Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Begusarai",
+    "coordinates": {
+      "lat": 25.6500,
+      "long": 86.1000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November", "December", "January", "February"]
+  },
+  {
+    "name": "Kakolat Waterfall",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nawada",
+    "coordinates": {
+      "lat": 24.8910,
+      "long": 85.4930
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["July", "August", "September", "October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Rajgir Hot Springs",
+    "type": "Wellness / Yoga Retreats",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "coordinates": {
+      "lat": 25.0285,
+      "long": 85.4195
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Pawapuri Jal Mandir",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "coordinates": {
+      "lat": 25.0330,
+      "long": 85.4470
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Sonepur Cattle Fair",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Saran",
+    "coordinates": {
+      "lat": 25.6950,
+      "long": 85.2030
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November"]
+  },
+  {
+    "name": "Chhath Puja (Ganga Ghats)",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 25.6110,
+      "long": 85.1430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November"]
+  }
+]

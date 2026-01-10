@@ -1,0 +1,759 @@
+[
+  {
+    "name": "Kalighat Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.5206,
+      "long": 88.3486
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Dakshineswar Kali Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.6552,
+      "long": 88.3578
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Victoria Memorial",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.5448,
+      "long": 88.3426
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Indian Museum",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.5726,
+      "long": 88.3523
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Sundarbans National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "South 24 Parganas",
+    "coordinates": {
+      "lat": 21.9497,
+      "long": 88.8807
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
+  },
+  {
+    "name": "Darjeeling Himalayan Railway",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Darjeeling",
+    "coordinates": {
+      "lat": 27.036,
+      "long": 88.2627
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "October",
+      "November"
+    ]
+  },
+  {
+    "name": "Tiger Hill (Darjeeling)",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Darjeeling",
+    "coordinates": {
+      "lat": 27.0053,
+      "long": 88.2673
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Mirik Lake",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Darjeeling",
+    "coordinates": {
+      "lat": 26.8886,
+      "long": 88.1974
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Santiniketan",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Birbhum",
+    "coordinates": {
+      "lat": 23.68,
+      "long": 87.685
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Bishnupur Temples",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Bankura",
+    "coordinates": {
+      "lat": 23.127,
+      "long": 87.323
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Shantiniketan Rabindra Bhavan",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Birbhum",
+    "coordinates": {
+      "lat": 23.686,
+      "long": 87.685
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Murshidabad Hazarduari Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Murshidabad",
+    "coordinates": {
+      "lat": 24.1833,
+      "long": 88.271
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Jaldapara Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Alipurduar",
+    "coordinates": {
+      "lat": 26.525,
+      "long": 89.501
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Buxa Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Alipurduar",
+    "coordinates": {
+      "lat": 26.6,
+      "long": 89.6
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Malda Gour & Pandua Ruins",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Malda",
+    "coordinates": {
+      "lat": 25.017,
+      "long": 88.15
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Cooch Behar Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Cooch Behar",
+    "coordinates": {
+      "lat": 26.321,
+      "long": 89.445
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Howrah Bridge",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.5843,
+      "long": 88.3463
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Princep Ghat",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.58,
+      "long": 88.3525
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Diamond Harbour",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "South 24 Parganas",
+    "coordinates": {
+      "lat": 22.185,
+      "long": 88.196
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
+  },
+  {
+    "name": "Digha Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Purba Medinipur",
+    "coordinates": {
+      "lat": 21.634,
+      "long": 87.528
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
+  },
+  {
+    "name": "Mandarmani Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Purba Medinipur",
+    "coordinates": {
+      "lat": 21.646,
+      "long": 87.663
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
+  },
+  {
+    "name": "Frazerganj Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "South 24 Parganas",
+    "coordinates": {
+      "lat": 21.624,
+      "long": 88.191
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
+  },
+  {
+    "name": "Sandakphu Trek",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Darjeeling",
+    "coordinates": {
+      "lat": 27.028,
+      "long": 88.278
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ]
+  },
+  {
+    "name": "Gorumara National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Jalpaiguri",
+    "coordinates": {
+      "lat": 26.732,
+      "long": 88.759
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Neora Valley",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kalimpong",
+    "coordinates": {
+      "lat": 27.043,
+      "long": 88.523
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ]
+  },
+  {
+    "name": "Lava / Loleygaon",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kalimpong",
+    "coordinates": {
+      "lat": 27.032,
+      "long": 88.617
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Kalimpong Monasteries",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kalimpong",
+    "coordinates": {
+      "lat": 27.06,
+      "long": 88.534
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Rabindra Jayanti Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Santiniketan",
+    "coordinates": {
+      "lat": 23.68,
+      "long": 87.685
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "May"
+    ]
+  },
+  {
+    "name": "Durga Puja Celebrations",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.5726,
+      "long": 88.3639
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "September",
+      "October"
+    ]
+  },
+  {
+    "name": "Hemisara Eco Camp",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Jalpaiguri",
+    "coordinates": {
+      "lat": 26.72,
+      "long": 88.78
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  },
+  {
+    "name": "Maidan Park",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.5676,
+      "long": 88.3532
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
+  }
+]

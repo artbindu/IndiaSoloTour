@@ -1,0 +1,664 @@
+[
+  {
+    "name": "Basilica of Bom Jesus",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa (Old Goa)",
+    "coordinates": {
+      "lat": 15.5009,
+      "long": 73.9117
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, 16th-century baroque church holding mortal remains of St. Francis Xavier, exemplary Jesuit architecture."
+  },
+  {
+    "name": "Se Cathedral",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa (Old Goa)",
+    "coordinates": {
+      "lat": 15.5031,
+      "long": 73.9119
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of Asia's largest churches, Portuguese-Gothic architecture, famous Golden Bell, dedicated to St. Catherine of Alexandria."
+  },
+  {
+    "name": "Church of St. Cajetan",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa (Old Goa)",
+    "coordinates": {
+      "lat": 15.5020,
+      "long": 73.9130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "17th-century Corinthian-style church inspired by St. Peter's Basilica in Rome, known for its dome and Italian architecture."
+  },
+  {
+    "name": "Fort Aguada",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.4920,
+      "long": 73.7730
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "17th-century Portuguese fort with lighthouse, panoramic views of Arabian Sea, freshwater spring, popular sunset point."
+  },
+  {
+    "name": "Chapora Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.6090,
+      "long": 73.7390
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Famous 'Dil Chahta Hai' fort, 1717 Portuguese fort ruins overlooking Vagator Beach and Chapora River, stunning viewpoint."
+  },
+  {
+    "name": "Reis Magos Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.5030,
+      "long": 73.8200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "16th-century Portuguese fort with museum, art gallery, views of Mandovi River, recently restored heritage structure."
+  },
+  {
+    "name": "Calangute Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.5439,
+      "long": 73.7553
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Queen of Beaches, largest and most popular beach in North Goa, water sports hub, vibrant beach shacks and nightlife."
+  },
+  {
+    "name": "Baga Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.5524,
+      "long": 73.7517
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Famous for Tito's nightclub, water sports, parasailing, beach parties, lively atmosphere, and seafood restaurants."
+  },
+  {
+    "name": "Anjuna Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.5750,
+      "long": 73.7430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Hippie culture hub, famous Wednesday Flea Market, beach parties, rocky shoreline, Curlies Beach Shack, trance music scene."
+  },
+  {
+    "name": "Vagator Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.6030,
+      "long": 73.7360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Dramatic cliffs, red laterite rock formations, Chapora Fort views, tranquil atmosphere, popular with backpackers."
+  },
+  {
+    "name": "Candolim Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.5150,
+      "long": 73.7640
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Quieter beach than Calangute, long stretch of sand, water sports, Fort Aguada proximity, family-friendly atmosphere."
+  },
+  {
+    "name": "Colva Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "South Goa",
+    "coordinates": {
+      "lat": 15.2790,
+      "long": 73.9220
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Most popular South Goa beach, white sand, coconut palms, water sports, beach shacks, lively yet relaxed vibe."
+  },
+  {
+    "name": "Benaulim Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "South Goa",
+    "coordinates": {
+      "lat": 15.2630,
+      "long": 73.9270
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Serene beach south of Colva, less crowded, fishing village charm, dolphin spotting, peaceful ambiance."
+  },
+  {
+    "name": "Palolem Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "South Goa",
+    "coordinates": {
+      "lat": 15.0090,
+      "long": 74.0230
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Crescent-shaped paradise beach, coconut palms, beach huts, kayaking, dolphin trips, silent noise parties, backpacker favorite."
+  },
+  {
+    "name": "Butterfly Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Goa",
+    "city": "South Goa",
+    "coordinates": {
+      "lat": 14.9950,
+      "long": 74.0280
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Secluded beach accessible by boat, dolphins, butterflies, pristine sands, snorkeling, peaceful getaway."
+  },
+  {
+    "name": "Dudhsagar Waterfalls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Goa",
+    "city": "South Goa",
+    "coordinates": {
+      "lat": 15.3140,
+      "long": 74.3140
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "India's 5th highest waterfall (310m), 'Sea of Milk' cascades, jungle trekking, jeep safari through Bhagwan Mahavir Sanctuary."
+  },
+  {
+    "name": "Bhagwan Mahavir Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Goa",
+    "city": "South Goa",
+    "coordinates": {
+      "lat": 15.3140,
+      "long": 74.3140
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest wildlife sanctuary in Goa, Bengal tigers, leopards, deer, Indian bison, black panthers, tropical biodiversity."
+  },
+  {
+    "name": "Mollem National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Goa",
+    "city": "South Goa",
+    "coordinates": {
+      "lat": 15.3140,
+      "long": 74.3140
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Part of Western Ghats biodiversity hotspot, Dudhsagar Falls gateway, trekking trails, diverse flora and fauna."
+  },
+  {
+    "name": "Spice Plantations (Ponda)",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.4000,
+      "long": 74.0200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Organic spice farms with cardamom, cinnamon, nutmeg, pepper, traditional Goan lunch, elephant interactions, nature walks."
+  },
+  {
+    "name": "Salim Ali Bird Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.5270,
+      "long": 73.8750
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mangrove habitat on Chorao Island, 400+ bird species, boat safari through backwaters, migratory birds, kingfishers, herons."
+  },
+  {
+    "name": "Fontainhas (Latin Quarter)",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.4900,
+      "long": 73.8270
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Old Portuguese quarter in Panaji, colorful heritage houses, narrow winding streets, art galleries, heritage walks, colonial charm."
+  },
+  {
+    "name": "Panaji Riverfront",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa (Panaji)",
+    "coordinates": {
+      "lat": 15.4989,
+      "long": 73.8278
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Promenade along Mandovi River, sunset views, floating casinos, river cruises, Church of Our Lady of Immaculate Conception."
+  },
+  {
+    "name": "Mandovi River Cruise",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.4989,
+      "long": 73.8278
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Evening river cruises with live Goan folk music and dance, dinner cruises, sunset views, entertainment on water."
+  },
+  {
+    "name": "Anjuna Flea Market",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.5750,
+      "long": 73.7430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Iconic Wednesday market since 1960s, handicrafts, jewelry, clothes, spices, Tibetan goods, hippie culture legacy."
+  },
+  {
+    "name": "Goa Carnival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Goa",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 15.2993,
+      "long": 74.1240
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February"
+    ],
+    "description": "Unique Latin-style carnival with colorful parades, floats, King Momo, music, dancing, feasting, Portuguese heritage celebration."
+  },
+  {
+    "name": "Sunburn Music Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Goa",
+    "city": "North Goa",
+    "coordinates": {
+      "lat": 15.4900,
+      "long": 73.8270
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December"
+    ],
+    "description": "Asia's largest electronic dance music festival, international DJs, multiple stages, beach parties, EDM culture hub."
+  }
+]
