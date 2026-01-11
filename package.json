@@ -2,6 +2,7 @@
   "name": "india-solo-tour-map",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://artbindu.github.io/IndiaSoloTour",
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=9.0.0"
