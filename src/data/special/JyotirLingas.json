@@ -1,7 +1,7 @@
 [
   {
     "name": "Somnath",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Gujarat",
     "city": "Gir Somnath",
@@ -30,7 +30,7 @@
   },
   {
     "name": "Mallikarjuna",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Andhra Pradesh",
     "city": "Nandyal (Srisailam)",
@@ -56,7 +56,7 @@
   },
   {
     "name": "Mahakaleshwar",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Madhya Pradesh",
     "city": "Ujjain",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Omkareshwar",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Madhya Pradesh",
     "city": "Khandwa",
@@ -108,7 +108,7 @@
   },
   {
     "name": "Kedarnath",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Uttarakhand",
     "city": "Rudraprayag",
@@ -132,7 +132,7 @@
   },
   {
     "name": "Bhimashankar",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Maharashtra",
     "city": "Pune",
@@ -158,7 +158,7 @@
   },
   {
     "name": "Kashi Vishwanath",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
@@ -184,7 +184,7 @@
   },
   {
     "name": "Trimbakeshwar",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Maharashtra",
     "city": "Nashik",
@@ -210,7 +210,7 @@
   },
   {
     "name": "Vaidyanath (Baidyanath Dham)",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Jharkhand",
     "city": "Deoghar",
@@ -236,7 +236,7 @@
   },
   {
     "name": "Nageshwar",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Gujarat",
     "city": "Devbhumi Dwarka",
@@ -262,7 +262,7 @@
   },
   {
     "name": "Rameshwaram",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Tamil Nadu",
     "city": "Ramanathapuram",
@@ -288,7 +288,7 @@
   },
   {
     "name": "Grishneshwar",
-    "type": "Religious / Spiritual Places",
+    "type": "Jyotirlinga",
     "country": "India",
     "state": "Maharashtra",
     "city": "Aurangabad",

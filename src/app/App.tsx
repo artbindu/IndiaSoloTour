@@ -39,7 +39,7 @@ function App(): JSX.Element {
   const [places, setPlaces] = useState<Place[]>([]);
   const [giTags, setGiTags] = useState<GITagItem[]>([]);
   const [locationTypeFilter, setLocationTypeFilter] = useState<string>('all');
-  const [showGiTags, setShowGiTags] = useState<boolean>(true);
+  const [showGiTags, setShowGiTags] = useState<boolean>(false);
   const [stateFilter, setStateFilter] = useState<string>('all');
   const [loading, setLoading] = useState<boolean>(true);
   const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
@@ -175,9 +175,9 @@ function App(): JSX.Element {
   // Filter GI Tags (only by state if enabled)
   const filteredGiTags: GITagItem[] = showGiTags ? giTags.filter(item => {
     // State Filter
-    if (stateFilter !== 'all' && item.state !== stateFilter) {
-      return false;
-    }
+    // if (stateFilter !== 'all' && item.state !== stateFilter) {
+    //   return false;
+    // }
     return true;
   }) : [];
 
