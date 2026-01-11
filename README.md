@@ -2,7 +2,7 @@
 
 Interactive map visualizing tourism destinations and GI-tagged items across India using React, Leaflet, and OpenStreetMap.
 
-🌐 **Live Demo:** https://artbindu.github.io/IndiaSoloTour/
+🌐 **Live Demo:** <https://artbindu.github.io/IndiaSoloTour/>
 
 ## Features
 
