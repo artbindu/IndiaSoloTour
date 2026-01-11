@@ -7,7 +7,7 @@
     "city": "Srinagar",
     "coordinates": {
       "lat": 34.0961,
-      "long": 74.8270
+      "long": 74.827
     },
     "heritage": {
       "unesco": false,
@@ -69,6 +69,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -98,12 +99,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "Meadow of Flowers, Asia's highest ski resort, world's highest green golf course, Gulmarg Gondola (cable car), snow sports hub, Apharwat Peak access, winter skiing paradise, summer meadows."
   },
   {
@@ -114,7 +110,7 @@
     "city": "Baramulla",
     "coordinates": {
       "lat": 34.0495,
-      "long": 74.3810
+      "long": 74.381
     },
     "heritage": {
       "unesco": false,
@@ -122,12 +118,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "4390m peak accessible via Gulmarg Gondola Phase 2, highest point for skiing in India, panoramic Himalayan views, advanced ski terrain, snow-covered year-round, adventure sports destination."
   },
   {
@@ -165,8 +156,8 @@
     "state": "Jammu & Kashmir",
     "city": "Anantnag",
     "coordinates": {
-      "lat": 33.7330,
-      "long": 75.2250
+      "lat": 33.733,
+      "long": 75.225
     },
     "heritage": {
       "unesco": false,
@@ -193,8 +184,8 @@
     "state": "Jammu & Kashmir",
     "city": "Anantnag",
     "coordinates": {
-      "lat": 33.7710,
-      "long": 75.2430
+      "lat": 33.771,
+      "long": 75.243
     },
     "heritage": {
       "unesco": false,
@@ -247,14 +238,15 @@
     "state": "Jammu & Kashmir",
     "city": "Ganderbal",
     "coordinates": {
-      "lat": 34.2650,
-      "long": 75.2710
+      "lat": 34.265,
+      "long": 75.271
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -276,13 +268,14 @@
     "city": "Katra",
     "coordinates": {
       "lat": 33.2078,
-      "long": 75.4550
+      "long": 75.455
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -305,13 +298,14 @@
     "city": "Jammu",
     "coordinates": {
       "lat": 32.7276,
-      "long": 74.8570
+      "long": 74.857
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -330,14 +324,15 @@
     "state": "Jammu & Kashmir",
     "city": "Jammu",
     "coordinates": {
-      "lat": 32.7100,
-      "long": 74.8510
+      "lat": 32.71,
+      "long": 74.851
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -362,8 +357,10 @@
     "heritage": {
       "unesco": false,
       "national": true,
+
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -382,14 +379,16 @@
     "state": "Jammu & Kashmir",
     "city": "Srinagar",
     "coordinates": {
-      "lat": 34.1200,
-      "long": 74.8000
+      "lat": 34.12,
+      "long": 74.8
     },
     "heritage": {
       "unesco": false,
       "national": true,
+
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -416,16 +415,12 @@
     "heritage": {
       "unesco": false,
       "national": true,
+
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Largest and wealthiest Buddhist monastery in Ladakh, Drukpa Lineage, founded 1630, Hemis Festival (June-July), sacred masked Cham dances, ancient thangkas, copper statue of Buddha, Hemis National Park nearby."
   },
   {
@@ -440,17 +435,13 @@
     },
     "heritage": {
       "unesco": false,
+
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "12-storey monastery complex resembling Potala Palace, 15th century, Gelugpa Order, 12-meter Maitreya Buddha statue, monastery museum, morning prayer assembly (6 AM), stunning Indus Valley views, 19km from Leh."
   },
   {
@@ -469,13 +460,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "134km endorheic lake at 4350m, extends from India to China, crystal-clear blue water changing colors, brackish water freezes in winter, Bollywood '3 Idiots' location, camping, migratory birds, permits required."
   },
   {
@@ -494,13 +479,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Valley of Flowers, accessed via Khardung La (world's highest motorable pass), double-humped Bactrian camels at Hunder sand dunes, Diskit Monastery with 32m Maitreya Buddha, Shyok and Nubra river confluence."
   },
   {
@@ -510,8 +489,8 @@
     "state": "Jammu & Kashmir",
     "city": "Kargil",
     "coordinates": {
-      "lat": 33.5200,
-      "long": 76.2700
+      "lat": 33.52,
+      "long": 76.27
     },
     "heritage": {
       "unesco": false,
@@ -519,12 +498,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "Remote Himalayan valley, frozen Zanskar River Chadar Trek (winter), Phugtal Monastery in cliff cave, ancient Buddhist monasteries, trekking routes, Zanskar-Padum circuit, high-altitude desert landscape, adventure hub."
   },
   {
@@ -534,14 +508,16 @@
     "state": "Jammu & Kashmir",
     "city": "Kargil",
     "coordinates": {
-      "lat": 34.5550,
-      "long": 76.1330
+      "lat": 34.555,
+      "long": 76.133
     },
     "heritage": {
       "unesco": false,
+
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "May",
@@ -560,8 +536,8 @@
     "state": "Jammu & Kashmir",
     "city": "Ganderbal",
     "coordinates": {
-      "lat": 34.2800,
-      "long": 75.3140
+      "lat": 34.28,
+      "long": 75.314
     },
     "heritage": {
       "unesco": false,
@@ -569,13 +545,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Accessible glacier 3km from Sonamarg via pony or short trek, snow-covered year-round, sledging on snow, alpine scenery, photography spot, mini Switzerland of Kashmir, day trip destination."
   },
   {
@@ -585,8 +555,8 @@
     "state": "Jammu & Kashmir",
     "city": "Srinagar",
     "coordinates": {
-      "lat": 34.0930,
-      "long": 74.8280
+      "lat": 34.093,
+      "long": 74.828
     },
     "heritage": {
       "unesco": false,
@@ -613,8 +583,8 @@
     "state": "Jammu & Kashmir",
     "city": "Srinagar",
     "coordinates": {
-      "lat": 34.0830,
-      "long": 74.8100
+      "lat": 34.083,
+      "long": 74.81
     },
     "heritage": {
       "unesco": false,
@@ -642,7 +612,7 @@
     "city": "Baramulla",
     "coordinates": {
       "lat": 34.0589,
-      "long": 74.3800
+      "long": 74.38
     },
     "heritage": {
       "unesco": false,
@@ -650,12 +620,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "World's second-highest cable car, two-phase gondola to Apharwat Peak (3979m), Phase 1 to Kongdori (2600m), Phase 2 to Apharwat (3979m), skiing access, panoramic Himalayan views, operated by JKTDC."
   },
   {
@@ -665,8 +630,8 @@
     "state": "Jammu & Kashmir",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1580,
-      "long": 77.5800
+      "lat": 34.158,
+      "long": 77.58
     },
     "heritage": {
       "unesco": false,
@@ -674,9 +639,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "July"
-    ],
+    "bestVisitMonths": ["July"],
     "description": "Annual Buddhist festival celebrating Guru Padmasambhava's birthday at Hemis Monastery, masked Cham dance performances, traditional music, colorful costumes, sacred thangka unfurling (every 12 years), cultural immersion, June-July."
   },
   {
@@ -686,8 +649,8 @@
     "state": "Jammu & Kashmir",
     "city": "Srinagar",
     "coordinates": {
-      "lat": 34.0860,
-      "long": 74.8130
+      "lat": 34.086,
+      "long": 74.813
     },
     "heritage": {
       "unesco": false,
@@ -695,10 +658,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April"
-    ],
+    "bestVisitMonths": ["March", "April"],
     "description": "Asia's largest tulip garden, 1.5 million tulips of 60+ varieties, opened 2007, Zabarwan mountain foothills, Dal Lake backdrop, annual Tulip Festival (March-April), floral terraces, photography paradise, short blooming season."
   }
 ]

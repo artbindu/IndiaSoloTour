@@ -6,7 +6,7 @@
     "state": "Maharashtra",
     "city": "Mumbai",
     "coordinates": {
-      "lat": 19.0760,
+      "lat": 19.076,
       "long": 72.8777
     },
     "heritage": {
@@ -31,7 +31,7 @@
     "state": "Maharashtra",
     "city": "Mumbai",
     "coordinates": {
-      "lat": 18.9220,
+      "lat": 18.922,
       "long": 72.8347
     },
     "heritage": {
@@ -39,6 +39,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -50,7 +51,7 @@
     "description": "26m high Indo-Saracenic arch monument built 1924, commemorates King George V and Queen Mary's 1911 visit, basalt stone with yellow basalt and reinforced concrete, overlooks Arabian Sea, iconic Mumbai landmark, Taj Mahal Palace Hotel adjacent, ferry to Elephanta Caves departs from here, sunset views, street food vendors, photographers, tourists hub, last British troops departed India from here 1948, Apollo Bunder waterfront, evening illumination, pigeons, balloon sellers, boat rides, symbolic of Mumbai's colonial heritage."
   },
   {
-    "name": "Chhatrapati Shivaji Terminus",
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
     "type": "Historical / Heritage Sites",
     "country": "India",
     "state": "Maharashtra",
@@ -64,6 +65,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -81,7 +83,7 @@
     "state": "Maharashtra",
     "city": "Mumbai",
     "coordinates": {
-      "lat": 18.9630,
+      "lat": 18.963,
       "long": 72.9319
     },
     "heritage": {
@@ -89,6 +91,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -131,8 +134,8 @@
     "state": "Maharashtra",
     "city": "Pune",
     "coordinates": {
-      "lat": 18.7500,
-      "long": 73.4000
+      "lat": 18.75,
+      "long": 73.4
     },
     "heritage": {
       "unesco": false,
@@ -159,8 +162,8 @@
     "state": "Maharashtra",
     "city": "Pune",
     "coordinates": {
-      "lat": 18.7670,
-      "long": 73.4100
+      "lat": 18.767,
+      "long": 73.41
     },
     "heritage": {
       "unesco": false,
@@ -187,8 +190,8 @@
     "state": "Maharashtra",
     "city": "Raigad",
     "coordinates": {
-      "lat": 18.9860,
-      "long": 73.2670
+      "lat": 18.986,
+      "long": 73.267
     },
     "heritage": {
       "unesco": false,
@@ -223,6 +226,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -249,6 +253,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -267,14 +272,15 @@
     "state": "Maharashtra",
     "city": "Ahmednagar",
     "coordinates": {
-      "lat": 19.7660,
-      "long": 74.4770
+      "lat": 19.766,
+      "long": 74.477
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -293,14 +299,15 @@
     "state": "Maharashtra",
     "city": "Nashik",
     "coordinates": {
-      "lat": 20.0060,
-      "long": 73.6050
+      "lat": 20.006,
+      "long": 73.605
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -427,8 +434,8 @@
     "state": "Maharashtra",
     "city": "Chandrapur",
     "coordinates": {
-      "lat": 20.3300,
-      "long": 79.3000
+      "lat": 20.33,
+      "long": 79.3
     },
     "heritage": {
       "unesco": false,
@@ -453,8 +460,8 @@
     "state": "Maharashtra",
     "city": "Mumbai",
     "coordinates": {
-      "lat": 19.2150,
-      "long": 72.9100
+      "lat": 19.215,
+      "long": 72.91
     },
     "heritage": {
       "unesco": false,
@@ -479,8 +486,8 @@
     "state": "Maharashtra",
     "city": "Ahmednagar",
     "coordinates": {
-      "lat": 19.5660,
-      "long": 73.7600
+      "lat": 19.566,
+      "long": 73.76
     },
     "heritage": {
       "unesco": false,
@@ -535,8 +542,8 @@
     "state": "Maharashtra",
     "city": "Thane",
     "coordinates": {
-      "lat": 19.4160,
-      "long": 73.5660
+      "lat": 19.416,
+      "long": 73.566
     },
     "heritage": {
       "unesco": false,
@@ -563,8 +570,8 @@
     "state": "Maharashtra",
     "city": "Raigad",
     "coordinates": {
-      "lat": 18.0800,
-      "long": 73.0300
+      "lat": 18.08,
+      "long": 73.03
     },
     "heritage": {
       "unesco": false,
@@ -589,8 +596,8 @@
     "state": "Maharashtra",
     "city": "Ratnagiri",
     "coordinates": {
-      "lat": 16.6330,
-      "long": 73.3400
+      "lat": 16.633,
+      "long": 73.34
     },
     "heritage": {
       "unesco": false,
@@ -615,8 +622,8 @@
     "state": "Maharashtra",
     "city": "Raigad",
     "coordinates": {
-      "lat": 18.3350,
-      "long": 72.9900
+      "lat": 18.335,
+      "long": 72.99
     },
     "heritage": {
       "unesco": false,
@@ -667,8 +674,8 @@
     "state": "Maharashtra",
     "city": "Pune",
     "coordinates": {
-      "lat": 18.9100,
-      "long": 73.4160
+      "lat": 18.91,
+      "long": 73.416
     },
     "heritage": {
       "unesco": false,
@@ -695,8 +702,8 @@
     "state": "Maharashtra",
     "city": "Ahmednagar",
     "coordinates": {
-      "lat": 19.3620,
-      "long": 73.7160
+      "lat": 19.362,
+      "long": 73.716
     },
     "heritage": {
       "unesco": false,
@@ -723,8 +730,8 @@
     "state": "Maharashtra",
     "city": "Pune",
     "coordinates": {
-      "lat": 18.3660,
-      "long": 73.7550
+      "lat": 18.366,
+      "long": 73.755
     },
     "heritage": {
       "unesco": false,
@@ -751,8 +758,8 @@
     "state": "Maharashtra",
     "city": "Kolhapur",
     "coordinates": {
-      "lat": 16.8040,
-      "long": 74.1230
+      "lat": 16.804,
+      "long": 74.123
     },
     "heritage": {
       "unesco": false,
@@ -777,8 +784,8 @@
     "state": "Maharashtra",
     "city": "Nashik",
     "coordinates": {
-      "lat": 20.0080,
-      "long": 73.7880
+      "lat": 20.008,
+      "long": 73.788
     },
     "heritage": {
       "unesco": false,
@@ -803,7 +810,7 @@
     "state": "Maharashtra",
     "city": "Mumbai",
     "coordinates": {
-      "lat": 18.9630,
+      "lat": 18.963,
       "long": 72.9319
     },
     "heritage": {
@@ -812,9 +819,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November"
-    ],
+    "bestVisitMonths": ["November"],
     "description": "Annual music and dance festival held in November at Elephanta Caves UNESCO World Heritage Site, organized by Maharashtra Tourism Development Corporation, classical music concerts - Hindustani and Carnatic by renowned artists, classical dance performances - Bharatanatyam, Kathak, Odissi, Kathakali, open-air amphitheater setting against cave backdrop, two-day festival coinciding with full moon, cultural extravaganza showcasing India's heritage performing arts, fusion performances, sunset ferry rides from Gateway of India special during festival, limited passes sold advance, combines tourism with culture, promotes Elephanta Caves globally, illuminated caves spectacular at night, food stalls, photography opportunities, spiritual ambiance, Mumbai cultural calendar highlight."
   },
   {
@@ -833,10 +838,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["February", "March"],
     "description": "Classical dance and music festival held annually in February-March at Ellora Caves UNESCO World Heritage Site, organized by MTDC, against backdrop of Kailasa Temple carved monolith, Hindustani classical music maestros perform, classical dance forms - Bharatanatyam, Kathak, Manipuri, Mohiniyattam, fusion performances blending tradition and contemporary, open-air auditorium natural amphitheater, three-day festival, promotes Indian classical arts and Ellora tourism globally, full moon coinciding adds mystical aura, limited delegate passes, illuminated caves create magical atmosphere, heritage site comes alive with culture, stalls selling handicrafts, Aurangabad silk sarees, food courts, photography allowed, combines tourism sightseeing with cultural immersion, international audience."
   },
   {
@@ -855,9 +857,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December"
-    ],
+    "bestVisitMonths": ["December"],
     "description": "Annual December festival in India's first private planned hill city Lavasa, Italian-themed town comes alive with carnival celebrations, live music concerts featuring Bollywood and indie artists, DJ nights and EDM parties, adventure sports competitions - rappelling, zip-lining, water sports on Warasgaon Lake, food festival with multi-cuisine stalls and celebrity chef demonstrations, wine and dine events at lakefront restaurants, art exhibitions, fashion shows, vintage car rally, New Year countdown celebrations grand, fireworks over lake, illuminated colorful buildings Mediterranean-style, attracts young crowds and families from Pune-Mumbai, hotel packages, yacht parties, nightlife, combines luxury with adventure, photography hotspot, Instagram-worthy carnival atmosphere, tourism promotion initiative."
   }
 ]

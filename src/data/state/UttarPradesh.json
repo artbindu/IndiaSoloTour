@@ -14,6 +14,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -40,6 +41,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -59,13 +61,14 @@
     "city": "Agra",
     "coordinates": {
       "lat": 27.0937,
-      "long": 77.6600
+      "long": 77.66
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -92,6 +95,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -118,6 +122,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -137,13 +142,14 @@
     "city": "Varanasi",
     "coordinates": {
       "lat": 25.3817,
-      "long": 83.0210
+      "long": 83.021
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -170,6 +176,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -196,6 +203,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -222,6 +230,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -248,6 +257,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -274,6 +284,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -300,6 +311,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -326,6 +338,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -352,6 +365,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -396,14 +410,15 @@
     "state": "Uttar Pradesh",
     "city": "Lakhimpur Kheri",
     "coordinates": {
-      "lat": 28.5530,
-      "long": 80.5710
+      "lat": 28.553,
+      "long": 80.571
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "November",
@@ -422,8 +437,8 @@
     "state": "Uttar Pradesh",
     "city": "Unnao",
     "coordinates": {
-      "lat": 26.4580,
-      "long": 80.5200
+      "lat": 26.458,
+      "long": 80.52
     },
     "heritage": {
       "unesco": false,
@@ -448,14 +463,15 @@
     "state": "Uttar Pradesh",
     "city": "Kushinagar",
     "coordinates": {
-      "lat": 26.7400,
-      "long": 83.8890
+      "lat": 26.74,
+      "long": 83.889
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -482,6 +498,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -500,14 +517,15 @@
     "state": "Uttar Pradesh",
     "city": "Mirzapur",
     "coordinates": {
-      "lat": 25.1650,
-      "long": 82.5130
+      "lat": 25.165,
+      "long": 82.513
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -526,8 +544,8 @@
     "state": "Uttar Pradesh",
     "city": "Meerut",
     "coordinates": {
-      "lat": 29.1630,
-      "long": 78.0400
+      "lat": 29.163,
+      "long": 78.04
     },
     "heritage": {
       "unesco": false,
@@ -552,14 +570,15 @@
     "state": "Uttar Pradesh",
     "city": "Shravasti",
     "coordinates": {
-      "lat": 27.5070,
-      "long": 82.0500
+      "lat": 27.507,
+      "long": 82.05
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -578,7 +597,7 @@
     "state": "Uttar Pradesh",
     "city": "Lucknow",
     "coordinates": {
-      "lat": 26.8700,
+      "lat": 26.87,
       "long": 80.9462
     },
     "heritage": {
@@ -586,6 +605,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -604,14 +624,15 @@
     "state": "Uttar Pradesh",
     "city": "Agra",
     "coordinates": {
-      "lat": 26.7180,
-      "long": 77.8810
+      "lat": 26.718,
+      "long": 77.881
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -638,11 +659,9 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["January", "February"],
     "description": "UNESCO Intangible Cultural Heritage, world's largest religious gathering (every 12 years, Ardh Kumbh every 6), millions take holy dip at Sangam, spiritual processions, sadhus."
   },
   {
@@ -661,9 +680,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November"
-    ],
+    "bestVisitMonths": ["November"],
     "description": "Festival of Lights of the Gods, 15 days after Diwali on Kartik Purnima, millions of diyas lit on Ganges ghats, spectacular illuminated riverfront, Ganga aarti ceremonies."
   }
 ]

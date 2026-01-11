@@ -6,7 +6,7 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8170,
+      "lat": 24.817,
       "long": 93.9368
     },
     "heritage": {
@@ -32,8 +32,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8180,
-      "long": 93.9360
+      "lat": 24.818,
+      "long": 93.936
     },
     "heritage": {
       "unesco": false,
@@ -49,7 +49,8 @@
       "February",
       "March"
     ],
-    "description": "Ancient capital of Manipur kingdom spanning 2000+ years, seat of Meitei rulers until 1891 Anglo-Manipur War, British military base until 2004 when restored to people, sacred site for Manipuris, Kangla Sha (sacred dragon) statues at entrance, archaeological ruins, moat surrounding fort, temples including Pakhangba Temple, Kangla Museum with royal artifacts, coronation hall remains, Nungjeng Pukhri Ingkhol (sacred pond), Kangla Sha Festival in November, symbol of Manipuri identity, 400-year-old Nupi Lan (Women's War) memorial, ASI protected, spiritual-historical significance."
+    "description": "Ancient capital of Manipur kingdom spanning 2000+ years, seat of Meitei rulers until 1891 Anglo-Manipur War, British military base until 2004 when restored to people, sacred site for Manipuris, Kangla Sha (sacred dragon) statues at entrance, archaeological ruins, moat surrounding fort, temples including Pakhangba Temple, Kangla Museum with royal artifacts, coronation hall remains, Nungjeng Pukhri Ingkhol (sacred pond), Kangla Sha Festival in November, symbol of Manipuri identity, 400-year-old Nupi Lan (Women's War) memorial, ASI protected, spiritual-historical significance.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Loktak Lake",
@@ -58,8 +59,8 @@
     "state": "Manipur",
     "city": "Bishnupur",
     "coordinates": {
-      "lat": 24.5000,
-      "long": 93.9330
+      "lat": 24.5,
+      "long": 93.933
     },
     "heritage": {
       "unesco": false,
@@ -84,8 +85,8 @@
     "state": "Manipur",
     "city": "Bishnupur",
     "coordinates": {
-      "lat": 24.5060,
-      "long": 93.9170
+      "lat": 24.506,
+      "long": 93.917
     },
     "heritage": {
       "unesco": false,
@@ -101,7 +102,8 @@
       "February",
       "March"
     ],
-    "description": "World's only floating national park 40 sq km on Loktak Lake, declared 1977, last natural habitat of critically endangered Sangai deer (Rucervus eldii eldii, Manipur's state animal) with 260 population, floating phumdis biomass supporting ecosystem, wetland birds, hog deer, otters, water fowl, pythons, migratory birds winter, boat safari only access, watchtowers for wildlife viewing, conservation success story saving Sangai from extinction, research zone, Ramsar Convention recognition, ecological uniqueness, best visited November-February dry season, photographer's paradise, unique biodiversity, challenging terrain, permit required."
+    "description": "World's only floating national park 40 sq km on Loktak Lake, declared 1977, last natural habitat of critically endangered Sangai deer (Rucervus eldii eldii, Manipur's state animal) with 260 population, floating phumdis biomass supporting ecosystem, wetland birds, hog deer, otters, water fowl, pythons, migratory birds winter, boat safari only access, watchtowers for wildlife viewing, conservation success story saving Sangai from extinction, research zone, Ramsar Convention recognition, ecological uniqueness, best visited November-February dry season, photographer's paradise, unique biodiversity, challenging terrain, permit required.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Shree Govindajee Temple",
@@ -110,8 +112,8 @@
     "state": "Manipur",
     "city": "Imphal East",
     "coordinates": {
-      "lat": 24.8120,
-      "long": 93.9400
+      "lat": 24.812,
+      "long": 93.94
     },
     "heritage": {
       "unesco": false,
@@ -127,7 +129,8 @@
       "February",
       "March"
     ],
-    "description": "Vaishnavite temple built 1846 by Maharaja Nara Singh, dedicated to Lord Krishna as Govindajee, architectural blend of Manipuri and Bengali styles, twin gold-domed mandirs (prayer halls) with raised platform, deities of Radha-Krishna and Balaram, daily Aarti ceremonies, Manipuri classical dance Ras Leela performed during festivals, Janmashtami grand celebrations, adjacent to Kangla Fort, Vishnu devotion center, Holi celebrations with Yaoshang festival, intricate carvings, serene courtyard, cultural-spiritual hub, shoe removal required, photography restricted inside sanctum, peaceful ambiance despite city location, Meitei Hindu pilgrimage."
+    "description": "Vaishnavite temple built 1846 by Maharaja Nara Singh, dedicated to Lord Krishna as Govindajee, architectural blend of Manipuri and Bengali styles, twin gold-domed mandirs (prayer halls) with raised platform, deities of Radha-Krishna and Balaram, daily Aarti ceremonies, Manipuri classical dance Ras Leela performed during festivals, Janmashtami grand celebrations, adjacent to Kangla Fort, Vishnu devotion center, Holi celebrations with Yaoshang festival, intricate carvings, serene courtyard, cultural-spiritual hub, shoe removal required, photography restricted inside sanctum, peaceful ambiance despite city location, Meitei Hindu pilgrimage.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Khonghampat Orchidarium",
@@ -136,8 +139,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8270,
-      "long": 93.9250
+      "lat": 24.827,
+      "long": 93.925
     },
     "heritage": {
       "unesco": false,
@@ -162,8 +165,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8160,
-      "long": 93.9370
+      "lat": 24.816,
+      "long": 93.937
     },
     "heritage": {
       "unesco": false,
@@ -188,8 +191,8 @@
     "state": "Manipur",
     "city": "Imphal East",
     "coordinates": {
-      "lat": 24.7880,
-      "long": 93.9970
+      "lat": 24.788,
+      "long": 93.997
     },
     "heritage": {
       "unesco": false,
@@ -214,8 +217,8 @@
     "state": "Manipur",
     "city": "Ukhrul",
     "coordinates": {
-      "lat": 25.1160,
-      "long": 94.3630
+      "lat": 25.116,
+      "long": 94.363
     },
     "heritage": {
       "unesco": false,
@@ -240,8 +243,8 @@
     "state": "Manipur",
     "city": "Ukhrul",
     "coordinates": {
-      "lat": 25.1250,
-      "long": 94.3780
+      "lat": 25.125,
+      "long": 94.378
     },
     "heritage": {
       "unesco": false,
@@ -266,8 +269,8 @@
     "state": "Manipur",
     "city": "Ukhrul",
     "coordinates": {
-      "lat": 25.1260,
-      "long": 94.3790
+      "lat": 25.126,
+      "long": 94.379
     },
     "heritage": {
       "unesco": false,
@@ -292,8 +295,8 @@
     "state": "Manipur",
     "city": "Kangpokpi",
     "coordinates": {
-      "lat": 24.9400,
-      "long": 93.9080
+      "lat": 24.94,
+      "long": 93.908
     },
     "heritage": {
       "unesco": false,
@@ -318,8 +321,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8170,
-      "long": 93.9380
+      "lat": 24.817,
+      "long": 93.938
     },
     "heritage": {
       "unesco": false,
@@ -370,8 +373,8 @@
     "state": "Manipur",
     "city": "Thoubal",
     "coordinates": {
-      "lat": 24.5850,
-      "long": 93.9440
+      "lat": 24.585,
+      "long": 93.944
     },
     "heritage": {
       "unesco": false,
@@ -396,8 +399,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8180,
-      "long": 93.9360
+      "lat": 24.818,
+      "long": 93.936
     },
     "heritage": {
       "unesco": false,
@@ -405,9 +408,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November"
-    ],
+    "bestVisitMonths": ["November"],
     "description": "Festival celebrating Kangla Sha (sacred dragon-lion mythical creature guarding Kangla Fort), held annually in November at Kangla Fort premises, commemorates return of Kangla to Manipuri people in 2004 after 113 years British-Indian Army occupation, cultural programs showcasing Manipuri classical dance, Thang-Ta martial arts demonstrations, Pena (traditional string instrument) music, folk performances, Meitei rituals, exhibitions on Manipur history, traditional sports - Yubi Lakpi (coconut snatching), Mukna (wrestling), Kang (stone-lifting), food stalls with ethnic cuisines, handicraft bazaar, light and sound show narrating Kangla history, patriotic fervor, community participation, tourism promotion, free entry, multi-day event."
   },
   {
@@ -417,8 +418,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8180,
-      "long": 93.9360
+      "lat": 24.818,
+      "long": 93.936
     },
     "heritage": {
       "unesco": false,
@@ -426,10 +427,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "May",
-      "June"
-    ],
+    "bestVisitMonths": ["May", "June"],
     "description": "Ancient Meitei pre-Hindu ritualistic festival, oldest religious tradition celebrating creation and recreation of universe, performed to please Lai (deities), origin story of Manipuri dance, Maibis and Maibas (priestesses/priests) perform rituals, Jagoi (dance-drama) enactment of creation myth, different villages celebrate on different dates May-June, Moirang Lai Haraoba most famous, Kanglei Lai Haraoba, Chakpa Lai Haraoba variants, lasts 5-15 days per village, traditional costumes, Pena music, folk songs, ritualistic performances from dusk to dawn, sacred pond rituals, boat racing, community feasting, UNESCO intangible heritage candidacy, cultural preservation, spiritual significance, tourists witness authentic Meitei traditions, photography restrictions at sacred moments."
   },
   {
@@ -439,8 +437,8 @@
     "state": "Manipur",
     "city": "Thoubal",
     "coordinates": {
-      "lat": 24.5370,
-      "long": 94.0630
+      "lat": 24.537,
+      "long": 94.063
     },
     "heritage": {
       "unesco": false,
@@ -465,8 +463,8 @@
     "state": "Manipur",
     "city": "Tengnoupal",
     "coordinates": {
-      "lat": 24.5090,
-      "long": 93.9600
+      "lat": 24.509,
+      "long": 93.96
     },
     "heritage": {
       "unesco": false,
@@ -491,8 +489,8 @@
     "state": "Manipur",
     "city": "Churachandpur",
     "coordinates": {
-      "lat": 24.5700,
-      "long": 93.8000
+      "lat": 24.57,
+      "long": 93.8
     },
     "heritage": {
       "unesco": false,
@@ -517,8 +515,8 @@
     "state": "Manipur",
     "city": "Tamenglong",
     "coordinates": {
-      "lat": 24.5000,
-      "long": 93.6000
+      "lat": 24.5,
+      "long": 93.6
     },
     "heritage": {
       "unesco": false,
@@ -543,8 +541,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.7890,
-      "long": 93.9500
+      "lat": 24.789,
+      "long": 93.95
     },
     "heritage": {
       "unesco": false,
@@ -569,8 +567,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8180,
-      "long": 93.9360
+      "lat": 24.818,
+      "long": 93.936
     },
     "heritage": {
       "unesco": false,
@@ -595,8 +593,8 @@
     "state": "Manipur",
     "city": "Imphal West",
     "coordinates": {
-      "lat": 24.8180,
-      "long": 93.9360
+      "lat": 24.818,
+      "long": 93.936
     },
     "heritage": {
       "unesco": false,
@@ -604,9 +602,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November"
-    ],
+    "bestVisitMonths": ["November"],
     "description": "Annual state tourism festival held November 21-30 celebrating Manipur's art, culture, handloom, handicrafts, cuisine, indigenous sports, named after state animal Sangai deer, multiple venues - Kangla Fort, Hapta Kangjeibung, INA Complex, Khuman Lampak Stadium, Manipuri classical dance performances (Ras Leela, Pung Cholom drum dance, Thang-Ta martial art), tribal dances from 33+ tribes, handloom exhibitions, handicraft bazaar, Ima Market stalls, food festival with Manipuri cuisine, adventure sports, water sports at Sendra Island, cultural competitions, music concerts, Sangai Film Festival screenings, tourism promotion, attracts domestic and international tourists, Manipur's grandest event, showcases state diversity, 10-day extravaganza, free entry most events, government organized."
   }
 ]

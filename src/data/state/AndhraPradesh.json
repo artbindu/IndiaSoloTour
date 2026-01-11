@@ -7,15 +7,24 @@
     "city": "Tirupati (Tirupati)",
     "coordinates": {
       "lat": 13.6833,
-      "long": 79.3470
+      "long": 79.347
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["September", "October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Srisailam Mallikarjuna Temple",
@@ -24,16 +33,24 @@
     "state": "Andhra Pradesh",
     "city": "Nandyal",
     "coordinates": {
-      "lat": 16.0720,
-      "long": 78.8680
+      "lat": 16.072,
+      "long": 78.868
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Lepakshi Veerabhadra Temple",
@@ -42,8 +59,8 @@
     "state": "Andhra Pradesh",
     "city": "Sri Sathya Sai",
     "coordinates": {
-      "lat": 13.8050,
-      "long": 77.6060
+      "lat": 13.805,
+      "long": 77.606
     },
     "heritage": {
       "unesco": false,
@@ -51,7 +68,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Amaravati Buddhist Site",
@@ -60,8 +84,8 @@
     "state": "Andhra Pradesh",
     "city": "Palnadu",
     "coordinates": {
-      "lat": 16.5740,
-      "long": 80.3570
+      "lat": 16.574,
+      "long": 80.357
     },
     "heritage": {
       "unesco": false,
@@ -69,7 +93,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Undavalli Caves",
@@ -78,16 +109,24 @@
     "state": "Andhra Pradesh",
     "city": "Guntur",
     "coordinates": {
-      "lat": 16.4960,
-      "long": 80.5810
+      "lat": 16.496,
+      "long": 80.581
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Araku Valley",
@@ -96,8 +135,8 @@
     "state": "Andhra Pradesh",
     "city": "Alluri Sitharama Raju",
     "coordinates": {
-      "lat": 18.3270,
-      "long": 82.8770
+      "lat": 18.327,
+      "long": 82.877
     },
     "heritage": {
       "unesco": false,
@@ -105,7 +144,13 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Borra Caves",
@@ -114,8 +159,8 @@
     "state": "Andhra Pradesh",
     "city": "Alluri Sitharama Raju",
     "coordinates": {
-      "lat": 18.2870,
-      "long": 83.0370
+      "lat": 18.287,
+      "long": 83.037
     },
     "heritage": {
       "unesco": false,
@@ -123,7 +168,13 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Lambasingi",
@@ -132,8 +183,8 @@
     "state": "Andhra Pradesh",
     "city": "Alluri Sitharama Raju",
     "coordinates": {
-      "lat": 17.9010,
-      "long": 82.6950
+      "lat": 17.901,
+      "long": 82.695
     },
     "heritage": {
       "unesco": false,
@@ -150,8 +201,8 @@
     "state": "Andhra Pradesh",
     "city": "Visakhapatnam",
     "coordinates": {
-      "lat": 17.7820,
-      "long": 83.3850
+      "lat": 17.782,
+      "long": 83.385
     },
     "heritage": {
       "unesco": false,
@@ -159,7 +210,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Yarada Beach",
@@ -168,8 +226,8 @@
     "state": "Andhra Pradesh",
     "city": "Visakhapatnam",
     "coordinates": {
-      "lat": 17.6580,
-      "long": 83.2740
+      "lat": 17.658,
+      "long": 83.274
     },
     "heritage": {
       "unesco": false,
@@ -177,7 +235,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Rushikonda Beach",
@@ -186,8 +251,8 @@
     "state": "Andhra Pradesh",
     "city": "Visakhapatnam",
     "coordinates": {
-      "lat": 17.7830,
-      "long": 83.3850
+      "lat": 17.783,
+      "long": 83.385
     },
     "heritage": {
       "unesco": false,
@@ -195,7 +260,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Gandikota Fort & Canyon",
@@ -204,8 +276,8 @@
     "state": "Andhra Pradesh",
     "city": "YSR Kadapa",
     "coordinates": {
-      "lat": 14.8140,
-      "long": 78.2860
+      "lat": 14.814,
+      "long": 78.286
     },
     "heritage": {
       "unesco": false,
@@ -213,7 +285,13 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Belum Caves",
@@ -222,8 +300,8 @@
     "state": "Andhra Pradesh",
     "city": "Nandyal",
     "coordinates": {
-      "lat": 15.1000,
-      "long": 78.1100
+      "lat": 15.1,
+      "long": 78.11
     },
     "heritage": {
       "unesco": false,
@@ -231,7 +309,13 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Sri Venkateswara National Park",
@@ -240,8 +324,8 @@
     "state": "Andhra Pradesh",
     "city": "Tirupati",
     "coordinates": {
-      "lat": 13.6830,
-      "long": 79.3470
+      "lat": 13.683,
+      "long": 79.347
     },
     "heritage": {
       "unesco": false,
@@ -249,7 +333,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Papikondalu Hills",
@@ -258,8 +349,8 @@
     "state": "Andhra Pradesh",
     "city": "Alluri Sitharama Raju",
     "coordinates": {
-      "lat": 17.6500,
-      "long": 81.7000
+      "lat": 17.65,
+      "long": 81.7
     },
     "heritage": {
       "unesco": false,
@@ -267,7 +358,13 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Coringa Wildlife Sanctuary",
@@ -276,8 +373,8 @@
     "state": "Andhra Pradesh",
     "city": "Kakinada",
     "coordinates": {
-      "lat": 16.9750,
-      "long": 82.3300
+      "lat": 16.975,
+      "long": 82.33
     },
     "heritage": {
       "unesco": false,
@@ -294,8 +391,8 @@
     "state": "Andhra Pradesh",
     "city": "Tirupati",
     "coordinates": {
-      "lat": 13.4320,
-      "long": 80.3160
+      "lat": 13.432,
+      "long": 80.316
     },
     "heritage": {
       "unesco": false,
@@ -312,8 +409,8 @@
     "state": "Andhra Pradesh",
     "city": "Palnadu",
     "coordinates": {
-      "lat": 16.3640,
-      "long": 80.0920
+      "lat": 16.364,
+      "long": 80.092
     },
     "heritage": {
       "unesco": false,
@@ -321,7 +418,13 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Simhachalam Temple",
@@ -330,8 +433,8 @@
     "state": "Andhra Pradesh",
     "city": "Visakhapatnam",
     "coordinates": {
-      "lat": 17.7660,
-      "long": 83.2490
+      "lat": 17.766,
+      "long": 83.249
     },
     "heritage": {
       "unesco": false,
@@ -339,7 +442,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Vijayawada Kanaka Durga Temple",
@@ -348,16 +458,24 @@
     "state": "Andhra Pradesh",
     "city": "NTR (Vijayawada)",
     "coordinates": {
-      "lat": 16.5100,
-      "long": 80.6160
+      "lat": 16.51,
+      "long": 80.616
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Maredumilli Forest",
@@ -366,8 +484,8 @@
     "state": "Andhra Pradesh",
     "city": "Alluri Sitharama Raju",
     "coordinates": {
-      "lat": 17.6000,
-      "long": 81.7200
+      "lat": 17.6,
+      "long": 81.72
     },
     "heritage": {
       "unesco": false,
@@ -375,7 +493,13 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Visakha Museum & Submarine",
@@ -384,8 +508,8 @@
     "state": "Andhra Pradesh",
     "city": "Visakhapatnam",
     "coordinates": {
-      "lat": 17.7160,
-      "long": 83.3180
+      "lat": 17.716,
+      "long": 83.318
     },
     "heritage": {
       "unesco": false,
@@ -393,7 +517,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "RK Beach Road",
@@ -402,8 +533,8 @@
     "state": "Andhra Pradesh",
     "city": "Visakhapatnam",
     "coordinates": {
-      "lat": 17.7140,
-      "long": 83.3210
+      "lat": 17.714,
+      "long": 83.321
     },
     "heritage": {
       "unesco": false,
@@ -411,7 +542,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Ugadi Festival",
@@ -421,7 +559,7 @@
     "city": "Statewide",
     "coordinates": {
       "lat": 15.9129,
-      "long": 79.7400
+      "long": 79.74
     },
     "heritage": {
       "unesco": false,
@@ -439,7 +577,7 @@
     "city": "Tirupati",
     "coordinates": {
       "lat": 13.6833,
-      "long": 79.3470
+      "long": 79.347
     },
     "heritage": {
       "unesco": false,

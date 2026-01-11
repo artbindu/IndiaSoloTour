@@ -14,26 +14,49 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
-    "name": "Brihadeeswarar Temple",
+    "name": "Great Living Chola Temples",
     "type": "Historical / Heritage Sites",
     "country": "India",
     "state": "Tamil Nadu",
-    "city": "Thanjavur",
+    "city": "Thanjavur / Ariyalur / Kumbakonam",
     "coordinates": {
       "lat": 10.7828,
-      "long": 79.1310
+      "long": 79.131
     },
     "heritage": {
       "unesco": true,
       "national": true,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage property representing the architectural, artistic, and cultural achievements of the Chola dynasty (10th–13th century CE).",
+    "others": [
+      "Includes Brihadeeswarar Temple (Thanjavur)",
+      "Includes Gangaikonda Cholapuram Temple",
+      "Includes Airavatesvara Temple (Darasuram)",
+      "ASI Protected Monuments"
+    ]
   },
   {
     "name": "Shore Temple",
@@ -50,8 +73,16 @@
       "national": true,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Group of Monuments, Mahabalipuram",
@@ -68,8 +99,16 @@
       "national": true,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Rameshwaram Temple",
@@ -86,8 +125,17 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March", "April"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ]
   },
   {
     "name": "Kanyakumari",
@@ -104,8 +152,16 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Marina Beach",
@@ -114,7 +170,7 @@
     "state": "Tamil Nadu",
     "city": "Chennai",
     "coordinates": {
-      "lat": 13.0500,
+      "lat": 13.05,
       "long": 80.2824
     },
     "heritage": {
@@ -140,8 +196,16 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["April", "May", "June", "September", "October", "November"]
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ]
   },
   {
     "name": "Coonoor",
@@ -150,7 +214,7 @@
     "state": "Tamil Nadu",
     "city": "Nilgiris",
     "coordinates": {
-      "lat": 11.3530,
+      "lat": 11.353,
       "long": 76.7959
     },
     "heritage": {
@@ -159,7 +223,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["April", "May", "June", "September", "October", "November"]
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ]
   },
   {
     "name": "Kodaikanal",
@@ -176,8 +247,16 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["April", "May", "June", "September", "October", "November"]
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ]
   },
   {
     "name": "Mudumalai National Park",
@@ -186,16 +265,26 @@
     "state": "Tamil Nadu",
     "city": "Nilgiris",
     "coordinates": {
-      "lat": 11.5700,
-      "long": 76.5350
+      "lat": 11.57,
+      "long": 76.535
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ]
   },
   {
     "name": "Anamalai Tiger Reserve",
@@ -204,16 +293,26 @@
     "state": "Tamil Nadu",
     "city": "Coimbatore",
     "coordinates": {
-      "lat": 10.4800,
-      "long": 77.0300
+      "lat": 10.48,
+      "long": 77.03
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ]
   },
   {
     "name": "Gulf of Mannar Marine Biosphere",
@@ -222,16 +321,24 @@
     "state": "Tamil Nadu",
     "city": "Ramanathapuram",
     "coordinates": {
-      "lat": 9.1500,
-      "long": 79.2500
+      "lat": 9.15,
+      "long": 79.25
     },
     "heritage": {
       "unesco": true,
       "national": true,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Courtallam Waterfalls",
@@ -240,8 +347,8 @@
     "state": "Tamil Nadu",
     "city": "Tenkasi",
     "coordinates": {
-      "lat": 8.9310,
-      "long": 77.2690
+      "lat": 8.931,
+      "long": 77.269
     },
     "heritage": {
       "unesco": false,
@@ -258,8 +365,8 @@
     "state": "Tamil Nadu",
     "city": "Salem",
     "coordinates": {
-      "lat": 11.7750,
-      "long": 78.2090
+      "lat": 11.775,
+      "long": 78.209
     },
     "heritage": {
       "unesco": false,
@@ -267,7 +374,17 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March", "April", "May", "June"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ]
   },
   {
     "name": "Vellore Fort",
@@ -284,8 +401,16 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Chidambaram Nataraja Temple",
@@ -294,16 +419,24 @@
     "state": "Tamil Nadu",
     "city": "Cuddalore",
     "coordinates": {
-      "lat": 11.3990,
-      "long": 79.6930
+      "lat": 11.399,
+      "long": 79.693
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Tharangambadi (Tranquebar)",
@@ -312,16 +445,24 @@
     "state": "Tamil Nadu",
     "city": "Mayiladuthurai",
     "coordinates": {
-      "lat": 11.0280,
-      "long": 79.8530
+      "lat": 11.028,
+      "long": 79.853
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Chettinad Heritage Villages",
@@ -330,16 +471,24 @@
     "state": "Tamil Nadu",
     "city": "Sivaganga",
     "coordinates": {
-      "lat": 10.2000,
-      "long": 78.7800
+      "lat": 10.2,
+      "long": 78.78
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "DakshinaChitra",
@@ -348,8 +497,8 @@
     "state": "Tamil Nadu",
     "city": "Chengalpattu",
     "coordinates": {
-      "lat": 12.7080,
-      "long": 80.1970
+      "lat": 12.708,
+      "long": 80.197
     },
     "heritage": {
       "unesco": false,
@@ -357,7 +506,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Auroville",
@@ -366,14 +522,15 @@
     "state": "Tamil Nadu",
     "city": "Villupuram",
     "coordinates": {
-      "lat": 12.0050,
-      "long": 79.8100
+      "lat": 12.005,
+      "long": 79.81
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November", "December", "January", "February", "March"]
   },
@@ -384,16 +541,24 @@
     "state": "Tamil Nadu",
     "city": "Mayiladuthurai",
     "coordinates": {
-      "lat": 11.2400,
-      "long": 79.7400
+      "lat": 11.24,
+      "long": 79.74
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Pongal Festival",

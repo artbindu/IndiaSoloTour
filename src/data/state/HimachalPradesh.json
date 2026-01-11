@@ -14,6 +14,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -41,6 +42,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -60,8 +62,8 @@
     "state": "Himachal Pradesh",
     "city": "Shimla",
     "coordinates": {
-      "lat": 31.0970,
-      "long": 77.2670
+      "lat": 31.097,
+      "long": 77.267
     },
     "heritage": {
       "unesco": false,
@@ -116,8 +118,8 @@
     "state": "Himachal Pradesh",
     "city": "Kullu",
     "coordinates": {
-      "lat": 32.3160,
-      "long": 77.1550
+      "lat": 32.316,
+      "long": 77.155
     },
     "heritage": {
       "unesco": false,
@@ -142,8 +144,8 @@
     "state": "Himachal Pradesh",
     "city": "Kullu",
     "coordinates": {
-      "lat": 32.3640,
-      "long": 77.2460
+      "lat": 32.364,
+      "long": 77.246
     },
     "heritage": {
       "unesco": false,
@@ -168,8 +170,8 @@
     "state": "Himachal Pradesh",
     "city": "Kullu",
     "coordinates": {
-      "lat": 32.0090,
-      "long": 77.3150
+      "lat": 32.009,
+      "long": 77.315
     },
     "heritage": {
       "unesco": false,
@@ -195,8 +197,8 @@
     "state": "Himachal Pradesh",
     "city": "Kullu",
     "coordinates": {
-      "lat": 31.9930,
-      "long": 77.3260
+      "lat": 31.993,
+      "long": 77.326
     },
     "heritage": {
       "unesco": false,
@@ -222,7 +224,7 @@
     "state": "Himachal Pradesh",
     "city": "Kangra",
     "coordinates": {
-      "lat": 32.2190,
+      "lat": 32.219,
       "long": 76.3234
     },
     "heritage": {
@@ -230,6 +232,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -257,6 +260,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -276,14 +280,15 @@
     "state": "Himachal Pradesh",
     "city": "Kangra",
     "coordinates": {
-      "lat": 32.2430,
-      "long": 76.3210
+      "lat": 32.243,
+      "long": 76.321
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -311,6 +316,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -356,8 +362,8 @@
     "state": "Himachal Pradesh",
     "city": "Kangra",
     "coordinates": {
-      "lat": 32.0420,
-      "long": 76.7180
+      "lat": 32.042,
+      "long": 76.718
     },
     "heritage": {
       "unesco": false,
@@ -383,8 +389,8 @@
     "state": "Himachal Pradesh",
     "city": "Chamba",
     "coordinates": {
-      "lat": 32.5550,
-      "long": 76.1260
+      "lat": 32.555,
+      "long": 76.126
     },
     "heritage": {
       "unesco": false,
@@ -411,7 +417,7 @@
     "city": "Chamba",
     "coordinates": {
       "lat": 32.5555,
-      "long": 76.0590
+      "long": 76.059
     },
     "heritage": {
       "unesco": false,
@@ -438,7 +444,7 @@
     "city": "Chamba",
     "coordinates": {
       "lat": 32.5387,
-      "long": 75.9700
+      "long": 75.97
     },
     "heritage": {
       "unesco": false,
@@ -464,8 +470,8 @@
     "state": "Himachal Pradesh",
     "city": "Lahaul & Spiti",
     "coordinates": {
-      "lat": 32.2460,
-      "long": 78.0170
+      "lat": 32.246,
+      "long": 78.017
     },
     "heritage": {
       "unesco": false,
@@ -473,12 +479,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "Cold desert mountain valley at 3,800m+, Middle Land between India and Tibet, ancient monasteries, Key, Tabo, Dhankar, Kaza town, high-altitude villages, Pin Valley, Chandratal Lake."
   },
   {
@@ -488,21 +489,17 @@
     "state": "Himachal Pradesh",
     "city": "Lahaul & Spiti",
     "coordinates": {
-      "lat": 32.2970,
-      "long": 78.0170
+      "lat": 32.297,
+      "long": 78.017
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "Largest monastery in Spiti at 4,166m, 1000-year-old Tibetan Buddhist gompa, training center for lamas, hilltop fortress architecture, ancient murals, manuscripts, stunning valley views."
   },
   {
@@ -512,21 +509,17 @@
     "state": "Himachal Pradesh",
     "city": "Lahaul & Spiti",
     "coordinates": {
-      "lat": 32.0930,
-      "long": 78.3850
+      "lat": 32.093,
+      "long": 78.385
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "UNESCO World Heritage Site (tentative), Ajanta of the Himalayas, 1000-year-old monastery founded 996 CE, ancient murals, stucco sculptures, Dalai Lama's Kalachakra initiation site."
   },
   {
@@ -536,8 +529,8 @@
     "state": "Himachal Pradesh",
     "city": "Kinnaur",
     "coordinates": {
-      "lat": 31.5370,
-      "long": 78.2600
+      "lat": 31.537,
+      "long": 78.26
     },
     "heritage": {
       "unesco": false,
@@ -545,13 +538,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "April",
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["April", "May", "June", "September", "October"],
     "description": "Himalayan village at 2,960m with Kinner Kailash views, apple orchards, Buddhist and Hindu temples, suicide point, old Kalpa village, traditional Kinnauri architecture, Indo-Tibetan culture."
   },
   {
@@ -561,8 +548,8 @@
     "state": "Himachal Pradesh",
     "city": "Kinnaur",
     "coordinates": {
-      "lat": 31.4250,
-      "long": 78.2610
+      "lat": 31.425,
+      "long": 78.261
     },
     "heritage": {
       "unesco": false,
@@ -570,13 +557,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "April",
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["April", "May", "June", "September", "October"],
     "description": "Baspa Valley with Sangla village at 2,680m, traditional Kinnauri houses, Kamru Fort, Bering Nag Temple, apple orchards, walnut trees, Baspa River, offbeat destination."
   },
   {
@@ -586,8 +567,8 @@
     "state": "Himachal Pradesh",
     "city": "Solan",
     "coordinates": {
-      "lat": 30.9710,
-      "long": 77.1890
+      "lat": 30.971,
+      "long": 77.189
     },
     "heritage": {
       "unesco": false,
@@ -613,14 +594,15 @@
     "state": "Himachal Pradesh",
     "city": "Kullu",
     "coordinates": {
-      "lat": 31.7550,
-      "long": 77.3570
+      "lat": 31.755,
+      "long": 77.357
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -640,21 +622,17 @@
     "state": "Himachal Pradesh",
     "city": "Lahaul & Spiti",
     "coordinates": {
-      "lat": 32.0060,
-      "long": 78.0070
+      "lat": 32.006,
+      "long": 78.007
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "Cold desert national park at 3,500-6,000m, snow leopards, Siberian ibex, Tibetan gazelles, red fox, 80+ bird species, Pin River, Kungri Monastery, glaciers, high-altitude flora."
   },
   {
@@ -664,8 +642,8 @@
     "state": "Himachal Pradesh",
     "city": "Kinnaur",
     "coordinates": {
-      "lat": 31.8790,
-      "long": 78.6280
+      "lat": 31.879,
+      "long": 78.628
     },
     "heritage": {
       "unesco": false,
@@ -690,8 +668,8 @@
     "state": "Himachal Pradesh",
     "city": "Kullu",
     "coordinates": {
-      "lat": 31.9570,
-      "long": 77.1090
+      "lat": 31.957,
+      "long": 77.109
     },
     "heritage": {
       "unesco": false,
@@ -699,9 +677,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "October"
-    ],
+    "bestVisitMonths": ["October"],
     "description": "International Kullu Dussehra, week-long celebration when Dussehra ends elsewhere, Lord Raghunath Rath Yatra, 200+ village deities procession, folk performances, unique cultural tradition since 1637."
   }
 ]

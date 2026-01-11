@@ -1,0 +1,1249 @@
+[
+  {
+    "name": "Taj Mahal",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.175,
+      "long": 78.042
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Iconic white-marble Mughal mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "others": [
+      "UNESCO World Heritage Site (1983)",
+      "Major tourist attraction",
+      "Mughal architecture masterpiece"
+    ]
+  },
+  {
+    "name": "Agra Fort",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.179,
+      "long": 78.021
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "16th-century Mughal imperial fortress in Agra, with impressive architecture and historical significance.",
+    "others": [
+      "UNESCO World Heritage Site (1983)",
+      "Mughal architecture",
+      "Historical monument"
+    ]
+  },
+  {
+    "name": "Fatehpur Sikri",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Fatehpur",
+    "coordinates": {
+      "lat": 27.093,
+      "long": 77.66
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "description": "A Mughal city founded by Emperor Akbar, featuring grand palaces, mosques, and courtyards.",
+    "others": [
+      "UNESCO World Heritage Site (1986)",
+      "Mughal architecture",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Ajanta Caves",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "coordinates": {
+      "lat": 20.552,
+      "long": 75.703
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Rock-cut Buddhist cave monuments with exquisite murals and sculptures dating from 2nd century BCE to 6th century CE.",
+    "others": [
+      "UNESCO World Heritage Site (1983)",
+      "Buddhist art",
+      "Ancient cave architecture"
+    ]
+  },
+  {
+    "name": "Ellora Caves",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "coordinates": {
+      "lat": 20.026,
+      "long": 75.179
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Rock-cut caves representing Buddhist, Hindu, and Jain traditions, famous for Kailasa temple, a monolithic rock excavation.",
+    "others": [
+      "UNESCO World Heritage Site (1983)",
+      "Rock-cut architecture",
+      "Cultural and religious heritage"
+    ]
+  },
+  {
+    "name": "Elephanta Caves",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.963,
+      "long": 72.931
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Rock-cut Hindu cave temples on Elephanta Island, known for sculptures of Lord Shiva and elaborate carvings.",
+    "others": [
+      "UNESCO World Heritage Site (1987)",
+      "Cultural heritage",
+      "Historic cave temples"
+    ]
+  },
+  {
+    "name": "Sun Temple, Konark",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Konark",
+    "coordinates": {
+      "lat": 19.887,
+      "long": 86.094
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "13th-century Sun Temple built in the shape of a colossal chariot, dedicated to the Sun God.",
+    "others": [
+      "UNESCO World Heritage Site (1984)",
+      "Kalinga architecture",
+      "Historic temple"
+    ]
+  },
+  {
+    "name": "Group of Monuments at Mahabalipuram",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Mahabalipuram",
+    "coordinates": {
+      "lat": 12.62,
+      "long": 80.196
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "7th-8th century Pallava monuments by the Bay of Bengal, including rock-cut temples and shore temples.",
+    "others": [
+      "UNESCO World Heritage Site (1984)",
+      "Pallava architecture",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Great Living Chola Temples",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur/Gangaikonda Cholapuram/Darasuram",
+    "coordinates": {
+      "lat": 10.779,
+      "long": 79.131
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Temples of Chola dynasty architecture, demonstrating outstanding Dravidian style and cultural achievement.",
+    "others": [
+      "UNESCO World Heritage Site (1987)",
+      "Chola architecture",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Group of Monuments at Hampi",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "coordinates": {
+      "lat": 15.335,
+      "long": 76.464
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Ruins of Vijayanagara Empire including temples, palaces, and market streets, reflecting medieval South Indian culture.",
+    "others": [
+      "UNESCO World Heritage Site (1986)",
+      "Vijayanagara architecture",
+      "Historical site"
+    ]
+  },
+  {
+    "name": "Group of Monuments at Pattadakal",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Pattadakal",
+    "coordinates": {
+      "lat": 15.865,
+      "long": 75.271
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "description": "7th-8th century temples blending Chalukya architectural forms of northern and southern India.",
+    "others": [
+      "UNESCO World Heritage Site (1987)",
+      "Chalukya architecture",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Khajuraho Group of Monuments",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Khajuraho",
+    "coordinates": {
+      "lat": 24.85,
+      "long": 79.92
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Medieval temples renowned for their exquisite sculptures and architectural design.",
+    "others": [
+      "UNESCO World Heritage Site (1986)",
+      "Hindu and Jain temples",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Buddhist Monuments at Sanchi",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Sanchi",
+    "coordinates": {
+      "lat": 23.482,
+      "long": 77.739
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "description": "Ancient Buddhist stupas, monasteries, and temples, reflecting early Buddhist architecture and art.",
+    "others": [
+      "UNESCO World Heritage Site (1989)",
+      "Stupa architecture",
+      "Buddhist pilgrimage site"
+    ]
+  },
+  {
+    "name": "Humayun’s Tomb",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "coordinates": {
+      "lat": 28.593,
+      "long": 77.25
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "16th-century Mughal garden tomb, precursor to the Taj Mahal, built for Emperor Humayun.",
+    "others": [
+      "UNESCO World Heritage Site (1993)",
+      "Mughal architecture",
+      "Historical monument"
+    ]
+  },
+  {
+    "name": "Qutb Minar and its Monuments",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "coordinates": {
+      "lat": 28.524,
+      "long": 77.185
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Tallest brick minaret in the world with surrounding medieval monuments of the Delhi Sultanate.",
+    "others": [
+      "UNESCO World Heritage Site (1993)",
+      "Islamic architecture",
+      "Historical complex"
+    ]
+  },
+  {
+    "name": "Mountain Railways of India",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Various (Darjeeling, Nilgiri, Kalka–Shimla)",
+    "city": "Various",
+    "coordinates": {
+      "lat": 30.325,
+      "long": 78.079
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "October",
+      "November"
+    ],
+    "description": "Historic hill railways demonstrating engineering achievement in mountainous terrains.",
+    "others": [
+      "UNESCO World Heritage Site (1999)",
+      "Engineering heritage",
+      "Tourist attraction"
+    ]
+  },
+  {
+    "name": "Mahabodhi Temple Complex at Bodh Gaya",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Gaya (Bodh Gaya)",
+    "coordinates": {
+      "lat": 24.695,
+      "long": 84.991
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Where Gautama Buddha attained enlightenment under the Bodhi Tree; one of the earliest surviving brick temples in India.",
+    "others": [
+      "UNESCO World Heritage Site (2002)",
+      "ASI Protected Monument",
+      "Major Buddhist pilgrimage site"
+    ]
+  },
+  {
+    "name": "Rock Shelters of Bhimbetka",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "coordinates": {
+      "lat": 23.928,
+      "long": 77.457
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "description": "Prehistoric rock shelters with cave paintings depicting early human life and hunting scenes.",
+    "others": [
+      "UNESCO World Heritage Site (2003)",
+      "Prehistoric art",
+      "Archaeological site"
+    ]
+  },
+  {
+    "name": "Champaner–Pavagadh Archaeological Park",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Pavagadh",
+    "coordinates": {
+      "lat": 22.516,
+      "long": 73.611
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "description": "Historic city with forts, palaces, mosques, and temples reflecting cultural fusion.",
+    "others": [
+      "UNESCO World Heritage Site (2004)",
+      "Archaeological park",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.94,
+      "long": 72.835
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Historic railway station combining Victorian Gothic architecture with traditional Indian features.",
+    "others": [
+      "UNESCO World Heritage Site (2004)",
+      "Architectural heritage",
+      "Railway landmark"
+    ]
+  },
+  {
+    "name": "Red Fort Complex",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "coordinates": {
+      "lat": 28.656,
+      "long": 77.241
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "17th-century Mughal fort built by Emperor Shah Jahan, known for its massive red sandstone walls and architectural grandeur.",
+    "others": [
+      "UNESCO World Heritage Site (2007)",
+      "Mughal architecture",
+      "Historical monument"
+    ]
+  },
+  {
+    "name": "Jantar Mantar, Jaipur",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.924,
+      "long": 75.82
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "18th-century astronomical observatory built by Maharaja Sawai Jai Singh II.",
+    "others": [
+      "UNESCO World Heritage Site (2010)",
+      "Astronomical instruments",
+      "Scientific heritage"
+    ]
+  },
+  {
+    "name": "Hill Forts of Rajasthan",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Various",
+    "coordinates": {
+      "lat": 26.912,
+      "long": 75.787
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Six majestic forts representing the Rajput military architecture in Rajasthan.",
+    "others": [
+      "UNESCO World Heritage Site (2013)",
+      "Military architecture",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Rani-ki-Vav (Queen’s Stepwell)",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Patan",
+    "coordinates": {
+      "lat": 23.85,
+      "long": 72.126
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Intricately constructed stepwell built in the 11th century, showcasing water architecture and art.",
+    "others": [
+      "UNESCO World Heritage Site (2014)",
+      "Stepwell architecture",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Archaeological Site of Nalanda Mahavihara",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "coordinates": {
+      "lat": 25.136,
+      "long": 85.443
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Ancient monastic university and center of learning from 5th to 12th century CE.",
+    "others": [
+      "UNESCO World Heritage Site (2016)",
+      "Ancient university",
+      "Buddhist heritage"
+    ]
+  },
+  {
+    "name": "Khangchendzonga National Park (Mixed)",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Sikkim",
+    "city": "Mangan District",
+    "coordinates": {
+      "lat": 27.495,
+      "long": 88.12
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "October",
+      "November"
+    ],
+    "description": "Biodiverse national park and mountain landscape with spiritual significance to the local communities.",
+    "others": [
+      "UNESCO World Heritage Site (2016)",
+      "Mixed natural and cultural heritage",
+      "Himalayan ecosystem"
+    ]
+  },
+  {
+    "name": "The Architectural Work of Le Corbusier",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "coordinates": {
+      "lat": 30.733,
+      "long": 76.779
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Modernist architectural works of Le Corbusier in Chandigarh, including Capitol Complex.",
+    "others": [
+      "UNESCO World Heritage Site (2016)",
+      "Modern architecture",
+      "Urban planning"
+    ]
+  },
+  {
+    "name": "Historic City of Ahmedabad",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "coordinates": {
+      "lat": 23.022,
+      "long": 72.571
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Historic city reflecting Indo-Islamic architecture, urban planning, and fortified city walls.",
+    "others": [
+      "UNESCO World Heritage Site (2017)",
+      "Cultural heritage",
+      "Architectural ensemble"
+    ]
+  },
+  {
+    "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.933,
+      "long": 72.833
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Ensemble of Victorian Gothic and Art Deco buildings representing colonial-era urban development.",
+    "others": [
+      "UNESCO World Heritage Site (2018)",
+      "Architectural heritage",
+      "Cultural ensemble"
+    ]
+  },
+  {
+    "name": "Jaipur City, Rajasthan",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.912,
+      "long": 75.787
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Planned 18th-century city designed by Vidyadhar Bhattacharya with grid layout and distinctive architecture.",
+    "others": [
+      "UNESCO World Heritage Site (2019)",
+      "Urban planning",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Kakatiya Rudreshwara (Ramappa) Temple",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Palampet",
+    "coordinates": {
+      "lat": 18.872,
+      "long": 79.588
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "13th-century temple built in Kakatiya style with intricate carvings and floating bricks in the roof.",
+    "others": [
+      "UNESCO World Heritage Site (2021)",
+      "Kakatiya architecture",
+      "Cultural heritage"
+    ]
+  },
+  {
+    "name": "Dholavira (Harappan City)",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Kutch District",
+    "coordinates": {
+      "lat": 23.861,
+      "long": 70.216
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Excavated city of the Indus Valley Civilization with unique water management and urban planning.",
+    "others": [
+      "UNESCO World Heritage Site (2021)",
+      "Harappan civilization",
+      "Archaeological site"
+    ]
+  },
+  {
+    "name": "Santiniketan",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Birbhum",
+    "coordinates": {
+      "lat": 23.683,
+      "long": 87.683
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "University town founded by Rabindranath Tagore, known for its cultural and educational significance.",
+    "others": [
+      "UNESCO World Heritage Site (2023)",
+      "Cultural heritage",
+      "Educational center"
+    ]
+  },
+  {
+    "name": "Sacred Ensembles of the Hoysalas",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Belur and Halebidu",
+    "coordinates": {
+      "lat": 12.976,
+      "long": 76.166
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "12th-13th century temples known for intricate sculptures and Hoysala architectural style.",
+    "others": [
+      "UNESCO World Heritage Site (2023)",
+      "Hoysala architecture",
+      "Cultural and religious heritage"
+    ]
+  },
+  {
+    "name": "Kaziranga National Park",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Assam",
+    "city": "Golaghat / Biswanath",
+    "coordinates": {
+      "lat": 26.577,
+      "long": 93.171
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Famous wildlife sanctuary home to the world's largest population of the one-horned rhinoceros.",
+    "others": [
+      "UNESCO World Heritage Site (1985)",
+      "Tiger Reserve",
+      "Important Bird Area",
+      "Brahmaputra floodplain ecosystem"
+    ]
+  },
+  {
+    "name": "Manas Wildlife Sanctuary",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Assam",
+    "city": "Baksa / Chirang",
+    "coordinates": {
+      "lat": 26.731,
+    "long": 90.722
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January"
+    ],
+    "description": "Biodiverse wildlife sanctuary at the foothills of the Himalayas, known for rare and endangered species.",
+    "others": [
+      "UNESCO World Heritage Site (1985)",
+      "Tiger Reserve",
+      "Biosphere Reserve",
+      "Eastern Himalayan biodiversity hotspot"
+    ]
+  },
+  {
+    "name": "Keoladeo National Park",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Bharatpur",
+    "coordinates": {
+      "lat": 27.154,
+      "long": 77.491
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Man-made wetland and bird sanctuary supporting thousands of migratory and resident birds.",
+    "others": [
+      "UNESCO World Heritage Site (1985)",
+      "Important Bird Area",
+      "Ramsar Wetland",
+      "Former royal hunting reserve"
+    ]
+  },
+  {
+    "name": "Sundarbans National Park",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "South 24 Parganas",
+    "coordinates": {
+      "lat": 21.9497,
+      "long": 88.8807
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Largest mangrove forest in the world, known for its tidal waterways and Royal Bengal Tigers.",
+    "others": [
+      "UNESCO World Heritage Site (1987)",
+      "Tiger Reserve",
+      "Biosphere Reserve",
+      "Mangrove ecosystem"
+    ]
+  },
+  {
+    "name": "Nanda Devi and Valley of Flowers National Parks",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "coordinates": {
+      "lat": 30.728,
+      "long": 79.605
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "High-altitude Himalayan parks known for alpine flora, endemic species, and dramatic landscapes.",
+    "others": [
+      "UNESCO World Heritage Site (1988)",
+      "Biosphere Reserve",
+      "Himalayan ecosystem",
+      "Valley of endemic flowers"
+    ]
+  },
+  {
+    "name": "Western Ghats",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Multiple States",
+    "city": "Maharashtra / Karnataka / Kerala / Tamil Nadu / Goa",
+    "coordinates": {
+      "lat": 10.163,
+      "long": 76.641
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "description": "Ancient mountain range recognized as one of the world's eight biodiversity hotspots.",
+    "others": [
+      "UNESCO World Heritage Site (2012)",
+      "Global biodiversity hotspot",
+      "Multiple protected areas",
+      "High endemism"
+    ]
+  },
+  {
+    "name": "Great Himalayan National Park",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 31.754,
+      "long": 77.36
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "October",
+      "November"
+    ],
+    "description": "High-altitude Himalayan national park known for alpine meadows, forests, glaciers, and exceptional biodiversity.",
+    "others": [
+      "UNESCO World Heritage Site (2014)",
+      "Biodiversity hotspot",
+      "Western Himalayas ecosystem",
+      "Protected wildlife reserve"
+    ]
+  },
+  {
+    "name": "Khangchendzonga National Park",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Sikkim",
+    "city": "Mangan District",
+    "coordinates": {
+      "lat": 27.495,
+      "long": 88.12
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "October",
+      "November"
+    ],
+    "description": "Himalayan national park centered around Mount Khangchendzonga, revered for its natural beauty and cultural significance.",
+    "others": [
+      "UNESCO World Heritage Site (2016)",
+      "Mixed Natural and Cultural Site",
+      "Himalayan biodiversity hotspot",
+      "Sacred landscape of Sikkim"
+    ]
+  }
+]

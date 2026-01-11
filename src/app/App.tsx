@@ -39,7 +39,7 @@ function App(): JSX.Element {
   const [places, setPlaces] = useState<Place[]>([]);
   const [giTags, setGiTags] = useState<GITagItem[]>([]);
   const [locationTypeFilter, setLocationTypeFilter] = useState<string>('all');
-  const [showGiTags, setShowGiTags] = useState<boolean>(true);
+  const [showGiTags, setShowGiTags] = useState<boolean>(false);
   const [stateFilter, setStateFilter] = useState<string>('all');
   const [loading, setLoading] = useState<boolean>(true);
   const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
@@ -98,7 +98,8 @@ function App(): JSX.Element {
         const specialImports: { [key: string]: () => Promise<any> } = {
           'CharDham': () => import('../data/special/CharDham.json'),
           'JyotirLingas': () => import('../data/special/JyotirLingas.json'),
-          'ShaktiPeeths': () => import('../data/special/ShaktiPeeths.json')
+          'ShaktiPeeths': () => import('../data/special/ShaktiPeeths.json'),
+          'UNESCOHeritage': () => import('../data/special/UNESCOHeritage.json')
         };
 
         // Load all state files
@@ -175,9 +176,9 @@ function App(): JSX.Element {
   // Filter GI Tags (only by state if enabled)
   const filteredGiTags: GITagItem[] = showGiTags ? giTags.filter(item => {
     // State Filter
-    if (stateFilter !== 'all' && item.state !== stateFilter) {
-      return false;
-    }
+    // if (stateFilter !== 'all' && item.state !== stateFilter) {
+    //   return false;
+    // }
     return true;
   }) : [];
 
@@ -306,7 +307,7 @@ function App(): JSX.Element {
               >
                 <Popup>
                   <div className="popup-content">
-                    <h3>{place.name}</h3>
+                    <h3>{place.heritage?.unesco ? '🪙' : place.heritage?.national ? '⭐' : ''}{place.name}</h3>
                     <p><strong>Type:</strong> {place.type}</p>
                     <p><strong>Location:</strong> {place.city}, {place.state}</p>
                     {place.heritage && (place.heritage.unesco || place.heritage.national || place.heritage.state) && (

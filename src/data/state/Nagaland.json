@@ -33,7 +33,7 @@
     "city": "Kohima",
     "coordinates": {
       "lat": 25.6725,
-      "long": 94.1100
+      "long": 94.11
     },
     "heritage": {
       "unesco": false,
@@ -58,8 +58,8 @@
     "state": "Nagaland",
     "city": "Kohima",
     "coordinates": {
-      "lat": 25.6730,
-      "long": 94.1130
+      "lat": 25.673,
+      "long": 94.113
     },
     "heritage": {
       "unesco": false,
@@ -75,7 +75,8 @@
       "February",
       "March"
     ],
-    "description": "Commonwealth War Cemetery commemorating 1944 Battle of Kohima (turning point of WWII Burma Campaign), 1,420 Allied soldiers buried, famous Kohima Epitaph inscription, immaculately maintained gardens, tennis court battlefield site, war memorial, annual ceremonies, historical significance."
+    "description": "Commonwealth War Cemetery commemorating 1944 Battle of Kohima (turning point of WWII Burma Campaign), 1,420 Allied soldiers buried, famous Kohima Epitaph inscription, immaculately maintained gardens, tennis court battlefield site, war memorial, annual ceremonies, historical significance.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Dzukou Valley",
@@ -113,8 +114,8 @@
     "state": "Nagaland",
     "city": "Kohima",
     "coordinates": {
-      "lat": 25.7590,
-      "long": 94.1200
+      "lat": 25.759,
+      "long": 94.12
     },
     "heritage": {
       "unesco": false,
@@ -168,8 +169,8 @@
     "state": "Nagaland",
     "city": "Mokokchung",
     "coordinates": {
-      "lat": 26.3290,
-      "long": 94.5380
+      "lat": 26.329,
+      "long": 94.538
     },
     "heritage": {
       "unesco": false,
@@ -194,8 +195,8 @@
     "state": "Nagaland",
     "city": "Kohima",
     "coordinates": {
-      "lat": 25.6700,
-      "long": 94.1070
+      "lat": 25.67,
+      "long": 94.107
     },
     "heritage": {
       "unesco": false,
@@ -220,8 +221,8 @@
     "state": "Nagaland",
     "city": "Kohima",
     "coordinates": {
-      "lat": 25.6710,
-      "long": 94.1080
+      "lat": 25.671,
+      "long": 94.108
     },
     "heritage": {
       "unesco": false,
@@ -246,8 +247,8 @@
     "state": "Nagaland",
     "city": "Mon",
     "coordinates": {
-      "lat": 26.0140,
-      "long": 94.8400
+      "lat": 26.014,
+      "long": 94.84
     },
     "heritage": {
       "unesco": false,
@@ -272,8 +273,8 @@
     "state": "Nagaland",
     "city": "Mon",
     "coordinates": {
-      "lat": 26.0880,
-      "long": 94.7850
+      "lat": 26.088,
+      "long": 94.785
     },
     "heritage": {
       "unesco": false,
@@ -298,8 +299,8 @@
     "state": "Nagaland",
     "city": "Mokokchung",
     "coordinates": {
-      "lat": 26.3320,
-      "long": 94.5370
+      "lat": 26.332,
+      "long": 94.537
     },
     "heritage": {
       "unesco": false,
@@ -324,8 +325,8 @@
     "state": "Nagaland",
     "city": "Phek",
     "coordinates": {
-      "lat": 26.1500,
-      "long": 94.5650
+      "lat": 26.15,
+      "long": 94.565
     },
     "heritage": {
       "unesco": false,
@@ -385,9 +386,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December"
-    ],
+    "bestVisitMonths": ["December"],
     "description": "Festival of Festivals (December 1-10), showcasing all 16 Naga tribes' cultural heritage at Kisama Heritage Village, traditional dances, songs, costumes, handicrafts, indigenous games, Naga wrestling, folk music, rock concerts, food stalls, international rock contest, tourism flagship event."
   },
   {
@@ -397,8 +396,8 @@
     "state": "Nagaland",
     "city": "Mokokchung",
     "coordinates": {
-      "lat": 26.3320,
-      "long": 94.5370
+      "lat": 26.332,
+      "long": 94.537
     },
     "heritage": {
       "unesco": false,
@@ -406,9 +405,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "January"
-    ],
+    "bestVisitMonths": ["January"],
     "description": "Tsungremong harvest festival celebrated by Ao Nagas, thanksgiving after harvest, traditional rituals, community feasts, folk dances, songs, games, log drum performances, tribal unity, cultural preservation, January celebration, authentic Ao cultural experience."
   },
   {
@@ -419,7 +416,7 @@
     "city": "Tuensang",
     "coordinates": {
       "lat": 26.0865,
-      "long": 94.9850
+      "long": 94.985
     },
     "heritage": {
       "unesco": false,
@@ -444,8 +441,8 @@
     "state": "Nagaland",
     "city": "Phek",
     "coordinates": {
-      "lat": 26.1500,
-      "long": 94.5550
+      "lat": 26.15,
+      "long": 94.555
     },
     "heritage": {
       "unesco": false,
@@ -470,8 +467,8 @@
     "state": "Nagaland",
     "city": "Kiphire",
     "coordinates": {
-      "lat": 25.9270,
-      "long": 94.9630
+      "lat": 25.927,
+      "long": 94.963
     },
     "heritage": {
       "unesco": false,
@@ -496,8 +493,8 @@
     "state": "Nagaland",
     "city": "Mon",
     "coordinates": {
-      "lat": 26.0150,
-      "long": 94.8350
+      "lat": 26.015,
+      "long": 94.835
     },
     "heritage": {
       "unesco": false,
@@ -522,8 +519,8 @@
     "state": "Nagaland",
     "city": "Longleng",
     "coordinates": {
-      "lat": 26.1830,
-      "long": 94.8660
+      "lat": 26.183,
+      "long": 94.866
     },
     "heritage": {
       "unesco": false,
@@ -548,8 +545,8 @@
     "state": "Nagaland",
     "city": "Mokokchung",
     "coordinates": {
-      "lat": 26.3320,
-      "long": 94.5370
+      "lat": 26.332,
+      "long": 94.537
     },
     "heritage": {
       "unesco": false,
@@ -557,9 +554,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December"
-    ],
+    "bestVisitMonths": ["December"],
     "description": "Ao cultural celebration during Hornbill Festival period, traditional dances including Uchung Angia (war dance), folk songs, log drum performances, Ao tribal games, handicrafts exhibition, local cuisine, cultural competitions, community participation, December festivities."
   },
   {
@@ -569,8 +564,8 @@
     "state": "Nagaland",
     "city": "Mon",
     "coordinates": {
-      "lat": 26.0140,
-      "long": 94.8400
+      "lat": 26.014,
+      "long": 94.84
     },
     "heritage": {
       "unesco": false,
@@ -578,9 +573,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December"
-    ],
+    "bestVisitMonths": ["December"],
     "description": "Aoleang Monyu festival of Konyak Nagas coinciding with Hornbill Festival, spring festival marking new agricultural cycle, traditional war dances, warrior attire, log drum performances, community feasts, rice beer (Zu), cultural preservation, tribal traditions, December celebration."
   }
 ]

@@ -14,6 +14,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -40,6 +41,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -58,14 +60,15 @@
     "state": "Goa",
     "city": "North Goa (Old Goa)",
     "coordinates": {
-      "lat": 15.5020,
-      "long": 73.9130
+      "lat": 15.502,
+      "long": 73.913
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -84,14 +87,15 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.4920,
-      "long": 73.7730
+      "lat": 15.492,
+      "long": 73.773
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -110,8 +114,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.6090,
-      "long": 73.7390
+      "lat": 15.609,
+      "long": 73.739
     },
     "heritage": {
       "unesco": false,
@@ -136,14 +140,15 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.5030,
-      "long": 73.8200
+      "lat": 15.503,
+      "long": 73.82
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -214,8 +219,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.5750,
-      "long": 73.7430
+      "lat": 15.575,
+      "long": 73.743
     },
     "heritage": {
       "unesco": false,
@@ -240,8 +245,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.6030,
-      "long": 73.7360
+      "lat": 15.603,
+      "long": 73.736
     },
     "heritage": {
       "unesco": false,
@@ -266,8 +271,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.5150,
-      "long": 73.7640
+      "lat": 15.515,
+      "long": 73.764
     },
     "heritage": {
       "unesco": false,
@@ -292,8 +297,8 @@
     "state": "Goa",
     "city": "South Goa",
     "coordinates": {
-      "lat": 15.2790,
-      "long": 73.9220
+      "lat": 15.279,
+      "long": 73.922
     },
     "heritage": {
       "unesco": false,
@@ -318,8 +323,8 @@
     "state": "Goa",
     "city": "South Goa",
     "coordinates": {
-      "lat": 15.2630,
-      "long": 73.9270
+      "lat": 15.263,
+      "long": 73.927
     },
     "heritage": {
       "unesco": false,
@@ -344,8 +349,8 @@
     "state": "Goa",
     "city": "South Goa",
     "coordinates": {
-      "lat": 15.0090,
-      "long": 74.0230
+      "lat": 15.009,
+      "long": 74.023
     },
     "heritage": {
       "unesco": false,
@@ -370,8 +375,8 @@
     "state": "Goa",
     "city": "South Goa",
     "coordinates": {
-      "lat": 14.9950,
-      "long": 74.0280
+      "lat": 14.995,
+      "long": 74.028
     },
     "heritage": {
       "unesco": false,
@@ -396,22 +401,17 @@
     "state": "Goa",
     "city": "South Goa",
     "coordinates": {
-      "lat": 15.3140,
-      "long": 74.3140
+      "lat": 15.314,
+      "long": 74.314
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September", "October"],
     "description": "India's 5th highest waterfall (310m), 'Sea of Milk' cascades, jungle trekking, jeep safari through Bhagwan Mahavir Sanctuary."
   },
   {
@@ -421,14 +421,15 @@
     "state": "Goa",
     "city": "South Goa",
     "coordinates": {
-      "lat": 15.3140,
-      "long": 74.3140
+      "lat": 15.314,
+      "long": 74.314
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -447,14 +448,15 @@
     "state": "Goa",
     "city": "South Goa",
     "coordinates": {
-      "lat": 15.3140,
-      "long": 74.3140
+      "lat": 15.314,
+      "long": 74.314
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -473,8 +475,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.4000,
-      "long": 74.0200
+      "lat": 15.4,
+      "long": 74.02
     },
     "heritage": {
       "unesco": false,
@@ -499,8 +501,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.5270,
-      "long": 73.8750
+      "lat": 15.527,
+      "long": 73.875
     },
     "heritage": {
       "unesco": false,
@@ -525,8 +527,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.4900,
-      "long": 73.8270
+      "lat": 15.49,
+      "long": 73.827
     },
     "heritage": {
       "unesco": false,
@@ -601,8 +603,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.5750,
-      "long": 73.7430
+      "lat": 15.575,
+      "long": 73.743
     },
     "heritage": {
       "unesco": false,
@@ -610,13 +612,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
     "description": "Iconic Wednesday market since 1960s, handicrafts, jewelry, clothes, spices, Tibetan goods, hippie culture legacy."
   },
   {
@@ -627,7 +623,7 @@
     "city": "Statewide",
     "coordinates": {
       "lat": 15.2993,
-      "long": 74.1240
+      "long": 74.124
     },
     "heritage": {
       "unesco": false,
@@ -635,9 +631,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February"
-    ],
+    "bestVisitMonths": ["February"],
     "description": "Unique Latin-style carnival with colorful parades, floats, King Momo, music, dancing, feasting, Portuguese heritage celebration."
   },
   {
@@ -647,8 +641,8 @@
     "state": "Goa",
     "city": "North Goa",
     "coordinates": {
-      "lat": 15.4900,
-      "long": 73.8270
+      "lat": 15.49,
+      "long": 73.827
     },
     "heritage": {
       "unesco": false,
@@ -656,9 +650,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December"
-    ],
+    "bestVisitMonths": ["December"],
     "description": "Asia's largest electronic dance music festival, international DJs, multiple stages, beach parties, EDM culture hub."
   }
 ]

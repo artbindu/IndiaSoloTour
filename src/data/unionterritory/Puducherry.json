@@ -32,8 +32,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9360,
-      "long": 79.8360
+      "lat": 11.936,
+      "long": 79.836
     },
     "heritage": {
       "unesco": false,
@@ -59,7 +59,7 @@
     "city": "Puducherry",
     "coordinates": {
       "lat": 11.9465,
-      "long": 79.8660
+      "long": 79.866
     },
     "heritage": {
       "unesco": false,
@@ -85,7 +85,7 @@
     "city": "Villupuram",
     "coordinates": {
       "lat": 12.0064,
-      "long": 79.8100
+      "long": 79.81
     },
     "heritage": {
       "unesco": false,
@@ -162,14 +162,15 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.8800,
-      "long": 79.8200
+      "lat": 11.88,
+      "long": 79.82
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -188,8 +189,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9360,
-      "long": 79.8360
+      "lat": 11.936,
+      "long": 79.836
     },
     "heritage": {
       "unesco": false,
@@ -214,8 +215,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9350,
-      "long": 79.8390
+      "lat": 11.935,
+      "long": 79.839
     },
     "heritage": {
       "unesco": false,
@@ -240,8 +241,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9350,
-      "long": 79.8370
+      "lat": 11.935,
+      "long": 79.837
     },
     "heritage": {
       "unesco": false,
@@ -266,8 +267,8 @@
     "state": "Puducherry",
     "city": "Villupuram",
     "coordinates": {
-      "lat": 11.9830,
-      "long": 79.8090
+      "lat": 11.983,
+      "long": 79.809
     },
     "heritage": {
       "unesco": false,
@@ -292,8 +293,8 @@
     "state": "Puducherry",
     "city": "Cuddalore",
     "coordinates": {
-      "lat": 11.9370,
-      "long": 79.8550
+      "lat": 11.937,
+      "long": 79.855
     },
     "heritage": {
       "unesco": false,
@@ -318,8 +319,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9530,
-      "long": 79.8590
+      "lat": 11.953,
+      "long": 79.859
     },
     "heritage": {
       "unesco": false,
@@ -344,8 +345,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9310,
-      "long": 79.8300
+      "lat": 11.931,
+      "long": 79.83
     },
     "heritage": {
       "unesco": false,
@@ -370,8 +371,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9360,
-      "long": 79.8380
+      "lat": 11.936,
+      "long": 79.838
     },
     "heritage": {
       "unesco": false,
@@ -396,8 +397,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9330,
-      "long": 79.8360
+      "lat": 11.933,
+      "long": 79.836
     },
     "heritage": {
       "unesco": false,
@@ -423,7 +424,7 @@
     "city": "Puducherry",
     "coordinates": {
       "lat": 11.9365,
-      "long": 79.8390
+      "long": 79.839
     },
     "heritage": {
       "unesco": false,
@@ -448,7 +449,7 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9360,
+      "lat": 11.936,
       "long": 79.8385
     },
     "heritage": {
@@ -474,8 +475,8 @@
     "state": "Puducherry",
     "city": "Puducherry",
     "coordinates": {
-      "lat": 11.9360,
-      "long": 79.8360
+      "lat": 11.936,
+      "long": 79.836
     },
     "heritage": {
       "unesco": false,
@@ -483,10 +484,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["December", "January"],
     "description": "Winter carnival celebrations December-January on Beach Road and Bharati Park, stalls showcasing handicrafts from Tamil Nadu, Kerala, Karnataka, French food stalls, live music concerts, cultural performances - Bharatanatyam, folk dances, magic shows, talent competitions, adventure sports demonstrations, vintage car parade, cycle rallies, fancy dress competitions, food festival with Tamil, French, Continental cuisines, shopping bonanzas, art exhibitions, fireworks, New Year countdown at Beach Road with DJ nights, attracts domestic and French expat tourists, week-long festivities, tourism promotion, family entertainment, illuminated city, festive atmosphere blending French-Tamil cultures."
   },
   {
@@ -497,7 +495,7 @@
     "city": "Villupuram",
     "coordinates": {
       "lat": 12.0064,
-      "long": 79.8100
+      "long": 79.81
     },
     "heritage": {
       "unesco": false,
@@ -505,10 +503,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["February", "March"],
     "description": "Annual celebration in February-March commemorating Auroville Foundation Day (February 28, 1968), international cultural performances representing 50+ countries, organic food festival, handicrafts exhibition by Aurovillians, workshops on sustainable living, pottery, paper-making, natural dyeing, yoga and meditation sessions, concerts at Matrimandir amphitheater, art exhibitions, photography displays, panel discussions on sustainability and human unity, children's activities, cycle tours of community, solar kitchen open house, boutiques sale, international crowd, spiritual seekers, eco-conscious travelers, promotes Auroville's vision of human unity, multiple venues across township, free entry to most events, week-long festivities."
   }
 ]

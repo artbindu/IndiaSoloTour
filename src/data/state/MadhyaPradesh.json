@@ -14,8 +14,16 @@
       "national": true,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Sanchi Stupa",
@@ -25,15 +33,23 @@
     "city": "Raisen",
     "coordinates": {
       "lat": 23.4866,
-      "long": 77.7390
+      "long": 77.739
     },
     "heritage": {
       "unesco": true,
       "national": true,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Bhimbetka Rock Shelters",
@@ -50,8 +66,16 @@
       "national": true,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Ujjain Mahakaleshwar Temple",
@@ -69,7 +93,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Omkareshwar Jyotirlinga",
@@ -79,7 +111,7 @@
     "city": "Khandwa",
     "coordinates": {
       "lat": 22.2441,
-      "long": 76.1510
+      "long": 76.151
     },
     "heritage": {
       "unesco": false,
@@ -87,7 +119,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Orchha Fort Complex",
@@ -105,7 +145,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Gwalior Fort",
@@ -123,7 +171,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Mandu (Mandavgarh)",
@@ -132,8 +188,8 @@
     "state": "Madhya Pradesh",
     "city": "Dhar",
     "coordinates": {
-      "lat": 22.3660,
-      "long": 75.3850
+      "lat": 22.366,
+      "long": 75.385
     },
     "heritage": {
       "unesco": false,
@@ -141,7 +197,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Bandhavgarh National Park",
@@ -150,8 +214,8 @@
     "state": "Madhya Pradesh",
     "city": "Umaria",
     "coordinates": {
-      "lat": 23.6850,
-      "long": 81.0420
+      "lat": 23.685,
+      "long": 81.042
     },
     "heritage": {
       "unesco": false,
@@ -159,7 +223,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Kanha National Park",
@@ -177,7 +249,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Pench National Park",
@@ -186,8 +266,8 @@
     "state": "Madhya Pradesh",
     "city": "Seoni",
     "coordinates": {
-      "lat": 21.7000,
-      "long": 79.5000
+      "lat": 21.7,
+      "long": 79.5
     },
     "heritage": {
       "unesco": false,
@@ -195,7 +275,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Satpura National Park",
@@ -204,8 +292,8 @@
     "state": "Madhya Pradesh",
     "city": "Narmadapuram",
     "coordinates": {
-      "lat": 22.5000,
-      "long": 78.4330
+      "lat": 22.5,
+      "long": 78.433
     },
     "heritage": {
       "unesco": false,
@@ -213,7 +301,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Pachmarhi",
@@ -231,7 +327,18 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March", "April", "May", "June"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Amarkantak",
@@ -240,8 +347,8 @@
     "state": "Madhya Pradesh",
     "city": "Anuppur",
     "coordinates": {
-      "lat": 22.6750,
-      "long": 81.7500
+      "lat": 22.675,
+      "long": 81.75
     },
     "heritage": {
       "unesco": false,
@@ -249,7 +356,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Chitrakoot",
@@ -258,8 +373,8 @@
     "state": "Madhya Pradesh",
     "city": "Satna",
     "coordinates": {
-      "lat": 25.2000,
-      "long": 80.8500
+      "lat": 25.2,
+      "long": 80.85
     },
     "heritage": {
       "unesco": false,
@@ -267,7 +382,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Bhedaghat Marble Rocks",
@@ -277,7 +400,7 @@
     "city": "Jabalpur",
     "coordinates": {
       "lat": 23.1415,
-      "long": 79.8020
+      "long": 79.802
     },
     "heritage": {
       "unesco": false,
@@ -285,7 +408,17 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March", "April", "May", "June"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ]
   },
   {
     "name": "Dhuandhar Falls",
@@ -294,8 +427,8 @@
     "state": "Madhya Pradesh",
     "city": "Jabalpur",
     "coordinates": {
-      "lat": 23.1390,
-      "long": 79.8030
+      "lat": 23.139,
+      "long": 79.803
     },
     "heritage": {
       "unesco": false,
@@ -303,7 +436,17 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March", "April", "May", "June"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ]
   },
   {
     "name": "Panna National Park",
@@ -312,8 +455,8 @@
     "state": "Madhya Pradesh",
     "city": "Panna",
     "coordinates": {
-      "lat": 24.7180,
-      "long": 80.1870
+      "lat": 24.718,
+      "long": 80.187
     },
     "heritage": {
       "unesco": false,
@@ -321,7 +464,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Raisen Fort",
@@ -330,8 +481,8 @@
     "state": "Madhya Pradesh",
     "city": "Raisen",
     "coordinates": {
-      "lat": 23.3320,
-      "long": 77.7970
+      "lat": 23.332,
+      "long": 77.797
     },
     "heritage": {
       "unesco": false,
@@ -339,7 +490,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Tribal Museum, Bhopal",
@@ -348,8 +507,8 @@
     "state": "Madhya Pradesh",
     "city": "Bhopal",
     "coordinates": {
-      "lat": 23.2330,
-      "long": 77.4340
+      "lat": 23.233,
+      "long": 77.434
     },
     "heritage": {
       "unesco": false,
@@ -357,7 +516,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Bhojpur Temple",
@@ -366,8 +532,8 @@
     "state": "Madhya Pradesh",
     "city": "Raisen",
     "coordinates": {
-      "lat": 23.1040,
-      "long": 77.5980
+      "lat": 23.104,
+      "long": 77.598
     },
     "heritage": {
       "unesco": false,
@@ -375,7 +541,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Upper Lake (Bhojtal)",
@@ -384,8 +558,8 @@
     "state": "Madhya Pradesh",
     "city": "Bhopal",
     "coordinates": {
-      "lat": 23.2590,
-      "long": 77.4000
+      "lat": 23.259,
+      "long": 77.4
     },
     "heritage": {
       "unesco": false,
@@ -393,7 +567,13 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Tansen Music Festival",

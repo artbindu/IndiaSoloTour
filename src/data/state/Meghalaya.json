@@ -33,8 +33,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.5790,
-      "long": 91.8950
+      "lat": 25.579,
+      "long": 91.895
     },
     "heritage": {
       "unesco": false,
@@ -61,7 +61,7 @@
     "city": "East Khasi Hills",
     "coordinates": {
       "lat": 25.6065,
-      "long": 91.8800
+      "long": 91.88
     },
     "heritage": {
       "unesco": false,
@@ -87,8 +87,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.5780,
-      "long": 91.8900
+      "lat": 25.578,
+      "long": 91.89
     },
     "heritage": {
       "unesco": false,
@@ -114,8 +114,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.6490,
-      "long": 91.8290
+      "lat": 25.649,
+      "long": 91.829
     },
     "heritage": {
       "unesco": false,
@@ -141,8 +141,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.2980,
-      "long": 91.5820
+      "lat": 25.298,
+      "long": 91.582
     },
     "heritage": {
       "unesco": false,
@@ -168,8 +168,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.2780,
-      "long": 91.7110
+      "lat": 25.278,
+      "long": 91.711
     },
     "heritage": {
       "unesco": false,
@@ -195,8 +195,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.2920,
-      "long": 91.7130
+      "lat": 25.292,
+      "long": 91.713
     },
     "heritage": {
       "unesco": false,
@@ -222,8 +222,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.2000,
-      "long": 91.7210
+      "lat": 25.2,
+      "long": 91.721
     },
     "heritage": {
       "unesco": false,
@@ -249,8 +249,8 @@
     "state": "Meghalaya",
     "city": "West Jaintia Hills",
     "coordinates": {
-      "lat": 25.2930,
-      "long": 92.0320
+      "lat": 25.293,
+      "long": 92.032
     },
     "heritage": {
       "unesco": false,
@@ -276,8 +276,8 @@
     "state": "Meghalaya",
     "city": "West Jaintia Hills",
     "coordinates": {
-      "lat": 25.2900,
-      "long": 92.0340
+      "lat": 25.29,
+      "long": 92.034
     },
     "heritage": {
       "unesco": false,
@@ -303,8 +303,8 @@
     "state": "Meghalaya",
     "city": "South Garo Hills",
     "coordinates": {
-      "lat": 25.3320,
-      "long": 90.1650
+      "lat": 25.332,
+      "long": 90.165
     },
     "heritage": {
       "unesco": false,
@@ -321,7 +321,8 @@
       "March",
       "April"
     ],
-    "description": "220 sq km Land of Spirits (Garo belief souls rest here before final abode), canyon landscapes resembling Grand Canyon, red pandas, elephants, leopards, tigers, barking deer, 150+ bird species, carnivorous plants (pitcher plants), Siju limestone caves, Baghmara gorge, Rongrenggiri Peak (1732m), biodiversity hotspot, 167km from Tura."
+    "description": "220 sq km Land of Spirits (Garo belief souls rest here before final abode), canyon landscapes resembling Grand Canyon, red pandas, elephants, leopards, tigers, barking deer, 150+ bird species, carnivorous plants (pitcher plants), Siju limestone caves, Baghmara gorge, Rongrenggiri Peak (1732m), biodiversity hotspot, 167km from Tura.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Nokrek National Park",
@@ -330,8 +331,8 @@
     "state": "Meghalaya",
     "city": "West Garo Hills",
     "coordinates": {
-      "lat": 25.5620,
-      "long": 90.4400
+      "lat": 25.562,
+      "long": 90.44
     },
     "heritage": {
       "unesco": false,
@@ -348,7 +349,8 @@
       "March",
       "April"
     ],
-    "description": "47.48 sq km, UNESCO Biosphere Reserve since 2009, gene sanctuary for rare Citrus indica (wild orange ancestor), Nokrek Peak (1412m), elephants, tigers, leopards, red pandas, hoolock gibbons, 250+ bird species, carnivorous plants, trekking, Garo tribal culture, pristine forests, scientific research zone, 45km from Tura."
+    "description": "47.48 sq km, UNESCO Biosphere Reserve since 2009, gene sanctuary for rare Citrus indica (wild orange ancestor), Nokrek Peak (1412m), elephants, tigers, leopards, red pandas, hoolock gibbons, 250+ bird species, carnivorous plants, trekking, Garo tribal culture, pristine forests, scientific research zone, 45km from Tura.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Siju Cave",
@@ -357,8 +359,8 @@
     "state": "Meghalaya",
     "city": "South Garo Hills",
     "coordinates": {
-      "lat": 25.1290,
-      "long": 90.2070
+      "lat": 25.129,
+      "long": 90.207
     },
     "heritage": {
       "unesco": false,
@@ -384,8 +386,8 @@
     "state": "Meghalaya",
     "city": "West Jaintia Hills",
     "coordinates": {
-      "lat": 25.2930,
-      "long": 92.0350
+      "lat": 25.293,
+      "long": 92.035
     },
     "heritage": {
       "unesco": false,
@@ -411,8 +413,8 @@
     "state": "Meghalaya",
     "city": "Jaintia Hills",
     "coordinates": {
-      "lat": 25.2220,
-      "long": 92.0050
+      "lat": 25.222,
+      "long": 92.005
     },
     "heritage": {
       "unesco": false,
@@ -438,8 +440,8 @@
     "state": "Meghalaya",
     "city": "West Jaintia Hills",
     "coordinates": {
-      "lat": 25.3080,
-      "long": 92.0300
+      "lat": 25.308,
+      "long": 92.03
     },
     "heritage": {
       "unesco": false,
@@ -465,8 +467,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.5870,
-      "long": 91.8900
+      "lat": 25.587,
+      "long": 91.89
     },
     "heritage": {
       "unesco": false,
@@ -492,8 +494,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.6550,
-      "long": 91.8440
+      "lat": 25.655,
+      "long": 91.844
     },
     "heritage": {
       "unesco": false,
@@ -519,8 +521,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.5790,
-      "long": 91.8880
+      "lat": 25.579,
+      "long": 91.888
     },
     "heritage": {
       "unesco": false,
@@ -555,9 +557,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "October"
-    ],
+    "bestVisitMonths": ["October"],
     "description": "Annual cultural extravaganza held October, showcasing Meghalaya's diversity, traditional Khasi-Garo-Jaintia dances and music, rock bands (Rock Capital of India), fashion shows, wine festival, flower shows, ethnic food stalls, handicrafts exhibition, literary events, adventure sports, tourism promotion, Miss Shillong contest, attracts domestic and international tourists."
   },
   {
@@ -567,8 +567,8 @@
     "state": "Meghalaya",
     "city": "South Garo Hills",
     "coordinates": {
-      "lat": 25.3320,
-      "long": 90.1650
+      "lat": 25.332,
+      "long": 90.165
     },
     "heritage": {
       "unesco": false,
@@ -576,10 +576,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December"
-    ],
+    "bestVisitMonths": ["November", "December"],
     "description": "100 Drums Wangala Festival, Garo tribe's harvest thanksgiving to Misi Saljong (Sun God), celebrated November-December post-harvest, hundreds of drummers in traditional costume (dakmanda, nakka), warrior dances with swords and shields, Garo folk music, beauty pageants, sports, handicrafts, rice beer brewing competition, held at Asanang near Tura, cultural immersion, unique tribal experience."
   },
   {
@@ -598,10 +595,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["February", "March"],
     "description": "India's first-ever cherry blossom festival since 2016, Shillong transforms into pink paradise during Himalayan cherry (Prunus cerasoides) bloom, Ward's Lake and Polo Grounds main venues, Japanese cultural connect, Ikebana exhibitions, rock concerts, beauty pageants, fashion shows, adventure sports, wine and food festival, tourism boost, Asia's shortest cherry blossom festival coinciding with actual bloom."
   },
   {
@@ -611,8 +605,8 @@
     "state": "Meghalaya",
     "city": "East Khasi Hills",
     "coordinates": {
-      "lat": 25.2940,
-      "long": 91.7110
+      "lat": 25.294,
+      "long": 91.711
     },
     "heritage": {
       "unesco": false,
@@ -638,8 +632,8 @@
     "state": "Meghalaya",
     "city": "West Khasi Hills",
     "coordinates": {
-      "lat": 25.5000,
-      "long": 91.8000
+      "lat": 25.5,
+      "long": 91.8
     },
     "heritage": {
       "unesco": false,

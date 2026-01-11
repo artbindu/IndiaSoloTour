@@ -22,7 +22,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Dakshineswar Kali Temple",
@@ -47,7 +48,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Victoria Memorial",
@@ -72,7 +74,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Indian Museum",
@@ -97,7 +100,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Sundarbans National Park",
@@ -115,12 +119,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ]
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "significance": "UNESCO World Heritage Site"
   },
   {
     "name": "Darjeeling Himalayan Railway",
@@ -138,13 +138,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April",
-      "May",
-      "October",
-      "November"
-    ]
+    "bestVisitMonths": ["March", "April", "May", "October", "November"],
+    "significance": "UNESCO World Heritage Site"
   },
   {
     "name": "Tiger Hill (Darjeeling)",
@@ -169,7 +164,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Mirik Lake",
@@ -212,13 +208,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ]
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Bishnupur Temples",
@@ -243,7 +234,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "UNESCO World Heritage Site"
   },
   {
     "name": "Shantiniketan Rabindra Bhavan",
@@ -268,7 +260,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Murshidabad Hazarduari Palace",
@@ -293,7 +286,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Jaldapara Wildlife Sanctuary",
@@ -311,13 +305,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ]
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Buxa Tiger Reserve",
@@ -335,13 +324,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ]
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Malda Gour & Pandua Ruins",
@@ -366,7 +350,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Cooch Behar Palace",
@@ -391,7 +376,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Howrah Bridge",
@@ -459,12 +445,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ]
+    "bestVisitMonths": ["November", "December", "January", "February"]
   },
   {
     "name": "Digha Beach",
@@ -581,13 +562,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ]
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Neora Valley",
@@ -663,7 +639,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Rabindra Jayanti Festival",
@@ -681,9 +658,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "May"
-    ]
+    "bestVisitMonths": ["May"]
   },
   {
     "name": "Durga Puja Celebrations",
@@ -701,10 +676,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "September",
-      "October"
-    ]
+    "bestVisitMonths": ["September", "October"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Hemisara Eco Camp",

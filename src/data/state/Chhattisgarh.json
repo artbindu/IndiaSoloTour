@@ -6,8 +6,8 @@
     "state": "Chhattisgarh",
     "city": "Bastar",
     "coordinates": {
-      "lat": 18.9050,
-      "long": 81.8590
+      "lat": 18.905,
+      "long": 81.859
     },
     "heritage": {
       "unesco": false,
@@ -32,8 +32,8 @@
     "state": "Chhattisgarh",
     "city": "Bastar",
     "coordinates": {
-      "lat": 19.0360,
-      "long": 81.7810
+      "lat": 19.036,
+      "long": 81.781
     },
     "heritage": {
       "unesco": false,
@@ -58,14 +58,15 @@
     "state": "Chhattisgarh",
     "city": "Bastar",
     "coordinates": {
-      "lat": 19.0520,
-      "long": 81.8700
+      "lat": 19.052,
+      "long": 81.87
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "High",
     "bestVisitMonths": [
       "October",
@@ -85,7 +86,7 @@
     "city": "Bastar",
     "coordinates": {
       "lat": 19.0742,
-      "long": 82.0220
+      "long": 82.022
     },
     "heritage": {
       "unesco": false,
@@ -110,14 +111,15 @@
     "state": "Chhattisgarh",
     "city": "Dantewada",
     "coordinates": {
-      "lat": 18.8980,
-      "long": 81.3510
+      "lat": 18.898,
+      "long": 81.351
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "High",
     "bestVisitMonths": [
       "October",
@@ -136,14 +138,15 @@
     "state": "Chhattisgarh",
     "city": "Kabirdham",
     "coordinates": {
-      "lat": 22.1020,
-      "long": 81.2490
+      "lat": 22.102,
+      "long": 81.249
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -188,8 +191,8 @@
     "state": "Chhattisgarh",
     "city": "Raipur",
     "coordinates": {
-      "lat": 21.2490,
-      "long": 81.6390
+      "lat": 21.249,
+      "long": 81.639
     },
     "heritage": {
       "unesco": false,
@@ -214,8 +217,8 @@
     "state": "Chhattisgarh",
     "city": "Dhamtari",
     "coordinates": {
-      "lat": 20.5000,
-      "long": 81.9500
+      "lat": 20.5,
+      "long": 81.95
     },
     "heritage": {
       "unesco": false,
@@ -240,14 +243,15 @@
     "state": "Chhattisgarh",
     "city": "Mahasamund",
     "coordinates": {
-      "lat": 22.1090,
-      "long": 82.1640
+      "lat": 22.109,
+      "long": 82.164
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -266,14 +270,15 @@
     "state": "Chhattisgarh",
     "city": "Gariaband",
     "coordinates": {
-      "lat": 21.3150,
-      "long": 82.0300
+      "lat": 21.315,
+      "long": 82.03
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -292,8 +297,8 @@
     "state": "Chhattisgarh",
     "city": "Raipur",
     "coordinates": {
-      "lat": 21.2430,
-      "long": 81.6310
+      "lat": 21.243,
+      "long": 81.631
     },
     "heritage": {
       "unesco": false,
@@ -318,8 +323,8 @@
     "state": "Chhattisgarh",
     "city": "Raipur",
     "coordinates": {
-      "lat": 21.2480,
-      "long": 81.6290
+      "lat": 21.248,
+      "long": 81.629
     },
     "heritage": {
       "unesco": false,
@@ -344,8 +349,8 @@
     "state": "Chhattisgarh",
     "city": "Surguja",
     "coordinates": {
-      "lat": 23.4000,
-      "long": 82.0300
+      "lat": 23.4,
+      "long": 82.03
     },
     "heritage": {
       "unesco": false,
@@ -370,8 +375,8 @@
     "state": "Chhattisgarh",
     "city": "Surguja",
     "coordinates": {
-      "lat": 23.4280,
-      "long": 82.0040
+      "lat": 23.428,
+      "long": 82.004
     },
     "heritage": {
       "unesco": false,
@@ -396,8 +401,8 @@
     "state": "Chhattisgarh",
     "city": "Mahasamund",
     "coordinates": {
-      "lat": 21.5550,
-      "long": 82.0210
+      "lat": 21.555,
+      "long": 82.021
     },
     "heritage": {
       "unesco": false,
@@ -422,8 +427,8 @@
     "state": "Chhattisgarh",
     "city": "Kanker",
     "coordinates": {
-      "lat": 20.2830,
-      "long": 81.4660
+      "lat": 20.283,
+      "long": 81.466
     },
     "heritage": {
       "unesco": false,
@@ -448,8 +453,8 @@
     "state": "Chhattisgarh",
     "city": "Rajnandgaon",
     "coordinates": {
-      "lat": 21.1000,
-      "long": 81.0340
+      "lat": 21.1,
+      "long": 81.034
     },
     "heritage": {
       "unesco": false,
@@ -474,14 +479,15 @@
     "state": "Chhattisgarh",
     "city": "Mahasamund",
     "coordinates": {
-      "lat": 22.1090,
-      "long": 82.1640
+      "lat": 22.109,
+      "long": 82.164
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -501,7 +507,7 @@
     "city": "Bastar",
     "coordinates": {
       "lat": 19.0742,
-      "long": 82.0220
+      "long": 82.022
     },
     "heritage": {
       "unesco": false,
@@ -509,9 +515,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "October"
-    ],
+    "bestVisitMonths": ["October"],
     "description": "World's longest Dussehra lasting 75 days (July-October), unique tribal festival worshipping Danteshwari Devi not Rama, begins with Paat Jatra (flag planting at Dantewada), sacred tree worship (kaachan gadi), Rath Yatra (chariot procession) of goddess with 16 wheels needing 200+ men, tribal communities participate - Gond, Maria, Muria, Halba, Dhurwa, traditional dances - Madiya, Panthi, Raut Nacha, Karma, tribal costumes, human pyramid formations, culminates with Rath crossing, distinct from North Indian Dussehra, celebrates local deity, cultural identity of Bastar, UNESCO intangible heritage consideration, attracts anthropologists, photography, rituals unchanged centuries, authentic tribal celebration, October climax coincides with Dussehra."
   }
 ]

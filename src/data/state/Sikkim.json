@@ -51,7 +51,8 @@
       "October",
       "November"
     ],
-    "description": "Largest monastery in Sikkim, seat of Karmapa (Karma Kagyu lineage), built 1960s, replica of original Tsurphu Monastery in Tibet, golden stupa, Buddhist teachings, murals, thangkas, prayer wheels, panoramic views, 24km from Gangtok."
+    "description": "Largest monastery in Sikkim, seat of Karmapa (Karma Kagyu lineage), built 1960s, replica of original Tsurphu Monastery in Tibet, golden stupa, Buddhist teachings, murals, thangkas, prayer wheels, panoramic views, 24km from Gangtok.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Enchey Monastery",
@@ -60,8 +61,8 @@
     "state": "Sikkim",
     "city": "East Sikkim",
     "coordinates": {
-      "lat": 27.3360,
-      "long": 88.6100
+      "lat": 27.336,
+      "long": 88.61
     },
     "heritage": {
       "unesco": false,
@@ -78,7 +79,8 @@
       "October",
       "November"
     ],
-    "description": "200-year-old Nyingma Order monastery in Gangtok, Solitary Temple meaning, annual Chaam (mask dance) during Losar, Guru Padmasambhava legend, prayer hall with Buddhist deities, peaceful location, city views, 3km from Gangtok center."
+    "description": "200-year-old Nyingma Order monastery in Gangtok, Solitary Temple meaning, annual Chaam (mask dance) during Losar, Guru Padmasambhava legend, prayer hall with Buddhist deities, peaceful location, city views, 3km from Gangtok center.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Tsomgo Lake",
@@ -184,7 +186,8 @@
       "October",
       "November"
     ],
-    "description": "18th-century Kagyu Order monastery, rebuilt 1977, 260 monks, annual Chaam dance festival (28th-29th day of Tibetan 10th month), murals depicting Buddhist legends, old and new monastery sections, 38km from Gangtok."
+    "description": "18th-century Kagyu Order monastery, rebuilt 1977, 260 monks, annual Chaam dance festival (28th-29th day of Tibetan 10th month), murals depicting Buddhist legends, old and new monastery sections, 38km from Gangtok.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Lachung Village",
@@ -219,8 +222,8 @@
     "state": "Sikkim",
     "city": "North Sikkim",
     "coordinates": {
-      "lat": 27.7950,
-      "long": 88.6800
+      "lat": 27.795,
+      "long": 88.68
     },
     "heritage": {
       "unesco": false,
@@ -245,8 +248,8 @@
     "state": "Sikkim",
     "city": "East Sikkim",
     "coordinates": {
-      "lat": 27.1130,
-      "long": 88.8920
+      "lat": 27.113,
+      "long": 88.892
     },
     "heritage": {
       "unesco": false,
@@ -272,7 +275,7 @@
     "city": "Gangtok",
     "coordinates": {
       "lat": 27.3385,
-      "long": 88.6080
+      "long": 88.608
     },
     "heritage": {
       "unesco": false,
@@ -298,8 +301,8 @@
     "state": "Sikkim",
     "city": "South Sikkim",
     "coordinates": {
-      "lat": 27.1620,
-      "long": 88.3920
+      "lat": 27.162,
+      "long": 88.392
     },
     "heritage": {
       "unesco": false,
@@ -316,7 +319,8 @@
       "October",
       "November"
     ],
-    "description": "Kagyu Order monastery built 1768, colorful murals, old and new structures, annual Pang Lhabsol festival with Chaam dances (August-September), religious ceremonies, Rinpoche residence, 6km from Ravangla, South Sikkim."
+    "description": "Kagyu Order monastery built 1768, colorful murals, old and new structures, annual Pang Lhabsol festival with Chaam dances (August-September), religious ceremonies, Rinpoche residence, 6km from Ravangla, South Sikkim.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Pemayangtse Monastery",
@@ -343,7 +347,8 @@
       "October",
       "November"
     ],
-    "description": "Perfect Sublime Lotus, one of oldest and most significant monasteries in Sikkim (1705), Nyingma Order, 3-storey structure, 7-tiered wooden sculpture of Guru Rinpoche's Heavenly Palace (Zangdog Palri), ancient frescoes, library, Kanchenjunga views."
+    "description": "Perfect Sublime Lotus, one of oldest and most significant monasteries in Sikkim (1705), Nyingma Order, 3-storey structure, 7-tiered wooden sculpture of Guru Rinpoche's Heavenly Palace (Zangdog Palri), ancient frescoes, library, Kanchenjunga views.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Khecheopalri Lake",
@@ -353,7 +358,7 @@
     "city": "West Sikkim",
     "coordinates": {
       "lat": 27.3191,
-      "long": 88.1730
+      "long": 88.173
     },
     "heritage": {
       "unesco": false,
@@ -379,8 +384,8 @@
     "state": "Sikkim",
     "city": "West Sikkim",
     "coordinates": {
-      "lat": 27.3160,
-      "long": 88.2000
+      "lat": 27.316,
+      "long": 88.2
     },
     "heritage": {
       "unesco": false,
@@ -406,8 +411,8 @@
     "state": "Sikkim",
     "city": "North Sikkim",
     "coordinates": {
-      "lat": 28.0000,
-      "long": 88.6750
+      "lat": 28.0,
+      "long": 88.675
     },
     "heritage": {
       "unesco": false,
@@ -432,8 +437,8 @@
     "state": "Sikkim",
     "city": "North Sikkim",
     "coordinates": {
-      "lat": 27.6800,
-      "long": 88.6810
+      "lat": 27.68,
+      "long": 88.681
     },
     "heritage": {
       "unesco": false,
@@ -449,7 +454,8 @@
       "September",
       "October"
     ],
-    "description": "19th-century Nyingma Order monastery in Lachung village, colorful facade, prayer wheels, religious murals, traditional architecture, peaceful atmosphere, local monks, cultural center for village, mountain backdrop."
+    "description": "19th-century Nyingma Order monastery in Lachung village, colorful facade, prayer wheels, religious murals, traditional architecture, peaceful atmosphere, local monks, cultural center for village, mountain backdrop.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Siniolchu Peak",
@@ -458,8 +464,8 @@
     "state": "Sikkim",
     "city": "North Sikkim",
     "coordinates": {
-      "lat": 27.9100,
-      "long": 88.6500
+      "lat": 27.91,
+      "long": 88.65
     },
     "heritage": {
       "unesco": false,
@@ -484,8 +490,8 @@
     "state": "Sikkim",
     "city": "North Sikkim",
     "coordinates": {
-      "lat": 27.8160,
-      "long": 88.6500
+      "lat": 27.816,
+      "long": 88.65
     },
     "heritage": {
       "unesco": false,
@@ -510,8 +516,8 @@
     "state": "Sikkim",
     "city": "South Sikkim",
     "coordinates": {
-      "lat": 27.1780,
-      "long": 88.4020
+      "lat": 27.178,
+      "long": 88.402
     },
     "heritage": {
       "unesco": false,
@@ -528,7 +534,8 @@
       "October",
       "November"
     ],
-    "description": "Pilgrimage complex with replicas of four Char Dhams (Badrinath, Dwarka, Puri, Rameshwaram), 108-foot Shiva statue (Char Dham), ropeway, Samdruptse Hill with Guru Padmasambhava statue (118 feet), panoramic valley views, Namchi town."
+    "description": "Pilgrimage complex with replicas of four Char Dhams (Badrinath, Dwarka, Puri, Rameshwaram), 108-foot Shiva statue (Char Dham), ropeway, Samdruptse Hill with Guru Padmasambhava statue (118 feet), panoramic valley views, Namchi town.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Sikkim Rumtek Festival",
@@ -546,12 +553,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April",
-      "May",
-      "June"
-    ],
+    "bestVisitMonths": ["March", "April", "May", "June"],
     "description": "Annual Buddhist festival at Rumtek Monastery, masked Cham dances depicting triumph of good over evil, traditional music, colorful costumes, religious ceremonies, cultural performances, butter sculptures, local community participation."
   },
   {
@@ -570,10 +572,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April"
-    ],
+    "bestVisitMonths": ["March", "April"],
     "description": "Annual flower show at Gangtok showcasing Sikkim's rich floral diversity, orchids (600+ species in Sikkim), rhododendrons, primulas, flower exhibitions, cultural programs, food stalls, tourism promotion, spring celebration, White Hall venue."
   }
 ]

@@ -7,7 +7,7 @@
     "city": "Leh",
     "coordinates": {
       "lat": 34.1526,
-      "long": 77.5770
+      "long": 77.577
     },
     "heritage": {
       "unesco": false,
@@ -33,13 +33,14 @@
     "city": "Leh",
     "coordinates": {
       "lat": 34.1525,
-      "long": 77.5900
+      "long": 77.59
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": [
       "May",
@@ -58,14 +59,15 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1550,
-      "long": 77.5800
+      "lat": 34.155,
+      "long": 77.58
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": [
       "May",
@@ -93,13 +95,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "134km endorheic lake at 4350m altitude, extends from India to China, crystal-clear blue water changing colors, brackish water freezes in winter, Bollywood '3 Idiots' fame, camping, migratory birds, permits required."
   },
   {
@@ -109,8 +105,8 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 32.9930,
-      "long": 78.2960
+      "lat": 32.993,
+      "long": 78.296
     },
     "heritage": {
       "unesco": false,
@@ -118,13 +114,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "High-altitude lake at 4522m in Changthang plateau, Ramsar Wetland Site, pristine turquoise waters, Korzok village and monastery nearby, black-necked cranes, Tibetan wild ass (Kiang), remote beauty, camping spot."
   },
   {
@@ -143,13 +133,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Valley of Flowers accessed via Khardung La, double-humped Bactrian camels at Hunder sand dunes, Diskit Monastery with 32m Maitreya Buddha, Shyok and Nubra river confluence, apricot orchards, cold desert landscape."
   },
   {
@@ -159,8 +143,8 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.2840,
-      "long": 77.5630
+      "lat": 34.284,
+      "long": 77.563
     },
     "heritage": {
       "unesco": false,
@@ -185,7 +169,7 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1580,
+      "lat": 34.158,
       "long": 77.5825
     },
     "heritage": {
@@ -193,14 +177,9 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Largest and wealthiest Buddhist monastery in Ladakh, Drukpa Lineage, founded 1630, annual Hemis Festival (June-July), sacred masked Cham dances, ancient thangkas, copper statue of Buddha, Hemis National Park nearby."
   },
   {
@@ -218,14 +197,9 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "12-storey monastery complex resembling Potala Palace, 15th century, Gelugpa Order, 12-meter Maitreya Buddha statue, monastery museum, morning prayer assembly (6 AM), stunning Indus Valley views, 19km from Leh."
   },
   {
@@ -235,22 +209,17 @@
     "state": "Ladakh",
     "city": "Nubra",
     "coordinates": {
-      "lat": 34.5840,
-      "long": 77.5860
+      "lat": 34.584,
+      "long": 77.586
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Oldest and largest monastery in Nubra Valley, 14th-century Gelugpa Order, 32-meter Maitreya Buddha statue overlooking valley, stunning views of Shyok River, ancient murals, annual Dosmoche Festival."
   },
   {
@@ -260,22 +229,17 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1660,
-      "long": 77.2780
+      "lat": 34.166,
+      "long": 77.278
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "11th-century monastery complex, one of oldest surviving Buddhist monasteries in Ladakh, Indo-Himalayan art masterpieces, wood carvings, ancient wall paintings, Lotsawa Lha-Khang temple, UNESCO tentative list, flat terrain unlike hillside monasteries."
   },
   {
@@ -285,8 +249,8 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1410,
-      "long": 77.5770
+      "lat": 34.141,
+      "long": 77.577
     },
     "heritage": {
       "unesco": false,
@@ -311,8 +275,8 @@
     "state": "Ladakh",
     "city": "Kargil",
     "coordinates": {
-      "lat": 33.5200,
-      "long": 76.2700
+      "lat": 33.52,
+      "long": 76.27
     },
     "heritage": {
       "unesco": false,
@@ -320,12 +284,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "Remote Himalayan valley, frozen Zanskar River Chadar Trek (winter), Phugtal Monastery in cliff cave, ancient Buddhist monasteries, trekking routes, Zanskar-Padum circuit, high-altitude desert landscape, adventure hub, challenging access."
   },
   {
@@ -335,22 +294,17 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.2770,
-      "long": 76.6760
+      "lat": 34.277,
+      "long": 76.676
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "One of oldest and largest monasteries in Ladakh (10th-11th century), Moonland landscape with eroded rock formations, Red-hat (Drigung Kagyu) sect, annual Yuru Kabgyat festival with mask dances, ancient library, 127km from Leh."
   },
   {
@@ -361,7 +315,7 @@
     "city": "Leh",
     "coordinates": {
       "lat": 34.1475,
-      "long": 77.5880
+      "long": 77.588
     },
     "heritage": {
       "unesco": false,
@@ -386,8 +340,8 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1810,
-      "long": 77.6180
+      "lat": 34.181,
+      "long": 77.618
     },
     "heritage": {
       "unesco": false,
@@ -412,8 +366,8 @@
     "state": "Ladakh",
     "city": "Nubra",
     "coordinates": {
-      "lat": 34.9890,
-      "long": 77.5660
+      "lat": 34.989,
+      "long": 77.566
     },
     "heritage": {
       "unesco": false,
@@ -421,13 +375,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Northernmost village accessible to tourists, captured from Pakistan in 1971, Balti culture and cuisine, apricot orchards, homestays, Turtuk Waterfall, museum showcasing Balti heritage, views of K2 range, unique cultural experience."
   },
   {
@@ -437,22 +385,17 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1330,
-      "long": 77.4420
+      "lat": 34.133,
+      "long": 77.442
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "11th-century Gelugpa Order monastery, 23-meter golden Maitreya Buddha statue (2000), ancient thangkas and frescoes, annual Likir Dosmoche Festival, Likir Gompa School, views of Indus Valley, 52km from Leh."
   },
   {
@@ -462,8 +405,8 @@
     "state": "Ladakh",
     "city": "Nubra",
     "coordinates": {
-      "lat": 34.5880,
-      "long": 77.5880
+      "lat": 34.588,
+      "long": 77.588
     },
     "heritage": {
       "unesco": false,
@@ -471,9 +414,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "September"
-    ],
+    "bestVisitMonths": ["September"],
     "description": "Annual Dosmoche Festival at Diskit Monastery, mask dances (Cham), colorful costumes, traditional music, Buddhist rituals, burning of evil effigies, cultural immersion, September celebration, victory of good over evil theme."
   },
   {
@@ -483,7 +424,7 @@
     "state": "Ladakh",
     "city": "Leh",
     "coordinates": {
-      "lat": 34.1580,
+      "lat": 34.158,
       "long": 77.5825
     },
     "heritage": {
@@ -492,9 +433,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "July"
-    ],
+    "bestVisitMonths": ["July"],
     "description": "Largest and most famous Buddhist festival in Ladakh, celebrates Guru Padmasambhava's birthday at Hemis Monastery, masked Cham dance performances, traditional music, colorful costumes, sacred thangka unfurling (every 12 years), June-July."
   },
   {
@@ -504,8 +443,8 @@
     "state": "Ladakh",
     "city": "Zanskar",
     "coordinates": {
-      "lat": 33.4920,
-      "long": 76.2450
+      "lat": 33.492,
+      "long": 76.245
     },
     "heritage": {
       "unesco": false,
@@ -513,10 +452,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["January", "February"],
     "description": "Frozen River Trek on Zanskar River, one of most challenging winter treks in world, walk on 3-6 feet thick ice sheet, temperatures drop to -30°C, 9-day trek to Phugtal Monastery, extreme adventure, acclimatization crucial."
   },
   {
@@ -526,8 +462,8 @@
     "state": "Ladakh",
     "city": "Nubra",
     "coordinates": {
-      "lat": 35.4190,
-      "long": 77.1110
+      "lat": 35.419,
+      "long": 77.111
     },
     "heritage": {
       "unesco": false,
@@ -535,12 +471,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "Gateway to world's highest battlefield, Siachen Glacier viewing point, tribute to Indian Army soldiers, special permits required, restricted access area, high-altitude challenge, patriotic destination, extreme weather conditions, limited tourist access."
   }
 ]

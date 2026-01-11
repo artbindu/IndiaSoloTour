@@ -6,7 +6,7 @@
     "state": "Punjab",
     "city": "Amritsar",
     "coordinates": {
-      "lat": 31.6200,
+      "lat": 31.62,
       "long": 74.8765
     },
     "heritage": {
@@ -23,7 +23,8 @@
       "February",
       "March"
     ],
-    "description": "Holiest Sikh shrine with gold-plated sanctum, Sarovar (holy pool), 24/7 open for worship, community kitchen (langar) serving 100,000+ daily, spiritual and architectural marvel."
+    "description": "Holiest Sikh shrine with gold-plated sanctum, Sarovar (holy pool), 24/7 open for worship, community kitchen (langar) serving 100,000+ daily, spiritual and architectural marvel.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Jallianwala Bagh",
@@ -32,8 +33,8 @@
     "state": "Punjab",
     "city": "Amritsar",
     "coordinates": {
-      "lat": 31.6110,
-      "long": 74.8730
+      "lat": 31.611,
+      "long": 74.873
     },
     "heritage": {
       "unesco": false,
@@ -49,7 +50,8 @@
       "February",
       "March"
     ],
-    "description": "Memorial site of 1919 Jallianwala Bagh massacre, preserved bullet marks on walls, martyrs' well, eternal flame, museum depicting British colonial atrocities, independence movement history."
+    "description": "Memorial site of 1919 Jallianwala Bagh massacre, preserved bullet marks on walls, martyrs' well, eternal flame, museum depicting British colonial atrocities, independence movement history.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Wagah Border",
@@ -58,8 +60,8 @@
     "state": "Punjab",
     "city": "Amritsar",
     "coordinates": {
-      "lat": 31.6170,
-      "long": 74.8100
+      "lat": 31.617,
+      "long": 74.81
     },
     "heritage": {
       "unesco": false,
@@ -84,8 +86,8 @@
     "state": "Punjab",
     "city": "Rupnagar",
     "coordinates": {
-      "lat": 31.2200,
-      "long": 76.5000
+      "lat": 31.22,
+      "long": 76.5
     },
     "heritage": {
       "unesco": false,
@@ -101,7 +103,8 @@
       "February",
       "March"
     ],
-    "description": "City of Bliss where Khalsa was founded by Guru Gobind Singh in 1699, multiple gurudwaras, Kesgarh Sahib, Hola Mohalla festival, Virasat-e-Khalsa museum, Sikh pilgrimage center."
+    "description": "City of Bliss where Khalsa was founded by Guru Gobind Singh in 1699, multiple gurudwaras, Kesgarh Sahib, Hola Mohalla festival, Virasat-e-Khalsa museum, Sikh pilgrimage center.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Virasat-e-Khalsa Museum",
@@ -110,8 +113,8 @@
     "state": "Punjab",
     "city": "Anandpur Sahib",
     "coordinates": {
-      "lat": 31.2180,
-      "long": 76.5230
+      "lat": 31.218,
+      "long": 76.523
     },
     "heritage": {
       "unesco": false,
@@ -153,7 +156,8 @@
       "February",
       "March"
     ],
-    "description": "Qila Mubarak, one of India's oldest surviving forts (1000-1700 years old), where Razia Sultana was imprisoned, Sikh heritage, Guru Gobind Singh visited, ancient brick structure."
+    "description": "Qila Mubarak, one of India's oldest surviving forts (1000-1700 years old), where Razia Sultana was imprisoned, Sikh heritage, Guru Gobind Singh visited, ancient brick structure.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Sheesh Mahal, Patiala",
@@ -163,7 +167,7 @@
     "city": "Patiala",
     "coordinates": {
       "lat": 30.3285,
-      "long": 76.3980
+      "long": 76.398
     },
     "heritage": {
       "unesco": false,
@@ -179,7 +183,8 @@
       "February",
       "March"
     ],
-    "description": "Palace of Mirrors within Qila Mubarak complex, museum with miniature paintings, arms collection, coins, medals, Patiala royal artifacts, Mughal and Rajput art, 19th-century architecture."
+    "description": "Palace of Mirrors within Qila Mubarak complex, museum with miniature paintings, arms collection, coins, medals, Patiala royal artifacts, Mughal and Rajput art, 19th-century architecture.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Qila Mubarak, Patiala",
@@ -188,8 +193,8 @@
     "state": "Punjab",
     "city": "Patiala",
     "coordinates": {
-      "lat": 30.3270,
-      "long": 76.4000
+      "lat": 30.327,
+      "long": 76.4
     },
     "heritage": {
       "unesco": false,
@@ -205,7 +210,8 @@
       "February",
       "March"
     ],
-    "description": "Patiala royal fort complex founded 1763, multiple palaces including Sheesh Mahal, Darbar Hall, museum, royal architecture, Sikh heritage, UNESCO tentative list for World Heritage Site."
+    "description": "Patiala royal fort complex founded 1763, multiple palaces including Sheesh Mahal, Darbar Hall, museum, royal architecture, Sikh heritage, UNESCO tentative list for World Heritage Site.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Kila Raipur Rural Olympics",
@@ -215,7 +221,7 @@
     "city": "Ludhiana",
     "coordinates": {
       "lat": 30.8142,
-      "long": 75.8030
+      "long": 75.803
     },
     "heritage": {
       "unesco": false,
@@ -223,10 +229,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["February", "March"],
     "description": "Rural Olympics since 1933, traditional Punjabi sports including bullock cart races, tractor races, kabaddi, horse riding stunts, showcasing rural Punjab culture and strength."
   },
   {
@@ -262,8 +265,8 @@
     "state": "Punjab",
     "city": "Chandigarh",
     "coordinates": {
-      "lat": 30.7370,
-      "long": 76.7800
+      "lat": 30.737,
+      "long": 76.78
     },
     "heritage": {
       "unesco": false,
@@ -288,8 +291,8 @@
     "state": "Punjab",
     "city": "Amritsar",
     "coordinates": {
-      "lat": 31.6180,
-      "long": 74.8380
+      "lat": 31.618,
+      "long": 74.838
     },
     "heritage": {
       "unesco": false,
@@ -314,8 +317,8 @@
     "state": "Punjab",
     "city": "Pathankot",
     "coordinates": {
-      "lat": 32.2700,
-      "long": 75.6500
+      "lat": 32.27,
+      "long": 75.65
     },
     "heritage": {
       "unesco": false,
@@ -331,7 +334,8 @@
       "February",
       "March"
     ],
-    "description": "Legendary birthplace of Luv and Kush (sons of Lord Rama), associated with Valmiki Ashram, holy tank, temple complex, annual fair, Ramayana connection, pilgrimage site."
+    "description": "Legendary birthplace of Luv and Kush (sons of Lord Rama), associated with Valmiki Ashram, holy tank, temple complex, annual fair, Ramayana connection, pilgrimage site.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Talwandi Sabo",
@@ -340,8 +344,8 @@
     "state": "Punjab",
     "city": "Bathinda",
     "coordinates": {
-      "lat": 30.2090,
-      "long": 75.0250
+      "lat": 30.209,
+      "long": 75.025
     },
     "heritage": {
       "unesco": false,
@@ -357,7 +361,8 @@
       "February",
       "March"
     ],
-    "description": "Damdama Sahib, one of five Takhts of Sikhism, where Guru Gobind Singh compiled final version of Guru Granth Sahib in 1705, significant Sikh heritage, gurudwara complex."
+    "description": "Damdama Sahib, one of five Takhts of Sikhism, where Guru Gobind Singh compiled final version of Guru Granth Sahib in 1705, significant Sikh heritage, gurudwara complex.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Kanjli Wetland",
@@ -366,8 +371,8 @@
     "state": "Punjab",
     "city": "Kapurthala",
     "coordinates": {
-      "lat": 31.2640,
-      "long": 75.3640
+      "lat": 31.264,
+      "long": 75.364
     },
     "heritage": {
       "unesco": false,
@@ -392,8 +397,8 @@
     "state": "Punjab",
     "city": "Jalandhar",
     "coordinates": {
-      "lat": 31.0140,
-      "long": 75.7820
+      "lat": 31.014,
+      "long": 75.782
     },
     "heritage": {
       "unesco": false,
@@ -418,8 +423,8 @@
     "state": "Punjab",
     "city": "Ferozepur",
     "coordinates": {
-      "lat": 31.2860,
-      "long": 74.9560
+      "lat": 31.286,
+      "long": 74.956
     },
     "heritage": {
       "unesco": false,
@@ -427,13 +432,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
     "description": "Largest wetland in northern India, Ramsar site, confluence of Sutlej and Beas rivers, 300+ bird species, migratory Siberian birds, boat safari, eco-tourism, biodiversity hotspot."
   },
   {
@@ -443,8 +442,8 @@
     "state": "Punjab",
     "city": "Hoshiarpur",
     "coordinates": {
-      "lat": 31.5320,
-      "long": 75.9110
+      "lat": 31.532,
+      "long": 75.911
     },
     "heritage": {
       "unesco": false,
@@ -469,8 +468,8 @@
     "state": "Punjab",
     "city": "Gurdaspur",
     "coordinates": {
-      "lat": 32.3430,
-      "long": 75.0050
+      "lat": 32.343,
+      "long": 75.005
     },
     "heritage": {
       "unesco": false,
@@ -495,8 +494,8 @@
     "state": "Punjab",
     "city": "Ludhiana",
     "coordinates": {
-      "lat": 30.9010,
-      "long": 75.8570
+      "lat": 30.901,
+      "long": 75.857
     },
     "heritage": {
       "unesco": false,
@@ -504,9 +503,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November"
-    ],
+    "bestVisitMonths": ["November"],
     "description": "Annual cultural festival celebrating Punjabi heritage, traditional folk music and dance (Bhangra, Giddha), handicrafts, cuisine, rural sports, showcasing Punjab's vibrant culture."
   }
 ]

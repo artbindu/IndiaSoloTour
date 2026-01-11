@@ -14,6 +14,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -26,7 +27,7 @@
     "description": "UNESCO World Heritage Site, magnificent Rajput fort with Sheesh Mahal (Mirror Palace), elephant rides, light & sound show, blend of Hindu-Mughal architecture."
   },
   {
-    "name": "Jantar Mantar, Jaipur",
+    "name": "Jantar Mantar",
     "type": "Historical / Heritage Sites",
     "country": "India",
     "state": "Rajasthan",
@@ -40,6 +41,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -66,6 +68,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -92,6 +95,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -118,6 +122,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -137,13 +142,14 @@
     "city": "Jodhpur",
     "coordinates": {
       "lat": 26.2986,
-      "long": 73.0180
+      "long": 73.018
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -162,7 +168,7 @@
     "state": "Rajasthan",
     "city": "Jodhpur",
     "coordinates": {
-      "lat": 26.2810,
+      "lat": 26.281,
       "long": 73.0489
     },
     "heritage": {
@@ -170,6 +176,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -196,6 +203,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -222,6 +230,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -240,8 +249,8 @@
     "state": "Rajasthan",
     "city": "Jaisalmer",
     "coordinates": {
-      "lat": 26.8850,
-      "long": 70.6100
+      "lat": 26.885,
+      "long": 70.61
     },
     "heritage": {
       "unesco": false,
@@ -266,8 +275,8 @@
     "state": "Rajasthan",
     "city": "Udaipur",
     "coordinates": {
-      "lat": 24.5760,
-      "long": 73.6820
+      "lat": 24.576,
+      "long": 73.682
     },
     "heritage": {
       "unesco": false,
@@ -300,6 +309,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -318,14 +328,15 @@
     "state": "Rajasthan",
     "city": "Udaipur",
     "coordinates": {
-      "lat": 24.6080,
-      "long": 73.6890
+      "lat": 24.608,
+      "long": 73.689
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -352,6 +363,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -372,13 +384,14 @@
     "city": "Bharatpur",
     "coordinates": {
       "lat": 27.1595,
-      "long": 77.5230
+      "long": 77.523
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -397,14 +410,15 @@
     "state": "Rajasthan",
     "city": "Alwar",
     "coordinates": {
-      "lat": 27.3280,
-      "long": 76.4330
+      "lat": 27.328,
+      "long": 76.433
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -432,6 +446,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -451,13 +466,14 @@
     "city": "Ajmer",
     "coordinates": {
       "lat": 26.4895,
-      "long": 74.5510
+      "long": 74.551
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -484,6 +500,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -528,14 +545,15 @@
     "state": "Rajasthan",
     "city": "Sirohi",
     "coordinates": {
-      "lat": 24.5930,
-      "long": 72.7160
+      "lat": 24.593,
+      "long": 72.716
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -562,6 +580,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -580,14 +599,15 @@
     "state": "Rajasthan",
     "city": "Rajsamand",
     "coordinates": {
-      "lat": 25.1470,
-      "long": 73.5860
+      "lat": 25.147,
+      "long": 73.586
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -607,13 +627,14 @@
     "city": "Bikaner",
     "coordinates": {
       "lat": 28.0229,
-      "long": 73.3170
+      "long": 73.317
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -632,8 +653,8 @@
     "state": "Rajasthan",
     "city": "Churu",
     "coordinates": {
-      "lat": 27.8330,
-      "long": 74.3950
+      "lat": 27.833,
+      "long": 74.395
     },
     "heritage": {
       "unesco": false,
@@ -658,8 +679,8 @@
     "state": "Rajasthan",
     "city": "Jaisalmer",
     "coordinates": {
-      "lat": 26.9000,
-      "long": 70.9000
+      "lat": 26.9,
+      "long": 70.9
     },
     "heritage": {
       "unesco": false,
@@ -693,10 +714,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "October",
-      "November"
-    ],
+    "bestVisitMonths": ["October", "November"],
     "description": "World's largest camel fair during Kartik Purnima, livestock trading, camel races, cultural events, folk performances, hot air ballooning, spiritual gatherings."
   },
   {
@@ -715,9 +733,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February"
-    ],
+    "bestVisitMonths": ["February"],
     "description": "Annual cultural festival showcasing Rajasthani folk culture, camel races, turban tying competitions, folk music & dance, Mr. Desert competition, Sam Sand Dunes events."
   }
 ]

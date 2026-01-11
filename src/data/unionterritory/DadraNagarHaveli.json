@@ -7,7 +7,7 @@
     "city": "Silvassa",
     "coordinates": {
       "lat": 20.2733,
-      "long": 73.0080
+      "long": 73.008
     },
     "heritage": {
       "unesco": false,
@@ -32,8 +32,8 @@
     "state": "Dadra & Nagar Haveli",
     "city": "Silvassa",
     "coordinates": {
-      "lat": 20.2690,
-      "long": 73.0070
+      "lat": 20.269,
+      "long": 73.007
     },
     "heritage": {
       "unesco": false,
@@ -58,8 +58,8 @@
     "state": "Dadra & Nagar Haveli",
     "city": "Silvassa",
     "coordinates": {
-      "lat": 20.2750,
-      "long": 73.0120
+      "lat": 20.275,
+      "long": 73.012
     },
     "heritage": {
       "unesco": false,
@@ -84,8 +84,8 @@
     "state": "Dadra & Nagar Haveli",
     "city": "Silvassa",
     "coordinates": {
-      "lat": 20.2740,
-      "long": 73.0100
+      "lat": 20.274,
+      "long": 73.01
     },
     "heritage": {
       "unesco": false,
@@ -110,8 +110,8 @@
     "state": "Dadra & Nagar Haveli",
     "city": "Silvassa",
     "coordinates": {
-      "lat": 20.2820,
-      "long": 73.0220
+      "lat": 20.282,
+      "long": 73.022
     },
     "heritage": {
       "unesco": false,
@@ -137,7 +137,7 @@
     "city": "Silvassa",
     "coordinates": {
       "lat": 20.2733,
-      "long": 73.0080
+      "long": 73.008
     },
     "heritage": {
       "unesco": false,
@@ -145,9 +145,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "January"
-    ],
+    "bestVisitMonths": ["January"],
     "description": "Annual tribal culture festival held in January, showcasing indigenous traditions of Dhodias, Varlis, Koknas, Dublas, Kathodis tribes, traditional folk dances - Tarpa dance with musical instrument, Bhavada dance, Dhol dances, tribal music performances, handicrafts exhibition - Warli paintings, bamboo crafts, terracotta, jewelry, traditional cuisine - ragi rotla, ubadiyu, tribal dishes, archery competitions, wrestling (kushti), cultural programs, costumes display, community gathering, tourism promotion, celebrates tribal heritage and Liberation Day (August 2, 1954), authentic tribal experience, food stalls, craft bazaar, government organized, free entry, multiple venues, preserves indigenous culture."
   }
 ]

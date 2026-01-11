@@ -6,8 +6,8 @@
     "state": "Daman and Diu",
     "city": "Daman",
     "coordinates": {
-      "lat": 20.4170,
-      "long": 72.8490
+      "lat": 20.417,
+      "long": 72.849
     },
     "heritage": {
       "unesco": false,
@@ -32,8 +32,8 @@
     "state": "Daman and Diu",
     "city": "Daman",
     "coordinates": {
-      "lat": 20.4270,
-      "long": 72.8380
+      "lat": 20.427,
+      "long": 72.838
     },
     "heritage": {
       "unesco": false,
@@ -58,8 +58,8 @@
     "state": "Daman and Diu",
     "city": "Daman",
     "coordinates": {
-      "lat": 20.3990,
-      "long": 72.8440
+      "lat": 20.399,
+      "long": 72.844
     },
     "heritage": {
       "unesco": false,
@@ -84,14 +84,15 @@
     "state": "Daman and Diu",
     "city": "Daman",
     "coordinates": {
-      "lat": 20.4180,
-      "long": 72.8480
+      "lat": 20.418,
+      "long": 72.848
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -110,14 +111,15 @@
     "state": "Daman and Diu",
     "city": "Daman",
     "coordinates": {
-      "lat": 20.4210,
-      "long": 72.8470
+      "lat": 20.421,
+      "long": 72.847
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -136,14 +138,15 @@
     "state": "Daman and Diu",
     "city": "Diu",
     "coordinates": {
-      "lat": 20.7190,
-      "long": 70.9900
+      "lat": 20.719,
+      "long": 70.99
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -162,7 +165,7 @@
     "state": "Daman and Diu",
     "city": "Diu",
     "coordinates": {
-      "lat": 20.7200,
+      "lat": 20.72,
       "long": 70.9905
     },
     "heritage": {
@@ -188,8 +191,8 @@
     "state": "Daman and Diu",
     "city": "Diu",
     "coordinates": {
-      "lat": 20.7100,
-      "long": 70.9950
+      "lat": 20.71,
+      "long": 70.995
     },
     "heritage": {
       "unesco": false,
@@ -214,14 +217,15 @@
     "state": "Daman and Diu",
     "city": "Diu",
     "coordinates": {
-      "lat": 20.7180,
-      "long": 70.9900
+      "lat": 20.718,
+      "long": 70.99
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -241,7 +245,7 @@
     "city": "Diu",
     "coordinates": {
       "lat": 20.7185,
-      "long": 70.9910
+      "long": 70.991
     },
     "heritage": {
       "unesco": false,
@@ -266,8 +270,8 @@
     "state": "Daman and Diu",
     "city": "Daman",
     "coordinates": {
-      "lat": 20.4170,
-      "long": 72.8490
+      "lat": 20.417,
+      "long": 72.849
     },
     "heritage": {
       "unesco": false,
@@ -275,10 +279,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["December", "January"],
     "description": "Annual beach carnival held late December-early January on Devka and Jampore beaches, 10-day festivities, Portuguese cultural influence celebrations, folk dances, music concerts, beach volleyball tournaments, sand sculpture competitions, water sports demonstrations, food festival with seafood specialties and Portuguese cuisine, liquor stalls, handicrafts exhibition, fireworks, New Year countdown at beach, DJ nights, celebrity performances, adventure sports, family entertainment zones, tourism promotion, attracts visitors from Gujarat and Maharashtra, illuminated beaches, carnival rides, games, stalls selling souvenirs, beach parties, vibrant atmosphere, government organized, free beach access."
   },
   {
@@ -288,8 +289,8 @@
     "state": "Daman and Diu",
     "city": "Diu",
     "coordinates": {
-      "lat": 20.7180,
-      "long": 70.9900
+      "lat": 20.718,
+      "long": 70.99
     },
     "heritage": {
       "unesco": false,
@@ -297,10 +298,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["December", "January"],
     "description": "Week-long tourism festival in December at various venues including Nagoa Beach and Diu Fort, celebrates Portuguese-Indian cultural fusion, folk dances - Garba, Dandia, traditional Gujarati performances, music concerts, kite flying competitions, water sports events, adventure activities, food festival showcasing Gujarati, Portuguese, seafood cuisines, handicrafts bazaar, art exhibitions, heritage walks through colonial town, light and sound show at fort, beach parties, DJ nights, cultural programs, attracts domestic tourists, shopping stalls, promotes Diu tourism, fireworks display, New Year celebrations extend festival, alcohol served, vibrant nightlife, family-friendly day events."
   },
   {
@@ -310,8 +308,8 @@
     "state": "Daman and Diu",
     "city": "Valsad",
     "coordinates": {
-      "lat": 20.5900,
-      "long": 72.9340
+      "lat": 20.59,
+      "long": 72.934
     },
     "heritage": {
       "unesco": false,
@@ -337,13 +335,14 @@
     "city": "Daman",
     "coordinates": {
       "lat": 20.4185,
-      "long": 72.8480
+      "long": 72.848
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
