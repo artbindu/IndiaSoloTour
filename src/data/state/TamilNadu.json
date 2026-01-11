@@ -26,11 +26,11 @@
     ]
   },
   {
-    "name": "Brihadeeswarar Temple",
+    "name": "Great Living Chola Temples",
     "type": "Historical / Heritage Sites",
     "country": "India",
     "state": "Tamil Nadu",
-    "city": "Thanjavur",
+    "city": "Thanjavur / Ariyalur / Kumbakonam",
     "coordinates": {
       "lat": 10.7828,
       "long": 79.131
@@ -49,6 +49,13 @@
       "January",
       "February",
       "March"
+    ],
+    "description": "UNESCO World Heritage property representing the architectural, artistic, and cultural achievements of the Chola dynasty (10th–13th century CE).",
+    "others": [
+      "Includes Brihadeeswarar Temple (Thanjavur)",
+      "Includes Gangaikonda Cholapuram Temple",
+      "Includes Airavatesvara Temple (Darasuram)",
+      "ASI Protected Monuments"
     ]
   },
   {
