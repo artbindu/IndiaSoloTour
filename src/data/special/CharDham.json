@@ -15,12 +15,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["May", "June", "September", "October"],
     "description": "Presiding Deity: Vishnu (Salvation)"
   },
   {
@@ -48,9 +43,7 @@
       "March"
     ],
     "description": "Presiding Deity: Krishna (Liberation)",
-    "others": [
-      "ASI Heritage Site"
-    ]
+    "others": ["ASI Heritage Site"]
   },
   {
     "name": "Puri (Jagannath)",
@@ -120,12 +113,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["May", "June", "September", "October"],
     "description": "Presiding Deity: Goddess Yamuna"
   },
   {
@@ -144,12 +132,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["May", "June", "September", "October"],
     "description": "Presiding Deity: Goddess Ganga"
   },
   {
@@ -168,12 +151,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["May", "June", "September", "October"],
     "description": "Presiding Deity: Lord Shiva"
   },
   {
@@ -192,12 +170,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["May", "June", "September", "October"],
     "description": "Presiding Deity: Lord Vishnu"
   }
 ]

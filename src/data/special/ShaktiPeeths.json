@@ -24,9 +24,7 @@
       "March"
     ],
     "description": "Toes of Goddess Sati",
-    "others": [
-      "ASI Heritage Site"
-    ]
+    "others": ["ASI Heritage Site"]
   },
   {
     "name": "Kamakhya",
@@ -280,16 +278,9 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "description": "Head of Goddess Sati",
-    "others": [
-      "International"
-    ]
+    "others": ["International"]
   },
   {
     "name": "Sharada Peeth",
@@ -307,17 +298,9 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Brain of Goddess Sati",
-    "others": [
-      "Ruins"
-    ]
+    "others": ["Ruins"]
   },
   {
     "name": "Kanyakumari",
@@ -595,17 +578,9 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "April",
-      "May",
-      "August",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["April", "May", "August", "September", "October"],
     "description": "Anklet of Goddess Sati",
-    "others": [
-      "International"
-    ]
+    "others": ["International"]
   },
   {
     "name": "Manasa",
@@ -727,17 +702,9 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
     "description": "Palms of Goddess Sati",
-    "others": [
-      "International"
-    ]
+    "others": ["International"]
   },
   {
     "name": "Sugandha",
@@ -755,17 +722,9 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
     "description": "Nose of Goddess Sati",
-    "others": [
-      "International"
-    ]
+    "others": ["International"]
   },
   {
     "name": "Chandranath",
@@ -1025,9 +984,7 @@
       "March"
     ],
     "description": "Knee of Goddess Sati",
-    "others": [
-      "International"
-    ]
+    "others": ["International"]
   },
   {
     "name": "Manikarnika",
@@ -1279,13 +1236,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
     "description": "Anger Form of Goddess Sati"
   },
   {

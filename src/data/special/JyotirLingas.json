@@ -24,9 +24,7 @@
       "March"
     ],
     "description": "First Jyotirlinga - Eternal / First",
-    "others": [
-      "ASI Heritage Site"
-    ]
+    "others": ["ASI Heritage Site"]
   },
   {
     "name": "Mallikarjuna",
@@ -122,12 +120,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["May", "June", "September", "October"],
     "description": "Himalayan Jyotirlinga - Swayambhu (self-manifested)"
   },
   {
@@ -311,8 +304,6 @@
       "March"
     ],
     "description": "Compassion Jyotirlinga near Ellora Caves",
-    "others": [
-      "Near Ellora ASI zone"
-    ]
+    "others": ["Near Ellora ASI zone"]
   }
 ]

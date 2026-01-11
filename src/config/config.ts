@@ -56,82 +56,119 @@ export const mapConfig: MapConfig = {
   center: [20.5937, 78.9629], // India center coordinates
   defaultZoom: 5,
   tileLayer: {
-    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  }
+    url: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  },
 };
 
 // Alternative free map tile providers (uncomment to use)
 export const alternativeTileLayers: { [key: string]: TileLayerConfig } = {
   cartoLight: {
-    url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    url: "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
   },
   cartoDark: {
-    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    url: "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
   },
   stamenTerrain: {
-    url: 'https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}{r}.png',
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  }
+    url: "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}{r}.png",
+    attribution:
+      'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  },
 };
 
 // Marker Color Configuration
 export const iconColors: IconColors = {
-  'Religious / Spiritual Places': '#FF6B6B',
-  'Historical / Heritage Sites': '#4ECDC4',
-  'Mountains / Hill Stations': '#45B7D1',
-  'Beaches / Coastal Areas': '#FFA07A',
-  'Wildlife / National Parks': '#98D8C8',
-  'Urban / City Tourism': '#FFD93D',
-  'Adventure / Trekking Destinations': '#6BCF7F',
-  'Festivals / Event Destinations': '#C589E8',
-  'Eco / Sustainable Tourism Spots': '#7FBA00',
-  'Cultural / Ethnic Villages': '#F4A460',
-  'GI Tags': '#FF1493'
+  "Religious / Spiritual Places": "#FF6B6B",
+  "Historical / Heritage Sites": "#4ECDC4",
+  "Mountains / Hill Stations": "#45B7D1",
+  "Beaches / Coastal Areas": "#FFA07A",
+  "Wildlife / National Parks": "#98D8C8",
+  "Urban / City Tourism": "#FFD93D",
+  "Adventure / Trekking Destinations": "#6BCF7F",
+  "Festivals / Event Destinations": "#C589E8",
+  "Eco / Sustainable Tourism Spots": "#7FBA00",
+  "Cultural / Ethnic Villages": "#F4A460",
+  "GI Tags": "#FF1493",
+  "Char Dham": "#FF6B35",
+  "Chota Char Dham": "#00ccff",
+  Jyotirlinga: "#FFA500",
+  "Shakti Peeth": "#DA70D6",
+  "UNESCO Heritage": "#FFD700",
 };
 
 // Marker Configuration
 export const markerConfig: MarkerConfig = {
   size: 25,
-  borderColor: 'white',
+  borderColor: "white",
   borderWidth: 2,
-  defaultColor: '#6C757D' // Fallback color for unknown types
+  defaultColor: "#6C757D", // Fallback color for unknown types
 };
 
 // Data Sources Configuration
 export const dataSources: DataSources = {
   stateFiles: [
-    'AndhraPradesh', 'ArunachalPradesh', 'Assam', 'Bihar', 'Chhattisgarh',
-    'Goa', 'Gujarat', 'Haryana', 'HimachalPradesh', 'Jharkhand',
-    'Karnataka', 'Kerala', 'MadhyaPradesh', 'Maharashtra', 'Manipur',
-    'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Punjab',
-    'Rajasthan', 'Sikkim', 'TamilNadu', 'Telangana', 'Tripura',
-    'Uttarakhand', 'UttarPradesh', 'WestBengal'
+    "AndhraPradesh",
+    "ArunachalPradesh",
+    "Assam",
+    "Bihar",
+    "Chhattisgarh",
+    "Goa",
+    "Gujarat",
+    "Haryana",
+    "HimachalPradesh",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "MadhyaPradesh",
+    "Maharashtra",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Odisha",
+    "Punjab",
+    "Rajasthan",
+    "Sikkim",
+    "TamilNadu",
+    "Telangana",
+    "Tripura",
+    "Uttarakhand",
+    "UttarPradesh",
+    "WestBengal",
   ],
   utFiles: [
-    'AndamanNicobarIslands', 'Chandigarh', 'DadraNagarHaveli',
-    'DamanDiu', 'Delhi', 'JammuKashmir', 'Ladakh',
-    'Lakshadweep', 'Puducherry'
+    "AndamanNicobarIslands",
+    "Chandigarh",
+    "DadraNagarHaveli",
+    "DamanDiu",
+    "Delhi",
+    "JammuKashmir",
+    "Ladakh",
+    "Lakshadweep",
+    "Puducherry",
   ],
-  specialFiles: ['CharDham', 'JyotirLingas', 'ShaktiPeeths'],
+  specialFiles: ["CharDham", "JyotirLingas", "ShaktiPeeths", "UNESCOHeritage"],
   paths: {
-    state: './data/state',
-    unionTerritory: './data/unionterritory',
-    special: './data/special',
-    giTags: './data/GITags.json'
-  }
+    state: "./data/state",
+    unionTerritory: "./data/unionterritory",
+    special: "./data/special",
+    giTags: "./data/GITags.json",
+  },
 };
 
 // App Configuration
 export const appConfig: AppConfig = {
   url: "https://artbindu-app.github.io/whoami/images/profile/india.svg",
-  title: 'India Solo Tour',
+  title: "India Solo Tour",
   sidebarWidth: 320,
   enableGITags: true,
   showLegend: true,
-  showStatistics: true
+  showStatistics: true,
 };
 
 // Feature Flags
@@ -139,5 +176,5 @@ export const features: Features = {
   clustering: false,
   heatmap: false,
   search: false,
-  routing: false
+  routing: false,
 };

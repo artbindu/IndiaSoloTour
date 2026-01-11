@@ -8,7 +8,13 @@
     "coordinates": { "lat": 27.1795, "long": 78.0211 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December","January","February"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
     "description": "Mughal imperial fortress",
     "others": ["ASI Protected"]
   },
@@ -21,7 +27,13 @@
     "coordinates": { "lat": 27.1751, "long": 78.0421 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December","January","February"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
     "description": "White marble mausoleum"
   },
   {
@@ -30,10 +42,10 @@
     "country": "India",
     "state": "Uttar Pradesh",
     "city": "Fatehpur Sikri",
-    "coordinates": { "lat": 27.0937, "long": 77.6600 },
+    "coordinates": { "lat": 27.0937, "long": 77.66 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December","January"],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "Abandoned Mughal capital"
   },
   {
@@ -45,7 +57,7 @@
     "coordinates": { "lat": 20.5519, "long": 75.7033 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October","November","December","January"],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "Buddhist rock-cut caves"
   },
   {
@@ -57,7 +69,7 @@
     "coordinates": { "lat": 20.0268, "long": 75.1795 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October","November","December","January"],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "Multi-faith cave complex"
   },
   {
@@ -69,7 +81,7 @@
     "coordinates": { "lat": 18.9633, "long": 72.9312 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["November","December","January"],
+    "bestVisitMonths": ["November", "December", "January"],
     "description": "Shaivite rock caves"
   },
   {
@@ -81,7 +93,7 @@
     "coordinates": { "lat": 18.9401, "long": 72.8353 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Victorian Gothic railway station"
   },
   {
@@ -93,7 +105,7 @@
     "coordinates": { "lat": 18.9322, "long": 72.8264 },
     "heritage": { "unesco": true, "national": false, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Urban architectural ensemble"
   },
   {
@@ -102,10 +114,10 @@
     "country": "India",
     "state": "Karnataka",
     "city": "Hampi",
-    "coordinates": { "lat": 15.3350, "long": 76.4600 },
+    "coordinates": { "lat": 15.335, "long": 76.46 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Vijayanagara ruins"
   },
   {
@@ -114,10 +126,10 @@
     "country": "India",
     "state": "Karnataka",
     "city": "Bagalkot",
-    "coordinates": { "lat": 15.9486, "long": 75.8160 },
+    "coordinates": { "lat": 15.9486, "long": 75.816 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Chalukyan temple architecture"
   },
   {
@@ -126,10 +138,10 @@
     "country": "India",
     "state": "Karnataka",
     "city": "Belur–Halebidu–Somanathapura",
-    "coordinates": { "lat": 13.1651, "long": 75.8650 },
+    "coordinates": { "lat": 13.1651, "long": 75.865 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Hoysala dynasty temples"
   },
   {
@@ -141,7 +153,7 @@
     "coordinates": { "lat": 24.8318, "long": 79.9199 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Nagara-style temples"
   },
   {
@@ -153,7 +165,7 @@
     "coordinates": { "lat": 23.4793, "long": 77.7399 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Buddhist stupas"
   },
   {
@@ -165,7 +177,7 @@
     "coordinates": { "lat": 22.9398, "long": 77.6146 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Prehistoric cave art"
   },
   {
@@ -177,7 +189,7 @@
     "coordinates": { "lat": 19.8876, "long": 86.0945 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "13th century chariot temple"
   },
   {
@@ -189,7 +201,7 @@
     "coordinates": { "lat": 10.7828, "long": 79.1318 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Great Living Chola Temples"
   },
   {
@@ -201,7 +213,7 @@
     "coordinates": { "lat": 12.6208, "long": 80.1933 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November","December","January"],
+    "bestVisitMonths": ["November", "December", "January"],
     "description": "Pallava rock-cut monuments"
   },
   {
@@ -213,7 +225,7 @@
     "coordinates": { "lat": 11.4064, "long": 76.6932 },
     "heritage": { "unesco": true, "national": true, "state": false },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["March","April","May"],
+    "bestVisitMonths": ["March", "April", "May"],
     "description": "Mountain Railways of India"
   },
   {
@@ -225,7 +237,7 @@
     "coordinates": { "lat": 26.5775, "long": 93.1711 },
     "heritage": { "unesco": true, "national": false, "state": false },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["November","December","January"],
+    "bestVisitMonths": ["November", "December", "January"],
     "description": "One-horned rhinoceros habitat"
   },
   {
@@ -237,7 +249,7 @@
     "coordinates": { "lat": 26.7194, "long": 91.0474 },
     "heritage": { "unesco": true, "national": false, "state": false },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["November","December","January"],
+    "bestVisitMonths": ["November", "December", "January"],
     "description": "Himalayan foothill biodiversity"
   },
   {
@@ -246,10 +258,10 @@
     "country": "India",
     "state": "West Bengal",
     "city": "South 24 Parganas",
-    "coordinates": { "lat": 21.9497, "long": 89.1833 },
+    "coordinates": { "lat": 21.9497, "long": 88.8807 },
     "heritage": { "unesco": true, "national": false, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November","December","January"],
+    "bestVisitMonths": ["November", "December", "January"],
     "description": "Mangrove forest ecosystem"
   },
   {
@@ -261,7 +273,7 @@
     "coordinates": { "lat": 23.6849, "long": 87.6857 },
     "heritage": { "unesco": true, "national": false, "state": false },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October","November","December"],
+    "bestVisitMonths": ["October", "November", "December"],
     "description": "Rabindranath Tagore’s Visva-Bharati"
   },
   {
@@ -270,10 +282,10 @@
     "country": "India",
     "state": "Uttarakhand",
     "city": "Chamoli",
-    "coordinates": { "lat": 30.7280, "long": 79.6050 },
+    "coordinates": { "lat": 30.728, "long": 79.605 },
     "heritage": { "unesco": true, "national": false, "state": false },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["July","August","September"],
+    "bestVisitMonths": ["July", "August", "September"],
     "description": "Himalayan alpine meadows"
   },
   {
@@ -285,7 +297,7 @@
     "coordinates": { "lat": 10.1632, "long": 76.6413 },
     "heritage": { "unesco": true, "national": false, "state": false },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["September","October","November"],
+    "bestVisitMonths": ["September", "October", "November"],
     "description": "Global biodiversity hotspot"
   }
 ]
