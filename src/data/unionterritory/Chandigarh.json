@@ -7,7 +7,7 @@
     "city": "Chandigarh",
     "coordinates": {
       "lat": 30.7195,
-      "long": 76.7800
+      "long": 76.78
     },
     "heritage": {
       "unesco": false,
@@ -59,7 +59,7 @@
     "city": "Chandigarh",
     "coordinates": {
       "lat": 30.7333,
-      "long": 76.7850
+      "long": 76.785
     },
     "heritage": {
       "unesco": false,
@@ -111,13 +111,14 @@
     "city": "Panchkula",
     "coordinates": {
       "lat": 30.8478,
-      "long": 76.9190
+      "long": 76.919
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -144,6 +145,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -163,13 +165,14 @@
     "city": "Chandigarh",
     "coordinates": {
       "lat": 30.7336,
-      "long": 76.7790
+      "long": 76.779
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -188,8 +191,8 @@
     "state": "Chandigarh",
     "city": "Chandigarh",
     "coordinates": {
-      "lat": 30.7340,
-      "long": 76.7880
+      "lat": 30.734,
+      "long": 76.788
     },
     "heritage": {
       "unesco": false,
@@ -214,8 +217,8 @@
     "state": "Chandigarh",
     "city": "Chandigarh",
     "coordinates": {
-      "lat": 30.7510,
-      "long": 76.7740
+      "lat": 30.751,
+      "long": 76.774
     },
     "heritage": {
       "unesco": false,
@@ -241,7 +244,7 @@
     "city": "Chandigarh",
     "coordinates": {
       "lat": 30.7333,
-      "long": 76.7790
+      "long": 76.779
     },
     "heritage": {
       "unesco": false,
@@ -249,10 +252,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["December", "January"],
     "description": "Annual carnival held late December at Rose Garden celebrating city's anniversary, week-long cultural extravaganza, stalls from various states showcasing handicrafts and cuisine, folk dances, music concerts, adventure sports, hot-air balloon rides, food festival, amusement rides, talent shows, laser shows, fireworks, Rose Queen pageant, vintage car display, flower exhibitions, corporate stalls, tourism promotion, attracts lakhs of visitors, vibrant celebrations, family entertainment, New Year countdown events, shopping bonanzas, cultural performances on amphitheater, festive atmosphere."
   },
   {
@@ -262,8 +262,8 @@
     "state": "Chandigarh",
     "city": "Chandigarh",
     "coordinates": {
-      "lat": 30.7360,
-      "long": 76.7930
+      "lat": 30.736,
+      "long": 76.793
     },
     "heritage": {
       "unesco": false,
@@ -315,7 +315,7 @@
     "city": "Chandigarh",
     "coordinates": {
       "lat": 30.7333,
-      "long": 76.7860
+      "long": 76.786
     },
     "heritage": {
       "unesco": false,
@@ -341,13 +341,14 @@
     "city": "Chandigarh",
     "coordinates": {
       "lat": 30.7333,
-      "long": 76.7790
+      "long": 76.779
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -366,8 +367,8 @@
     "state": "Chandigarh",
     "city": "Chandigarh",
     "coordinates": {
-      "lat": 30.7380,
-      "long": 76.7780
+      "lat": 30.738,
+      "long": 76.778
     },
     "heritage": {
       "unesco": false,
@@ -418,8 +419,8 @@
     "state": "Chandigarh",
     "city": "Panchkula",
     "coordinates": {
-      "lat": 30.8460,
-      "long": 76.9120
+      "lat": 30.846,
+      "long": 76.912
     },
     "heritage": {
       "unesco": false,
@@ -445,7 +446,7 @@
     "city": "Zirakpur",
     "coordinates": {
       "lat": 30.8333,
-      "long": 76.8790
+      "long": 76.879
     },
     "heritage": {
       "unesco": false,
@@ -470,8 +471,8 @@
     "state": "Chandigarh",
     "city": "Chandigarh",
     "coordinates": {
-      "lat": 30.7360,
-      "long": 76.7880
+      "lat": 30.736,
+      "long": 76.788
     },
     "heritage": {
       "unesco": false,
@@ -497,7 +498,7 @@
     "city": "Chandigarh",
     "coordinates": {
       "lat": 30.7333,
-      "long": 76.7790
+      "long": 76.779
     },
     "heritage": {
       "unesco": false,
@@ -505,9 +506,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "January"
-    ],
+    "bestVisitMonths": ["January"],
     "description": "Annual literary festival held in January at various venues including Capitol Complex, launched 2014, attracts renowned authors, poets, journalists, publishers, panel discussions, book readings, poetry sessions, workshops on writing, translation, publishing, storytelling for children, book exhibitions, meet-and-greet with authors, intellectual debates on politics, culture, society, free entry (some sessions), celebrated writers from India and abroad, promotes reading culture, youth engagement, book launches, literary awards, heritage walks combined, evening cultural performances, food stalls, three-day event, literary tourism."
   }
 ]

@@ -98,7 +98,8 @@ function App(): JSX.Element {
         const specialImports: { [key: string]: () => Promise<any> } = {
           'CharDham': () => import('../data/special/CharDham.json'),
           'JyotirLingas': () => import('../data/special/JyotirLingas.json'),
-          'ShaktiPeeths': () => import('../data/special/ShaktiPeeths.json')
+          'ShaktiPeeths': () => import('../data/special/ShaktiPeeths.json'),
+          'UNESCOHeritage': () => import('../data/special/UNESCOHeritage.json')
         };
 
         // Load all state files

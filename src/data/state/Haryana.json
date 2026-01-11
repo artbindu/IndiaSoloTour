@@ -6,8 +6,8 @@
     "state": "Haryana",
     "city": "Faridabad",
     "coordinates": {
-      "lat": 28.4730,
-      "long": 77.3000
+      "lat": 28.473,
+      "long": 77.3
     },
     "heritage": {
       "unesco": false,
@@ -15,10 +15,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["February", "March"],
     "description": "10th-century sun reservoir built by Tomar king, amphitheater-like structure, annual Surajkund International Crafts Mela showcasing Indian handicrafts, cultural performances, traditional artisans."
   },
   {
@@ -54,14 +51,15 @@
     "state": "Haryana",
     "city": "Kurukshetra",
     "coordinates": {
-      "lat": 29.9690,
-      "long": 76.8780
+      "lat": 29.969,
+      "long": 76.878
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -80,14 +78,15 @@
     "state": "Haryana",
     "city": "Kurukshetra",
     "coordinates": {
-      "lat": 29.9690,
-      "long": 76.8780
+      "lat": 29.969,
+      "long": 76.878
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -114,6 +113,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -140,6 +140,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -158,8 +159,8 @@
     "state": "Haryana",
     "city": "Panchkula",
     "coordinates": {
-      "lat": 30.7440,
-      "long": 76.9190
+      "lat": 30.744,
+      "long": 76.919
     },
     "heritage": {
       "unesco": false,
@@ -188,8 +189,8 @@
     "state": "Haryana",
     "city": "Jhajjar",
     "coordinates": {
-      "lat": 28.7110,
-      "long": 76.5580
+      "lat": 28.711,
+      "long": 76.558
     },
     "heritage": {
       "unesco": false,
@@ -214,8 +215,8 @@
     "state": "Haryana",
     "city": "Faridabad",
     "coordinates": {
-      "lat": 28.5300,
-      "long": 77.3500
+      "lat": 28.53,
+      "long": 77.35
     },
     "heritage": {
       "unesco": false,
@@ -240,8 +241,8 @@
     "state": "Haryana",
     "city": "Faridabad",
     "coordinates": {
-      "lat": 28.3780,
-      "long": 77.3160
+      "lat": 28.378,
+      "long": 77.316
     },
     "heritage": {
       "unesco": false,
@@ -266,8 +267,8 @@
     "state": "Haryana",
     "city": "Rohtak",
     "coordinates": {
-      "lat": 28.8950,
-      "long": 76.6060
+      "lat": 28.895,
+      "long": 76.606
     },
     "heritage": {
       "unesco": false,
@@ -292,14 +293,15 @@
     "state": "Haryana",
     "city": "Gurgaon",
     "coordinates": {
-      "lat": 28.3980,
-      "long": 76.8530
+      "lat": 28.398,
+      "long": 76.853
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -318,14 +320,15 @@
     "state": "Haryana",
     "city": "Rewari",
     "coordinates": {
-      "lat": 28.2040,
-      "long": 76.6180
+      "lat": 28.204,
+      "long": 76.618
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -370,14 +373,15 @@
     "state": "Haryana",
     "city": "Yamunanagar",
     "coordinates": {
-      "lat": 30.1290,
-      "long": 77.2760
+      "lat": 30.129,
+      "long": 77.276
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -396,8 +400,8 @@
     "state": "Haryana",
     "city": "Faridabad",
     "coordinates": {
-      "lat": 28.4730,
-      "long": 77.3000
+      "lat": 28.473,
+      "long": 77.3
     },
     "heritage": {
       "unesco": false,
@@ -405,10 +409,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["February", "March"],
     "description": "Surajkund International Crafts Mela, Asia's largest crafts fair, showcasing handicrafts from all Indian states and international participation, folk performances, traditional cuisine, cultural extravaganza."
   },
   {
@@ -418,8 +419,8 @@
     "state": "Haryana",
     "city": "Karnal",
     "coordinates": {
-      "lat": 29.6850,
-      "long": 76.9900
+      "lat": 29.685,
+      "long": 76.99
     },
     "heritage": {
       "unesco": false,
@@ -427,9 +428,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "July"
-    ],
+    "bestVisitMonths": ["July"],
     "description": "Annual mango festival showcasing 500+ mango varieties from India and abroad, tasting sessions, mango competitions, fruit exhibitions, agricultural innovations, cultural programs celebrating king of fruits."
   }
 ]

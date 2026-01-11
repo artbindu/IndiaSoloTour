@@ -42,6 +42,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "High",
     "bestVisitMonths": [
       "October",
@@ -70,6 +71,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "High",
     "bestVisitMonths": [
       "October",
@@ -119,7 +121,7 @@
     "city": "South Andaman",
     "coordinates": {
       "lat": 11.9408,
-      "long": 92.9770
+      "long": 92.977
     },
     "heritage": {
       "unesco": false,
@@ -146,8 +148,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 11.8740,
-      "long": 92.7570
+      "lat": 11.874,
+      "long": 92.757
     },
     "heritage": {
       "unesco": false,
@@ -174,14 +176,15 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 11.6150,
-      "long": 92.7200
+      "lat": 11.615,
+      "long": 92.72
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -202,8 +205,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 11.5720,
-      "long": 92.6860
+      "lat": 11.572,
+      "long": 92.686
     },
     "heritage": {
       "unesco": false,
@@ -230,8 +233,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 11.6090,
-      "long": 92.7140
+      "lat": 11.609,
+      "long": 92.714
     },
     "heritage": {
       "unesco": false,
@@ -258,8 +261,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 11.6700,
-      "long": 92.7440
+      "lat": 11.67,
+      "long": 92.744
     },
     "heritage": {
       "unesco": false,
@@ -286,8 +289,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "North Andaman",
     "coordinates": {
-      "lat": 12.2780,
-      "long": 93.8580
+      "lat": 12.278,
+      "long": 93.858
     },
     "heritage": {
       "unesco": false,
@@ -312,8 +315,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 12.0600,
-      "long": 92.9500
+      "lat": 12.06,
+      "long": 92.95
     },
     "heritage": {
       "unesco": false,
@@ -340,8 +343,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "North Andaman",
     "coordinates": {
-      "lat": 13.4270,
-      "long": 93.0220
+      "lat": 13.427,
+      "long": 93.022
     },
     "heritage": {
       "unesco": false,
@@ -368,8 +371,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "North Andaman",
     "coordinates": {
-      "lat": 12.6200,
-      "long": 93.0480
+      "lat": 12.62,
+      "long": 93.048
     },
     "heritage": {
       "unesco": false,
@@ -396,8 +399,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 11.6700,
-      "long": 92.7520
+      "lat": 11.67,
+      "long": 92.752
     },
     "heritage": {
       "unesco": false,
@@ -424,8 +427,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 10.7050,
-      "long": 92.5210
+      "lat": 10.705,
+      "long": 92.521
     },
     "heritage": {
       "unesco": false,
@@ -452,8 +455,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "South Andaman",
     "coordinates": {
-      "lat": 11.5200,
-      "long": 92.6800
+      "lat": 11.52,
+      "long": 92.68
     },
     "heritage": {
       "unesco": false,
@@ -480,8 +483,8 @@
     "state": "Andaman & Nicobar Islands",
     "city": "Havelock",
     "coordinates": {
-      "lat": 11.8950,
-      "long": 92.9580
+      "lat": 11.895,
+      "long": 92.958
     },
     "heritage": {
       "unesco": false,
@@ -509,7 +512,7 @@
     "city": "Havelock",
     "coordinates": {
       "lat": 11.9408,
-      "long": 92.9770
+      "long": 92.977
     },
     "heritage": {
       "unesco": false,
@@ -545,10 +548,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["December", "January"],
     "description": "Annual Island Tourism Festival held December-January, 10-day celebration showcasing Andaman culture and ecology, tribal dances by Nicobarese and Karen tribes, handicrafts exhibition (shell crafts, wood carvings), food festival with seafood delicacies, beach volleyball, water sports competitions, cultural programs, adventure activities, Miss Andaman pageant, tourism promotion, music concerts, fireworks, celebrates Island Foundation Day (December 30), Port Blair main venue, festive atmosphere."
   }
 ]

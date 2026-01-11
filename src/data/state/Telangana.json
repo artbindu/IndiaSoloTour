@@ -15,7 +15,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Golconda Fort",
@@ -33,7 +41,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Qutb Shahi Tombs",
@@ -42,8 +58,8 @@
     "state": "Telangana",
     "city": "Hyderabad",
     "coordinates": {
-      "lat": 17.3950,
-      "long": 78.3940
+      "lat": 17.395,
+      "long": 78.394
     },
     "heritage": {
       "unesco": false,
@@ -51,7 +67,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Mecca Masjid",
@@ -69,7 +93,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Birla Mandir",
@@ -87,7 +119,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Ramappa (Rudreshwara) Temple",
@@ -96,8 +135,8 @@
     "state": "Telangana",
     "city": "Mulugu",
     "coordinates": {
-      "lat": 18.2590,
-      "long": 79.9430
+      "lat": 18.259,
+      "long": 79.943
     },
     "heritage": {
       "unesco": true,
@@ -105,7 +144,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "UNESCO World Heritage Site"
   },
   {
     "name": "Bhadrakali Temple",
@@ -114,8 +161,8 @@
     "state": "Telangana",
     "city": "Warangal",
     "coordinates": {
-      "lat": 18.0010,
-      "long": 79.5880
+      "lat": 18.001,
+      "long": 79.588
     },
     "heritage": {
       "unesco": false,
@@ -123,7 +170,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Warangal Fort",
@@ -132,8 +186,8 @@
     "state": "Telangana",
     "city": "Warangal",
     "coordinates": {
-      "lat": 17.9750,
-      "long": 79.6010
+      "lat": 17.975,
+      "long": 79.601
     },
     "heritage": {
       "unesco": false,
@@ -141,7 +195,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Thousand Pillar Temple",
@@ -159,7 +221,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Laknavaram Lake",
@@ -168,8 +238,8 @@
     "state": "Telangana",
     "city": "Mulugu",
     "coordinates": {
-      "lat": 18.1400,
-      "long": 80.0660
+      "lat": 18.14,
+      "long": 80.066
     },
     "heritage": {
       "unesco": false,
@@ -177,7 +247,13 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Kuntala Waterfall",
@@ -186,8 +262,8 @@
     "state": "Telangana",
     "city": "Adilabad",
     "coordinates": {
-      "lat": 19.2830,
-      "long": 78.4950
+      "lat": 19.283,
+      "long": 78.495
     },
     "heritage": {
       "unesco": false,
@@ -195,7 +271,16 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["July", "August", "September", "October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Bogatha Waterfall",
@@ -204,8 +289,8 @@
     "state": "Telangana",
     "city": "Bhadradri Kothagudem",
     "coordinates": {
-      "lat": 17.2750,
-      "long": 80.6400
+      "lat": 17.275,
+      "long": 80.64
     },
     "heritage": {
       "unesco": false,
@@ -213,7 +298,16 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["July", "August", "September", "October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Kawal Tiger Reserve",
@@ -222,8 +316,8 @@
     "state": "Telangana",
     "city": "Mancherial",
     "coordinates": {
-      "lat": 19.1870,
-      "long": 78.7810
+      "lat": 19.187,
+      "long": 78.781
     },
     "heritage": {
       "unesco": false,
@@ -231,7 +325,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Eturnagaram Wildlife Sanctuary",
@@ -240,8 +342,8 @@
     "state": "Telangana",
     "city": "Mulugu",
     "coordinates": {
-      "lat": 18.3210,
-      "long": 79.8800
+      "lat": 18.321,
+      "long": 79.88
     },
     "heritage": {
       "unesco": false,
@@ -249,7 +351,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Pocharam Wildlife Sanctuary",
@@ -258,8 +368,8 @@
     "state": "Telangana",
     "city": "Medak",
     "coordinates": {
-      "lat": 18.0700,
-      "long": 77.9600
+      "lat": 18.07,
+      "long": 77.96
     },
     "heritage": {
       "unesco": false,
@@ -267,7 +377,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Ananthagiri Hills",
@@ -276,8 +393,8 @@
     "state": "Telangana",
     "city": "Vikarabad",
     "coordinates": {
-      "lat": 17.3050,
-      "long": 77.8660
+      "lat": 17.305,
+      "long": 77.866
     },
     "heritage": {
       "unesco": false,
@@ -285,7 +402,13 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Medak Cathedral",
@@ -294,8 +417,8 @@
     "state": "Telangana",
     "city": "Medak",
     "coordinates": {
-      "lat": 18.0450,
-      "long": 78.2600
+      "lat": 18.045,
+      "long": 78.26
     },
     "heritage": {
       "unesco": false,
@@ -303,7 +426,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Basar Saraswati Temple",
@@ -312,8 +443,8 @@
     "state": "Telangana",
     "city": "Nirmal",
     "coordinates": {
-      "lat": 18.8740,
-      "long": 77.9490
+      "lat": 18.874,
+      "long": 77.949
     },
     "heritage": {
       "unesco": false,
@@ -321,7 +452,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Nagarjuna Sagar Dam",
@@ -330,8 +469,8 @@
     "state": "Telangana",
     "city": "Nalgonda",
     "coordinates": {
-      "lat": 16.5720,
-      "long": 79.3130
+      "lat": 16.572,
+      "long": 79.313
     },
     "heritage": {
       "unesco": false,
@@ -339,7 +478,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Hussain Sagar Lake",
@@ -357,7 +503,13 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Shilparamam Crafts Village",
@@ -375,7 +527,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Bathukamma Festival",
@@ -402,7 +561,7 @@
     "state": "Telangana",
     "city": "Hyderabad",
     "coordinates": {
-      "lat": 17.3850,
+      "lat": 17.385,
       "long": 78.4867
     },
     "heritage": {

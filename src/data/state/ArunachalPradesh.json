@@ -14,6 +14,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": [
       "March",
@@ -62,7 +63,7 @@
     "city": "Tawang",
     "coordinates": {
       "lat": 27.6685,
-      "long": 92.0080
+      "long": 92.008
     },
     "heritage": {
       "unesco": false,
@@ -88,8 +89,8 @@
     "state": "Arunachal Pradesh",
     "city": "Tawang",
     "coordinates": {
-      "lat": 27.6680,
-      "long": 91.8990
+      "lat": 27.668,
+      "long": 91.899
     },
     "heritage": {
       "unesco": false,
@@ -115,8 +116,8 @@
     "state": "Arunachal Pradesh",
     "city": "Tawang",
     "coordinates": {
-      "lat": 27.6900,
-      "long": 91.8970
+      "lat": 27.69,
+      "long": 91.897
     },
     "heritage": {
       "unesco": false,
@@ -142,8 +143,8 @@
     "state": "Arunachal Pradesh",
     "city": "West Kameng",
     "coordinates": {
-      "lat": 27.3890,
-      "long": 92.2760
+      "lat": 27.389,
+      "long": 92.276
     },
     "heritage": {
       "unesco": false,
@@ -169,14 +170,15 @@
     "state": "Arunachal Pradesh",
     "city": "West Kameng",
     "coordinates": {
-      "lat": 27.2760,
-      "long": 92.3920
+      "lat": 27.276,
+      "long": 92.392
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -197,8 +199,8 @@
     "state": "Arunachal Pradesh",
     "city": "Tawang",
     "coordinates": {
-      "lat": 27.6360,
-      "long": 91.8680
+      "lat": 27.636,
+      "long": 91.868
     },
     "heritage": {
       "unesco": false,
@@ -224,8 +226,8 @@
     "state": "Arunachal Pradesh",
     "city": "Lower Subansiri",
     "coordinates": {
-      "lat": 27.6120,
-      "long": 93.8260
+      "lat": 27.612,
+      "long": 93.826
     },
     "heritage": {
       "unesco": false,
@@ -251,8 +253,8 @@
     "state": "Arunachal Pradesh",
     "city": "West Siang",
     "coordinates": {
-      "lat": 27.6660,
-      "long": 93.7750
+      "lat": 27.666,
+      "long": 93.775
     },
     "heritage": {
       "unesco": false,
@@ -278,8 +280,8 @@
     "state": "Arunachal Pradesh",
     "city": "West Siang",
     "coordinates": {
-      "lat": 28.0660,
-      "long": 95.4330
+      "lat": 28.066,
+      "long": 95.433
     },
     "heritage": {
       "unesco": false,
@@ -306,14 +308,15 @@
     "state": "Arunachal Pradesh",
     "city": "Lohit",
     "coordinates": {
-      "lat": 27.5760,
-      "long": 95.1260
+      "lat": 27.576,
+      "long": 95.126
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -359,7 +362,7 @@
     "city": "Itanagar",
     "coordinates": {
       "lat": 27.0965,
-      "long": 93.6060
+      "long": 93.606
     },
     "heritage": {
       "unesco": false,
@@ -384,14 +387,15 @@
     "state": "Arunachal Pradesh",
     "city": "Changlang",
     "coordinates": {
-      "lat": 27.5100,
-      "long": 96.0190
+      "lat": 27.51,
+      "long": 96.019
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": [
       "October",
@@ -410,8 +414,8 @@
     "state": "Arunachal Pradesh",
     "city": "East Siang",
     "coordinates": {
-      "lat": 28.0580,
-      "long": 94.8500
+      "lat": 28.058,
+      "long": 94.85
     },
     "heritage": {
       "unesco": false,
@@ -437,8 +441,8 @@
     "state": "Arunachal Pradesh",
     "city": "West Kameng",
     "coordinates": {
-      "lat": 27.7000,
-      "long": 92.7000
+      "lat": 27.7,
+      "long": 92.7
     },
     "heritage": {
       "unesco": false,
@@ -464,8 +468,8 @@
     "state": "Arunachal Pradesh",
     "city": "Upper Subansiri",
     "coordinates": {
-      "lat": 28.2870,
-      "long": 94.4300
+      "lat": 28.287,
+      "long": 94.43
     },
     "heritage": {
       "unesco": false,
@@ -491,8 +495,8 @@
     "state": "Arunachal Pradesh",
     "city": "West Kameng",
     "coordinates": {
-      "lat": 27.2660,
-      "long": 92.3920
+      "lat": 27.266,
+      "long": 92.392
     },
     "heritage": {
       "unesco": false,
@@ -519,8 +523,8 @@
     "state": "Arunachal Pradesh",
     "city": "Tawang",
     "coordinates": {
-      "lat": 27.6580,
-      "long": 91.8670
+      "lat": 27.658,
+      "long": 91.867
     },
     "heritage": {
       "unesco": false,
@@ -546,14 +550,15 @@
     "state": "Arunachal Pradesh",
     "city": "Tawang",
     "coordinates": {
-      "lat": 27.5900,
-      "long": 91.8750
+      "lat": 27.59,
+      "long": 91.875
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "March",
@@ -574,8 +579,8 @@
     "state": "Arunachal Pradesh",
     "city": "West Kameng",
     "coordinates": {
-      "lat": 27.5300,
-      "long": 92.2400
+      "lat": 27.53,
+      "long": 92.24
     },
     "heritage": {
       "unesco": false,
@@ -602,14 +607,15 @@
     "state": "Arunachal Pradesh",
     "city": "West Siang",
     "coordinates": {
-      "lat": 27.6160,
-      "long": 93.9000
+      "lat": 27.616,
+      "long": 93.9
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -629,8 +635,8 @@
     "state": "Arunachal Pradesh",
     "city": "West Siang",
     "coordinates": {
-      "lat": 28.0660,
-      "long": 94.8500
+      "lat": 28.066,
+      "long": 94.85
     },
     "heritage": {
       "unesco": false,
@@ -665,9 +671,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "October"
-    ],
+    "bestVisitMonths": ["October"],
     "description": "Annual adventure sports festival celebrating Arunachal's tourism potential, rock climbing, paragliding, trekking, mountain biking, traditional archery, Monpa cultural performances, local cuisine, handicrafts exhibition, October celebration, promotes adventure tourism, community participation."
   }
 ]

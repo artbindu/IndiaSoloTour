@@ -15,7 +15,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Konark Sun Temple",
@@ -33,7 +41,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "UNESCO World Heritage Site"
   },
   {
     "name": "Lingaraj Temple",
@@ -42,8 +58,8 @@
     "state": "Odisha",
     "city": "Bhubaneswar",
     "coordinates": {
-      "lat": 20.2370,
-      "long": 85.8340
+      "lat": 20.237,
+      "long": 85.834
     },
     "heritage": {
       "unesco": false,
@@ -51,7 +67,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Mukteswar Temple",
@@ -60,8 +84,8 @@
     "state": "Odisha",
     "city": "Bhubaneswar",
     "coordinates": {
-      "lat": 20.2390,
-      "long": 85.8350
+      "lat": 20.239,
+      "long": 85.835
     },
     "heritage": {
       "unesco": false,
@@ -69,7 +93,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Dhauli Shanti Stupa",
@@ -87,7 +119,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Chilika Lake",
@@ -96,8 +136,8 @@
     "state": "Odisha",
     "city": "Puri / Khordha",
     "coordinates": {
-      "lat": 19.7100,
-      "long": 85.3000
+      "lat": 19.71,
+      "long": 85.3
     },
     "heritage": {
       "unesco": false,
@@ -105,7 +145,8 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"]
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Satapada (Chilika)",
@@ -114,8 +155,8 @@
     "state": "Odisha",
     "city": "Puri",
     "coordinates": {
-      "lat": 19.6610,
-      "long": 85.3140
+      "lat": 19.661,
+      "long": 85.314
     },
     "heritage": {
       "unesco": false,
@@ -132,8 +173,8 @@
     "state": "Odisha",
     "city": "Kendrapara",
     "coordinates": {
-      "lat": 20.7060,
-      "long": 86.8870
+      "lat": 20.706,
+      "long": 86.887
     },
     "heritage": {
       "unesco": false,
@@ -141,7 +182,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February", "March"]
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Simlipal National Park",
@@ -150,8 +192,8 @@
     "state": "Odisha",
     "city": "Mayurbhanj",
     "coordinates": {
-      "lat": 21.9000,
-      "long": 86.3000
+      "lat": 21.9,
+      "long": 86.3
     },
     "heritage": {
       "unesco": false,
@@ -159,7 +201,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February", "March"]
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Udayagiri & Khandagiri Caves",
@@ -168,8 +211,8 @@
     "state": "Odisha",
     "city": "Bhubaneswar",
     "coordinates": {
-      "lat": 20.2630,
-      "long": 85.7830
+      "lat": 20.263,
+      "long": 85.783
     },
     "heritage": {
       "unesco": false,
@@ -177,7 +220,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Raghurajpur Heritage Village",
@@ -186,8 +237,8 @@
     "state": "Odisha",
     "city": "Puri",
     "coordinates": {
-      "lat": 19.9500,
-      "long": 85.9000
+      "lat": 19.95,
+      "long": 85.9
     },
     "heritage": {
       "unesco": false,
@@ -195,7 +246,15 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Daringbadi",
@@ -204,8 +263,8 @@
     "state": "Odisha",
     "city": "Kandhamal",
     "coordinates": {
-      "lat": 19.9200,
-      "long": 84.2000
+      "lat": 19.92,
+      "long": 84.2
     },
     "heritage": {
       "unesco": false,
@@ -213,7 +272,13 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Deomali Peak",
@@ -222,8 +287,8 @@
     "state": "Odisha",
     "city": "Koraput",
     "coordinates": {
-      "lat": 18.7000,
-      "long": 82.9500
+      "lat": 18.7,
+      "long": 82.95
     },
     "heritage": {
       "unesco": false,
@@ -231,7 +296,13 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Taptapani Hot Springs",
@@ -240,8 +311,8 @@
     "state": "Odisha",
     "city": "Ganjam",
     "coordinates": {
-      "lat": 19.5000,
-      "long": 84.3000
+      "lat": 19.5,
+      "long": 84.3
     },
     "heritage": {
       "unesco": false,
@@ -249,7 +320,13 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ]
   },
   {
     "name": "Chandipur Beach",
@@ -258,8 +335,8 @@
     "state": "Odisha",
     "city": "Balasore",
     "coordinates": {
-      "lat": 21.4600,
-      "long": 87.0200
+      "lat": 21.46,
+      "long": 87.02
     },
     "heritage": {
       "unesco": false,
@@ -267,7 +344,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Gopalpur Beach",
@@ -276,8 +360,8 @@
     "state": "Odisha",
     "city": "Ganjam",
     "coordinates": {
-      "lat": 19.2600,
-      "long": 84.9000
+      "lat": 19.26,
+      "long": 84.9
     },
     "heritage": {
       "unesco": false,
@@ -285,7 +369,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Paradeep Beach",
@@ -294,8 +385,8 @@
     "state": "Odisha",
     "city": "Jagatsinghpur",
     "coordinates": {
-      "lat": 20.3160,
-      "long": 86.6100
+      "lat": 20.316,
+      "long": 86.61
     },
     "heritage": {
       "unesco": false,
@@ -303,7 +394,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Odisha State Museum",
@@ -312,8 +410,8 @@
     "state": "Odisha",
     "city": "Bhubaneswar",
     "coordinates": {
-      "lat": 20.2710,
-      "long": 85.8400
+      "lat": 20.271,
+      "long": 85.84
     },
     "heritage": {
       "unesco": false,
@@ -321,7 +419,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Ekamra Haat",
@@ -330,8 +435,8 @@
     "state": "Odisha",
     "city": "Bhubaneswar",
     "coordinates": {
-      "lat": 20.2610,
-      "long": 85.8340
+      "lat": 20.261,
+      "long": 85.834
     },
     "heritage": {
       "unesco": false,
@@ -339,7 +444,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Bali Jatra Festival",
@@ -375,7 +487,8 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["June", "July"]
+    "bestVisitMonths": ["June", "July"],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Hirakud Dam",
@@ -384,8 +497,8 @@
     "state": "Odisha",
     "city": "Sambalpur",
     "coordinates": {
-      "lat": 21.5250,
-      "long": 83.8750
+      "lat": 21.525,
+      "long": 83.875
     },
     "heritage": {
       "unesco": false,
@@ -393,7 +506,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "significance": "National Heritage Site"
   },
   {
     "name": "Nrusinghanath Temple",
@@ -402,8 +522,8 @@
     "state": "Odisha",
     "city": "Bargarh",
     "coordinates": {
-      "lat": 21.4470,
-      "long": 83.4320
+      "lat": 21.447,
+      "long": 83.432
     },
     "heritage": {
       "unesco": false,
@@ -411,7 +531,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ]
   },
   {
     "name": "Ansupa Lake",
@@ -420,8 +547,8 @@
     "state": "Odisha",
     "city": "Cuttack",
     "coordinates": {
-      "lat": 20.4770,
-      "long": 85.7450
+      "lat": 20.477,
+      "long": 85.745
     },
     "heritage": {
       "unesco": false,
@@ -438,8 +565,8 @@
     "state": "Odisha",
     "city": "Angul",
     "coordinates": {
-      "lat": 20.5500,
-      "long": 84.9000
+      "lat": 20.55,
+      "long": 84.9
     },
     "heritage": {
       "unesco": false,
@@ -447,6 +574,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February"]
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "significance": "National Heritage Site"
   }
 ]

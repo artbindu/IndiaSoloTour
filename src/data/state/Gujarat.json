@@ -6,14 +6,15 @@
     "state": "Gujarat",
     "city": "Patan",
     "coordinates": {
-      "lat": 23.8580,
-      "long": 72.1010
+      "lat": 23.858,
+      "long": 72.101
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -32,14 +33,15 @@
     "state": "Gujarat",
     "city": "Panchmahal",
     "coordinates": {
-      "lat": 22.4850,
-      "long": 73.5370
+      "lat": 22.485,
+      "long": 73.537
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -58,14 +60,15 @@
     "state": "Gujarat",
     "city": "Kutch",
     "coordinates": {
-      "lat": 23.8850,
-      "long": 70.1320
+      "lat": 23.885,
+      "long": 70.132
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -84,14 +87,15 @@
     "state": "Gujarat",
     "city": "Mehsana",
     "coordinates": {
-      "lat": 23.5880,
-      "long": 72.1330
+      "lat": 23.588,
+      "long": 72.133
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -110,14 +114,15 @@
     "state": "Gujarat",
     "city": "Gir Somnath",
     "coordinates": {
-      "lat": 20.8880,
-      "long": 70.4010
+      "lat": 20.888,
+      "long": 70.401
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -136,14 +141,15 @@
     "state": "Gujarat",
     "city": "Devbhumi Dwarka",
     "coordinates": {
-      "lat": 22.2390,
-      "long": 68.9670
+      "lat": 22.239,
+      "long": 68.967
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -162,14 +168,15 @@
     "state": "Gujarat",
     "city": "Banaskantha",
     "coordinates": {
-      "lat": 24.3310,
-      "long": 72.8510
+      "lat": 24.331,
+      "long": 72.851
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -188,14 +195,15 @@
     "state": "Gujarat",
     "city": "Gir Somnath",
     "coordinates": {
-      "lat": 21.1240,
-      "long": 70.8240
+      "lat": 21.124,
+      "long": 70.824
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -216,14 +224,15 @@
     "state": "Gujarat",
     "city": "Bhavnagar",
     "coordinates": {
-      "lat": 21.8750,
-      "long": 72.0810
+      "lat": 21.875,
+      "long": 72.081
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -244,14 +253,15 @@
     "state": "Gujarat",
     "city": "Jamnagar",
     "coordinates": {
-      "lat": 22.4710,
-      "long": 70.0570
+      "lat": 22.471,
+      "long": 70.057
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -270,8 +280,8 @@
     "state": "Gujarat",
     "city": "Kutch",
     "coordinates": {
-      "lat": 23.7330,
-      "long": 69.8590
+      "lat": 23.733,
+      "long": 69.859
     },
     "heritage": {
       "unesco": false,
@@ -279,12 +289,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "description": "World's largest salt desert, white sand expanse under moonlight, Rann Utsav cultural festival, traditional Kutchi handicrafts, desert camping, flamingos."
   },
   {
@@ -294,8 +299,8 @@
     "state": "Gujarat",
     "city": "Kutch",
     "coordinates": {
-      "lat": 23.8160,
-      "long": 69.6590
+      "lat": 23.816,
+      "long": 69.659
     },
     "heritage": {
       "unesco": false,
@@ -319,8 +324,8 @@
     "state": "Gujarat",
     "city": "Dang",
     "coordinates": {
-      "lat": 20.5760,
-      "long": 73.7450
+      "lat": 20.576,
+      "long": 73.745
     },
     "heritage": {
       "unesco": false,
@@ -347,8 +352,8 @@
     "state": "Gujarat",
     "city": "Valsad",
     "coordinates": {
-      "lat": 20.6550,
-      "long": 73.6730
+      "lat": 20.655,
+      "long": 73.673
     },
     "heritage": {
       "unesco": false,
@@ -375,8 +380,8 @@
     "state": "Gujarat",
     "city": "Kutch",
     "coordinates": {
-      "lat": 22.8330,
-      "long": 69.3560
+      "lat": 22.833,
+      "long": 69.356
     },
     "heritage": {
       "unesco": false,
@@ -401,8 +406,8 @@
     "state": "Gujarat",
     "city": "Devbhumi Dwarka",
     "coordinates": {
-      "lat": 22.2400,
-      "long": 68.9700
+      "lat": 22.24,
+      "long": 68.97
     },
     "heritage": {
       "unesco": false,
@@ -427,14 +432,15 @@
     "state": "Gujarat",
     "city": "Ahmedabad",
     "coordinates": {
-      "lat": 22.5220,
-      "long": 72.2490
+      "lat": 22.522,
+      "long": 72.249
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -453,14 +459,15 @@
     "state": "Gujarat",
     "city": "Ahmedabad",
     "coordinates": {
-      "lat": 23.0600,
-      "long": 72.5800
+      "lat": 23.06,
+      "long": 72.58
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -479,14 +486,15 @@
     "state": "Gujarat",
     "city": "Gandhinagar",
     "coordinates": {
-      "lat": 23.1660,
-      "long": 72.5800
+      "lat": 23.166,
+      "long": 72.58
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -513,6 +521,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -531,14 +540,15 @@
     "state": "Gujarat",
     "city": "Narmada",
     "coordinates": {
-      "lat": 21.8380,
-      "long": 73.7190
+      "lat": 21.838,
+      "long": 73.719
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -557,8 +567,8 @@
     "state": "Gujarat",
     "city": "Sabarkantha",
     "coordinates": {
-      "lat": 23.4830,
-      "long": 73.2740
+      "lat": 23.483,
+      "long": 73.274
     },
     "heritage": {
       "unesco": false,
@@ -583,14 +593,15 @@
     "state": "Gujarat",
     "city": "Junagadh",
     "coordinates": {
-      "lat": 21.5200,
-      "long": 70.4700
+      "lat": 21.52,
+      "long": 70.47
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -609,8 +620,8 @@
     "state": "Gujarat",
     "city": "Surendranagar",
     "coordinates": {
-      "lat": 22.0050,
-      "long": 71.2210
+      "lat": 22.005,
+      "long": 71.221
     },
     "heritage": {
       "unesco": false,
@@ -618,10 +629,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["August", "September"],
     "description": "Traditional matchmaking fair near Trineteshwar Temple, tribal folk dances, colorful costumes, Raas celebration, Saurashtra culture showcase."
   },
   {
@@ -631,8 +639,8 @@
     "state": "Gujarat",
     "city": "Kutch",
     "coordinates": {
-      "lat": 23.7330,
-      "long": 69.8590
+      "lat": 23.733,
+      "long": 69.859
     },
     "heritage": {
       "unesco": false,
@@ -640,12 +648,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "description": "Cultural festival in White Rann, tent city accommodation, folk music and dance, handicraft bazaar, adventure activities, full moon desert nights."
   }
 ]

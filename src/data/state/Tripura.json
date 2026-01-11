@@ -6,8 +6,8 @@
     "state": "Tripura",
     "city": "Agartala",
     "coordinates": {
-      "lat": 23.8310,
-      "long": 91.2860
+      "lat": 23.831,
+      "long": 91.286
     },
     "heritage": {
       "unesco": false,
@@ -23,7 +23,8 @@
       "February",
       "March"
     ],
-    "description": "Former royal palace of Manikya dynasty built 1901, Indo-Saracenic architecture with Mughal domes, now State Museum, 800 acres Mughal Gardens, archaeological artifacts, tribal heritage galleries, royal memorabilia, sound and light show, illuminated evenings, Agartala's landmark."
+    "description": "Former royal palace of Manikya dynasty built 1901, Indo-Saracenic architecture with Mughal domes, now State Museum, 800 acres Mughal Gardens, archaeological artifacts, tribal heritage galleries, royal memorabilia, sound and light show, illuminated evenings, Agartala's landmark.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Tripura State Museum",
@@ -32,8 +33,8 @@
     "state": "Tripura",
     "city": "Agartala",
     "coordinates": {
-      "lat": 23.8320,
-      "long": 91.2870
+      "lat": 23.832,
+      "long": 91.287
     },
     "heritage": {
       "unesco": false,
@@ -58,8 +59,8 @@
     "state": "Tripura",
     "city": "Melaghar",
     "coordinates": {
-      "lat": 23.5510,
-      "long": 91.4980
+      "lat": 23.551,
+      "long": 91.498
     },
     "heritage": {
       "unesco": false,
@@ -75,7 +76,8 @@
       "February",
       "March"
     ],
-    "description": "Water Palace built 1930 by Maharaja Bir Bikram Kishore Manikya, India's largest water palace on Rudrasagar Lake, Hindu-Muslim architectural blend, open-air theatre, boat rides to palace, light and sound show, royal summer retreat, red-white facade, 53km from Agartala."
+    "description": "Water Palace built 1930 by Maharaja Bir Bikram Kishore Manikya, India's largest water palace on Rudrasagar Lake, Hindu-Muslim architectural blend, open-air theatre, boat rides to palace, light and sound show, royal summer retreat, red-white facade, 53km from Agartala.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Jampui Hills",
@@ -84,8 +86,8 @@
     "state": "Tripura",
     "city": "North Tripura",
     "coordinates": {
-      "lat": 24.1420,
-      "long": 92.0030
+      "lat": 24.142,
+      "long": 92.003
     },
     "heritage": {
       "unesco": false,
@@ -110,8 +112,8 @@
     "state": "Tripura",
     "city": "Sepahijala",
     "coordinates": {
-      "lat": 23.6330,
-      "long": 91.3240
+      "lat": 23.633,
+      "long": 91.324
     },
     "heritage": {
       "unesco": false,
@@ -136,8 +138,8 @@
     "state": "Tripura",
     "city": "Dhalai",
     "coordinates": {
-      "lat": 24.0020,
-      "long": 91.8460
+      "lat": 24.002,
+      "long": 91.846
     },
     "heritage": {
       "unesco": false,
@@ -162,8 +164,8 @@
     "state": "Tripura",
     "city": "Dhalai",
     "coordinates": {
-      "lat": 24.0210,
-      "long": 91.8360
+      "lat": 24.021,
+      "long": 91.836
     },
     "heritage": {
       "unesco": false,
@@ -188,8 +190,8 @@
     "state": "Tripura",
     "city": "South Tripura",
     "coordinates": {
-      "lat": 23.3770,
-      "long": 91.5170
+      "lat": 23.377,
+      "long": 91.517
     },
     "heritage": {
       "unesco": false,
@@ -214,8 +216,8 @@
     "state": "Tripura",
     "city": "Gomati",
     "coordinates": {
-      "lat": 23.5500,
-      "long": 91.5090
+      "lat": 23.55,
+      "long": 91.509
     },
     "heritage": {
       "unesco": false,
@@ -240,8 +242,8 @@
     "state": "Tripura",
     "city": "Udaipur",
     "coordinates": {
-      "lat": 23.5050,
-      "long": 91.4910
+      "lat": 23.505,
+      "long": 91.491
     },
     "heritage": {
       "unesco": false,
@@ -257,7 +259,8 @@
       "February",
       "March"
     ],
-    "description": "One of 51 Shakti Peeths where Sati's right foot fell, state goddess Tripura Sundari (Kali), 16th-century temple complex, turtle-shaped hill (Kurma Pitha), human sacrifice history replaced by animal sacrifice, Diwali and Durga Puja celebrations, pilgrimage site, 55km from Agartala."
+    "description": "One of 51 Shakti Peeths where Sati's right foot fell, state goddess Tripura Sundari (Kali), 16th-century temple complex, turtle-shaped hill (Kurma Pitha), human sacrifice history replaced by animal sacrifice, Diwali and Durga Puja celebrations, pilgrimage site, 55km from Agartala.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Pilak Archaeological Site",
@@ -266,8 +269,8 @@
     "state": "Tripura",
     "city": "Santirbazar",
     "coordinates": {
-      "lat": 23.3370,
-      "long": 91.4990
+      "lat": 23.337,
+      "long": 91.499
     },
     "heritage": {
       "unesco": false,
@@ -283,7 +286,8 @@
       "February",
       "March"
     ],
-    "description": "8th-12th century Buddhist-Hindu archaeological site, stone sculptures, rock-cut images, terracotta plaques, ancient monastery remains, ASI protected, Buddhist Avalokiteshvara images, Hindu deities, hilltop ruins, heritage significance, 100km from Agartala, near Bangladesh border."
+    "description": "8th-12th century Buddhist-Hindu archaeological site, stone sculptures, rock-cut images, terracotta plaques, ancient monastery remains, ASI protected, Buddhist Avalokiteshvara images, Hindu deities, hilltop ruins, heritage significance, 100km from Agartala, near Bangladesh border.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Neer Chara Waterfalls",
@@ -292,8 +296,8 @@
     "state": "Tripura",
     "city": "North Tripura",
     "coordinates": {
-      "lat": 24.1460,
-      "long": 92.0010
+      "lat": 24.146,
+      "long": 92.001
     },
     "heritage": {
       "unesco": false,
@@ -318,8 +322,8 @@
     "state": "Tripura",
     "city": "West Tripura",
     "coordinates": {
-      "lat": 23.9030,
-      "long": 91.2790
+      "lat": 23.903,
+      "long": 91.279
     },
     "heritage": {
       "unesco": false,
@@ -344,8 +348,8 @@
     "state": "Tripura",
     "city": "West Tripura",
     "coordinates": {
-      "lat": 23.8900,
-      "long": 91.2690
+      "lat": 23.89,
+      "long": 91.269
     },
     "heritage": {
       "unesco": false,
@@ -370,8 +374,8 @@
     "state": "Tripura",
     "city": "Agartala",
     "coordinates": {
-      "lat": 23.8310,
-      "long": 91.2860
+      "lat": 23.831,
+      "long": 91.286
     },
     "heritage": {
       "unesco": false,
@@ -379,9 +383,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December"
-    ],
+    "bestVisitMonths": ["December"],
     "description": "Annual cultural carnival celebrating Tripura's diversity, traditional dances of 19 tribes, handicrafts exhibition, food stalls, music performances, cultural competitions, art exhibitions, tourism promotion, December celebration, showcase of tribal heritage, community participation."
   },
   {
@@ -391,8 +393,8 @@
     "state": "Tripura",
     "city": "Sepahijala",
     "coordinates": {
-      "lat": 23.6330,
-      "long": 91.3240
+      "lat": 23.633,
+      "long": 91.324
     },
     "heritage": {
       "unesco": false,
@@ -400,9 +402,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "February"
-    ],
+    "bestVisitMonths": ["February"],
     "description": "Annual eco-tourism festival at Sepahijala Wildlife Sanctuary, wildlife awareness programs, nature walks, cultural performances, handicrafts, local cuisine, orchid displays, conservation education, tourism promotion, February celebration, family event."
   },
   {
@@ -412,8 +412,8 @@
     "state": "Tripura",
     "city": "Unakoti",
     "coordinates": {
-      "lat": 24.1390,
-      "long": 92.0060
+      "lat": 24.139,
+      "long": 92.006
     },
     "heritage": {
       "unesco": false,
@@ -429,7 +429,8 @@
       "February",
       "March"
     ],
-    "description": "One Less Than a Crore, 7th-9th century Shaivite pilgrimage site with rock-cut sculptures, 30-foot Unakotiswara Kal Bhairava (largest), bas-relief images of Shiva, Ganesha, Nandi, Ashutosh fair (April), UNESCO tentative list, mystical hillside carvings, 178km from Agartala."
+    "description": "One Less Than a Crore, 7th-9th century Shaivite pilgrimage site with rock-cut sculptures, 30-foot Unakotiswara Kal Bhairava (largest), bas-relief images of Shiva, Ganesha, Nandi, Ashutosh fair (April), UNESCO tentative list, mystical hillside carvings, 178km from Agartala.",
+    "significance": "National Heritage Site"
   },
   {
     "name": "Jolaibari",
@@ -438,8 +439,8 @@
     "state": "Tripura",
     "city": "South Tripura",
     "coordinates": {
-      "lat": 23.3480,
-      "long": 91.4910
+      "lat": 23.348,
+      "long": 91.491
     },
     "heritage": {
       "unesco": false,
@@ -464,8 +465,8 @@
     "state": "Tripura",
     "city": "West Tripura",
     "coordinates": {
-      "lat": 23.8200,
-      "long": 91.3050
+      "lat": 23.82,
+      "long": 91.305
     },
     "heritage": {
       "unesco": false,
@@ -490,8 +491,8 @@
     "state": "Tripura",
     "city": "South Tripura",
     "coordinates": {
-      "lat": 23.3770,
-      "long": 91.5170
+      "lat": 23.377,
+      "long": 91.517
     },
     "heritage": {
       "unesco": false,
@@ -516,8 +517,8 @@
     "state": "Tripura",
     "city": "North Tripura",
     "coordinates": {
-      "lat": 24.1420,
-      "long": 92.0030
+      "lat": 24.142,
+      "long": 92.003
     },
     "heritage": {
       "unesco": false,
@@ -525,9 +526,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "January"
-    ],
+    "bestVisitMonths": ["January"],
     "description": "Annual orange and tourism festival in Jampui Hills, celebrates orange harvest season, Mizo cultural performances, traditional dances and music, orange orchards tours, handicrafts exhibition, local cuisine, adventure activities, tourism promotion, January celebration, community fest."
   }
 ]

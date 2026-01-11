@@ -6,14 +6,15 @@
     "state": "Assam",
     "city": "Guwahati",
     "coordinates": {
-      "lat": 26.1830,
-      "long": 91.7130
+      "lat": 26.183,
+      "long": 91.713
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -41,6 +42,7 @@
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -60,8 +62,8 @@
     "state": "Assam",
     "city": "Guwahati",
     "coordinates": {
-      "lat": 26.1920,
-      "long": 91.7080
+      "lat": 26.192,
+      "long": 91.708
     },
     "heritage": {
       "unesco": false,
@@ -95,6 +97,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "November",
@@ -121,6 +124,7 @@
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "November",
@@ -139,8 +143,8 @@
     "state": "Assam",
     "city": "Majuli",
     "coordinates": {
-      "lat": 26.9560,
-      "long": 94.2250
+      "lat": 26.956,
+      "long": 94.225
     },
     "heritage": {
       "unesco": false,
@@ -165,14 +169,15 @@
     "state": "Assam",
     "city": "Sivasagar",
     "coordinates": {
-      "lat": 26.9820,
-      "long": 94.6390
+      "lat": 26.982,
+      "long": 94.639
     },
     "heritage": {
       "unesco": true,
       "national": false,
       "state": false
     },
+    "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -191,8 +196,8 @@
     "state": "Assam",
     "city": "Sivasagar",
     "coordinates": {
-      "lat": 26.9810,
-      "long": 94.6400
+      "lat": 26.981,
+      "long": 94.64
     },
     "heritage": {
       "unesco": false,
@@ -217,8 +222,8 @@
     "state": "Assam",
     "city": "Kamrup",
     "coordinates": {
-      "lat": 26.0530,
-      "long": 91.5540
+      "lat": 26.053,
+      "long": 91.554
     },
     "heritage": {
       "unesco": false,
@@ -243,8 +248,8 @@
     "state": "Assam",
     "city": "Morigaon",
     "coordinates": {
-      "lat": 26.4730,
-      "long": 92.0940
+      "lat": 26.473,
+      "long": 92.094
     },
     "heritage": {
       "unesco": false,
@@ -269,14 +274,15 @@
     "state": "Assam",
     "city": "Tezpur",
     "coordinates": {
-      "lat": 26.6420,
-      "long": 92.7920
+      "lat": 26.642,
+      "long": 92.792
     },
     "heritage": {
       "unesco": false,
       "national": true,
       "state": false
     },
+    "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
     "bestVisitMonths": [
       "October",
@@ -296,8 +302,8 @@
     "state": "Assam",
     "city": "Sonitpur",
     "coordinates": {
-      "lat": 27.0050,
-      "long": 92.8270
+      "lat": 27.005,
+      "long": 92.827
     },
     "heritage": {
       "unesco": false,
@@ -322,8 +328,8 @@
     "state": "Assam",
     "city": "Jorhat",
     "coordinates": {
-      "lat": 26.7430,
-      "long": 94.2160
+      "lat": 26.743,
+      "long": 94.216
     },
     "heritage": {
       "unesco": false,
@@ -348,8 +354,8 @@
     "state": "Assam",
     "city": "Jorhat",
     "coordinates": {
-      "lat": 26.7460,
-      "long": 94.2030
+      "lat": 26.746,
+      "long": 94.203
     },
     "heritage": {
       "unesco": false,
@@ -374,8 +380,8 @@
     "state": "Assam",
     "city": "Dima Hasao",
     "coordinates": {
-      "lat": 25.2250,
-      "long": 93.5220
+      "lat": 25.225,
+      "long": 93.522
     },
     "heritage": {
       "unesco": false,
@@ -400,8 +406,8 @@
     "state": "Assam",
     "city": "Kamrup",
     "coordinates": {
-      "lat": 26.0530,
-      "long": 91.5540
+      "lat": 26.053,
+      "long": 91.554
     },
     "heritage": {
       "unesco": false,
@@ -426,8 +432,8 @@
     "state": "Assam",
     "city": "Guwahati",
     "coordinates": {
-      "lat": 26.1780,
-      "long": 91.7500
+      "lat": 26.178,
+      "long": 91.75
     },
     "heritage": {
       "unesco": false,
@@ -452,8 +458,8 @@
     "state": "Assam",
     "city": "West Kameng",
     "coordinates": {
-      "lat": 27.3330,
-      "long": 92.7750
+      "lat": 27.333,
+      "long": 92.775
     },
     "heritage": {
       "unesco": false,
@@ -478,8 +484,8 @@
     "state": "Assam",
     "city": "Cachar",
     "coordinates": {
-      "lat": 24.8330,
-      "long": 92.7780
+      "lat": 24.833,
+      "long": 92.778
     },
     "heritage": {
       "unesco": false,
@@ -504,8 +510,8 @@
     "state": "Assam",
     "city": "Kamrup",
     "coordinates": {
-      "lat": 26.2070,
-      "long": 91.4280
+      "lat": 26.207,
+      "long": 91.428
     },
     "heritage": {
       "unesco": false,
@@ -530,8 +536,8 @@
     "state": "Assam",
     "city": "West Kameng",
     "coordinates": {
-      "lat": 27.2460,
-      "long": 92.6650
+      "lat": 27.246,
+      "long": 92.665
     },
     "heritage": {
       "unesco": false,
@@ -556,8 +562,8 @@
     "state": "Assam",
     "city": "Jorhat",
     "coordinates": {
-      "lat": 26.7420,
-      "long": 94.1830
+      "lat": 26.742,
+      "long": 94.183
     },
     "heritage": {
       "unesco": false,
@@ -582,8 +588,8 @@
     "state": "Assam",
     "city": "Jorhat",
     "coordinates": {
-      "lat": 26.7460,
-      "long": 94.2160
+      "lat": 26.746,
+      "long": 94.216
     },
     "heritage": {
       "unesco": false,
@@ -617,9 +623,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November"
-    ],
+    "bestVisitMonths": ["November"],
     "description": "Annual carnival celebrating Assam's biodiversity and culture near Kaziranga, traditional dance (Bihu, Bagurumba), music, handicrafts exhibition, food stalls, wildlife awareness programs, tourism promotion, cultural performances, November celebration."
   },
   {
@@ -629,8 +633,8 @@
     "state": "Assam",
     "city": "Guwahati",
     "coordinates": {
-      "lat": 26.1830,
-      "long": 91.7130
+      "lat": 26.183,
+      "long": 91.713
     },
     "heritage": {
       "unesco": false,
@@ -638,9 +642,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "June"
-    ],
+    "bestVisitMonths": ["June"],
     "description": "Annual tantric fertility festival at Kamakhya Temple, celebrates Goddess's menstruation, temple closed for 3 days, millions of pilgrims and tantric sadhus, unique rituals, red cloth distributed as prasad, June monsoon celebration, ancient Shakti worship."
   },
   {
@@ -650,8 +652,8 @@
     "state": "Assam",
     "city": "Udalguri",
     "coordinates": {
-      "lat": 27.1960,
-      "long": 92.6650
+      "lat": 27.196,
+      "long": 92.665
     },
     "heritage": {
       "unesco": false,
