@@ -140,7 +140,7 @@ function App(): JSX.Element {
         // Load GI Tags
         if (appConfig.enableGITags) {
           try {
-            const giData = await import('./data/GITags.json');
+            const giData = await import('../data/GITags.json');
             setGiTags(giData.default);
           } catch (error) {
             console.log('GI Tags file not found or empty');
