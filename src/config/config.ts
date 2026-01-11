@@ -96,7 +96,7 @@ export const iconColors: IconColors = {
   "GI Tags": "#FF1493",
   "Char Dham": "#FF6B35",
   "Chota Char Dham": "#00ccff",
-  Jyotirlinga: "#FFA500",
+  "Jyotirlinga": "#FFA500",
   "Shakti Peeth": "#DA70D6",
   "UNESCO Heritage": "#FFD700",
 };
