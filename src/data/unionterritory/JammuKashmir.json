@@ -1,0 +1,704 @@
+[
+  {
+    "name": "Srinagar Dal Lake",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Srinagar",
+    "coordinates": {
+      "lat": 34.0961,
+      "long": 74.8270
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Iconic Kashmir lake with houseboats, shikaras (traditional wooden boats), floating gardens, Char Chinar island, lotus blooms, Mughal-era charm, 'Jewel in the crown of Kashmir'."
+  },
+  {
+    "name": "Mughal Gardens",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Srinagar",
+    "coordinates": {
+      "lat": 34.0782,
+      "long": 74.8144
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Collection of terraced Mughal gardens including Nishat Bagh (Garden of Joy), Shalimar Bagh (Abode of Love), Chashmashahi (Royal Spring), Persian charbagh architecture, fountains, terraced lawns."
+  },
+  {
+    "name": "Shankaracharya Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Srinagar",
+    "coordinates": {
+      "lat": 34.0881,
+      "long": 74.8186
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Ancient Shiva temple atop Shankaracharya Hill, 1000+ steps climb, panoramic views of Srinagar and Dal Lake, built 200 BCE, visited by Adi Shankaracharya, octagonal base with Persian inscription."
+  },
+  {
+    "name": "Gulmarg",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Baramulla",
+    "coordinates": {
+      "lat": 34.0496,
+      "long": 74.3814
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Meadow of Flowers, Asia's highest ski resort, world's highest green golf course, Gulmarg Gondola (cable car), snow sports hub, Apharwat Peak access, winter skiing paradise, summer meadows."
+  },
+  {
+    "name": "Apharwat Peak",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Baramulla",
+    "coordinates": {
+      "lat": 34.0495,
+      "long": 74.3810
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "4390m peak accessible via Gulmarg Gondola Phase 2, highest point for skiing in India, panoramic Himalayan views, advanced ski terrain, snow-covered year-round, adventure sports destination."
+  },
+  {
+    "name": "Pahalgam",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Anantnag",
+    "coordinates": {
+      "lat": 33.8736,
+      "long": 75.2836
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Valley of Shepherds on Lidder River banks, base camp for Amarnath Yatra, Bollywood filming location, trekking hub to Kolahoi Glacier, pony rides, pine forests, trout fishing, scenic beauty."
+  },
+  {
+    "name": "Betaab Valley",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Anantnag",
+    "coordinates": {
+      "lat": 33.7330,
+      "long": 75.2250
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Named after Bollywood film 'Betaab' (1983), lush green meadows, snow-capped mountains backdrop, crystal-clear streams, camping spot, photography paradise, 15km from Pahalgam."
+  },
+  {
+    "name": "Aru Valley",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Anantnag",
+    "coordinates": {
+      "lat": 33.7710,
+      "long": 75.2430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Picturesque valley and trekking base camp to Kolahoi Glacier, Tarsar-Marsar lakes, Lidderwat, peaceful meadows, shepherd settlements, camping, horse riding, offbeat tranquil destination near Pahalgam."
+  },
+  {
+    "name": "Sonamarg",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Ganderbal",
+    "coordinates": {
+      "lat": 34.2636,
+      "long": 75.3011
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Meadow of Gold on Srinagar-Leh highway, gateway to Ladakh, Thajiwas Glacier, pony rides, alpine flowers, trout fishing in Sindh River, Zoji La Pass nearby, trekking to Gangabal Lake."
+  },
+  {
+    "name": "Kheer Bhawani Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Ganderbal",
+    "coordinates": {
+      "lat": 34.2650,
+      "long": 75.2710
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Kashmiri Pandit pilgrimage shrine dedicated to Goddess Ragnya Devi, sacred spring that changes colors, annual Mela Kheer Bhawani festival (May-June), Tulmulla village, white marble temple."
+  },
+  {
+    "name": "Vaishno Devi Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Katra",
+    "coordinates": {
+      "lat": 33.2078,
+      "long": 75.4550
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "description": "One of India's most visited pilgrimage sites, shrine of Mata Vaishno Devi in Trikuta Mountains, 13km trek from Katra, holy cave with three Pindis (natural rock formations), 8+ million annual visitors."
+  },
+  {
+    "name": "Raghunath Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Jammu",
+    "coordinates": {
+      "lat": 32.7276,
+      "long": 74.8570
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest temple complex in northern India, built by Maharaja Gulab Singh (1835-1860), seven shrines with shikharas, central shrine to Lord Rama, gold-plated interiors, Sanskrit inscriptions on walls."
+  },
+  {
+    "name": "Bahu Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Jammu",
+    "coordinates": {
+      "lat": 32.7100,
+      "long": 74.8510
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient fort overlooking Tawi River, 3000 years old, Kali Mata Temple (Bave Wali Mata) inside, Maharaja Ranbir Singh renovations, fortifications, terraced gardens, panoramic city views, light and sound show."
+  },
+  {
+    "name": "Ranbireshwar Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Jammu",
+    "coordinates": {
+      "lat": 32.7186,
+      "long": 74.8601
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Shiva temple built by Maharaja Ranbir Singh (1883), 12 crystal Shiva lingas, one of largest Shiva lingas in north India, galleries with thousands of Shaligrams (ammonite fossils), architectural marvel."
+  },
+  {
+    "name": "Dachigam National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Srinagar",
+    "coordinates": {
+      "lat": 34.1200,
+      "long": 74.8000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Home to critically endangered Hangul (Kashmir stag), 141 sq km park, alpine forests, meadows, Dachigam River, Himalayan black bear, leopard, birding (over 150 species), trekking trails."
+  },
+  {
+    "name": "Hemis Monastery",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Leh",
+    "coordinates": {
+      "lat": 34.1645,
+      "long": 77.5825
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Largest and wealthiest Buddhist monastery in Ladakh, Drukpa Lineage, founded 1630, Hemis Festival (June-July), sacred masked Cham dances, ancient thangkas, copper statue of Buddha, Hemis National Park nearby."
+  },
+  {
+    "name": "Thiksey Monastery",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Leh",
+    "coordinates": {
+      "lat": 34.1578,
+      "long": 77.5782
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "12-storey monastery complex resembling Potala Palace, 15th century, Gelugpa Order, 12-meter Maitreya Buddha statue, monastery museum, morning prayer assembly (6 AM), stunning Indus Valley views, 19km from Leh."
+  },
+  {
+    "name": "Pangong Lake",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Leh",
+    "coordinates": {
+      "lat": 33.9961,
+      "long": 78.2747
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "134km endorheic lake at 4350m, extends from India to China, crystal-clear blue water changing colors, brackish water freezes in winter, Bollywood '3 Idiots' location, camping, migratory birds, permits required."
+  },
+  {
+    "name": "Nubra Valley",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Leh",
+    "coordinates": {
+      "lat": 34.6067,
+      "long": 77.7176
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Valley of Flowers, accessed via Khardung La (world's highest motorable pass), double-humped Bactrian camels at Hunder sand dunes, Diskit Monastery with 32m Maitreya Buddha, Shyok and Nubra river confluence."
+  },
+  {
+    "name": "Zanskar Valley",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Kargil",
+    "coordinates": {
+      "lat": 33.5200,
+      "long": 76.2700
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Remote Himalayan valley, frozen Zanskar River Chadar Trek (winter), Phugtal Monastery in cliff cave, ancient Buddhist monasteries, trekking routes, Zanskar-Padum circuit, high-altitude desert landscape, adventure hub."
+  },
+  {
+    "name": "Kargil War Memorial",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Kargil",
+    "coordinates": {
+      "lat": 34.5550,
+      "long": 76.1330
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Memorial commemorating Kargil War (1999) heroes at Dras, sandstone wall with names of martyrs, Tololing and Tiger Hill battle sites visible, museum, light and sound show, Vijay Diwas (July 26) celebrations."
+  },
+  {
+    "name": "Sonamarg Thajiwas Glacier",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Ganderbal",
+    "coordinates": {
+      "lat": 34.2800,
+      "long": 75.3140
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Accessible glacier 3km from Sonamarg via pony or short trek, snow-covered year-round, sledging on snow, alpine scenery, photography spot, mini Switzerland of Kashmir, day trip destination."
+  },
+  {
+    "name": "Shalimar Bagh",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Srinagar",
+    "coordinates": {
+      "lat": 34.0930,
+      "long": 74.8280
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Abode of Love, largest Mughal garden in Kashmir, built by Jahangir for Nur Jahan (1619), terraced garden with water channels, fountains, pavilions, chinar trees, Dal Lake backdrop, evening illuminations."
+  },
+  {
+    "name": "Pari Mahal",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Srinagar",
+    "coordinates": {
+      "lat": 34.0830,
+      "long": 74.8100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Palace of Fairies, seven-terraced garden built by Dara Shikoh (Mughal prince), observatory and astronomy school, Zabarwan mountain range, overlooking Dal Lake, illuminated evenings, architectural ruins with arched terraces."
+  },
+  {
+    "name": "Gulmarg Gondola",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Baramulla",
+    "coordinates": {
+      "lat": 34.0589,
+      "long": 74.3800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "World's second-highest cable car, two-phase gondola to Apharwat Peak (3979m), Phase 1 to Kongdori (2600m), Phase 2 to Apharwat (3979m), skiing access, panoramic Himalayan views, operated by JKTDC."
+  },
+  {
+    "name": "Hemis Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Leh",
+    "coordinates": {
+      "lat": 34.1580,
+      "long": 77.5800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "July"
+    ],
+    "description": "Annual Buddhist festival celebrating Guru Padmasambhava's birthday at Hemis Monastery, masked Cham dance performances, traditional music, colorful costumes, sacred thangka unfurling (every 12 years), cultural immersion, June-July."
+  },
+  {
+    "name": "Tulip Garden (Indira Gandhi Memorial)",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Jammu & Kashmir",
+    "city": "Srinagar",
+    "coordinates": {
+      "lat": 34.0860,
+      "long": 74.8130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April"
+    ],
+    "description": "Asia's largest tulip garden, 1.5 million tulips of 60+ varieties, opened 2007, Zabarwan mountain foothills, Dal Lake backdrop, annual Tulip Festival (March-April), floral terraces, photography paradise, short blooming season."
+  }
+]

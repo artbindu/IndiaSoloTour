@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Puducherry Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9343,
+      "long": 79.8303
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Main city beach along Bay of Bengal, popular evening hangout spot, rock beach with promenade, Gandhi statue facing sea, sunrise views spectacular, local food stalls, French colonial buildings backdrop, Rock Beach stretch, not ideal for swimming due to rocky terrain, morning joggers' paradise, sea breeze, photography spot, adjacent to Goubert Avenue, French cafes nearby, vibrant atmosphere, street vendors, coconut water, weekend crowds, meditation by sea, peaceful early mornings."
+  },
+  {
+    "name": "Promenade Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9360,
+      "long": 79.8360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "1.5 km long beachfront promenade from War Memorial to Dupleix statue, French colonial charm with heritage buildings, Goubert Avenue (Beach Road) parallel, no vehicle zone on one side, walking-cycling friendly, benches facing sea, French War Memorial, Old Lighthouse, Mahatma Gandhi statue 4m high, Le Café coffee house, seafood restaurants, evening strolls popular, Bay of Bengal views, Rocky Beach section, sunrise-sunset photography, street food, balloon vendors, family destination, vibrant nightlife, illuminated evenings, French bakeries."
+  },
+  {
+    "name": "Paradise Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9465,
+      "long": 79.8660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Plage Paradiso, pristine beach accessible via 15-minute boat ride from Chunnambar Backwaters, 8 km from city, golden sand, turquoise waters, palm-fringed, safe swimming, beach shacks, water sports - surfing, kayaking, jet-ski, banana boat rides, beach volleyball, secluded paradise feel, day trip destination, entry fee includes boat ride, less crowded weekdays, clean maintained by private resort, sunbathing, photography paradise, seashells, beach camping available, sunset views, picnic spot, boat timings limited, advance booking recommended."
+  },
+  {
+    "name": "Auroville",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Villupuram",
+    "coordinates": {
+      "lat": 12.0064,
+      "long": 79.8100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Universal town founded 1968 by Mirra Alfassa (The Mother) of Sri Aurobindo Ashram, experimental township for human unity, 3000+ residents from 50+ countries, UNESCO recognition, Matrimandir meditation center, sustainable living practices, organic farming, renewable energy, eco-friendly architecture, boutiques selling handcrafted products, Visitors Centre with exhibitions, international cuisines at Solar Kitchen cafeteria, no photography inside Matrimandir, advance booking required, cycling through community, art galleries, pottery, paper-making, alternative education system, spiritual seekers' destination, 12 km from Puducherry."
+  },
+  {
+    "name": "Auroville Matrimandir",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Villupuram",
+    "coordinates": {
+      "lat": 12.0065,
+      "long": 79.8101
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Soul of Auroville, spherical golden meditation center completed 2008 after 37 years construction, 29m diameter golden dome, Inner Chamber with world's largest optically perfect glass sphere (70cm diameter) illuminated by sunlight through solar tracking system, 12 petals garden surrounding with themed gardens representing human consciousness evolution, white marble and gold-plated discs exterior, silent meditation space, no religion affiliation, prior online booking mandatory, white clothes preferred, no children under 5, shoes removed, architectural marvel, symbol of human unity, spiritual atmosphere, peaceful gardens."
+  },
+  {
+    "name": "Basilica of the Sacred Heart of Jesus",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9362,
+      "long": 79.8295
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Neo-Gothic Catholic church built 1908 by French missionaries, 50m high twin towers visible from afar, stained glass windows depicting life of Christ and saints brought from France, Gothic arches, rare brown glass windows (only 3 churches worldwide), red and white striped facade, Latin inscriptions, main altar with Sacred Heart statue, peaceful interior, Sunday Mass multilingual (Tamil, French, English), soft natural lighting, architectural photography, marriage ceremonies popular, organ music, French colonial religious heritage, Corpus Christi procession annual, near Governor's residence, pilgrimage site."
+  },
+  {
+    "name": "Arikamedu Archaeological Site",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.8800,
+      "long": 79.8200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient Roman trading settlement excavated 1940s, 2000-year-old Indo-Roman port, archaeological evidence of trade with Roman Empire (1st century BCE-2nd century CE), excavations revealed Roman pottery (Arretine ware), amphorae, glass beads, bricks, coins, brick structures, warehouse remains, ASI protected site, Virampatnam fishing village location, museum displays limited, historical significance as East-West trade connection, mentioned in ancient texts as Podouke/Poduca, bead-making industry traces, 7 km from Puducherry, offbeat heritage site, guided tours available, research significance."
+  },
+  {
+    "name": "Goubert Avenue",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9360,
+      "long": 79.8360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Beach Road renamed after French Governor Louis Laurent Marie Goubert, 1.5 km seafront boulevard, French colonial architecture with yellow mustard buildings, white pillared facades, vehicle-free on seaward side, cycling-walking promenade, Gandhi statue central landmark, French War Memorial, Old Lighthouse ruins, heritage buildings - Villa Shanti, Promenade Hotel, French consulate, cafes - Le Café, Baker Street, restaurants with sea views, evening hangout hub, street lighting ambiance, photography backdrop, heritage walks organized, book shops, boutiques, art galleries, vibrant French Quarter gateway."
+  },
+  {
+    "name": "French Quarter",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9350,
+      "long": 79.8390
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "White Town (Ville Blanche), French colonial architectural heritage zone, grid-pattern streets named after French soldiers and politicians - Rue Dumas, Rue Romain Rolland, Rue Suffren, color-coded buildings - yellow with white trim, bougainvillea-laden walls, cobblestone streets, heritage hotels in colonial mansions, boutique cafes - Café des Arts, Storyteller Cafe, French bakeries - Baker Street, Bakers' Dozen, art galleries, antique shops, souvenir stores, Institute Français cultural center, Sri Aurobindo Ashram headquarters, pedestrian-friendly, photography paradise, heritage walks, contrast with Tamil Quarter across canal."
+  },
+  {
+    "name": "Botanical Garden",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9350,
+      "long": 79.8370
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "22-acre garden established 1826 by French botanist, 1500+ plant species, aquarium with marine life, Japanese garden, French garden, Toy Train for children, musical fountain show evenings, Annual Flower Show in August, conservatories, nursery, herbal garden, ornamental plants, rare species, banyan tree grove, lawns, jogging track, children's playground, nominal entry fee, photography allowed, family destination, picnic spot, peaceful walks, botanical education, wedding photography backdrop, maintained by Puducherry Forest Department, near Bharati Park."
+  },
+  {
+    "name": "Ousteri Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Villupuram",
+    "coordinates": {
+      "lat": 11.9830,
+      "long": 79.8090
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest freshwater lake in Puducherry, 390 hectares, Ousteri Wetland and National Park surrounding 390 hectares declared 2008, Ramsar Wetland site, birdwatching paradise with 75+ species including migratory pintails, shovelers, flamingos, pelicans, cormorants, painted storks, boating facilities, kayaking, pedal boats, watchtower for bird observation, nature trails, sunrise-sunset photography, crocodiles spotted occasionally, biodiversity hotspot, monsoon best for bird migration (November-February), picnic spot, eco-tourism initiatives, 10 km west of Puducherry, cycling route popular, weekend getaway, serene atmosphere."
+  },
+  {
+    "name": "Chunnambar Boat House",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Cuddalore",
+    "coordinates": {
+      "lat": 11.9370,
+      "long": 79.8550
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Backwater boating hub 8 km from Puducherry, ferry to Paradise Beach departs from here, pedal boats, rowing boats, speed boats available, mangrove-lined backwaters, palm trees, bird watching, eco-resort with cottages and tree houses, adventure activities - zip-lining, kayaking, rope activities, children's play area, swimming pool, restaurant, day outing package includes backwater ride and Paradise Beach access, weekend crowds, advance booking recommended, serene natural beauty, photography, fish feeding, water birds, peaceful boat rides, combo tickets available, operated by Puducherry Tourism."
+  },
+  {
+    "name": "Serenity Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9530,
+      "long": 79.8590
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Surfing capital of Puducherry, 12 km north of city near Auroville, golden sand beach less commercialized, Kallialay Surf School offering lessons, board rentals, surfing season October-March with best waves, beach shacks - Maison Perumal, Le Space, international crowd including Auroville residents, yoga retreats, laid-back hippie vibe, clean beach, safe swimming, sunrise surfing popular, beach volleyball, bonfire evenings, organic cafes, healthy food options, backpacker destination, affordable accommodation, peaceful compared to city beaches, dolphin sightings occasionally, photography, offbeat charm."
+  },
+  {
+    "name": "Puducherry Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9310,
+      "long": 79.8300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Government Museum established 1983 in French colonial building, archaeological section with Arikamedu Roman artifacts, Chola and Pallava sculptures, bronze gallery, French colonial furniture, paintings, porcelain, crystal chandeliers, Governor's bedroom recreation, numismatics, handicrafts, tribal artifacts, natural history section, rare manuscripts, French East India Company exhibits, miniature paintings, weapons, library, well-maintained galleries, air-conditioned, nominal entry fee, photography restrictions, Tuesday closed, educational resource, research facility, children's science section, guided tours available, 2-hour visit recommended, near Bharati Park."
+  },
+  {
+    "name": "Manakula Vinayagar Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9360,
+      "long": 79.8380
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "300-year-old Lord Ganesha temple near Beach Road, Dravidian architecture with colorful gopuram (40-foot tower) rebuilt 2011, 40 painted Ganesha forms on tower, golden crown on main deity (1649 kg gifted by devotee), temple elephant Lakshmi blessing visitors (died 2018, now statue tribute), French colonial era survived destruction attempts, daily pujas, Vinayaka Chaturthi grand celebrations September, Brahmotsavam festival, free meals (annadhanam) daily, French Quarter location, shoe stand outside, photography allowed in courtyard, peaceful atmosphere despite city center location, miracle stories associated, popular pilgrimage."
+  },
+  {
+    "name": "Bharati Park",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9330,
+      "long": 79.8360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Government Park, 5-hectare French colonial public garden, central circular layout, Aayi Mandapam (Greek-style monument) centerpiece built 1738 to commemorate Napoleon III's wife, 12 Corinthian columns, manicured lawns, flower beds, children's playground, musical fountain show evenings, lighting, jogging track, morning yoga sessions, open-air concerts venue, surrounded by colonial buildings - Government House (Raj Nivas), Romain Rolland Library, Museum, French Institute, peaceful retreat in city center, family destination, photography, street food vendors outside, heritage walks start point, Republic Day parade venue."
+  },
+  {
+    "name": "Puducherry Lighthouse",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9365,
+      "long": 79.8390
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Old Lighthouse (Phare de Pondichéry) built 1836, 29m high cylindrical tower, served until 1979, red-white bands, spiral staircase 140 steps to top, panoramic 360-degree views of city, Bay of Bengal, French Quarter rooftops, currently non-functional (new lighthouse operational at Port area since 1979), restoration efforts, heritage structure, photography landmark on Promenade, climbing not allowed currently due to structural concerns, visible from Beach Road, architectural relic of French maritime history, adjacent to War Memorial, illuminated evenings, proposed museum conversion."
+  },
+  {
+    "name": "French War Memorial",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9360,
+      "long": 79.8385
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Monument aux Morts, WWI memorial commemorating French and colonial soldiers from French India who died 1914-1918, obelisk structure with names of 298 soldiers inscribed, marble plaques, French tricolor flag, located on Promenade Beach Goubert Avenue, maintained by French Consulate, Bastille Day (July 14) wreath-laying ceremony, Armistice Day (November 11) remembrance, historical significance of French Puducherry, colonial heritage, photography spot, evening illumination, adjacent to Gandhi statue and Old Lighthouse, peaceful setting facing sea, reflects Indo-French historical ties, memorial garden surrounding."
+  },
+  {
+    "name": "Puducherry Carnivals",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "coordinates": {
+      "lat": 11.9360,
+      "long": 79.8360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January"
+    ],
+    "description": "Winter carnival celebrations December-January on Beach Road and Bharati Park, stalls showcasing handicrafts from Tamil Nadu, Kerala, Karnataka, French food stalls, live music concerts, cultural performances - Bharatanatyam, folk dances, magic shows, talent competitions, adventure sports demonstrations, vintage car parade, cycle rallies, fancy dress competitions, food festival with Tamil, French, Continental cuisines, shopping bonanzas, art exhibitions, fireworks, New Year countdown at Beach Road with DJ nights, attracts domestic and French expat tourists, week-long festivities, tourism promotion, family entertainment, illuminated city, festive atmosphere blending French-Tamil cultures."
+  },
+  {
+    "name": "Auroville Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Puducherry",
+    "city": "Villupuram",
+    "coordinates": {
+      "lat": 12.0064,
+      "long": 79.8100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February",
+      "March"
+    ],
+    "description": "Annual celebration in February-March commemorating Auroville Foundation Day (February 28, 1968), international cultural performances representing 50+ countries, organic food festival, handicrafts exhibition by Aurovillians, workshops on sustainable living, pottery, paper-making, natural dyeing, yoga and meditation sessions, concerts at Matrimandir amphitheater, art exhibitions, photography displays, panel discussions on sustainability and human unity, children's activities, cycle tours of community, solar kitchen open house, boutiques sale, international crowd, spiritual seekers, eco-conscious travelers, promotes Auroville's vision of human unity, multiple venues across township, free entry to most events, week-long festivities."
+  }
+]

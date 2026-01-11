@@ -1,0 +1,1342 @@
+[
+  {
+    "name": "Kalighat",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.5206,
+      "long": 88.3486
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Toes of Goddess Sati",
+    "others": [
+      "ASI Heritage Site"
+    ]
+  },
+  {
+    "name": "Kamakhya",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Assam",
+    "city": "Guwahati",
+    "coordinates": {
+      "lat": 26.1667,
+      "long": 91.7056
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Yoni of Goddess Sati"
+  },
+  {
+    "name": "Vimala",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Puri",
+    "coordinates": {
+      "lat": 19.8135,
+      "long": 85.8312
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Navel of Goddess Sati"
+  },
+  {
+    "name": "Tara Tarini",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "coordinates": {
+      "lat": 19.491,
+      "long": 84.9166
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Breasts of Goddess Sati"
+  },
+  {
+    "name": "Biraja",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Jajpur",
+    "coordinates": {
+      "lat": 20.85,
+      "long": 86.3333
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Navel of Goddess Sati"
+  },
+  {
+    "name": "Mangala Gauri",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Gaya",
+    "coordinates": {
+      "lat": 24.7955,
+      "long": 85.0075
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Breast of Goddess Sati"
+  },
+  {
+    "name": "Vishalakshi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "coordinates": {
+      "lat": 25.3092,
+      "long": 83.0103
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Earring of Goddess Sati"
+  },
+  {
+    "name": "Tripura Sundari",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Tripura",
+    "city": "Gomati",
+    "coordinates": {
+      "lat": 23.538,
+      "long": 91.492
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Foot of Goddess Sati"
+  },
+  {
+    "name": "Jwalamukhi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kangra",
+    "coordinates": {
+      "lat": 31.875,
+      "long": 76.3219
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Tongue of Goddess Sati"
+  },
+  {
+    "name": "Chhinnamasta",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ramgarh",
+    "coordinates": {
+      "lat": 23.633,
+      "long": 85.521
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Head of Goddess Sati"
+  },
+  {
+    "name": "Hinglaj (Hingula)",
+    "type": "Shakti Peeth",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Lasbela",
+    "coordinates": {
+      "lat": 25.509,
+      "long": 65.701
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Head of Goddess Sati",
+    "others": [
+      "International"
+    ]
+  },
+  {
+    "name": "Sharada Peeth",
+    "type": "Shakti Peeth",
+    "country": "Pakistan",
+    "state": "PoK",
+    "city": "Neelum Valley",
+    "coordinates": {
+      "lat": 34.781,
+      "long": 74.196
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Brain of Goddess Sati",
+    "others": [
+      "Ruins"
+    ]
+  },
+  {
+    "name": "Kanyakumari",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Kanyakumari",
+    "coordinates": {
+      "lat": 8.0883,
+      "long": 77.5385
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Back of Goddess Sati"
+  },
+  {
+    "name": "Meenakshi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "coordinates": {
+      "lat": 9.9195,
+      "long": 78.1193
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Navel of Goddess Sati"
+  },
+  {
+    "name": "Brihat Kali",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Murshidabad",
+    "coordinates": {
+      "lat": 24.1833,
+      "long": 88.271
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ankle of Goddess Sati"
+  },
+  {
+    "name": "Dakshineswar",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.6552,
+      "long": 88.3578
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Aspect of Goddess Sati"
+  },
+  {
+    "name": "Naina Devi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Bilaspur",
+    "coordinates": {
+      "lat": 31.311,
+      "long": 76.54
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Eyes of Goddess Sati"
+  },
+  {
+    "name": "Vaishno Devi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "J&K",
+    "city": "Reasi",
+    "coordinates": {
+      "lat": 33.03,
+      "long": 74.949
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Hair of Goddess Sati"
+  },
+  {
+    "name": "Ambaji",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Banaskantha",
+    "coordinates": {
+      "lat": 24.331,
+      "long": 72.851
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Heart of Goddess Sati"
+  },
+  {
+    "name": "Mahalakshmi (Kolhapur)",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Kolhapur",
+    "coordinates": {
+      "lat": 16.705,
+      "long": 74.243
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Eyes of Goddess Sati"
+  },
+  {
+    "name": "Tulja Bhavani",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Osmanabad",
+    "coordinates": {
+      "lat": 18.008,
+      "long": 76.07
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Head of Goddess Sati"
+  },
+  {
+    "name": "Renuka",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Sirmaur",
+    "coordinates": {
+      "lat": 30.61,
+      "long": 77.46
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Blood of Goddess Sati"
+  },
+  {
+    "name": "Shankari Devi",
+    "type": "Shakti Peeth",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Trincomalee",
+    "coordinates": {
+      "lat": 8.587,
+      "long": 81.215
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Anklet of Goddess Sati",
+    "others": [
+      "International"
+    ]
+  },
+  {
+    "name": "Manasa",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Bankura",
+    "coordinates": {
+      "lat": 23.25,
+      "long": 87.066
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mind of Goddess Sati"
+  },
+  {
+    "name": "Bahula",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Bardhaman",
+    "coordinates": {
+      "lat": 23.238,
+      "long": 87.862
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Arm of Goddess Sati"
+  },
+  {
+    "name": "Attahas",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Birbhum",
+    "coordinates": {
+      "lat": 23.8,
+      "long": 87.75
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Lips of Goddess Sati"
+  },
+  {
+    "name": "Jayanti",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Jalpaiguri",
+    "coordinates": {
+      "lat": 26.705,
+      "long": 89.6
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Thigh of Goddess Sati"
+  },
+  {
+    "name": "Jeshoreshwari",
+    "type": "Shakti Peeth",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Jessore",
+    "coordinates": {
+      "lat": 23.1697,
+      "long": 89.2137
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Palms of Goddess Sati",
+    "others": [
+      "International"
+    ]
+  },
+  {
+    "name": "Sugandha",
+    "type": "Shakti Peeth",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Barisal",
+    "coordinates": {
+      "lat": 22.701,
+      "long": 90.353
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Nose of Goddess Sati",
+    "others": [
+      "International"
+    ]
+  },
+  {
+    "name": "Chandranath",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "West Bengal",
+    "city": "Hooghly",
+    "coordinates": {
+      "lat": 22.96,
+      "long": 88.45
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Right Arm of Goddess Sati"
+  },
+  {
+    "name": "Ratnavali",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "coordinates": {
+      "lat": 13.0827,
+      "long": 80.2707
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Necklace of Goddess Sati"
+  },
+  {
+    "name": "Mithila",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Sitamarhi",
+    "coordinates": {
+      "lat": 26.594,
+      "long": 85.489
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Shoulder of Goddess Sati"
+  },
+  {
+    "name": "Ujjaini",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "coordinates": {
+      "lat": 23.1793,
+      "long": 75.7849
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Elbow of Goddess Sati"
+  },
+  {
+    "name": "Mahamaya",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Chhattisgarh",
+    "city": "Ratanpur",
+    "coordinates": {
+      "lat": 22.287,
+      "long": 82.16
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Left Foot of Goddess Sati"
+  },
+  {
+    "name": "Bhairavi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "coordinates": {
+      "lat": 25.4358,
+      "long": 81.8463
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Fingers of Goddess Sati"
+  },
+  {
+    "name": "Devgarh",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Sikar",
+    "coordinates": {
+      "lat": 27.61,
+      "long": 75.15
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Ankles of Goddess Sati"
+  },
+  {
+    "name": "Jogulamba",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Gadwal",
+    "coordinates": {
+      "lat": 16.233,
+      "long": 77.807
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Teeth of Goddess Sati"
+  },
+  {
+    "name": "Alopi Devi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "coordinates": {
+      "lat": 25.433,
+      "long": 81.85
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Last Remains of Goddess Sati"
+  },
+  {
+    "name": "Bhabanipur",
+    "type": "Shakti Peeth",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Kathmandu Valley",
+    "coordinates": {
+      "lat": 27.7172,
+      "long": 85.324
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Knee of Goddess Sati",
+    "others": [
+      "International"
+    ]
+  },
+  {
+    "name": "Manikarnika",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "coordinates": {
+      "lat": 25.3176,
+      "long": 83.0107
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Earrings of Goddess Sati"
+  },
+  {
+    "name": "Sarvamangala",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Kolar",
+    "coordinates": {
+      "lat": 13.136,
+      "long": 78.129
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Hair of Goddess Sati"
+  },
+  {
+    "name": "Chamundeshwari",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "coordinates": {
+      "lat": 12.272,
+      "long": 76.669
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Hair of Goddess Sati"
+  },
+  {
+    "name": "Saptashrungi",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "coordinates": {
+      "lat": 20.39,
+      "long": 73.903
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Right Arm of Goddess Sati"
+  },
+  {
+    "name": "Bhadrakali",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Telangana",
+    "city": "Warangal",
+    "coordinates": {
+      "lat": 18.001,
+      "long": 79.588
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Left Arm of Goddess Sati"
+  },
+  {
+    "name": "Kottari",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Kannur",
+    "coordinates": {
+      "lat": 11.874,
+      "long": 75.37
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Breast of Goddess Sati"
+  },
+  {
+    "name": "Kodungallur",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Thrissur",
+    "coordinates": {
+      "lat": 10.233,
+      "long": 76.197
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Hair of Goddess Sati"
+  },
+  {
+    "name": "Bhimashankar",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 19.071,
+      "long": 73.553
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sweat of Goddess Sati"
+  },
+  {
+    "name": "Srisailam",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Andhra Pradesh",
+    "city": "Nandyal",
+    "coordinates": {
+      "lat": 16.072,
+      "long": 78.868
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Neck of Goddess Sati"
+  },
+  {
+    "name": "Pratyangira",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Kanchipuram",
+    "coordinates": {
+      "lat": 12.8342,
+      "long": 79.7036
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Anger Form of Goddess Sati"
+  },
+  {
+    "name": "Ramgiri",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "coordinates": {
+      "lat": 26.4499,
+      "long": 74.6399
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Wrist of Goddess Sati"
+  },
+  {
+    "name": "Ambika",
+    "type": "Shakti Peeth",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Gir Somnath",
+    "coordinates": {
+      "lat": 20.888,
+      "long": 70.401
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Intestine of Goddess Sati"
+  }
+]

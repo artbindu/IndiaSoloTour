@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Kamakhya Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Assam",
+    "city": "Guwahati",
+    "coordinates": {
+      "lat": 26.1830,
+      "long": 91.7130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "One of 51 Shakti Peeths where Sati's womb fell, tantric temple dedicated to Goddess Kamakhya on Nilachal Hill, unique bleeding ritual during Ambubachi Mela (June), 10th-century temple, animal sacrifice tradition, panoramic Brahmaputra views."
+  },
+  {
+    "name": "Umananda Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Assam",
+    "city": "Guwahati",
+    "coordinates": {
+      "lat": 26.1705,
+      "long": 91.7296
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Shiva temple on Peacock Island (Umananda Island), smallest inhabited river island in world, mid-Brahmaputra River, 17th-century Ahom architecture, ferry ride from Kachari Ghat, golden langurs, legend of Kamadeva's ashes."
+  },
+  {
+    "name": "Assam State Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Assam",
+    "city": "Guwahati",
+    "coordinates": {
+      "lat": 26.1920,
+      "long": 91.7080
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Established 1940, showcases Assam's cultural heritage, archaeological artifacts, sculptures, inscriptions, manuscripts, tribal costumes, handicrafts, natural history section, medieval weapons, coins, paintings, Assamese art and culture repository."
+  },
+  {
+    "name": "Kaziranga National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Assam",
+    "city": "Golaghat",
+    "coordinates": {
+      "lat": 26.5775,
+      "long": 93.1711
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "UNESCO World Heritage Site, home to two-thirds of world's one-horned rhinoceros population, 430 sq km park, elephant and jeep safaris, Bengal tigers, wild water buffalo, swamp deer, grasslands and wetlands, Brahmaputra floodplains."
+  },
+  {
+    "name": "Manas National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Assam",
+    "city": "Baksa",
+    "coordinates": {
+      "lat": 26.8986,
+      "long": 91.0086
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "UNESCO World Heritage Site, Project Tiger reserve, Project Elephant reserve, Biosphere Reserve, 500 sq km, contiguous with Royal Manas National Park (Bhutan), Bengal tigers, pygmy hog, golden langur, 450+ bird species, Manas River."
+  },
+  {
+    "name": "Majuli Island",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Assam",
+    "city": "Majuli",
+    "coordinates": {
+      "lat": 26.9560,
+      "long": 94.2250
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "World's largest river island on Brahmaputra, 880 sq km (shrinking), Vaishnavite satras (monasteries), Mishing tribal culture, mask-making tradition, pottery, bamboo crafts, wetland biodiversity, ferry access, UNESCO tentative list, erosion threat."
+  },
+  {
+    "name": "Sivasagar Ahom Monuments",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Assam",
+    "city": "Sivasagar",
+    "coordinates": {
+      "lat": 26.9820,
+      "long": 94.6390
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site (2023), Ahom dynasty capital monuments including Rang Ghar (Asia's oldest amphitheater), Talatal Ghar palace, Kareng Ghar, Sivadol temples, Joysagar Tank, 18th-century architecture, Tai-Ahom heritage, brick-and-stone structures."
+  },
+  {
+    "name": "Sivasagar Tank",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Assam",
+    "city": "Sivasagar",
+    "coordinates": {
+      "lat": 26.9810,
+      "long": 94.6400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Man-made tank covering 129 acres, built by Ahom Queen Ambika in 1734, surrounded by Shivadol (tallest Shiva temple in Assam at 104 feet), Vishnudol, Devidol temples, cultural and religious significance, Sivasagar town centerpiece."
+  },
+  {
+    "name": "Deepor Beel",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Assam",
+    "city": "Kamrup",
+    "coordinates": {
+      "lat": 26.0530,
+      "long": 91.5540
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ramsar Wetland Site, largest freshwater lake in Brahmaputra Valley near Guwahati, 40+ sq km, 200+ bird species including migratory waterfowl, greater adjutant stork breeding site, biodiversity hotspot, boating, birdwatching, facing pollution challenges."
+  },
+  {
+    "name": "Pobitora Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Assam",
+    "city": "Morigaon",
+    "coordinates": {
+      "lat": 26.4730,
+      "long": 92.0940
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Highest density of one-horned rhinos in world (102 rhinos in 38 sq km), elephant safaris, grasslands, wetlands, leopards, wild boar, 375+ bird species, 48km from Guwahati, mini Kaziranga, easier rhino sightings."
+  },
+  {
+    "name": "Manikarnika Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Assam",
+    "city": "Tezpur",
+    "coordinates": {
+      "lat": 26.6420,
+      "long": 92.7920
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Ancient temple associated with Agni Pariksha legend of Sita in Tezpur, on Brahmaputra banks, archaeological importance, carved pillars and sculptures, mythological significance, pilgrimage site, cultural heritage of Sonitpur district."
+  },
+  {
+    "name": "Nameri National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Assam",
+    "city": "Sonitpur",
+    "coordinates": {
+      "lat": 27.0050,
+      "long": 92.8270
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "200 sq km park at Assam-Arunachal border, Project Tiger reserve, white-winged wood duck habitat, river rafting on Jia Bhoroli River, 375+ bird species, elephants, leopards, Himalayan foothills, eco-camps, angling, trekking."
+  },
+  {
+    "name": "Tocklai Tea Research Institute",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Assam",
+    "city": "Jorhat",
+    "coordinates": {
+      "lat": 26.7430,
+      "long": 94.2160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "World's oldest and largest tea research station established 1911, tea museum, scientific research on tea cultivation and processing, Assam tea heritage, library with rare tea literature, experimental gardens, tea tasting, industrial tours."
+  },
+  {
+    "name": "Jorhat Gymkhana Club",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Assam",
+    "city": "Jorhat",
+    "coordinates": {
+      "lat": 26.7460,
+      "long": 94.2030
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of oldest golf clubs in Asia established 1876 during British tea planter era, 18-hole golf course, colonial architecture, historical significance, Assam tea estate heritage, recreational facilities, cultural hub, colonial-era charm."
+  },
+  {
+    "name": "Haflong",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Assam",
+    "city": "Dima Hasao",
+    "coordinates": {
+      "lat": 25.2250,
+      "long": 93.5220
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Only hill station in Assam at 680m, Switzerland of Assam, Haflong Lake (boating), Jatinga village (bird suicide mystery), Maibong ruins (Kachari kingdom), tribal culture, adventure sports, Borail Range, scenic train journey."
+  },
+  {
+    "name": "Dipor Bil",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Assam",
+    "city": "Kamrup",
+    "coordinates": {
+      "lat": 26.0530,
+      "long": 91.5540
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Same as Deepor Beel, permanent freshwater lake and wetland, bird sanctuary, migratory birds in winter, greater adjutant stork, fishing communities, aquatic biodiversity, eco-tourism, environmental education center, sunset views."
+  },
+  {
+    "name": "Guwahati Planetarium",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Assam",
+    "city": "Guwahati",
+    "coordinates": {
+      "lat": 26.1780,
+      "long": 91.7500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Regional Science Centre and Planetarium, astronomy shows, science exhibitions, interactive displays, sky observation programs, educational programs for students, digital projection system, science popularization, family destination."
+  },
+  {
+    "name": "Kameng Elephant Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Assam",
+    "city": "West Kameng",
+    "coordinates": {
+      "lat": 27.3330,
+      "long": 92.7750
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Project Elephant reserve in Assam-Arunachal border, 2000+ sq km spanning both states, elephant corridors, tropical semi-evergreen forests, biodiversity hotspot, leopards, clouded leopards, hoolock gibbons, hornbills, tribal villages."
+  },
+  {
+    "name": "Silchar Heritage Sites",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Assam",
+    "city": "Cachar",
+    "coordinates": {
+      "lat": 24.8330,
+      "long": 92.7780
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Khaspur ruins (Kachari kingdom capital), Maniharan Tunnel, Bhubaneswar Shiva Temple (9th century), Badarpur Fort (railway heritage), Bengali-influenced culture, Barak Valley heritage, colonial-era buildings, gateway to Barak Valley."
+  },
+  {
+    "name": "Sualkuchi Silk Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Assam",
+    "city": "Kamrup",
+    "coordinates": {
+      "lat": 26.2070,
+      "long": 91.4280
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Manchester of Assam, traditional silk weaving village, Muga silk (golden silk endemic to Assam), Pat and Eri silk production, 500-year-old sericulture tradition, handloom workshops, silk products shopping, cultural heritage village, 32km from Guwahati."
+  },
+  {
+    "name": "Bhalukpung",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Assam",
+    "city": "West Kameng",
+    "coordinates": {
+      "lat": 27.2460,
+      "long": 92.6650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Gateway to Arunachal Pradesh, adventure destination on Kameng River, white-water rafting, angling (golden mahseer), trekking, Pakhui Tiger Reserve nearby, orchid research center, tribal villages, Himalayan foothills, scenic beauty."
+  },
+  {
+    "name": "Hoollongapar Gibbon Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Assam",
+    "city": "Jorhat",
+    "coordinates": {
+      "lat": 26.7420,
+      "long": 94.1830
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Only gibbon sanctuary in India, western hoolock gibbons, 20.98 sq km tropical rainforest, capped langur, 219 bird species, biodiversity hotspot, canopy walkways, primate conservation, near Jorhat, excellent gibbon sightings in morning."
+  },
+  {
+    "name": "Assam Tea Gardens",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Assam",
+    "city": "Jorhat",
+    "coordinates": {
+      "lat": 26.7460,
+      "long": 94.2160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "British colonial legacy tea estates producing famous Assam CTC black tea, tea plantation tours, plucking experience, factory visits, tea tasting sessions, bungalows and heritage stays, Jorhat-Dibrugarh belt, world's largest tea-growing region."
+  },
+  {
+    "name": "Kaziranga Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Assam",
+    "city": "Golaghat",
+    "coordinates": {
+      "lat": 26.5775,
+      "long": 93.1711
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Annual carnival celebrating Assam's biodiversity and culture near Kaziranga, traditional dance (Bihu, Bagurumba), music, handicrafts exhibition, food stalls, wildlife awareness programs, tourism promotion, cultural performances, November celebration."
+  },
+  {
+    "name": "Ambubachi Mela",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Assam",
+    "city": "Guwahati",
+    "coordinates": {
+      "lat": 26.1830,
+      "long": 91.7130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "June"
+    ],
+    "description": "Annual tantric fertility festival at Kamakhya Temple, celebrates Goddess's menstruation, temple closed for 3 days, millions of pilgrims and tantric sadhus, unique rituals, red cloth distributed as prasad, June monsoon celebration, ancient Shakti worship."
+  },
+  {
+    "name": "Bhairabkunda",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Assam",
+    "city": "Udalguri",
+    "coordinates": {
+      "lat": 27.1960,
+      "long": 92.6650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic waterfall and picnic spot in Bornadi Wildlife Sanctuary, Pabhoi River, trekking, camping, natural swimming pool, Bhairab Temple nearby, tribal villages, eco-tourism, adventure activities, offbeat destination, Assam-Bhutan border area."
+  }
+]

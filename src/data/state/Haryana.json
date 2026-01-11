@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Surajkund",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Faridabad",
+    "coordinates": {
+      "lat": 28.4730,
+      "long": 77.3000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February",
+      "March"
+    ],
+    "description": "10th-century sun reservoir built by Tomar king, amphitheater-like structure, annual Surajkund International Crafts Mela showcasing Indian handicrafts, cultural performances, traditional artisans."
+  },
+  {
+    "name": "Sultanpur National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "coordinates": {
+      "lat": 28.4235,
+      "long": 77.0428
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Bird sanctuary with 250+ species, migratory birds from Siberia and Europe, wetland ecosystem, Greater Flamingos, Siberian Cranes, watchtowers, nature trails, photography spot near Delhi."
+  },
+  {
+    "name": "Kurukshetra",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "coordinates": {
+      "lat": 29.9690,
+      "long": 76.8780
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Land of Bhagavad Gita, site of epic Mahabharata war, Brahma Sarovar, Jyotisar, Sheikh Chilli's Tomb, Kurukshetra Panorama and Science Centre, sacred pilgrimage city."
+  },
+  {
+    "name": "Brahma Sarovar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "coordinates": {
+      "lat": 29.9690,
+      "long": 76.8780
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient sacred water tank created by Lord Brahma, solar eclipse bathing rituals, Gita Jayanti celebrations, Sarveshwar Mahadev Temple, 1800 feet long and 1400 feet wide tank."
+  },
+  {
+    "name": "Jyotisar (Krishna Janmabhoomi)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "coordinates": {
+      "lat": 29.9642,
+      "long": 76.8689
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Exact spot where Lord Krishna delivered Bhagavad Gita to Arjuna, ancient banyan tree marking the site, marble chariot sculpture, sacred pilgrimage site, Mahabharata connection."
+  },
+  {
+    "name": "Pinjore Gardens",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Panchkula",
+    "coordinates": {
+      "lat": 30.8274,
+      "long": 76.9135
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Yadavindra Gardens, 17th-century Mughal-style terraced garden, seven levels, fountains, historic architecture, Mini Zoo, Japanese Garden, Rajendra Park nearby, Shivalik foothills."
+  },
+  {
+    "name": "Morni Hills",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Panchkula",
+    "coordinates": {
+      "lat": 30.7440,
+      "long": 76.9190
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "description": "Only hill station in Haryana at 1,220m, twin lakes Tikkar Taal, Morni Fort, adventure activities, trekking, paragliding, rock climbing, Shivalik range, peaceful retreat near Chandigarh."
+  },
+  {
+    "name": "Bhindawas Bird Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Jhajjar",
+    "coordinates": {
+      "lat": 28.7110,
+      "long": 76.5580
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest wetland in Haryana, 250+ bird species, migratory birds including demoiselle cranes, Greater Flamingos, Sarus cranes, birdwatching paradise, watchtowers, nature trails."
+  },
+  {
+    "name": "Asola Bhatti Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Faridabad",
+    "coordinates": {
+      "lat": 28.5300,
+      "long": 77.3500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Northern Ridge extension on Delhi-Haryana border, 32.7 sq km, leopards, jackals, porcupines, 193 bird species, rock formations, hiking trails, eco-tourism, green lung near NCR."
+  },
+  {
+    "name": "Badkhal Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Faridabad",
+    "coordinates": {
+      "lat": 28.3780,
+      "long": 77.3160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Artificial lake surrounded by Aravalli hills, picnic spot, boating (when water levels permit), adventure park nearby, nature walks, weekend getaway from Delhi NCR."
+  },
+  {
+    "name": "Tilyar Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Rohtak",
+    "coordinates": {
+      "lat": 28.8950,
+      "long": 76.6060
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Scenic lake with mini zoo, zoo safari, boating, children's park, musical fountain, eco-tourism destination, Tilyar Forest, recreation complex with accommodation facilities."
+  },
+  {
+    "name": "Farrukhnagar Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "coordinates": {
+      "lat": 28.3980,
+      "long": 76.8530
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "18th-century fort built by Faujdar Khan, Mughal and Rajput architecture, seven gates, Jama Masjid, Sheesh Mahal, palaces, baolis (stepwells), historical significance in NCR region."
+  },
+  {
+    "name": "Rewari Heritage Steam Locomotive Museum",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Rewari",
+    "coordinates": {
+      "lat": 28.2040,
+      "long": 76.6180
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "India's only steam locomotive museum, vintage steam engines from British era, railway heritage, working locomotives, Fairy Queen (world's oldest running steam locomotive), rail enthusiast destination."
+  },
+  {
+    "name": "Chokhi Dhani Village Experience",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "coordinates": {
+      "lat": 28.4595,
+      "long": 77.0266
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ethnic village resort showcasing Rajasthani culture, traditional food, folk dances, puppet shows, camel rides, village ambiance, cultural performances, handicrafts, family entertainment."
+  },
+  {
+    "name": "Shatavar Mahadev Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Yamunanagar",
+    "coordinates": {
+      "lat": 30.1290,
+      "long": 77.2760
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient Shiva temple in Shivalik foothills, natural cave temple, Maha Shivratri celebrations, peaceful spiritual atmosphere, trekking to reach temple, mythological significance."
+  },
+  {
+    "name": "Surajkund Mela",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Faridabad",
+    "coordinates": {
+      "lat": 28.4730,
+      "long": 77.3000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February",
+      "March"
+    ],
+    "description": "Surajkund International Crafts Mela, Asia's largest crafts fair, showcasing handicrafts from all Indian states and international participation, folk performances, traditional cuisine, cultural extravaganza."
+  },
+  {
+    "name": "International Mango Festival (Karnal)",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Haryana",
+    "city": "Karnal",
+    "coordinates": {
+      "lat": 29.6850,
+      "long": 76.9900
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "July"
+    ],
+    "description": "Annual mango festival showcasing 500+ mango varieties from India and abroad, tasting sessions, mango competitions, fruit exhibitions, agricultural innovations, cultural programs celebrating king of fruits."
+  }
+]

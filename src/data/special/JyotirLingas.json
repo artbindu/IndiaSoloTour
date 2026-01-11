@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Somnath",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Gir Somnath",
+    "coordinates": {
+      "lat": 20.888,
+      "long": 70.401
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "First Jyotirlinga - Eternal / First",
+    "others": [
+      "ASI Heritage Site"
+    ]
+  },
+  {
+    "name": "Mallikarjuna",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Andhra Pradesh",
+    "city": "Nandyal (Srisailam)",
+    "coordinates": {
+      "lat": 16.072,
+      "long": 78.868
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Jyotirlinga with Shakti Peeth - Jyoti + Shakti"
+  },
+  {
+    "name": "Mahakaleshwar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "coordinates": {
+      "lat": 23.1793,
+      "long": 75.7849
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Dakshinamurti - South-facing deity"
+  },
+  {
+    "name": "Omkareshwar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Khandwa",
+    "coordinates": {
+      "lat": 22.242,
+      "long": 76.151
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Om-shaped island Jyotirlinga"
+  },
+  {
+    "name": "Kedarnath",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttarakhand",
+    "city": "Rudraprayag",
+    "coordinates": {
+      "lat": 30.7346,
+      "long": 79.0669
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Himalayan Jyotirlinga - Swayambhu (self-manifested)"
+  },
+  {
+    "name": "Bhimashankar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 19.071,
+      "long": 73.553
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sahyadri Jyotirlinga"
+  },
+  {
+    "name": "Kashi Vishwanath",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "coordinates": {
+      "lat": 25.3109,
+      "long": 83.0107
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Moksha Jyotirlinga - Liberation temple"
+  },
+  {
+    "name": "Trimbakeshwar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "coordinates": {
+      "lat": 19.932,
+      "long": 73.529
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Origin of Godavari river"
+  },
+  {
+    "name": "Vaidyanath (Baidyanath Dham)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Deoghar",
+    "coordinates": {
+      "lat": 24.49,
+      "long": 86.7
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "The Healer Jyotirlinga"
+  },
+  {
+    "name": "Nageshwar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Devbhumi Dwarka",
+    "coordinates": {
+      "lat": 22.351,
+      "long": 69.842
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Poison Conqueror Jyotirlinga"
+  },
+  {
+    "name": "Rameshwaram",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Ramanathapuram",
+    "coordinates": {
+      "lat": 9.2876,
+      "long": 79.3129
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Setu Jyotirlinga - Bridge to Lanka"
+  },
+  {
+    "name": "Grishneshwar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "coordinates": {
+      "lat": 20.026,
+      "long": 75.179
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Compassion Jyotirlinga near Ellora Caves",
+    "others": [
+      "Near Ellora ASI zone"
+    ]
+  }
+]

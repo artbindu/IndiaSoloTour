@@ -1,0 +1,707 @@
+[
+  {
+    "name": "Shimla",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "coordinates": {
+      "lat": 31.1048,
+      "long": 77.1734
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Queen of Hills at 2,205m, British summer capital, colonial architecture, Mall Road, Ridge, Christ Church, toy train (UNESCO World Heritage), Jakhu Temple, pine forests."
+  },
+  {
+    "name": "The Ridge & Mall Road",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "coordinates": {
+      "lat": 31.1048,
+      "long": 77.1734
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Heart of Shimla, open space with Christ Church, Gaiety Theatre, Scandal Point, shopping, cafes, cultural events, Himalayan panoramic views, pedestrian zone."
+  },
+  {
+    "name": "Kufri",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "coordinates": {
+      "lat": 31.0970,
+      "long": 77.2670
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Winter sports destination at 2,743m, skiing, Himalayan Nature Park, Mahasu Peak, yak and pony rides, adventure activities, snow activities in winter."
+  },
+  {
+    "name": "Manali",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 32.2396,
+      "long": 77.1887
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Valley of Gods at 2,050m, adventure hub, Hadimba Temple, Old Manali, Vashisht hot springs, gateway to Rohtang Pass, honeymoon destination, Beas River, apple orchards."
+  },
+  {
+    "name": "Solang Valley",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 32.3160,
+      "long": 77.1550
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Adventure capital near Manali, paragliding, zorbing, skiing in winter, cable car, skiing slopes, snow activities, Solang Ropeway, stunning mountain scenery."
+  },
+  {
+    "name": "Rohtang Pass",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 32.3640,
+      "long": 77.2460
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "High mountain pass at 3,978m, gateway to Lahaul-Spiti, snow activities, panoramic views, permits required, connects Kullu Valley to Lahaul Valley, seasonal opening."
+  },
+  {
+    "name": "Kasol",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 32.0090,
+      "long": 77.3150
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Mini Israel of India in Parvati Valley, backpacker hub, hippie culture, Israeli cafes, trekking to Kheerganga, Tosh village, riverside camping, Parvati River."
+  },
+  {
+    "name": "Parvati Valley",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 31.9930,
+      "long": 77.3260
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Mystical valley with Kasol, Manikaran hot springs, Tosh, Malana villages, trekking routes to Kheerganga, Pin Parvati Pass, hashish culture, scenic beauty."
+  },
+  {
+    "name": "Dharamshala",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kangra",
+    "coordinates": {
+      "lat": 32.2190,
+      "long": 76.3234
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Seat of Tibetan government-in-exile at 1,457m, Dalai Lama residence, Tibetan culture, monasteries, cricket stadium with Dhauladhar backdrop, McLeod Ganj nearby."
+  },
+  {
+    "name": "McLeod Ganj",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kangra",
+    "coordinates": {
+      "lat": 32.2426,
+      "long": 76.3214
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Little Lhasa, Tibetan refugee center, Dalai Lama Temple, Tsuglagkhang Complex, Tibetan Museum, cafes, monasteries, trekking to Triund, Buddhist philosophy courses."
+  },
+  {
+    "name": "Dalai Lama Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kangra",
+    "coordinates": {
+      "lat": 32.2430,
+      "long": 76.3210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Tsuglagkhang Complex, official residence of Dalai Lama, Tibetan Buddhist temple, Namgyal Monastery, museum with Tibetan history, teachings and audiences with Dalai Lama."
+  },
+  {
+    "name": "Kangra Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kangra",
+    "coordinates": {
+      "lat": 32.0986,
+      "long": 76.2691
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient fort dating back to Trigarta Kingdom, largest fort in Himalayas, damaged by 1905 earthquake, temples, panoramic Kangra Valley views, Beas-Banganga confluence."
+  },
+  {
+    "name": "Palampur",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kangra",
+    "coordinates": {
+      "lat": 32.1109,
+      "long": 76.5363
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Tea Capital of North India at 1,220m, tea gardens, Dhauladhar mountain range backdrop, colonial heritage, Neugal Khad, Baijnath Temple, trekking base, Andretta pottery village."
+  },
+  {
+    "name": "Bir Billing",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kangra",
+    "coordinates": {
+      "lat": 32.0420,
+      "long": 76.7180
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "World's second-best paragliding site, Billing takeoff at 2,400m to Bir landing at 1,400m, Tibetan monasteries, meditation centers, paragliding capital of India."
+  },
+  {
+    "name": "Chamba",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Chamba",
+    "coordinates": {
+      "lat": 32.5550,
+      "long": 76.1260
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Ancient town on Ravi River at 996m, Lakshmi Narayan Temple complex, Chaugan (parade ground), Rang Mahal palace, Chamba Rumal embroidery, Minjar Fair, miniature paintings."
+  },
+  {
+    "name": "Khajjiar",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Chamba",
+    "coordinates": {
+      "lat": 32.5555,
+      "long": 76.0590
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Mini Switzerland of India at 1,920m, saucer-shaped meadow with lake, Khajji Nag Temple, deodar forests, adventure activities, zorbing, horse riding, serene beauty."
+  },
+  {
+    "name": "Dalhousie",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Chamba",
+    "coordinates": {
+      "lat": 32.5387,
+      "long": 75.9700
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Colonial hill station at 1,970m spread over five hills, Victorian architecture, St. John's Church, Panchpula waterfalls, Khajjiar nearby, pine and deodar forests, serene ambiance."
+  },
+  {
+    "name": "Spiti Valley",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Lahaul & Spiti",
+    "coordinates": {
+      "lat": 32.2460,
+      "long": 78.0170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Cold desert mountain valley at 3,800m+, Middle Land between India and Tibet, ancient monasteries, Key, Tabo, Dhankar, Kaza town, high-altitude villages, Pin Valley, Chandratal Lake."
+  },
+  {
+    "name": "Key Monastery",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Lahaul & Spiti",
+    "coordinates": {
+      "lat": 32.2970,
+      "long": 78.0170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Largest monastery in Spiti at 4,166m, 1000-year-old Tibetan Buddhist gompa, training center for lamas, hilltop fortress architecture, ancient murals, manuscripts, stunning valley views."
+  },
+  {
+    "name": "Tabo Monastery",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Lahaul & Spiti",
+    "coordinates": {
+      "lat": 32.0930,
+      "long": 78.3850
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "UNESCO World Heritage Site (tentative), Ajanta of the Himalayas, 1000-year-old monastery founded 996 CE, ancient murals, stucco sculptures, Dalai Lama's Kalachakra initiation site."
+  },
+  {
+    "name": "Kalpa",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kinnaur",
+    "coordinates": {
+      "lat": 31.5370,
+      "long": 78.2600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Himalayan village at 2,960m with Kinner Kailash views, apple orchards, Buddhist and Hindu temples, suicide point, old Kalpa village, traditional Kinnauri architecture, Indo-Tibetan culture."
+  },
+  {
+    "name": "Sangla Valley",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kinnaur",
+    "coordinates": {
+      "lat": 31.4250,
+      "long": 78.2610
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "description": "Baspa Valley with Sangla village at 2,680m, traditional Kinnauri houses, Kamru Fort, Bering Nag Temple, apple orchards, walnut trees, Baspa River, offbeat destination."
+  },
+  {
+    "name": "Chail",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Solan",
+    "coordinates": {
+      "lat": 30.9710,
+      "long": 77.1890
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "Tranquil hill station at 2,250m, world's highest cricket ground, Chail Palace (now hotel), Kali Ka Tibba temple, Chail Wildlife Sanctuary, panoramic views, alternative to crowded Shimla."
+  },
+  {
+    "name": "Great Himalayan National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 31.7550,
+      "long": 77.3570
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "description": "UNESCO World Heritage Site, 1,171 sq km conservation area, snow leopards, Himalayan brown bears, blue sheep, 375+ fauna species, 180+ bird species, high-altitude trekking, biodiversity hotspot."
+  },
+  {
+    "name": "Pin Valley National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Lahaul & Spiti",
+    "coordinates": {
+      "lat": 32.0060,
+      "long": 78.0070
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "description": "Cold desert national park at 3,500-6,000m, snow leopards, Siberian ibex, Tibetan gazelles, red fox, 80+ bird species, Pin River, Kungri Monastery, glaciers, high-altitude flora."
+  },
+  {
+    "name": "Nako Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kinnaur",
+    "coordinates": {
+      "lat": 31.8790,
+      "long": 78.6280
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "description": "Picturesque village at 3,662m on Indo-Tibet border, Nako Lake, ancient Buddhist monastery with 1000-year-old murals, foot and handprints of Padmasambhava, remote Himalayan culture."
+  },
+  {
+    "name": "Kullu Dussehra Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Kullu",
+    "coordinates": {
+      "lat": 31.9570,
+      "long": 77.1090
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October"
+    ],
+    "description": "International Kullu Dussehra, week-long celebration when Dussehra ends elsewhere, Lord Raghunath Rath Yatra, 200+ village deities procession, folk performances, unique cultural tradition since 1637."
+  }
+]

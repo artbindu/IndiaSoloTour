@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Jagannath Temple, Puri",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Puri",
+    "coordinates": {
+      "lat": 19.8135,
+      "long": 85.8312
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Konark Sun Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Konark, Puri",
+    "coordinates": {
+      "lat": 19.8876,
+      "long": 86.0945
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Lingaraj Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "coordinates": {
+      "lat": 20.2370,
+      "long": 85.8340
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Mukteswar Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "coordinates": {
+      "lat": 20.2390,
+      "long": 85.8350
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Dhauli Shanti Stupa",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Khordha",
+    "coordinates": {
+      "lat": 20.1926,
+      "long": 85.8592
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Chilika Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Puri / Khordha",
+    "coordinates": {
+      "lat": 19.7100,
+      "long": 85.3000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["November", "December", "January", "February"]
+  },
+  {
+    "name": "Satapada (Chilika)",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Puri",
+    "coordinates": {
+      "lat": 19.6610,
+      "long": 85.3140
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["November", "December", "January", "February"]
+  },
+  {
+    "name": "Bhitarkanika National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Kendrapara",
+    "coordinates": {
+      "lat": 20.7060,
+      "long": 86.8870
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Simlipal National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Mayurbhanj",
+    "coordinates": {
+      "lat": 21.9000,
+      "long": 86.3000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Udayagiri & Khandagiri Caves",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "coordinates": {
+      "lat": 20.2630,
+      "long": 85.7830
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Raghurajpur Heritage Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Puri",
+    "coordinates": {
+      "lat": 19.9500,
+      "long": 85.9000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Daringbadi",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Kandhamal",
+    "coordinates": {
+      "lat": 19.9200,
+      "long": 84.2000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Deomali Peak",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Koraput",
+    "coordinates": {
+      "lat": 18.7000,
+      "long": 82.9500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Taptapani Hot Springs",
+    "type": "Wellness / Yoga Retreats",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "coordinates": {
+      "lat": 19.5000,
+      "long": 84.3000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Chandipur Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Balasore",
+    "coordinates": {
+      "lat": 21.4600,
+      "long": 87.0200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Gopalpur Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "coordinates": {
+      "lat": 19.2600,
+      "long": 84.9000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Paradeep Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Jagatsinghpur",
+    "coordinates": {
+      "lat": 20.3160,
+      "long": 86.6100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Odisha State Museum",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "coordinates": {
+      "lat": 20.2710,
+      "long": 85.8400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Ekamra Haat",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "coordinates": {
+      "lat": 20.2610,
+      "long": 85.8340
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Bali Jatra Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "coordinates": {
+      "lat": 20.4625,
+      "long": 85.8828
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November"]
+  },
+  {
+    "name": "Rath Yatra Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Puri",
+    "coordinates": {
+      "lat": 19.8135,
+      "long": 85.8312
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["June", "July"]
+  },
+  {
+    "name": "Hirakud Dam",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "coordinates": {
+      "lat": 21.5250,
+      "long": 83.8750
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Nrusinghanath Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Bargarh",
+    "coordinates": {
+      "lat": 21.4470,
+      "long": 83.4320
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Ansupa Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "coordinates": {
+      "lat": 20.4770,
+      "long": 85.7450
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["November", "December", "January", "February"]
+  },
+  {
+    "name": "Satkosia Gorge",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Odisha",
+    "city": "Angul",
+    "coordinates": {
+      "lat": 20.5500,
+      "long": 84.9000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November", "December", "January", "February"]
+  }
+]

@@ -1,0 +1,761 @@
+[
+  {
+    "name": "Hampi Group of Monuments",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Vijayanagara",
+    "coordinates": {
+      "lat": 15.3350,
+      "long": 76.4600
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site featuring ruins of the Vijayanagara Empire, ancient temples, royal structures, and monuments showcasing 14th-16th century architecture."
+  },
+  {
+    "name": "Pattadakal Group of Monuments",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "coordinates": {
+      "lat": 15.9480,
+      "long": 75.8170
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site with 7th-8th century Chalukya temples blending Dravidian and Nagara architectural styles."
+  },
+  {
+    "name": "Badami Cave Temples",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "coordinates": {
+      "lat": 15.9240,
+      "long": 75.6760
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "6th-century rock-cut cave temples dedicated to Hindu and Jain deities, showcasing Early Chalukya architecture."
+  },
+  {
+    "name": "Aihole",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "coordinates": {
+      "lat": 16.0220,
+      "long": 75.8780
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Cradle of Indian architecture with over 125 temples from 6th-12th centuries, demonstrating evolution of Hindu temple architecture."
+  },
+  {
+    "name": "Virupaksha Temple, Hampi",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Vijayanagara",
+    "coordinates": {
+      "lat": 15.3350,
+      "long": 76.4600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "7th-century temple dedicated to Lord Shiva, functioning temple within the Hampi UNESCO complex, famous for its gopuram and ancient Vijayanagara architecture."
+  },
+  {
+    "name": "Kukke Subramanya Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Dakshina Kannada",
+    "coordinates": {
+      "lat": 12.6630,
+      "long": 75.6150
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient temple dedicated to Lord Subramanya (Kartikeya), famous for Sarpa Dosha rituals and situated in the Western Ghats."
+  },
+  {
+    "name": "Dharmasthala Manjunatha Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Dakshina Kannada",
+    "coordinates": {
+      "lat": 12.9510,
+      "long": 75.3770
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "800-year-old temple dedicated to Lord Shiva (Manjunatha), unique pilgrimage site managed by Jain administration serving Hindu deity."
+  },
+  {
+    "name": "Sringeri Sharada Peetham",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Chikkamagaluru",
+    "coordinates": {
+      "lat": 13.4160,
+      "long": 75.2520
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "First of the four Advaita Vedanta mathas established by Adi Shankaracharya in the 8th century, dedicated to Goddess Saraswati."
+  },
+  {
+    "name": "Mysore Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "coordinates": {
+      "lat": 12.3052,
+      "long": 76.6552
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Magnificent Indo-Saracenic palace of the Wadiyar dynasty, one of India's most visited monuments, famous for Dasara illuminations."
+  },
+  {
+    "name": "Chamundi Hill",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "coordinates": {
+      "lat": 12.2720,
+      "long": 76.6700
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred hill with Chamundeshwari Temple dedicated to Goddess Durga, featuring 1000 steps and panoramic views of Mysuru city."
+  },
+  {
+    "name": "Coorg (Kodagu)",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Kodagu",
+    "coordinates": {
+      "lat": 12.3375,
+      "long": 75.8069
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Scotland of India, famous for coffee plantations, misty hills, waterfalls, Abbey Falls, Raja's Seat, and Kodava culture."
+  },
+  {
+    "name": "Chikmagalur",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Chikkamagaluru",
+    "coordinates": {
+      "lat": 13.3160,
+      "long": 75.7720
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Birthplace of Indian coffee, hill station with coffee estates, Mullayanagiri peak, Baba Budangiri range, and Kudremukh."
+  },
+  {
+    "name": "Mullayanagiri Peak",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Chikkamagaluru",
+    "coordinates": {
+      "lat": 13.3900,
+      "long": 75.7210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Highest peak in Karnataka (1,930 meters), popular trekking destination with panoramic views of the Western Ghats."
+  },
+  {
+    "name": "Jog Falls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "coordinates": {
+      "lat": 14.2290,
+      "long": 74.7920
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "India's second-highest plunge waterfall (253 meters) on Sharavathi River, most spectacular during monsoons."
+  },
+  {
+    "name": "Kudremukh National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Chikkamagaluru",
+    "coordinates": {
+      "lat": 13.1380,
+      "long": 75.2790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Western Ghats biodiversity hotspot with horse-face peak, tropical forests, grasslands, home to tigers, leopards, and endemic species."
+  },
+  {
+    "name": "Bandipur National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "coordinates": {
+      "lat": 11.6540,
+      "long": 76.6290
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Premier tiger reserve and Project Tiger reserve, part of the Nilgiri Biosphere Reserve, rich in wildlife including elephants, gaur, and 200+ bird species."
+  },
+  {
+    "name": "Nagarhole National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Kodagu",
+    "coordinates": {
+      "lat": 12.0000,
+      "long": 76.1200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Also known as Rajiv Gandhi National Park, excellent for wildlife safaris with tigers, elephants, leopards, and diverse birdlife along Kabini River."
+  },
+  {
+    "name": "Gokarna Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Uttara Kannada",
+    "coordinates": {
+      "lat": 14.5500,
+      "long": 74.3160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred beach town with pristine beaches (Om Beach, Half Moon, Paradise), pilgrimage site with Mahabaleshwar Temple, laid-back hippie vibe."
+  },
+  {
+    "name": "Om Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Uttara Kannada",
+    "coordinates": {
+      "lat": 14.5280,
+      "long": 74.3180
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Famous beach near Gokarna shaped like the Om symbol, popular for water sports, beach camping, and serene sunsets."
+  },
+  {
+    "name": "Murudeshwar Temple & Beach",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Uttara Kannada",
+    "coordinates": {
+      "lat": 14.0940,
+      "long": 74.4850
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Coastal town with world's second-tallest Shiva statue (123 feet), ancient Shiva temple, beautiful beach, and Arabian Sea views."
+  },
+  {
+    "name": "Udupi Sri Krishna Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Udupi",
+    "coordinates": {
+      "lat": 13.3410,
+      "long": 74.7420
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "13th-century temple founded by Madhvacharya, famous for Paryaya system of administration, unique window worship (Kanakana Kindi), and Udupi cuisine."
+  },
+  {
+    "name": "Belur Chennakesava Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "coordinates": {
+      "lat": 13.1620,
+      "long": 75.8650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "12th-century Hoysala temple with intricate sculptures, star-shaped platform, and exquisite stone carvings depicting Hindu epics."
+  },
+  {
+    "name": "Halebidu Hoysaleswara Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "coordinates": {
+      "lat": 13.2120,
+      "long": 75.9910
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "12th-century Hoysala architectural masterpiece dedicated to Lord Shiva, featuring detailed sculptures, friezes depicting Hindu mythology."
+  },
+  {
+    "name": "Bannerghatta National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru Urban",
+    "coordinates": {
+      "lat": 12.8000,
+      "long": 77.5770
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "National park near Bengaluru with biological reserve, zoo, safari park, butterfly park, and rescue center for wildlife conservation."
+  },
+  {
+    "name": "Lalbagh Botanical Garden",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "coordinates": {
+      "lat": 12.9507,
+      "long": 77.5848
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "240-acre botanical garden with Glass House inspired by Crystal Palace, diverse plant species, flower shows, and Kempegowda Tower."
+  },
+  {
+    "name": "Cubbon Park",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "coordinates": {
+      "lat": 12.9763,
+      "long": 77.5929
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "300-acre green space in Bengaluru's heart with walking paths, children's park, statues, bandstand, Attara Kacheri, and Vidhana Soudha views."
+  },
+  {
+    "name": "Bengaluru Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "coordinates": {
+      "lat": 12.9987,
+      "long": 77.5921
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Tudor-style palace built in 1878, inspired by Windsor Castle, with Gothic windows, turrets, fortifications, and elegant woodwork."
+  },
+  {
+    "name": "Mysuru Dasara Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "coordinates": {
+      "lat": 12.3052,
+      "long": 76.6552
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "September",
+      "October"
+    ],
+    "description": "Karnataka's state festival celebrating victory of good over evil, featuring grand procession (Jumbo Savari), palace illuminations, cultural programs."
+  },
+  {
+    "name": "Hampi Utsav",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Vijayanagara",
+    "coordinates": {
+      "lat": 15.3350,
+      "long": 76.4600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Annual cultural festival celebrating Vijayanagara heritage with music, dance, drama, puppet shows, fireworks against backdrop of ancient ruins."
+  }
+]

@@ -1,0 +1,863 @@
+[
+  {
+    "name": "Mumbai",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.0760,
+      "long": 72.8777
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Financial capital and Maximum City of India, Bollywood film industry hub, colonial architecture, Gateway of India, Marine Drive Queen's Necklace, Chhatrapati Shivaji Terminus UNESCO site, Elephanta Caves, vibrant street food - vada pav, pav bhaji, local train lifeline, diverse culture, cosmopolitan nightlife, shopping - Colaba Causeway, Crawford Market, Leopold Cafe, Taj Mahal Palace Hotel, Haji Ali Dargah, Siddhivinayak Temple, Bandra-Worli Sea Link, art galleries, 7-island city, never-sleeps energy, startup ecosystem."
+  },
+  {
+    "name": "Gateway of India",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.9220,
+      "long": 72.8347
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "26m high Indo-Saracenic arch monument built 1924, commemorates King George V and Queen Mary's 1911 visit, basalt stone with yellow basalt and reinforced concrete, overlooks Arabian Sea, iconic Mumbai landmark, Taj Mahal Palace Hotel adjacent, ferry to Elephanta Caves departs from here, sunset views, street food vendors, photographers, tourists hub, last British troops departed India from here 1948, Apollo Bunder waterfront, evening illumination, pigeons, balloon sellers, boat rides, symbolic of Mumbai's colonial heritage."
+  },
+  {
+    "name": "Chhatrapati Shivaji Terminus",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.9402,
+      "long": 72.8356
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "UNESCO World Heritage Site 2004, formerly Victoria Terminus built 1887 by British architect Frederick William Stevens, Victorian Gothic Revival with Indian palace architecture, 2.85 million daily commuters, functioning railway station, intricate stone carvings, stained glass windows, turrets, pointed arches, 3.5 million sq ft, Indian Railways headquarters, photography paradise especially lit at night, blend of Gothic and Mughal styles, bustling energy, heritage walks available, renamed 1996 after Maratha warrior king Shivaji, architectural masterpiece, CST abbreviation iconic."
+  },
+  {
+    "name": "Elephanta Caves",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.9630,
+      "long": 72.9319
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "UNESCO World Heritage Site on Elephanta Island, 5th-7th century rock-cut caves dedicated to Lord Shiva, Trimurti sculpture 6m high (three-faced Shiva as creator, preserver, destroyer), 7 caves with Hindu and Buddhist sculptures, one-hour ferry from Gateway of India, 120 steps climb, Portuguese named it after elephant statue (now at Mumbai Zoo), Maheshamurti central attraction, Nataraja, Ardhanarishvara sculptures, Ravananugraha panel, ASI maintained, guides available, monkeys on pathway, Elephanta Festival in February, cave temple complex, basalt rock carvings, spiritual aura."
+  },
+  {
+    "name": "Marine Drive",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.9435,
+      "long": 72.8233
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "3 km C-shaped six-lane boulevard along Arabian Sea coast, Queen's Necklace at night with string lights, built 1920s on reclaimed land, Nariman Point to Babulnath/Malabar Hill, Art Deco buildings, promenade for evening walks, street food - bhel puri, pav bhaji, Chowpatty Beach at north end, sunset views, jogging track, couples spot, monsoon waves spectacular, Wankhede Cricket Stadium nearby, iconic Mumbai skyline, sea breeze, people watching, photography, UNESCO Art Deco precinct, relaxation spot amidst city chaos, free access, public space symbol."
+  },
+  {
+    "name": "Lonavala",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 18.7500,
+      "long": 73.4000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Popular hill station in Western Ghats at 622m altitude, 96 km from Pune, monsoon paradise with green valleys and waterfalls, Bhushi Dam, Tiger's Leap viewpoint, Rajmachi Fort trekking, Karla-Bhaja Buddhist caves (2nd century BCE), chikki (brittle candy) famous, weekend getaway for Mumbai-Pune residents, Pawna Lake camping, Della Adventure Park, lush forests, mist-covered mountains, cooler climate, celebrity homes, Amby Valley nearby, backpacker hostels, nature walks, photography, Khandala twin hill station adjacent, monsoon tourism hub, Valley of Pavana."
+  },
+  {
+    "name": "Khandala",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 18.7670,
+      "long": 73.4100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Hill station 625m altitude adjacent to Lonavala, Duke's Nose cliff (Nagphani) for rock climbing and rappelling, sunset point spectacular, Rajmachi Point viewpoint, Reversing Station where toy train reverses direction, lush green monsoon landscapes, waterfalls cascading from cliffs, trekking trails, Mumbai-Pune expressway scenic route, cooler than plains, romantic getaway, Bollywood film shooting location, resorts and hotels, valley views, Western Ghats biodiversity, chikki shops, quiet alternative to Lonavala, nature photography, mist in monsoons, accessible year-round, weekend crowds."
+  },
+  {
+    "name": "Matheran",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Raigad",
+    "coordinates": {
+      "lat": 18.9860,
+      "long": 73.2670
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Asia's only automobile-free hill station at 800m altitude, discovered 1850 by Hugh Mallet, toy train (narrow-gauge heritage railway) from Neral, 38 viewpoints including Panorama Point, Echo Point, Louisa Point, Charlotte Lake, One Tree Hill, horse-riding and hand-pulled rickshaws only transport, colonial-era architecture, British bungalows, pollution-free air, trekking trails, sunrise-sunset spectacular, Shivaji's ladder rock-cut steps, 80 km from Mumbai, weekend getaway, monsoon paradise with red soil paths, clouds below viewpoints, tranquil escape, eco-sensitive zone, photography restrictions at some points."
+  },
+  {
+    "name": "Ajanta Caves",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "coordinates": {
+      "lat": 20.5516,
+      "long": 75.7033
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site 1983, 30 rock-cut Buddhist cave monuments 2nd century BCE-480 CE, rediscovered 1819 by British officer John Smith, horseshoe-shaped ravine on Waghora River, exquisite frescoes and paintings depicting Jataka tales and Buddha's life, chaityas (prayer halls) and viharas (monasteries), Padmapani and Vajrapani bodhisattva paintings famous, Cave 1, 2, 16, 17 masterpieces, ancient India's finest art, tempera technique paintings survived centuries, ASI protected, 107 km from Aurangabad, guided tours recommended, photography restricted inside, world-class Buddhist art, spiritual significance, architectural marvel."
+  },
+  {
+    "name": "Ellora Caves",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "coordinates": {
+      "lat": 20.0262,
+      "long": 75.1794
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site 1983, 34 caves representing Buddhist, Hindu, and Jain temples carved 600-1000 CE, Kailasa Temple (Cave 16) architectural wonder - monolithic structure carved from single rock representing Mount Kailash, largest single monolithic excavation in world, 200,000 tons rock removed, three-storied structure with sculptures of Shiva, Parvati, Ravana, elephants, lions, Hindu caves 13-29 with Dashavatara and Rameshvara caves, Jain caves 30-34, coexistence of three religions, 30 km from Aurangabad, ASI maintained, half-day tour, photography allowed, engineering marvel, religious harmony symbol."
+  },
+  {
+    "name": "Shirdi",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Ahmednagar",
+    "coordinates": {
+      "lat": 19.7660,
+      "long": 74.4770
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Pilgrimage town, home of Sai Baba (died 1918), Sai Baba Temple attracts 50,000+ daily visitors, Samadhi Mandir where Sai Baba's body rests, Dwarkamai mosque where he lived, Chavadi, Gurusthan, Lendi Baug garden, all-religion harmony (Baba emphasized unity), free meals (prasad) for pilgrims, Baba's teachings of faith and patience, Thursday special darshan, Ram Navami and Vijayadashami major celebrations, 296 km from Mumbai, airport and railway connectivity, accommodation from budget to luxury, online darshan booking, spiritual atmosphere, devotees worldwide, miracle stories, peaceful town despite crowds, donation-based services."
+  },
+  {
+    "name": "Trimbakeshwar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "coordinates": {
+      "lat": 20.0060,
+      "long": 73.6050
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of 12 Jyotirlingas, Trimbakeshwar Temple at Brahmagiri mountain source of Godavari River (Ganga of South), unique three-faced lingam representing Brahma, Vishnu, Shiva, 18th-century black stone temple built by Peshwa Balaji Bajirao, Kushavarta Kund sacred tank where Godavari originates, Narayan mountain with Anjaneri (Hanuman's birthplace) nearby, Kala Ram Temple, Panchavati, pilgrimage circuit with Nashik, architecture with Indo-Aryan nagara style, Shravan month special, Mahashivratri grand celebrations, trekking to Brahmagiri, 28 km from Nashik, priests offer puja services, Narayan Nagbali ritual performed here, spiritual significance immense."
+  },
+  {
+    "name": "Nashik",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "coordinates": {
+      "lat": 19.9975,
+      "long": 73.7898
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Wine Capital of India with Sula Vineyards and 50+ wineries, Kumbh Mela every 12 years on Godavari banks (2027 next), Panchavati where Lord Rama spent exile, Kalaram Temple, Sita Gufa cave, ancient Hindu pilgrimage site, Trimbakeshwar Jyotirlinga nearby, Nashik Caves (Pandavleni Caves) Buddhist rock-cut from 1st century BCE, Coin Museum, Ramkund bathing ghat, wine tours and tastings, grape vineyards, hill stations Igatpuri-Trimbak nearby, growing IT hub, 180 km from Mumbai, pleasant climate, spiritual and modern blend, adventure activities, trekking forts."
+  },
+  {
+    "name": "Pune",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 18.5204,
+      "long": 73.8567
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Oxford of East with educational institutions, Maratha Empire capital under Peshwas, Shaniwar Wada fort palace ruins, Aga Khan Palace where Gandhiji was imprisoned, Osho International Meditation Resort, Dagdusheth Halwai Ganpati Temple, Pune University, Koregaon Park cafes, FC Road shopping, Deccan Gymkhana, IT hub, automobile industry, Pataleshwar Cave Temple 8th century, Sinhagad Fort nearby, Lonavala-Khandala hill stations 60 km away, vibrant nightlife, startup ecosystem, cycling culture, Pune International Film Festival, pleasant weather, cosmopolitan culture, Marathi heritage, food scene diverse."
+  },
+  {
+    "name": "Raigad Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Raigad",
+    "coordinates": {
+      "lat": 18.3175,
+      "long": 73.4333
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Chhatrapati Shivaji Maharaj's capital 1674-1680, coronation site where Shivaji crowned Chhatrapati, 820m altitude hilltop fort, 1737 steps to climb or ropeway, ruins of Raj Bhavan palace, Nagarkhana, Hirkani Buruj bastion, Samadhi (tomb) of Shivaji, Takmak Tok execution point cliff, Maha Darwaja main gate, temples, reservoirs, panoramic Sahyadri mountain views, historical significance immense for Marathas, Shivaji's throne replica, monsoon scenic with clouds, trekking popular, 170 km from Mumbai, carries Maratha pride, sunrise-sunset spectacular, guides available, photography paradise, Maratha architecture."
+  },
+  {
+    "name": "Chikhaldara",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Amravati",
+    "coordinates": {
+      "lat": 21.0626,
+      "long": 78.9394
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Only hill station of Vidarbha region at 1118m in Satpura Range, coffee plantations, Melghat Tiger Reserve adjacent (conservation success), Bhimkund lake where Bhima killed demon Keechaka (Mahabharat legend), Gavilgad Fort, Narnala Fort, Panchbol Point 5 echoes, Devi Point, Hurricane Point, waterfalls, pleasant climate, less commercialized compared to Western Ghats stations, tribal Korku culture, bamboo forests, wildlife including panthers, sloth bears, birds, trekking, nature photography, 234 km from Nagpur, offbeat destination, colonial-era rest houses, winter foggy mornings, panoramic valley views, peaceful retreat."
+  },
+  {
+    "name": "Tadoba Andhari Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Chandrapur",
+    "coordinates": {
+      "lat": 20.3300,
+      "long": 79.3000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Maharashtra's oldest and largest national park 625 sq km, declared 1995, Project Tiger reserve with 115+ tigers (2022 census), high tiger sighting probability especially April-May, Maya tigress famous, leopards, sloth bears, wild dogs, gaur bison, 195+ bird species, Tadoba Lake 3 sq km, teak forests, bamboo, dry deciduous, safari zones - Moharli, Tadoba, Kolsa, Pangdi, Zari gates, buffer zones, gypsy and canter safaris, core zone requires online booking advance, Chandrapur 45 km away, resorts outside park, March-April best for wildlife, monsoon closed, Irai water reservoir, crocodiles, photography paradise."
+  },
+  {
+    "name": "Sanjay Gandhi National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.2150,
+      "long": 72.9100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "104 sq km protected area within Mumbai city limits (rare urban national park), Borivali location, Kanheri Caves Buddhist rock-cut monuments 1st century BCE-10th century CE with 109 caves, leopards 40+, spotted deer, langurs, macaques, Indian flying fox colonies, 270+ bird species, butterflies, nature trails, toy train, lion and tiger safari park, boating at Tulsi Lake and Vihar Lake (Mumbai's water supply), cycling, trekking, Van Rani restaurant, educational center, film shooting location, lungs of Mumbai, biodiversity despite urbanization, weekend getaway, entry fee nominal, photography allowed."
+  },
+  {
+    "name": "Bhandardara",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Ahmednagar",
+    "coordinates": {
+      "lat": 19.5660,
+      "long": 73.7600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Scenic hill station at 750m in Sahyadri mountains, Arthur Lake reservoir created by Wilson Dam, Randha Falls cascading 170 feet (Niagara of Maharashtra) spectacular in monsoon, Kalsubai Peak (1646m Maharashtra's highest) trekking base, Ratangad Fort, Sandhan Valley grand canyon trek, Umbrella Falls, camping by lakeside, fireflies in May-June pre-monsoon, stargazing destination (dark sky), monsoon paradise with lush greenery, mirror-like lake reflections, Wilson Dam 1926 with water overflow in monsoons, Bhandardara Dam, temples, weekend getaway 185 km from Mumbai, limited accommodation, peaceful escape, photography heaven, reverse waterfall effect winds."
+  },
+  {
+    "name": "Mahabaleshwar",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Satara",
+    "coordinates": {
+      "lat": 17.9252,
+      "long": 73.6629
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Queen of Hill Stations at 1353m altitude, strawberry farms famous (strawberry capital), Venna Lake boating, Pratapgad Fort 24 km (Shivaji killed Afzal Khan), Wilson Point/Sunrise Point highest, Arthur's Seat viewpoint, Elephant's Head Point, Lodwick Point, Mapro Garden strawberry products, 5 rivers originate - Krishna, Venna, Koyna, Savitri, Gayatri, Mahabaleshwar Temple ancient Shiva shrine, colonial-era architecture, British summer capital, honeymoon destination, cool climate year-round, monsoon tourism with waterfalls, Panchgani nearby twin hill station, trekking, horse riding, toy train, resorts, 120 km from Pune, tourism infrastructure developed, crowded peak season."
+  },
+  {
+    "name": "Malshej Ghat",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Thane",
+    "coordinates": {
+      "lat": 19.4160,
+      "long": 73.5660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Mountain pass in Western Ghats at 700m connecting Pune-Kalyan route, monsoon paradise with 30+ waterfalls, flamingos migrate to Pimpalgaon Joga Dam lake in August-September (rare inland flamingo migration), misty mountain roads, hairpin bends, Harishchandragad Fort trekking base, Ajoba Hill Fort, Shivneri Fort (Shivaji's birthplace) 40 km, Bhandardara nearby, scenic drives through clouds, roadside waterfalls, photography hotspot, adventure bikers' favorite, treacherous in heavy monsoons, limited accommodation (MTDC resort), offbeat compared to Lonavala, peaceful, biodiversity rich, birdwatching paradise, endemic species, winter pleasant, summer moderate."
+  },
+  {
+    "name": "Harihareshwar",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Raigad",
+    "coordinates": {
+      "lat": 18.0800,
+      "long": 73.0300
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Beach town with spiritual significance, Harihareshwar Temple dedicated to Shiva and Vishnu, Kalbhairav Temple on hillock with panoramic views, clean beaches with black sand, relatively less crowded, Shrivardhan beach 10 km away, Bagmandla creek, Brahma Kund, Vyadeshwar Temple, surfing and water sports emerging, fishing village, Konkan region charm, coconut groves, betel nut plantations, seafood fresh, homestays and resorts, 210 km from Mumbai via coastal route, Diveagar beach nearby, peaceful weekend getaway, temple town meets beach destination, sunset spectacular, safe swimming, local festivals, pilgrimage combined with leisure."
+  },
+  {
+    "name": "Ganpatipule",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "coordinates": {
+      "lat": 16.6330,
+      "long": 73.3400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Pristine beach with 400-year-old Swayambhu Ganesha Temple (self-manifested idol facing west toward Arabian Sea - rare), 3 km long white sand beach, Jaigad Fort 25 km with lighthouse, Prachin Konkan museum showcasing Konkan culture, Alphonso mango orchards (mango capital), water sports - parasailing, banana boat, jet-ski, Aare Ware Beach, Malgund (birthplace of Marathi poet Keshavsut), Ratnagiri district known for Alphonso export, Tilak's birthplace Ratnagiri 25 km, clean unpolluted beach, family destination, MTDC resort, temple attracts pilgrims, Ganesh Chaturthi celebrations grand, 375 km from Mumbai, Konkan coastal beauty, cashew plantations."
+  },
+  {
+    "name": "Murud-Janjira",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Raigad",
+    "coordinates": {
+      "lat": 18.3350,
+      "long": 72.9900
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Janjira Fort - only unconquered fort on Arabian Sea, island fortress 500m offshore, 40-foot-high walls, built 15th century by Siddis (Africans serving Adilshahi), withstood attacks by Marathas, Portuguese, British, 22 bastions still intact, 3 sweet water wells despite seawater, boat ride from Rajapuri jetty 5 km, ruins of palaces, cannons, mosque, Murud Beach pristine, Kashid Beach 20 km white sand, Ahmedganj Palace Siddi royal family, Nawab's tomb, Dattatreya Temple, Konkan coastal charm, 165 km from Mumbai, weekend destination, seafood, historical significance, photography, tides affect boat service, architectural marvel in sea."
+  },
+  {
+    "name": "Lavasa",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 18.2925,
+      "long": 73.3961
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Planned hill city inspired by Italian town Portofino, India's first private hill station at 650m, colorful Mediterranean architecture, Warasgaon Dam lakeside, waterfront promenade, multi-cuisine restaurants, adventure activities - water sports, rappelling, trekking, cycling, Dasve viewpoint, Temghar Dam, boutique hotels, International Convention Centre, Lavasa Half Marathon, Murud village cultural, monsoon tourism, controversial development in Western Ghats, 65 km from Pune, weekend getaway, Nature Trails, Bamboosa bamboo thematic resort, luxury tourism, Instagram-worthy colorful buildings, pedestrian-friendly, electric vehicles, sustainable planning (debated), resort town atmosphere."
+  },
+  {
+    "name": "Rajmachi Fort",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 18.9100,
+      "long": 73.4160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Twin forts Shrivardhan and Manaranjan at 900m between Lonavala and Karjat, popular trekking destination accessible from Kondivade village (4 hours) or Lonavala (6 hours), monsoon trekking paradise with fireflies in June, camping overnight at village or fort plateau, Sahyadri mountain range views, historical significance in Shivaji's and Peshwa's times, strategic location overlooking trade route, ruins of fortifications, reservoirs, temples, British used as observation post, Duke's Nose (Nagphani) visible from plateau, lush green in monsoons with waterfalls, base village Udhewadi homestays, budget trekking, weekend groups, photography, stargazing at night, accessible to beginners, Karnala Bird Sanctuary nearby."
+  },
+  {
+    "name": "Harishchandragad",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Ahmednagar",
+    "coordinates": {
+      "lat": 19.3620,
+      "long": 73.7160
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Challenging trek to fort at 1424m in Malshej region, famous for Konkan Kada cliff with vertical drop 1000+ feet, adrenaline rush standing at edge, Kedareshwar Cave Temple 11th century with massive Shiva Linga supported by 4 pillars (one broken legend), Harishchandreshwar Temple, Saptatirtha Pushkarni water tank, Tolar Khind rock-cut passage, Taramati Peak highest point, Rohidas caves for overnight camping, basecamp Khireshwar village 3-hour climb or Pachnai 5-hour trek, difficult grade suitable for experienced trekkers, slippery in monsoons but spectacular, cloud formations below kada in monsoons, sunrise-sunset magical, temple complex ancient, water available year-round, trekking groups organize regularly, Bhandardara nearby, photography stunning."
+  },
+  {
+    "name": "Sinhagad Fort",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 18.3660,
+      "long": 73.7550
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Lion Fort at 1312m, 35 km from Pune, famous battle site where Tanaji Malusare died capturing fort from Mughals 1670, Tanaji's memorial, Rajaram's tomb, Kalavantinicha Mahal, military architecture with bastions, gates - Pune Darwaza, Kalyan Darwaza, ruins of temples, reservoirs, 2-hour trek from base village Sinhagad Ghat, motorable road to top also available, Khadakwasla Dam views, popular weekend spot for Punekars, famous for Mastani Pith-Bhakri (jowar roti) and yogurt at stalls on fort, sunset point, monsoon lush green, winter morning mist, easy trek suitable for families, mountain biking route, night trekking groups, Maratha history significance, Shivaji's fort, overcrowded weekends, local food vendors."
+  },
+  {
+    "name": "Panhala Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Kolhapur",
+    "coordinates": {
+      "lat": 16.8040,
+      "long": 74.1230
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest fort in Deccan at 845m altitude, 20 km from Kolhapur, 7.25 km circumference, built by Bhoja dynasty 12th century, Shivaji's favorite fort spent 500 days, Teen Darwaza (triple gateway), Sajja Kothi where Shivaji imprisoned Siddi Johar, Andhar Bavadi double-storied well with secret escape tunnel, Ambabai Temple, Sambhaji II's Samadhi, Maratha and Bijapur architecture mix, 3 double and 2 triple entrance gateways, monsoon retreat for rulers, panoramic Sahyadri views, sunset from Sajjagad Fort visible 22 km away, monuments, granaries, Panhala became Maratha stronghold, historical battles site, scenic hill station, MTDC resort, Parli Vaijnath nearby."
+  },
+  {
+    "name": "Ganesh Ghat",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "coordinates": {
+      "lat": 20.0080,
+      "long": 73.7880
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred bathing ghat on Godavari River in Nashik, part of Panchavati pilgrimage circuit where Lord Rama spent exile years, Sita Gufaa (cave) where Sita was abducted by Ravana, Kalaram Temple 200m Rama idol in black stone, Ram Kund sacred tank where devotees immerse ashes, Kumbh Mela held every 12 years (2027 next Nashik Kumbh), Naroshankar Temple, Sundar Narayan Temple, evening aarti at ghats, Godavari considered as sacred as Ganga, spirituality hub, pilgrims take holy dip believing sins washed, ancient temples surround area, mythological significance from Ramayana, religious ceremonies daily, Tapovan ashrams nearby, religious tourism, architecture Indo-Aryan, boat rides, cultural immersion, street food."
+  },
+  {
+    "name": "Elephanta Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 18.9630,
+      "long": 72.9319
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Annual music and dance festival held in November at Elephanta Caves UNESCO World Heritage Site, organized by Maharashtra Tourism Development Corporation, classical music concerts - Hindustani and Carnatic by renowned artists, classical dance performances - Bharatanatyam, Kathak, Odissi, Kathakali, open-air amphitheater setting against cave backdrop, two-day festival coinciding with full moon, cultural extravaganza showcasing India's heritage performing arts, fusion performances, sunset ferry rides from Gateway of India special during festival, limited passes sold advance, combines tourism with culture, promotes Elephanta Caves globally, illuminated caves spectacular at night, food stalls, photography opportunities, spiritual ambiance, Mumbai cultural calendar highlight."
+  },
+  {
+    "name": "Ellora Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "coordinates": {
+      "lat": 20.0262,
+      "long": 75.1794
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "February",
+      "March"
+    ],
+    "description": "Classical dance and music festival held annually in February-March at Ellora Caves UNESCO World Heritage Site, organized by MTDC, against backdrop of Kailasa Temple carved monolith, Hindustani classical music maestros perform, classical dance forms - Bharatanatyam, Kathak, Manipuri, Mohiniyattam, fusion performances blending tradition and contemporary, open-air auditorium natural amphitheater, three-day festival, promotes Indian classical arts and Ellora tourism globally, full moon coinciding adds mystical aura, limited delegate passes, illuminated caves create magical atmosphere, heritage site comes alive with culture, stalls selling handicrafts, Aurangabad silk sarees, food courts, photography allowed, combines tourism sightseeing with cultural immersion, international audience."
+  },
+  {
+    "name": "Lavasa Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "coordinates": {
+      "lat": 18.2925,
+      "long": 73.3961
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December"
+    ],
+    "description": "Annual December festival in India's first private planned hill city Lavasa, Italian-themed town comes alive with carnival celebrations, live music concerts featuring Bollywood and indie artists, DJ nights and EDM parties, adventure sports competitions - rappelling, zip-lining, water sports on Warasgaon Lake, food festival with multi-cuisine stalls and celebrity chef demonstrations, wine and dine events at lakefront restaurants, art exhibitions, fashion shows, vintage car rally, New Year countdown celebrations grand, fireworks over lake, illuminated colorful buildings Mediterranean-style, attracts young crowds and families from Pune-Mumbai, hotel packages, yacht parties, nightlife, combines luxury with adventure, photography hotspot, Instagram-worthy carnival atmosphere, tourism promotion initiative."
+  }
+]

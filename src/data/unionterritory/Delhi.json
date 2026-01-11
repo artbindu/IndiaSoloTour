@@ -1,0 +1,720 @@
+[
+  {
+    "name": "India Gate",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "coordinates": {
+      "lat": 28.6129,
+      "long": 77.2295
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "42m high war memorial arch built 1931 by Edwin Lutyens, commemorates 82,000+ Indian soldiers who died in WWI and Third Anglo-Afghan War, Amar Jawan Jyoti eternal flame (merged with National War Memorial 2022), popular evening picnic spot, illuminated at night, Rajpath ceremonial boulevard, boat club nearby, Republic Day parade route, street food vendors, iconic Delhi landmark, photo spot, surrounded by lush lawns."
+  },
+  {
+    "name": "Red Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Old Delhi",
+    "coordinates": {
+      "lat": 28.6562,
+      "long": 77.2410
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Lal Qila UNESCO World Heritage Site built 1639-1648 by Mughal Emperor Shah Jahan, red sandstone fort spanning 254 acres, Lahori Gate entrance, Diwan-i-Aam (Hall of Public Audience), Diwan-i-Khas (Hall of Private Audience with Peacock Throne), Rang Mahal, Khas Mahal, Hammam, Moti Masjid, Naubat Khana, sound and light show, Prime Minister's Independence Day speech venue since 1947, ASI protected, museum, Mughal architecture masterpiece."
+  },
+  {
+    "name": "Qutub Minar",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Mehrauli",
+    "coordinates": {
+      "lat": 28.5244,
+      "long": 77.1855
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "World's tallest brick minaret at 72.5m (238 ft) built 1199 by Qutb-ud-din Aibak, UNESCO World Heritage Site, five-storey tapering tower with red sandstone and marble, Indo-Islamic architecture, Quwwat-ul-Islam Mosque (India's first mosque), Iron Pillar of Delhi (1600 years rust-free metallurgical marvel), Alai Darwaza gateway, Alai Minar incomplete tower, Iltutmish's tomb, Qutub Complex archaeological park, intricate carvings, calligraphy, victory tower symbolizing Delhi Sultanate."
+  },
+  {
+    "name": "Lotus Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Kalkaji",
+    "coordinates": {
+      "lat": 28.5535,
+      "long": 77.2588
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Baháʼí House of Worship shaped like lotus flower with 27 white marble petals, designed by Iranian architect Fariborz Sahba, completed 1986, open to all religions for prayer and meditation, no sermons or rituals, 9 pools and gardens, won architectural awards, 10,000+ daily visitors, peaceful atmosphere, photography from outside only, shoe removal required, silence maintained inside, 40-seat capacity, modernist architecture marvel, symbol of unity."
+  },
+  {
+    "name": "Akshardham Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Noida Road",
+    "coordinates": {
+      "lat": 28.6127,
+      "long": 77.2773
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Swaminarayan Akshardham complex inaugurated 2005, built by BAPS in 5 years with 8000 pink sandstone and marble carved by 3000 artisans, 141 feet high, 316 feet wide, 370 feet long main monument, Sahaj Anand Water Show with underwater robots and lights, Sanskruti Vihar boat ride through 10,000 years Indian history, IMAX theatre, musical fountain, exhibitions on Swaminarayan's life, Yagnapurush Kund largest step-well, Guinness World Records, no photography inside, strict security, spiritual-cultural campus."
+  },
+  {
+    "name": "Humayun's Tomb",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Nizamuddin",
+    "coordinates": {
+      "lat": 28.5933,
+      "long": 77.2507
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site built 1565-1572 by Mughal Emperor Humayun's widow Bega Begum, first garden-tomb in Indian subcontinent inspiring Taj Mahal, Char Bagh (four gardens) layout, Persian-Mughal architecture, red sandstone with white and black marble, double-domed structure, 47m high dome, tombs of 150+ Mughal royals, Isa Khan's Tomb nearby, Nila Gumbad, Bu Halima's tomb, restoration by Aga Khan Trust, symmetrical gardens, sunset photography spot."
+  },
+  {
+    "name": "Raj Ghat",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "India Gate Area",
+    "coordinates": {
+      "lat": 28.6406,
+      "long": 77.2430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Memorial to Mahatma Gandhi marking his cremation site on January 31, 1948, black marble platform with eternal flame, inscribed with Gandhi's last words 'Hey Ram', surrounded by lush lawns, prayer meetings on Fridays and Gandhi Jayanti (October 2), dignitaries pay homage, nearby memorials include Shanti Van (Jawaharlal Nehru), Shakti Sthal (Indira Gandhi), Veer Bhumi (Rajiv Gandhi), Vijay Ghat (Lal Bahadur Shastri), peaceful atmosphere, shoe removal required, Yamuna riverbank location."
+  },
+  {
+    "name": "Lodhi Gardens",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Lodhi Road",
+    "coordinates": {
+      "lat": 28.5933,
+      "long": 77.2207
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "90-acre city park with 15th-century Lodhi dynasty tombs - Muhammad Shah's Tomb (1444), Sikandar Lodhi's Tomb (1517), Shish Gumbad, Bara Gumbad mosque and tomb complex, Mohammed Shah's Mosque, Athpula bridge (seven arches), landscaped by British Lady Willingdon 1936, Delhi's lung, jogging track, yoga sessions, birdwatching with 50+ species, butterfly conservatory, Rose Garden, morning walkers' paradise, photography, heritage picnics, serene urban oasis."
+  },
+  {
+    "name": "Chandni Chowk",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Old Delhi",
+    "coordinates": {
+      "lat": 28.6562,
+      "long": 77.2303
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Asia's largest wholesale market built 1650 by Shah Jahan, Moonlight Square with reflecting pool (now removed), narrow lanes (galis) with specialized markets - Dariba Kalan jewelry, Kinari Bazaar wedding items, Nai Sarak books, Katra Neel fabric, Paranthe Wali Gali famous for parathas since 1872, Karim's Mughlai food since 1913, Jama Masjid nearby, Sis Ganj Gurudwara, Gauri Shankar Temple, rickshaw rides, street food, chaotic energy, Old Delhi essence, heritage walks."
+  },
+  {
+    "name": "Dilli Haat",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Delhi",
+    "city": "INA",
+    "coordinates": {
+      "lat": 28.5678,
+      "long": 77.2197
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Open-air food and handicrafts bazaar representing all Indian states, 62 stalls rotating every 15 days showcasing regional crafts, handlooms, pottery, jewelry, 25+ food stalls offering authentic cuisines from Kashmir to Tamil Nadu, cultural performances in evenings, nominal entry fee, village fair atmosphere in urban setting, three locations (INA largest, Pitampura, Janakpuri), operated by Delhi Tourism, ethnic decor, souvenir shopping, family destination, cultural immersion without traveling India."
+  },
+  {
+    "name": "Hauz Khas Village",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Hauz Khas",
+    "coordinates": {
+      "lat": 28.5490,
+      "long": 77.1980
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Medieval water reservoir (Hauz-i-Alai) built 1304 by Alauddin Khalji, expanded by Firoz Shah Tughlaq in 1354 with madrasa, mosque, and tomb complex, now hipster neighborhood with boutiques, art galleries, cafes, bars, nightclubs, Deer Park (urban forest with spotted deer), ruins overlooking lake, fashion designers' hub, street art, bohemian vibe, weekend nightlife, photography, heritage ruins merged with contemporary culture, offbeat Delhi experience, gentrified village."
+  },
+  {
+    "name": "Garden of Five Senses",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Said-Ul-Ajaib",
+    "coordinates": {
+      "lat": 28.5396,
+      "long": 77.2100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "20-acre theme park by Delhi Tourism designed to stimulate five senses, opened 2003, Khas Bagh (Mughal-style), Herb Garden, Color Garden, Trail of Fragrance, Court of Palms, Food Court with amphitheater, sculptures and artwork, ponds and waterfalls, rock formations, spiral staircases, photography backdrop, pre-wedding shoots popular, Spring Fest in February, cultural events venue, peaceful escape, entry fee, ideal for nature lovers, romantic spot, biodiversity showcase."
+  },
+  {
+    "name": "National Rail Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Chanakyapuri",
+    "coordinates": {
+      "lat": 28.6085,
+      "long": 77.1995
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "10-acre museum opened 1977, 100+ real-size exhibits including Fairy Queen (1855 world's oldest working steam locomotive), Patiala State Monorail (1907), Prince of Wales Saloon, Maharajas' luxurious saloons, royal coaches, diesel and electric locomotives, indoor gallery with models and artifacts, toy train ride for visitors, railway simulator, 3D coach, postal coach, signal systems, British-era heritage, family destination, railway history 163 years, photography allowed, nominal entry."
+  },
+  {
+    "name": "Nehru Planetarium",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Teen Murti",
+    "coordinates": {
+      "lat": 28.6125,
+      "long": 77.2150
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Opened 1984 at Teen Murti Estate, sky theatre with Zeiss projector showing celestial phenomena, astronomy exhibitions, virtual reality space experiences, science demonstrations, Sky Theatre shows in Hindi and English (multiple daily), Astro Quiz competitions, Summer Science Camp, Space Vedh observatory with telescopes for stargazing, exhibits on space missions including ISRO achievements, nominal entry, educational destination for students, planetarium shows 45 minutes, advance booking recommended, part of Nehru Memorial Museum & Library complex."
+  },
+  {
+    "name": "Purana Quila",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Mathura Road",
+    "coordinates": {
+      "lat": 28.6129,
+      "long": 77.2410
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Old Fort built by Humayun 1538-1545 on Indraprastha (Mahabharata's Pandava capital) excavations proving 2500 BC habitation, Sher Shah Suri completed it, massive gates - Bara Darwaza, Humayun Darwaza, Talaqi Darwaza, Qila-i-Kuhna Mosque (Sher Shah's personal mosque with intricate decorations), Sher Mandal octagonal tower library where Humayun fell to death 1556, boating in moat, sound and light show narrating Delhi's history, ASI protected, sunset views, photography, adjacent to Delhi Zoo, Purana Qila Lake."
+  },
+  {
+    "name": "Rashtrapati Bhavan",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Rajpath",
+    "coordinates": {
+      "lat": 28.6143,
+      "long": 77.1990
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Official residence of President of India, formerly Viceroy's House built 1912-1929 by Edwin Lutyens, 340-room estate covering 330 acres, Indo-Saracenic architecture, 145-foot Jaipur Column, Mughal Gardens open to public (February-March with 250+ rose varieties and tulips), Museum Complex opened 2016 with Presidential galleries, Change of Guard ceremony, forecourt events, world's largest residence of head of state, Raisina Hill location, Central Vista, prior booking required for tours, photography restricted."
+  },
+  {
+    "name": "ISKCON Temple Delhi",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Delhi",
+    "city": "East of Kailash",
+    "coordinates": {
+      "lat": 28.5675,
+      "long": 77.2473
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "International Society for Krishna Consciousness temple inaugurated 1998, 45-acre complex dedicated to Radha Krishna, main shrine with deities of Radha-Shyamsundar, Gaura-Nitai, prayer halls, Vedic Museum showcasing Bhagavad Gita teachings with robotic shows and dioramas, vegetarian restaurant serving prasadam, cultural center, evening aarti with chanting and dancing, bookstore, gurukul, gardens, fountains, peaceful atmosphere, Janmashtami celebrations grand, no entry fee, open to all, spiritual discourses."
+  },
+  {
+    "name": "Pragati Maidan",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "coordinates": {
+      "lat": 28.6192,
+      "long": 77.2325
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "India's largest exhibition and convention center, redeveloped 2023 into state-of-art complex with integrated transit hub, hosts India International Trade Fair (IITF) annually in November, Auto Expo, book fairs, specialized industry exhibitions, convention halls, amphitheater, modern architecture, India Gate proximity, now part of IECC (India Exhibition and Convention Centre) managed by ITPO, metro connectivity, event schedules vary, business tourism hub, technology showcases, cultural events venue, Bharat Mandapam for G20 Summit 2023."
+  },
+  {
+    "name": "Safdarjung Tomb",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Safdarjung",
+    "coordinates": {
+      "lat": 28.5937,
+      "long": 77.2195
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Last monumental garden tomb built 1754 for Safdarjung (Nawab of Awadh, Prime Minister of Mughal Empire), late Mughal architecture showing decline, red and buff sandstone with marble, Char Bagh layout, domed structure influenced by Humayun's Tomb but smaller scale, Moti Mahal (pearl palace), Jangli Mahal (wilderness palace), Badshah Pasand (king's favorite), ornate interiors with stucco decorations, ASI monument, well-maintained gardens, peaceful, photography, Lodi Road area, sunset spot, archaeological heritage."
+  },
+  {
+    "name": "Tughlaqabad Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Tughlaqabad",
+    "coordinates": {
+      "lat": 28.4853,
+      "long": 77.3110
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ruined fort city built 1321-1325 by Ghiyasuddin Tughlaq in just 4 years, third historic city of Delhi, massive stone fortifications with 13 gates spanning 6.5 km, rectangular fort with citadel, palace area, grid pattern streets, Adilabad Fort adjacent built by Muhammad bin Tughlaq, Ghiyasuddin Tughlaq's Tomb in artificial lake connected by causeway, legend of Sufi saint Nizamuddin Auliya's curse causing abandonment, dramatic ruins, trekking through remains, panoramic views, offbeat historical site, sunset photography, less touristy, authentic medieval atmosphere."
+  },
+  {
+    "name": "Yamuna Biodiversity Park",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Wazirabad",
+    "coordinates": {
+      "lat": 28.7044,
+      "long": 77.2600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "457-acre ecological park on Yamuna floodplains developed by Delhi Development Authority, restored from barren land to biodiversity hotspot, 1500+ plant species, butterfly conservatory with 70+ species, 200+ bird species including migratory, wetlands ecosystem, bamboo forest, aromatic garden, medicinal plants section, nature trails, birdwatching towers, interpretation center, environmental education programs, free entry, cycling allowed, morning best for birdwatching, Delhi's green lung, conservation success story, research zone, eco-tourism model."
+  },
+  {
+    "name": "Majnu Ka Tilla",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Delhi",
+    "city": "North Delhi",
+    "coordinates": {
+      "lat": 28.7130,
+      "long": 77.2035
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Little Tibet in Delhi, Tibetan refugee settlement established 1960s, narrow lanes with Tibetan culture, monasteries, prayer flags, Tibetan Market selling handicrafts, jewelry, clothes, bags, thangka paintings, authentic Tibetan cuisine - momos, thukpa, tingmo, shabalay, butter tea at restaurants like Ama Cafe and Dolma House, Samyeling Monastery, New Aruna Hotel rooftop cafes, budget accommodations, backpacker hub, cheap eats, cultural immersion, Yamuna riverbank, vibrant community, weekend destination."
+  },
+  {
+    "name": "Kamla Nehru Ridge",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Civil Lines",
+    "coordinates": {
+      "lat": 28.6420,
+      "long": 77.2110
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Northern extension of Delhi Ridge, 80 hectares urban forest, part of Aravalli Range, biodiversity hotspot with 193 bird species, 70+ butterfly species, jackals, nilgai, porcupines, nature trails, Butterfly Park, City Forest environmental education center, historical British-era Mutiny Memorial (Ajitgarh) commemorating 1857 Sepoy Mutiny, panoramic city views, jogging, birdwatching, morning walks, ecological significance as green lung, protest site history, near Delhi University North Campus, peaceful retreat, conservation area."
+  },
+  {
+    "name": "Delhi Haat INA",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Delhi",
+    "city": "INA",
+    "coordinates": {
+      "lat": 28.5678,
+      "long": 77.2197
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Permanent open-air craft bazaar and food plaza inaugurated 1994, 6-acre village-style market atmosphere, 62 stalls with rotating craftspeople from different states (15-day cycles), authentic handicrafts - Madhubani paintings, Pashmina shawls, Blue Pottery, tribal jewelry, bamboo crafts, 25+ regional food stalls offering cuisines from all states - Kashmiri wazwan, Bengali fish, Gujarati thali, South Indian dosa, Northeast momos, daily cultural performances in evenings, nominal entry ₹30, metro accessible, weekend crowds, souvenir shopping, cultural diversity showcase."
+  },
+  {
+    "name": "Safdarjung Tomb Garden",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Safdarjung",
+    "coordinates": {
+      "lat": 28.5937,
+      "long": 77.2195
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mughal Char Bagh (four-quadrant garden) layout surrounding Safdarjung Tomb, 280m square garden with water channels, fountains, pathways, seasonal flowers, Mughal garden principles of symmetry and paradise garden, manicured lawns, shaded by trees, peaceful walking area, picnic spot, photography backdrop especially during sunset, well-maintained by ASI, winter flowers in bloom, morning joggers, birdwatching, heritage garden setting, architectural photography with tomb, family destination, nominal entry, accessible via Jor Bagh metro."
+  },
+  {
+    "name": "Akshardham Light & Sound Show",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Akshardham",
+    "coordinates": {
+      "lat": 28.6127,
+      "long": 77.2773
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sahaj Anand Water Show spectacular multimedia fountain show at Akshardham complex, 27-meter high stepwell setting, world's largest LED screens, underwater fire effects, projections, lasers, storytelling of Kena Upanishad teaching through young boy Nachiketa meeting Yamraj (God of Death), 24-minute show combining ancient wisdom with cutting-edge technology, 15,000 spectators capacity, multilingual shows (Hindi/English), included in Akshardham entry, evening shows (6:30 PM and 7:30 PM winter), highly popular requiring early arrival, mesmerizing visuals, spiritual narrative."
+  },
+  {
+    "name": "India International Trade Fair",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Pragati Maidan",
+    "coordinates": {
+      "lat": 28.6192,
+      "long": 77.2325
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Annual trade fair held 14-27 November since 1980 at Pragati Maidan, Asia's largest trade fair, 14-day mega event with 7000+ exhibitors from Indian states and 100+ countries, themed pavilions showcasing handicrafts, textiles, electronics, automobiles, home appliances, partner country pavilion, food courts with regional cuisines, cultural performances, product launches, B2B and B2C segments, shopping bonanzas with discounts, attracts 3+ million visitors, Delhi's social event, crowd management challenges, advance tickets recommended, consumer deals, entertainment zone, fireworks."
+  },
+  {
+    "name": "Republic Day Parade",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Delhi",
+    "city": "Rajpath",
+    "coordinates": {
+      "lat": 28.6143,
+      "long": 77.1990
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "January"
+    ],
+    "description": "Grand parade held annually on January 26 since 1950 celebrating India becoming Republic, ceremonial boulevard from Rashtrapati Bhavan to India Gate (now Kartavya Path), chief guest usually foreign head of state, President of India unfurls flag, 21-gun salute, armed forces display with tanks, missiles, aircraft flypast, state tableaux showcasing culture and achievements, school children performances, bravery award winners, camel contingent BSF, motorcycle stunts, Beating Retreat on January 29, ticketed event with online booking October onwards, patriotic fervor, televised nationally."
+  }
+]

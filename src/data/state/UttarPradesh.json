@@ -1,0 +1,669 @@
+[
+  {
+    "name": "Taj Mahal",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.1751,
+      "long": 78.0421
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, one of Seven Wonders of the World, white marble mausoleum built by Shah Jahan for Mumtaz Mahal, Mughal architecture masterpiece, symbol of eternal love."
+  },
+  {
+    "name": "Agra Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.1795,
+      "long": 78.0211
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, massive 16th-century Mughal fort with red sandstone, Jahangir Palace, Khas Mahal, Diwan-i-Khas, Shah Jahan's prison, Taj Mahal views."
+  },
+  {
+    "name": "Fatehpur Sikri",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.0937,
+      "long": 77.6600
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, abandoned Mughal capital built by Akbar (1571), Buland Darwaza (54m high gate), Jama Masjid, Panch Mahal, Diwan-i-Khas, red sandstone complex."
+  },
+  {
+    "name": "Varanasi Ghats",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "coordinates": {
+      "lat": 25.3176,
+      "long": 82.9739
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "88 ghats along Ganges River, Dashashwamedh Ghat evening aarti, Manikarnika cremation ghat, boat rides at sunrise, ancient spiritual rituals, world's oldest living city."
+  },
+  {
+    "name": "Kashi Vishwanath Temple (Jyotirlinga)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "coordinates": {
+      "lat": 25.3109,
+      "long": 83.0107
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of 12 Jyotirlingas, most sacred Shiva temple, golden spire, rebuilt multiple times, Kashi Vishwanath Corridor project, spiritual epicenter of Hinduism."
+  },
+  {
+    "name": "Sarnath",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "coordinates": {
+      "lat": 25.3817,
+      "long": 83.0210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Where Buddha delivered first sermon after enlightenment, Dhamek Stupa, Ashoka Pillar with Lion Capital (national emblem), archaeological museum, Buddhist pilgrimage site."
+  },
+  {
+    "name": "Prayagraj Triveni Sangam",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "coordinates": {
+      "lat": 25.4358,
+      "long": 81.8463
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred confluence of Ganges, Yamuna, and mythical Saraswati rivers, Kumbh Mela venue, holy dip for moksha, boat rides to sangam point, Prayagraj Fort nearby."
+  },
+  {
+    "name": "Ayodhya Ram Janmabhoomi",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "coordinates": {
+      "lat": 26.7922,
+      "long": 82.1998
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Birthplace of Lord Rama, newly constructed Ram Mandir, Hanuman Garhi, Kanak Bhawan, Saryu River ghats, Ram Navami celebrations, ancient spiritual city from Ramayana."
+  },
+  {
+    "name": "Mathura Krishna Janmabhoomi",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "coordinates": {
+      "lat": 27.4924,
+      "long": 77.6737
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Birthplace of Lord Krishna, Krishna Janmabhoomi Temple complex, Keshava Dev Temple, Yamuna River ghats, Janmashtami celebrations, museums with Krishna artifacts."
+  },
+  {
+    "name": "Vrindavan",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "coordinates": {
+      "lat": 27.5819,
+      "long": 77.7006
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Krishna's childhood playground, 5,000+ temples including Banke Bihari, ISKCON temple, Prem Mandir, Radha Raman Temple, Holi celebrations, bhajan-kirtan culture."
+  },
+  {
+    "name": "Jhansi Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Jhansi",
+    "coordinates": {
+      "lat": 25.4484,
+      "long": 78.5685
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "17th-century hilltop fort associated with Rani Lakshmibai, 1857 rebellion site, Shiva temple, museum with weapons and artifacts, panoramic city views."
+  },
+  {
+    "name": "Chunar Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Mirzapur",
+    "coordinates": {
+      "lat": 25.1258,
+      "long": 82.8906
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient fort on Ganges banks dating to Vikramaditya era, Mughal & British history, Sonwa Mandap, underground passages, Ganges views, sandstone quarries."
+  },
+  {
+    "name": "Bara Imambara",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "coordinates": {
+      "lat": 26.8697,
+      "long": 80.9126
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "1784 Nawabi architecture masterpiece by Asaf-ud-Daula, world's largest arched hall without support beams, Bhool Bhulaiya (labyrinth), Asafi Mosque, stepwell."
+  },
+  {
+    "name": "Chota Imambara",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "coordinates": {
+      "lat": 26.8708,
+      "long": 80.9106
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Palace of Lights, built by Muhammad Ali Shah (1838), ornate interiors with chandeliers, Nawabi tombs, silver throne replica, beautiful illuminations during festivals."
+  },
+  {
+    "name": "Rumi Darwaza",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "coordinates": {
+      "lat": 26.8693,
+      "long": 80.9117
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Turkish Gate, 60-foot-high gateway built in 1784, inspired by Constantinople's Sublime Porte, symbol of Lucknow, Awadhi architecture, intricately decorated arches."
+  },
+  {
+    "name": "Dudhwa National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Lakhimpur Kheri",
+    "coordinates": {
+      "lat": 28.5530,
+      "long": 80.5710
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "Tiger reserve in Terai region, swamp deer (barasingha), one-horned rhinoceros, elephants, 400+ bird species, sal forests, grasslands, Nepal border proximity."
+  },
+  {
+    "name": "Nawabganj Bird Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "coordinates": {
+      "lat": 26.4580,
+      "long": 80.5200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Wetland sanctuary near Lucknow, 250+ bird species, migratory birds in winter, sarus cranes, painted storks, boating facilities, birdwatching paradise."
+  },
+  {
+    "name": "Kushinagar",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Kushinagar",
+    "coordinates": {
+      "lat": 26.7400,
+      "long": 83.8890
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Where Buddha attained Mahaparinirvana (final nirvana), Mahaparinirvana Temple with reclining Buddha statue, Ramabhar Stupa (cremation site), Buddhist pilgrimage circuit."
+  },
+  {
+    "name": "Chitrakoot",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Chitrakoot",
+    "coordinates": {
+      "lat": 25.2067,
+      "long": 81.0895
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Where Lord Rama spent 11 years in exile, Ramghat on Mandakini River, Kamadgiri temple hill, Hanuman Dhara, Sati Anusuya Ashram, Sphatik Shila, Ramayana heritage."
+  },
+  {
+    "name": "Vindhyachal Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Mirzapur",
+    "coordinates": {
+      "lat": 25.1650,
+      "long": 82.5130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Vindhyavasini Devi Shakti Peeth, ancient temple on Vindhya hills, Navratri celebrations, Ashtabhuja Temple, Kali Khoh cave temple, Ganges proximity."
+  },
+  {
+    "name": "Hastinapur Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Meerut",
+    "coordinates": {
+      "lat": 29.1630,
+      "long": 78.0400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Named after Mahabharata's capital Hastinapur, Ganges floodplain ecosystem, swamp deer, Bengal foxes, 350+ bird species, riverine forests, ancient archaeological sites."
+  },
+  {
+    "name": "Sravasti",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Shravasti",
+    "coordinates": {
+      "lat": 27.5070,
+      "long": 82.0500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Where Buddha spent 24 rainy seasons, Jetavana monastery ruins, Anathapindika's Stupa, Angulimala Stupa, Anandabodhi Tree, important Buddhist pilgrimage site."
+  },
+  {
+    "name": "Lucknow Residency",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "coordinates": {
+      "lat": 26.8700,
+      "long": 80.9462
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ruins of British Residency complex, 1857 Siege of Lucknow site, museum with battle artifacts, cemetery, preserved cannonball marks, colonial history landmark."
+  },
+  {
+    "name": "Chambal Wildlife Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 26.7180,
+      "long": 77.8810
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "National Chambal Sanctuary, critically endangered gharials (fish-eating crocodiles), Gangetic river dolphins, mugger crocodiles, river safaris, pristine Chambal River ecosystem."
+  },
+  {
+    "name": "Kumbh Mela (Prayagraj)",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "coordinates": {
+      "lat": 25.4358,
+      "long": 81.8463
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "January",
+      "February"
+    ],
+    "description": "UNESCO Intangible Cultural Heritage, world's largest religious gathering (every 12 years, Ardh Kumbh every 6), millions take holy dip at Sangam, spiritual processions, sadhus."
+  },
+  {
+    "name": "Dev Deepawali",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "coordinates": {
+      "lat": 25.3176,
+      "long": 82.9739
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Festival of Lights of the Gods, 15 days after Diwali on Kartik Purnima, millions of diyas lit on Ganges ghats, spectacular illuminated riverfront, Ganga aarti ceremonies."
+  }
+]

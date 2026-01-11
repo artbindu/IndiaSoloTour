@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Agatti Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Agatti",
+    "coordinates": {
+      "lat": 10.8230,
+      "long": 72.1650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Gateway to Lakshadweep with only airport in archipelago, 8 sq km coral island, stunning lagoon with turquoise waters, white sandy beaches, water sports hub with kayaking, sailing, canoeing, snorkeling, reef walking, coral reef visibility up to 20m, coconut palms, tuna fishing, Agatti Beach Resort, sunset views, entry point for island hopping, permit required, 459km from Kochi, pristine beauty, peaceful atmosphere."
+  },
+  {
+    "name": "Bangaram Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Bangaram",
+    "coordinates": {
+      "lat": 10.8760,
+      "long": 72.1910
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Uninhabited teardrop-shaped paradise island, luxury eco-resort destination, pristine beaches with powdery white sand, crystal clear lagoon, water sports paradise - scuba diving at 50+ dive sites, snorkeling with sea turtles and manta rays, kayaking, sailing, windsurfing, reef walking, bioluminescent plankton at night, honeymoon destination, alcohol permitted (unlike other Lakshadweep islands), 30-minute boat from Agatti, Robinson Crusoe experience, stargazing, exclusive getaway."
+  },
+  {
+    "name": "Kalpeni Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Kalpeni",
+    "coordinates": {
+      "lat": 10.5260,
+      "long": 72.6210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Three islands (Kalpeni, Pitti, Tillakkam) with vast shallow lagoon ideal for water sports, 2.5 sq km inhabited, Moideen Mosque historical significance, Tip Beach pristine beauty, reef walking during low tide, kayaking in lagoon, sailing, canoeing, snorkeling with colorful corals, Koefuku shipwreck remains visible, coconut groves, traditional Lakshadweep culture, Lava dance performances, scenic atoll, boat access from Agatti, permit required, peaceful village life."
+  },
+  {
+    "name": "Kavaratti Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Kavaratti",
+    "coordinates": {
+      "lat": 10.5620,
+      "long": 72.6360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Administrative capital of Lakshadweep, most developed island, 52 mosques including Ujra Mosque with ornate carvings, Marine Aquarium with 200+ specimens of corals, fish, sea turtles, water sports center, glass-bottom boat rides, kayaking, canoeing, snorkeling, scuba diving, pristine lagoon, white sand beaches, Dolphin Dive Center, handicraft shops selling shell crafts, coconut fiber products, tourist cottages, entry permit from Kochi, ship connectivity."
+  },
+  {
+    "name": "Minicoy Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Minicoy",
+    "coordinates": {
+      "lat": 8.3000,
+      "long": 73.0430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Southernmost and second largest island, 4.80 sq km crescent-shaped, Maldivian cultural influence (Mahal language, matrilineal society), 10 villages (atolhu), 300-foot British-era lighthouse with panoramic views, tuna fishing industry hub, Jahadhoni traditional boat building, Lava folk dance performances, pristine lagoon, coral reefs, snorkeling, scuba diving, women's participation in island affairs, unique culture distinct from other Lakshadweep islands, 398km from Kochi, ship access."
+  },
+  {
+    "name": "Andrott Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Andrott",
+    "coordinates": {
+      "lat": 11.3380,
+      "long": 72.7800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Largest and closest island to mainland India, 4.80 sq km, first to accept Islam in Lakshadweep, tomb of Saint Hazrat Ubaidullah (Mola Mola), Buddhist archaeological remains proving ancient connections, coconut fiber industry, 500-year-old Jumaat Mosque, boat building yard, unique non-lagoon island with open sea coastline, less touristy, fishing communities, traditional lifestyle, ship connectivity from Kochi, entry permit required, cultural significance."
+  },
+  {
+    "name": "Kadmat Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Kadmat",
+    "coordinates": {
+      "lat": 10.9320,
+      "long": 72.6400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "8 km long narrow island with widest lagoon in Lakshadweep, scuba diving paradise with Lacadives certification center, 25+ dive sites, visibility up to 40m, coral gardens, sea turtles, reef sharks, barracudas, kayaking, snorkeling, Kadmat Beach Resort, pristine beaches on both sides (lagoon and sea side), coconut plantations, sandbar explorations, water sports, reef walking, isolated beauty, 407km from Kochi, ship access, diving courses available."
+  },
+  {
+    "name": "Amini Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Amini",
+    "coordinates": {
+      "lat": 11.3660,
+      "long": 72.7080
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Northernmost inhabited island, 2.60 sq km with narrow strip connected to Kiltan atoll, rich flora and fauna with 137 plant species, coconut and tuna canning industry, traditional handicrafts, shell crafts, coir products, pristine beaches less explored, snorkeling spots, lagoon activities, authentic Lakshadweep village life, Friday Mosque architectural beauty, boat building traditions, fishing communities, offbeat destination, limited tourism infrastructure, ship connectivity from Kochi, permits required."
+  },
+  {
+    "name": "Bangaram Lagoon",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Bangaram",
+    "coordinates": {
+      "lat": 10.8770,
+      "long": 72.1920
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Crystal clear shallow lagoon encircling Bangaram Island, marine biodiversity hotspot with 600+ fish species, 78 coral species, sea turtles (Green and Hawksbill) nesting ground, manta rays, octopuses, dolphin sightings, glass-bottom boat tours, snorkeling paradise with visibility 20-40m, ecological conservation area, no plastic policy, mangrove ecosystems, bioluminescent plankton night experiences, underwater photography, eco-tourism model, sustainable practices, marine research zone."
+  },
+  {
+    "name": "Turtle Watching at Agatti",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Agatti",
+    "coordinates": {
+      "lat": 10.8230,
+      "long": 72.1650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Nesting site for Olive Ridley, Green, and Hawksbill sea turtles, night beach patrols during nesting season (September-March) to observe egg-laying, hatchlings release programs, conservation awareness initiatives by island administration, marine biology education, responsible eco-tourism practices, guided turtle walks with local experts, photography restrictions to protect turtles, beach cleanup drives, ecological significance, wildlife protection zone, sustainable tourism model, unforgettable experience."
+  },
+  {
+    "name": "Water Sports at Kavaratti",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Kavaratti",
+    "coordinates": {
+      "lat": 10.5620,
+      "long": 72.6360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Water Sports Institute headquarters, comprehensive facilities - scuba diving with PADI instructors, snorkeling in lagoon with coral gardens, kayaking through mangrove channels, windsurfing lessons, sailing (laser and optimist boats), canoeing, glass-bottom boat rides showing coral reefs, reef walking during low tide, water skiing, parasailing, deep-sea fishing, submarine ride experiences, equipment rentals, beginner to advanced courses, safety certified, organized water sports packages, marine adventure hub."
+  },
+  {
+    "name": "Scuba Diving at Kadmat",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Kadmat",
+    "coordinates": {
+      "lat": 10.9320,
+      "long": 72.6400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Premier diving destination with Lacadives Diving School, 25+ dive sites - Princess Royal Wall (vertical drop 50m), Canyon with swim-throughs, Shark Alley with grey reef sharks, Potato Patch coral garden, wreck diving at MV Corals shipwreck, visibility 20-40m year-round, marine megafauna - manta rays, turtles, barracudas, tuna, napoleon wrasse, PADI/SSI certification courses (Open Water to Divemaster), night diving, underwater photography, drift diving, conservation diving programs, experienced instructors, nitrox diving."
+  },
+  {
+    "name": "Lakshadweep Carnival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Kavaratti",
+    "coordinates": {
+      "lat": 10.5620,
+      "long": 72.6360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January"
+    ],
+    "description": "Annual island festival celebrating cultural diversity, traditional Lava folk dance performances by men in colorful costumes with rhythmic movements, Parichakali martial art dance with swords, island music (Kolkali), boat races with Jahadhoni traditional crafts, water sports competitions, beach volleyball, seafood festival showcasing tuna preparations, coconut-based cuisine, handicrafts exhibition (shell jewelry, coir products, mats), tourism promotion, cultural exchange, held across Kavaratti and other islands, attracts limited tourists due to entry permits, unique island experience."
+  },
+  {
+    "name": "Mini Island Exploration",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Minicoy",
+    "coordinates": {
+      "lat": 8.3000,
+      "long": 73.0430
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Exploring 10 villages (atolhu) of Minicoy on bicycle or foot, lighthouse climb (300 steps) for 360-degree ocean views, traditional Jahadhoni boat building yard visits, fish processing units, women's traditional bodyline tattooing culture (fading tradition), village homestays experiencing Mahal culture, Lava dance evening performances, fishing with locals, reef snorkeling, lagoon kayaking, cultural immersion with matrilineal families, tuna curry preparation, coconut toddy tapping demonstrations, offbeat authentic island life, photography, sunset at westernmost beach."
+  },
+  {
+    "name": "Island Hopping Tours",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Lakshadweep",
+    "city": "Multiple",
+    "coordinates": {
+      "lat": 10.8000,
+      "long": 72.6000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Organized multi-island packages by SPORTS (Society for Promotion of Nature Tourism and Sports) covering Agatti-Bangaram-Thinnakara-Kalpeni-Kavaratti circuit, MV Kavaratti ship cruise visiting 5-7 islands over 4-7 nights with onboard accommodation, helicopter rides between islands (limited), speed boat transfers, each island unique character - uninhabited pristine beaches, cultural villages, water sports hubs, permit bundled in package, photography opportunities, comprehensive Lakshadweep experience, guided tours, snorkeling equipment provided, meals included, luxury to budget options."
+  }
+]

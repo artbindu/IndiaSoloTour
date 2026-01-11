@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Kohima",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.6751,
+      "long": 94.1086
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Capital of Nagaland at 1444m altitude, Angami Naga heartland, World War II Battle of Kohima site, War Cemetery, State Museum, Kohima Village (Asia's largest village), terraced paddy fields, Cathedral Church, vibrant markets, gateway to Dzukou Valley."
+  },
+  {
+    "name": "Nagaland State Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.6725,
+      "long": 94.1100
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Comprehensive collection of Naga tribal heritage, traditional weapons, costumes, jewelry, woodcarvings, musical instruments, basketry, pottery, 16 major tribes represented, headhunting artifacts, cultural diversity, ethnographic displays, tribal history documentation."
+  },
+  {
+    "name": "War Cemetery",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.6730,
+      "long": 94.1130
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Commonwealth War Cemetery commemorating 1944 Battle of Kohima (turning point of WWII Burma Campaign), 1,420 Allied soldiers buried, famous Kohima Epitaph inscription, immaculately maintained gardens, tennis court battlefield site, war memorial, annual ceremonies, historical significance."
+  },
+  {
+    "name": "Dzukou Valley",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.7415,
+      "long": 94.1078
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "description": "Valley of Heavenly Flowers at Nagaland-Manipur border, 2438m altitude, carpet of Dzukou lilies (June-September), seasonal streams, camping destination, trekking routes from Viswema (3-4 hours) or Zakhama, pristine ecosystem, breathtaking sunrise-sunset, winter snow, biodiversity."
+  },
+  {
+    "name": "Japfu Peak",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.7590,
+      "long": 94.1200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "description": "Second highest peak in Nagaland at 3014m, sacred to Angami Nagas, world's tallest rhododendron tree (30m), trekking from Kohima or Viswema, Dzukou Valley access point, diverse flora-fauna, panoramic Himalayan views, challenging 6-7 hour trek, camping sites."
+  },
+  {
+    "name": "Khonoma Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.7193,
+      "long": 94.0885
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "India's first green village, Angami Naga warriors' historic stronghold, community-based conservation, hunting-free zone, terraced wet rice cultivation, Khonoma Nature Conservation and Tragopan Sanctuary, traditional stone walls, Blyth's tragopan habitat, sustainable tourism model, 20km from Kohima."
+  },
+  {
+    "name": "Mokokchung",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mokokchung",
+    "coordinates": {
+      "lat": 26.3290,
+      "long": 94.5380
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Cultural center of Ao Nagas, Land of Pioneers, Christianity's entry point in Nagaland (1876), Longkhum village (most beautiful in northeast), Ungma village (oldest Ao village), traditional Morungs (youth dormitories), Tsungremong Festival, educational hub, scenic landscapes."
+  },
+  {
+    "name": "Intanki National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.6700,
+      "long": 94.1070
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "202 sq km park in Peren district, tropical and sub-tropical forests, elephants, hoolock gibbons, wild dogs, hornbills, 300+ bird species, Zubza River, tribal villages, conservation area, trekking trails, birdwatching paradise, threatened species habitat."
+  },
+  {
+    "name": "Tuophema Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.6710,
+      "long": 94.1080
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Angami heritage village with traditional huts homestay experience, Touphema Tourist Village project, authentic Naga lifestyle, traditional dances, cuisine, community kitchen, handicrafts, Morung replica, rice beer (Zutho), cultural immersion, sustainable tourism, 41km from Kohima."
+  },
+  {
+    "name": "Mon",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mon",
+    "coordinates": {
+      "lat": 26.0140,
+      "long": 94.8400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Land of Konyak Nagas, former headhunters with facial tattoos and ear gauges, Longwa village (chief's house on India-Myanmar border), Shangnyu village (giant log drum), traditional jewelry, Angh (tribal king), warrior culture, remote district, unique tribal heritage."
+  },
+  {
+    "name": "Longwa Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mon",
+    "coordinates": {
+      "lat": 26.0880,
+      "long": 94.7850
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Unique village straddling India-Myanmar border, Angh's (king's) house half in India, half in Myanmar, Konyak tribal culture, tattooed headhunter warriors (now elderly), traditional lifestyle, bamboo houses, tribal artifacts, beadwork, hornbill feathers, permits required, remote location."
+  },
+  {
+    "name": "Mokokchung Ao Heritage Sites",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mokokchung",
+    "coordinates": {
+      "lat": 26.3320,
+      "long": 94.5370
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ao Naga cultural heritage including Ungma village (oldest Ao settlement), Longkhum village (panoramic views), Changtongya village, traditional Morungs, log drums, missionary history, Clark Memorial Church (1889), Dikhu River, terraced fields, Ao tribal customs."
+  },
+  {
+    "name": "Shilloi Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Phek",
+    "coordinates": {
+      "lat": 26.1500,
+      "long": 94.5650
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Natural heart-shaped lake sacred to Pochury and Chakhesang tribes, legend of tragic love story, dense forests, migratory birds, camping, boating, trekking, Shilloi peak nearby, biodiversity, pristine ecosystem, peaceful atmosphere, offbeat destination."
+  },
+  {
+    "name": "Khonoma Nature Conservation",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.7193,
+      "long": 94.0885
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Community-managed conservation area since 1998, 70 sq km Tragopan Sanctuary, Blyth's tragopan (state bird), wildlife protection by village community, hunting ban, eco-tourism initiatives, trekking trails, birdwatching, conservation success story, traditional ecological knowledge."
+  },
+  {
+    "name": "Nagaland Hornbill Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "coordinates": {
+      "lat": 25.6751,
+      "long": 94.1086
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December"
+    ],
+    "description": "Festival of Festivals (December 1-10), showcasing all 16 Naga tribes' cultural heritage at Kisama Heritage Village, traditional dances, songs, costumes, handicrafts, indigenous games, Naga wrestling, folk music, rock concerts, food stalls, international rock contest, tourism flagship event."
+  },
+  {
+    "name": "Ao Naga Cultural Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mokokchung",
+    "coordinates": {
+      "lat": 26.3320,
+      "long": 94.5370
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "January"
+    ],
+    "description": "Tsungremong harvest festival celebrated by Ao Nagas, thanksgiving after harvest, traditional rituals, community feasts, folk dances, songs, games, log drum performances, tribal unity, cultural preservation, January celebration, authentic Ao cultural experience."
+  },
+  {
+    "name": "Saramati Peak",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Tuensang",
+    "coordinates": {
+      "lat": 26.0865,
+      "long": 94.9850
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Nagaland's highest peak at 3826m on India-Myanmar border, Konyak tribal territory, challenging multi-day trek from Pungro or Kiphire, sunrise views, rhododendron forests, alpine meadows, panoramic Patkai range, permits required, adventure tourism, remote wilderness."
+  },
+  {
+    "name": "Phamkhai Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Phek",
+    "coordinates": {
+      "lat": 26.1500,
+      "long": 94.5550
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Chakhesang Naga village near Shilloi Lake, traditional lifestyle, weaving and handicrafts, terraced cultivation, Morung culture, community festivals, homestays, trekking base to Shilloi Lake, offbeat cultural experience, pristine environment."
+  },
+  {
+    "name": "Kiphire",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Kiphire",
+    "coordinates": {
+      "lat": 25.9270,
+      "long": 94.9630
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Easternmost and remotest district, Sangtam and Yimchunger Naga tribes, Saramati trek base camp, traditional villages, unique dialect and customs, scenic landscapes, Tizu River valley, relatively unexplored, authentic tribal experience, adventure tourism."
+  },
+  {
+    "name": "Tizit Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mon",
+    "coordinates": {
+      "lat": 26.0150,
+      "long": 94.8350
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Konyak village known for traditional craftsmanship, beadwork, basketry, warrior culture remnants, tattooed elders, traditional houses, Morung structures, log drums, Aoleang festival participation, tribal artifacts, bamboo architecture, cultural heritage preservation."
+  },
+  {
+    "name": "Longleng",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Longleng",
+    "coordinates": {
+      "lat": 26.1830,
+      "long": 94.8660
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Phom Naga tribal heartland, traditional villages with Morungs, Phom festival (Phomnya) in April, bamboo handicrafts, rice beer culture, community life, scenic hills, streams, offbeat destination, cultural authenticity, tribal customs and traditions."
+  },
+  {
+    "name": "Mokokchung Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mokokchung",
+    "coordinates": {
+      "lat": 26.3320,
+      "long": 94.5370
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December"
+    ],
+    "description": "Ao cultural celebration during Hornbill Festival period, traditional dances including Uchung Angia (war dance), folk songs, log drum performances, Ao tribal games, handicrafts exhibition, local cuisine, cultural competitions, community participation, December festivities."
+  },
+  {
+    "name": "Mon Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Nagaland",
+    "city": "Mon",
+    "coordinates": {
+      "lat": 26.0140,
+      "long": 94.8400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December"
+    ],
+    "description": "Aoleang Monyu festival of Konyak Nagas coinciding with Hornbill Festival, spring festival marking new agricultural cycle, traditional war dances, warrior attire, log drum performances, community feasts, rice beer (Zu), cultural preservation, tribal traditions, December celebration."
+  }
+]

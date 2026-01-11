@@ -1,0 +1,612 @@
+[
+  {
+    "name": "Imphal",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8170,
+      "long": 93.9368
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Capital of Manipur at 790m altitude, City of Jewels, gateway to Northeast, Kangla Fort historic site, Ima Keithel Asia's largest women-run market, Shree Govindajee Temple, War Cemetery, Khwairamband Bazar, Polo Ground birthplace of modern polo, Manipur State Museum, Kangla Museum, Shaheed Minar, vibrant Meitei culture, handloom and handicrafts hub, Manipuri dance performances, educational center with universities, base for exploring state, pleasant climate, scenic valley surrounded by hills."
+  },
+  {
+    "name": "Kangla Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8180,
+      "long": 93.9360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient capital of Manipur kingdom spanning 2000+ years, seat of Meitei rulers until 1891 Anglo-Manipur War, British military base until 2004 when restored to people, sacred site for Manipuris, Kangla Sha (sacred dragon) statues at entrance, archaeological ruins, moat surrounding fort, temples including Pakhangba Temple, Kangla Museum with royal artifacts, coronation hall remains, Nungjeng Pukhri Ingkhol (sacred pond), Kangla Sha Festival in November, symbol of Manipuri identity, 400-year-old Nupi Lan (Women's War) memorial, ASI protected, spiritual-historical significance."
+  },
+  {
+    "name": "Loktak Lake",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Bishnupur",
+    "coordinates": {
+      "lat": 24.5000,
+      "long": 93.9330
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Largest freshwater lake in Northeast India, 287 sq km, unique floating phumdis (heterogeneous mass of vegetation, soil, organic matter), Sendra Island with tourist huts and viewpoint, Keibul Lamjao National Park (world's only floating national park) within lake, Loktak Hydroelectric Project, lifeline for Manipur providing water, fishery, irrigation, boating facility, sunset views spectacular, migratory birds, fishing communities living on phumdis, ecological concerns due to dam, Ramsar Wetland site, Moirang Khunnung (Loktak Development Authority) viewpoint, photography paradise, 48 km from Imphal."
+  },
+  {
+    "name": "Keibul Lamjao National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Bishnupur",
+    "coordinates": {
+      "lat": 24.5060,
+      "long": 93.9170
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "World's only floating national park 40 sq km on Loktak Lake, declared 1977, last natural habitat of critically endangered Sangai deer (Rucervus eldii eldii, Manipur's state animal) with 260 population, floating phumdis biomass supporting ecosystem, wetland birds, hog deer, otters, water fowl, pythons, migratory birds winter, boat safari only access, watchtowers for wildlife viewing, conservation success story saving Sangai from extinction, research zone, Ramsar Convention recognition, ecological uniqueness, best visited November-February dry season, photographer's paradise, unique biodiversity, challenging terrain, permit required."
+  },
+  {
+    "name": "Shree Govindajee Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal East",
+    "coordinates": {
+      "lat": 24.8120,
+      "long": 93.9400
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Vaishnavite temple built 1846 by Maharaja Nara Singh, dedicated to Lord Krishna as Govindajee, architectural blend of Manipuri and Bengali styles, twin gold-domed mandirs (prayer halls) with raised platform, deities of Radha-Krishna and Balaram, daily Aarti ceremonies, Manipuri classical dance Ras Leela performed during festivals, Janmashtami grand celebrations, adjacent to Kangla Fort, Vishnu devotion center, Holi celebrations with Yaoshang festival, intricate carvings, serene courtyard, cultural-spiritual hub, shoe removal required, photography restricted inside sanctum, peaceful ambiance despite city location, Meitei Hindu pilgrimage."
+  },
+  {
+    "name": "Khonghampat Orchidarium",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8270,
+      "long": 93.9250
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Orchid research and conservation center, 110+ orchid species including rare and endangered, Manipur has 500+ orchid varieties making it orchid paradise, best bloom season October-May, Shirui Lily (Lilium macklineae state flower endemic to Shirui hills) cultivated here, greenhouses with controlled environment, medicinal orchids section, guided tours explaining orchid biology, orchid festival participation, sells orchid saplings, photography allowed, educational programs, biodiversity showcase, 12 km from Imphal on Imphal-Ukhrul road, morning visits best for colors, floral fragrances, botanical garden ambiance, conservation efforts for endemic species."
+  },
+  {
+    "name": "Ima Keithel (Women's Market)",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8160,
+      "long": 93.9370
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mother's Market, Asia's largest all-women run market with 5000+ Ima (mothers) vendors, 500-year-old tradition, three-storied complex with 4200 stalls, sells vegetables, fish, handloom textiles, Manipuri phanek (wraparound skirt), pottery, bamboo crafts, traditional garments, household items, Manipuri cuisine ingredients, symbol of Meitei women's economic independence and matriarchal influence, historical role in Nupi Lan (Women's War) 1904 and 1939 against British, operates 4 AM-6 PM daily, vibrant atmosphere, bargaining essential, authentic local experience, photography respectful with permission, women empowerment showcase, near Kangla Fort, Khwairamband area."
+  },
+  {
+    "name": "Andro Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal East",
+    "coordinates": {
+      "lat": 24.7880,
+      "long": 93.9970
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Traditional Meitei village 27 km from Imphal, pottery-making hub since ancient times using indigenous techniques, Mutua Longpi Pottery Museum showcasing terracotta artifacts, traditional houses, Andro Cultural Complex with ethnological museum displaying tribal artifacts, tools, costumes, musical instruments, Sembon (ancient pre-Hindu worship) practices, community festivals, Lai Ikouba Temple, Manipuri cultural immersion, homestays available, village walks, pottery workshops for tourists, handloom weaving demonstrations, organic farming, Manipur's cultural heritage preservation, peaceful rural life, authentic food, Kang-Sanaba (stone-lifting sport) demonstrations, cultural performances on request, offbeat destination."
+  },
+  {
+    "name": "Ukhrul",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Ukhrul",
+    "coordinates": {
+      "lat": 25.1160,
+      "long": 94.3630
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Picturesque hill town at 1662m altitude, 84 km northeast of Imphal, headquarters of Ukhrul district, Land of Shirui Lily, Tangkhul Naga tribal culture, rolling hills, pine forests, rhododendrons, Shirui Hill (2835m) trekking base, Khayang Peak highest point, Hundung Village Shirui Lily blooms in May-June, Phangrei Village hot springs, Nillai Tea Estate visits, Tangkhul cuisine tasting, traditional Naga villages, handlooms - Kashan shawls, Langmai Village, Sihai Village waterfalls, Kachouphung Lake, Shangshak Battle site (WWII 1944), Christian missionary influence, homestays, Adventure tourism, offbeat destination, cool climate year-round."
+  },
+  {
+    "name": "Shirui Hill",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Ukhrul",
+    "coordinates": {
+      "lat": 25.1250,
+      "long": 94.3780
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "2835m peak in Ukhrul district, home to endemic Shirui Lily (Lilium macklineae, Manipur's state flower), flowers bloom only here naturally in May-June at 2438m-2698m altitude, declared Shirui Kashong Peak (Shirui Hill Range) as notified area for conservation, trekking destination 3-4 hours climb from Hundung Village, panoramic views of Ukhrul hills and Myanmar border, Shirui Lily Festival held annually May-June in Ukhrul celebrating bloom, IUCN Red List endangered species, blue-pink flowers with purple-brown streaks, conservation efforts by Forest Department, biodiversity hotspot, rhododendrons, orchids, rare flora-fauna, camping allowed with permits, photography paradise, tribal guides available."
+  },
+  {
+    "name": "Shirui Lily Garden",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Ukhrul",
+    "coordinates": {
+      "lat": 25.1260,
+      "long": 94.3790
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Cultivated garden near Ukhrul town showcasing Shirui Lily (state flower) propagation efforts, ex-situ conservation site, blooms May-June matching natural Shirui Hill season, botanical garden with Manipur's flora, orchids, rhododendrons, medicinal plants, educational displays about endemic species, conservation awareness programs, Forest Department managed, research activities, Shirui Lily Festival venue with cultural programs, Tangkhul dances, traditional foods, handicrafts exhibition, photography spot, attempts to cultivate endangered species outside natural habitat, guided tours explaining ecology, accessible compared to Shirui Hill trek, picnic area, viewpoint of surrounding hills."
+  },
+  {
+    "name": "Kangpokpi",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Kangpokpi",
+    "coordinates": {
+      "lat": 24.9400,
+      "long": 93.9080
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Hill town 45 km north of Imphal on Imphal-Mao NH-2 highway, gateway to Manipur from Nagaland, Kuki tribal culture, scenic hills and valleys, Khoupum Valley viewpoint, Langol Hills nearby, picnic spots, orange orchards, Kuki cuisine specialties, traditional villages, peaceful atmosphere, trekking routes, biodiversity, birding, cool climate, roadside cafes, Kuki dance performances during festivals, Chavang Kut harvest festival November, handloom products - shawls, handbags, homestays with Kuki families, cultural immersion, offbeat destination, base for exploring northern Manipur, Kuki Weaving Center, en route to Senapati and Kohima."
+  },
+  {
+    "name": "Khwairamband Bazar",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8170,
+      "long": 93.9380
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Commercial heart of Imphal housing Ima Keithel (Women's Market), 16th-century market tradition, sprawling complex with multiple sections - Laxmi Bazar, Brahmaputra Market, Rani Gaidinliu Market, men's section with imported goods, electronics, clothing, women's section with local produce, handlooms, handicrafts, street food stalls serving Manipuri cuisine - singju (salad), paknam (fritters), kangshoi (stew), eromba (chilli-based dish), vibrant atmosphere, bargaining culture, traditional Manipuri phanek textiles, bamboo crafts, pottery, jewelry, connects to Paona Bazar, cultural experience, photographer's paradise with permission, daily operations, tourist souvenir hunting, authentic local life glimpse."
+  },
+  {
+    "name": "Manipur State Museum",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8185,
+      "long": 93.9365
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Established 1969, showcases Manipur's history and culture, tribal artifacts from 33+ recognized tribes, royal memorabilia of Manipur kingdom, archaeological exhibits, natural history section with flora-fauna specimens, costumes of different tribes, traditional musical instruments, weapons, ancient manuscripts, coins, paintings, geological specimens, anthropology section, Manipuri dance costumes, polo equipment (Manipur birthplace of modern polo), Anglo-Manipur War 1891 exhibits, freedom struggle documentation, photography restricted, Monday closed, nominal entry, 2-hour visit recommended, educational resource, well-maintained, near Kangla Fort, research library, cultural understanding of Northeast."
+  },
+  {
+    "name": "Nongpok Sekmai",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Thoubal",
+    "coordinates": {
+      "lat": 24.5850,
+      "long": 93.9440
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Trekking destination 35 km southeast of Imphal, base for Kaina Hill (3000+ feet) trekking, Thangting Hill Forest Reserve, wildlife including barking deer, wild boar, birds, natural caves, streams, waterfalls, biodiversity exploration, birdwatching, camping with Forest Department permission, nature trails, ethnic villages en route, tribal culture interaction, Sekmai village homestays, organic farming, moderate difficulty treks 2-4 hours, guided treks available, photography, sunrise-sunset views of Imphal Valley, relatively unexplored destination, adventure tourism potential, seasonal streams during monsoon, dense forests, Meitei and tribal settlements, offbeat trekking circuit."
+  },
+  {
+    "name": "Kangla Sha Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8180,
+      "long": 93.9360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Festival celebrating Kangla Sha (sacred dragon-lion mythical creature guarding Kangla Fort), held annually in November at Kangla Fort premises, commemorates return of Kangla to Manipuri people in 2004 after 113 years British-Indian Army occupation, cultural programs showcasing Manipuri classical dance, Thang-Ta martial arts demonstrations, Pena (traditional string instrument) music, folk performances, Meitei rituals, exhibitions on Manipur history, traditional sports - Yubi Lakpi (coconut snatching), Mukna (wrestling), Kang (stone-lifting), food stalls with ethnic cuisines, handicraft bazaar, light and sound show narrating Kangla history, patriotic fervor, community participation, tourism promotion, free entry, multi-day event."
+  },
+  {
+    "name": "Lai Haraoba Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8180,
+      "long": 93.9360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "May",
+      "June"
+    ],
+    "description": "Ancient Meitei pre-Hindu ritualistic festival, oldest religious tradition celebrating creation and recreation of universe, performed to please Lai (deities), origin story of Manipuri dance, Maibis and Maibas (priestesses/priests) perform rituals, Jagoi (dance-drama) enactment of creation myth, different villages celebrate on different dates May-June, Moirang Lai Haraoba most famous, Kanglei Lai Haraoba, Chakpa Lai Haraoba variants, lasts 5-15 days per village, traditional costumes, Pena music, folk songs, ritualistic performances from dusk to dawn, sacred pond rituals, boat racing, community feasting, UNESCO intangible heritage candidacy, cultural preservation, spiritual significance, tourists witness authentic Meitei traditions, photography restrictions at sacred moments."
+  },
+  {
+    "name": "Khongjom War Memorial",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Thoubal",
+    "coordinates": {
+      "lat": 24.5370,
+      "long": 94.0630
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Memorial commemorating Battle of Khongjom April 23-25, 1891 during Anglo-Manipur War, last stand of Manipuri forces under Major General Paona Brajabashi against British troops, 32 km southeast of Imphal, 30-foot pillar monument, museum with war artifacts, weapons, documents, paintings depicting battle, annual Khongjom Day observance April 23 with wreath-laying, cultural programs, patriotic songs, Khongjom Parva (ballad) singing of war heroes' valor, symbol of Manipuri resistance, national pride, educational site for Manipur's independence struggle, British annexation followed, emotional pilgrimage for Manipuris, peaceful hilltop location, panoramic valley views, heritage significance."
+  },
+  {
+    "name": "Moreh Border Town",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Tengnoupal",
+    "coordinates": {
+      "lat": 24.5090,
+      "long": 93.9600
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "India-Myanmar border town 110 km southeast of Imphal on Asian Highway-1, international trade hub, Namphalong International Trade Center, cross-border market with Myanmar goods - electronics, cosmetics, clothes, jade, wood carvings, Indo-Myanmar Friendship Gate, diverse population - Meiteis, Kukis, Nagas, Burmese, multicultural food scene, Burmese restaurants, nightlife, shopping destination, gateway for India-Myanmar-Thailand Trilateral Highway, border area requires Inner Line Permit for non-locals, Tengnoupal district headquarters nearby, Yangoupokpi-Lokchao Wildlife Sanctuary 20 km (clouded leopards, hoolock gibbons), unique border town experience, trade activities, plans for integrated check post."
+  },
+  {
+    "name": "Barak River",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Churachandpur",
+    "coordinates": {
+      "lat": 24.5700,
+      "long": 93.8000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Major river originating from Manipur hills flowing through Churachandpur district into Assam, picturesque riverine landscape, Tipaimukh proposed dam site (controversial), Barak Valley scenic beauty, river rafting potential (undeveloped), fishing communities, riverside villages, birding, Churachandpur town 60 km from Imphal base for exploration, Tuibuong Village on riverbanks, Khuga Dam tributary creating reservoir for picnics and boating, Thanlon Cave nearby with stalagmites-stalactites, Tuibul Airfield historic WWII significance, Kuki tribal villages, cultural immersion, nature photography, trekking along river trails, monsoon spectacular flow, ecological importance, biodiversity, unexplored tourism potential."
+  },
+  {
+    "name": "Tamenglong",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Tamenglong",
+    "coordinates": {
+      "lat": 24.5000,
+      "long": 93.6000
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Remote hill district headquarters 150 km west of Imphal, Land of Hornbills, Zeliang Naga tribal culture, pristine forests, waterfalls - Buning Meadow Falls, Tharon Cave Asia's longest natural limestone cave system 655m with 900-year-old fossilized mushroom, Zeilad Lake scenic beauty, Barak River origins, orange cultivation, bamboo forests, biodiversity hotspot, birdwatching paradise, hornbills, adventure tourism destination, trekking, caving expeditions, Tamei Village, traditional Naga villages, stone monoliths, log drums, morungs (bachelor dormitories), Gaan-Ngai harvest festival December, authentic Naga culture immersion, homestays, challenging road access adds to adventure, offbeat destination, Nature's abundance, Chiulon Village hot spring."
+  },
+  {
+    "name": "Phayeng Village",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.7890,
+      "long": 93.9500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Traditional Meitei village 25 km from Imphal known for herbal medicines and Meitei Mayek (ancient Manipuri script) preservation, Loiyumba Shinyen (1110 AD royal chronicle) tradition, traditional healers practicing Manipuri medicine using local herbs, village pharmacy, cultural heritage center, Phayeng Eco-Tourism Complex, Leimaram Waterfall nearby trekking destination (40 feet cascade), Mongsangei Natural Park, traditional houses architecture, community-based tourism, homestays, organic farming, Manipuri cuisine cooking demonstrations, handloom weaving, bamboo craft workshops, Lai Haraoba festival participation, Meitei cultural immersion, peaceful rural setting, birdwatching, cycling routes, village walks, authentic experience, off-beaten path."
+  },
+  {
+    "name": "Kangla Fort Museum",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8180,
+      "long": 93.9360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Museum within Kangla Fort complex showcasing Manipur's royal history, archaeological artifacts excavated from fort, Meitei royal dynasty memorabilia, weapons, armor, royal costumes, thrones, coins, inscriptions, manuscripts in Meitei Mayek script, paintings of kings, Anglo-Manipur War 1891 exhibits, British colonial period documentation, cultural artifacts, traditional items, pottery, jewelry, religious objects, photographs, maps of historical Manipur kingdom, well-curated displays explaining chronological history, air-conditioned galleries, nominal entry included in fort ticket, photography allowed, guided tours explaining Manipur's sovereignty, cultural evolution, Monday closed, educational visit 1-2 hours, near Imphal city center."
+  },
+  {
+    "name": "Manipur Sangai Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Manipur",
+    "city": "Imphal West",
+    "coordinates": {
+      "lat": 24.8180,
+      "long": 93.9360
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "November"
+    ],
+    "description": "Annual state tourism festival held November 21-30 celebrating Manipur's art, culture, handloom, handicrafts, cuisine, indigenous sports, named after state animal Sangai deer, multiple venues - Kangla Fort, Hapta Kangjeibung, INA Complex, Khuman Lampak Stadium, Manipuri classical dance performances (Ras Leela, Pung Cholom drum dance, Thang-Ta martial art), tribal dances from 33+ tribes, handloom exhibitions, handicraft bazaar, Ima Market stalls, food festival with Manipuri cuisine, adventure sports, water sports at Sendra Island, cultural competitions, music concerts, Sangai Film Festival screenings, tourism promotion, attracts domestic and international tourists, Manipur's grandest event, showcases state diversity, 10-day extravaganza, free entry most events, government organized."
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Port Blair",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.6234,
+      "long": 92.7265
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Capital of Andaman & Nicobar Islands, gateway to archipelago tourism, Cellular Jail National Memorial, Anthropological Museum showcasing indigenous tribes, Samudrika Marine Museum, Fisheries Museum, Corbyn's Cove Beach, Aberdeen Bazaar shopping, ferry hub to Havelock-Neil Islands, British colonial history, Japanese occupation WWII, naval base, tropical climate."
+  },
+  {
+    "name": "Cellular Jail",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.6664,
+      "long": 92.7446
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Kaala Paani colonial prison built 1896-1906, seven-wing structure (three remaining) with 693 solitary cells, British torture chambers for Indian freedom fighters, Veer Savarkar imprisoned here, now National Memorial, sound and light show narrating independence struggle, gallows, watchtower, museum with freedom fighters' photographs, emotional pilgrimage site, ASI protected monument."
+  },
+  {
+    "name": "Ross Island",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.6584,
+      "long": 92.7465
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Renamed Netaji Subhash Chandra Bose Island 2018, British administrative headquarters 1858-1942 (Paris of East), ruins overgrown with roots and trees, Chief Commissioner's residence, bakery, church, swimming pool, cemetery, Japanese bunkers WWII occupation, peacocks and deer, museum, 20-minute ferry from Port Blair, ruins photography, haunting beauty, Nature's reclaim."
+  },
+  {
+    "name": "Radhanagar Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.9871,
+      "long": 92.6586
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Asia's Best Beach 2004 by TIME Magazine, Beach No. 7 Havelock Island, 2km pristine white sand, turquoise waters, sunset paradise, safe swimming, palm-fringed, Mahua trees backdrop, relatively less crowded western side, crystal clear waters, snorkeling, photography hotspot, eco-conscious tourism, shacks and cafes, 12km from Havelock jetty, must-visit Andaman icon."
+  },
+  {
+    "name": "Havelock Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.9408,
+      "long": 92.9770
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Renamed Swaraj Dweep 2018, largest island in Ritchie's Archipelago, diving capital of India with 50+ dive sites, Radhanagar Beach (Asia's best), Elephant Beach scuba diving and snorkeling, Kalapathar Beach sunrise, underwater coral reefs, sea walk, parasailing, banana boat rides, Vijaynagar Beach, marine biodiversity, 54km from Port Blair (2.5-hour ferry), backpacker haven, beach resorts."
+  },
+  {
+    "name": "Neil Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.8740,
+      "long": 92.7570
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Renamed Shaheed Dweep 2018, vegetable bowl of Andaman, smaller peaceful alternative to Havelock, Bharatpur Beach with coral reefs and glass-bottom boat rides, Laxmanpur Beach sunset and white sand, Natural Bridge (Howrah Bridge) rock formation visible at low tide, Sitapur Beach sunrise, snorkeling, scuba diving, cycling-friendly, organic farming, budget accommodation, 40km from Port Blair, offbeat charm."
+  },
+  {
+    "name": "Mahatma Gandhi Marine National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.6150,
+      "long": 92.7200
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "281.5 sq km marine park with 15 islands, 40+ coral species, 270+ fish species including parrotfish and clownfish, sea turtles, dolphins, dugongs, mangrove ecosystems, glass-bottom boat rides, snorkeling at Jolly Buoy and Red Skin Islands (alternating open/closed annually for regeneration), underwater coral viewing, marine biodiversity hotspot, conservation area, eco-tourism, 29km from Port Blair, permit required."
+  },
+  {
+    "name": "Chidiya Tapu",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.5720,
+      "long": 92.6860
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Bird Island, southernmost tip of South Andaman 30km from Port Blair, sunset point paradise with dramatic skies, birdwatching with 46+ species including white-headed myna endemic, Munda Pahar Beach, Biological Park showcasing saltwater crocodiles and sea turtles, trekking trails through dense forests, mangroves, peaceful beaches, photography spot, snorkeling, budget day trip, natural beauty, relatively less touristy."
+  },
+  {
+    "name": "Mount Harriet National Park",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.6090,
+      "long": 92.7140
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Third highest peak in Andaman at 365m, 46.62 sq km park, 15km from Port Blair, British summer headquarters, panoramic views of Port Blair, Ross Island, North Bay, trekking trails (Mount Harriet to Madhuban 16km), tropical evergreen forests, endemic orchids, butterflies, birds including Andaman woodpecker, Andaman treepie, nature trails, camping, ropeway (India's longest spanning 5km sea), serene hilltop."
+  },
+  {
+    "name": "North Bay Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.6700,
+      "long": 92.7440
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Coral Island featured on ₹20 Indian currency note (lighthouse backdrop), 30-minute boat from Port Blair, rich coral reefs, water sports hub - scuba diving, snorkeling, sea walk (underwater helmet walk), parasailing, jet-ski, glass-bottom boat, vibrant marine life with colorful fish, shallow waters ideal for beginners, day trip destination, photography, light and sound show venue near Ross Island, budget-friendly activities."
+  },
+  {
+    "name": "Barren Island",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "North Andaman",
+    "coordinates": {
+      "lat": 12.2780,
+      "long": 93.8580
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "description": "India's only active volcano and South Asia's only active volcano, last erupted 2017-2020, 3km diameter island, 354m high volcanic cone, prohibited landing due to volcanic activity and wildlife protection, lava flows visible, scuba diving around island to see underwater lava formations and rare sulfur-vent marine life, barren landscape, scientific research zone, chartered boat tours from Port Blair (135km, 6-7 hours), unique geology, extreme adventure."
+  },
+  {
+    "name": "Cinque Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 12.0600,
+      "long": 92.9500
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Uninhabited twin islands (North and South Cinque) connected by sandbar visible at low tide, pristine beaches with white sand, crystal clear waters, pristine coral reefs for snorkeling and diving, camping allowed with permit, Robinson Crusoe experience, turtle nesting ground, mangrove creeks, untouched wilderness, marine biodiversity, chartered boat from Chiriya Tapu/Wandoor (3 hours), permit from Forest Department required, photographer's paradise, offbeat gem."
+  },
+  {
+    "name": "Interview Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "North Andaman",
+    "coordinates": {
+      "lat": 13.4270,
+      "long": 93.0220
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "133 sq km uninhabited wildlife sanctuary, largest feral population of Indian elephants descended from 1950s timber logging elephants, wild buffaloes, Andaman pigs, saltwater crocodiles, virgin tropical forests, pristine beaches, mangroves, protected area with restricted entry, research permits required, marine diversity, coral reefs, nature photography, extreme offbeat destination, chartered boat from Port Blair, conservation priority island."
+  },
+  {
+    "name": "Ross & Smith Islands",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "North Andaman",
+    "coordinates": {
+      "lat": 12.6200,
+      "long": 93.0480
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Twin islands off Diglipur connected by natural sandbar visible during low tide, walking between islands unique experience, white sand beaches, turquoise waters, coconut palms, snorkeling with coral reefs, camping with permit, turtle nesting site, sunset views, pristine untouched beauty, day trip from Diglipur (3-hour boat), Aerial Bay jetty access, less commercialized, blue lagoon effect, romantic destination, photographer's delight."
+  },
+  {
+    "name": "Viper Island",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.6700,
+      "long": 92.7520
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Named after ship Viper, pre-Cellular Jail prison site where freedom fighters were tortured before Kaala Paani, gallows ruins, British-era jail remains overgrown with vegetation, 4km from Port Blair (20-minute ferry), sound and light show depicting independence struggle, haunting history, peaceful now with mangroves, historical significance, photography, combined trip with North Bay Island, emotional heritage site, serpentine coastline."
+  },
+  {
+    "name": "Little Andaman",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 10.7050,
+      "long": 92.5210
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Fourth largest Andaman island, 120km south of Port Blair (6-hour ferry), offbeat destination with Butler Bay Beach surfing (India's surfing hotspot with surf schools), Whisper Wave Waterfalls 30ft, White Surf Waterfalls, Kala Patthar Beach, lighthouse viewpoint, Onge tribal reserve (restricted areas), elephant logging camps, pristine forests, less commercialized, adventure tourism, trekking, cycling, budget backpacker destination, tranquil escape."
+  },
+  {
+    "name": "Rutland Island",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "South Andaman",
+    "coordinates": {
+      "lat": 11.5200,
+      "long": 92.6800
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Third largest island, 20km south of Port Blair, Mount Ford 459m highest in archipelago, uninhabited except forest department, pristine mangrove forests, trekking to peak with panoramic views, wildlife including Andaman wild pigs, birds, tropical evergreen forests, snorkeling spots, beaches, camping with permits, offbeat trekking destination, chartered boat access, nature photography, biodiversity, relatively unexplored, adventure seekers' paradise."
+  },
+  {
+    "name": "Kalapathar Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "Havelock",
+    "coordinates": {
+      "lat": 11.8950,
+      "long": 92.9580
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Black Rock Beach named after unique volcanic black rocks contrasting white sand and turquoise sea, sunrise point paradise with golden hour photography, coconut palms lining coast, calm shallow waters, peaceful less crowded than Radhanagar, 7km from Havelock jetty, scenic coastal drive through forests, beachcombing, romantic spot, no water sports (pristine conservation), seashells, laid-back vibes, picnic destination, natural beauty unspoiled."
+  },
+  {
+    "name": "Water Sports at Havelock",
+    "type": "Adventure / Trekking",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "Havelock",
+    "coordinates": {
+      "lat": 11.9408,
+      "long": 92.9770
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Diving capital with 50+ PADI-certified dive centers, Elephant Beach water sports hub with 20-minute boat ride, scuba diving spots (The Wall, Seduction Point, Johnny's Gorge) with visibility up to 40m, SSI/PADI certification courses, snorkeling at shallow reefs with nemo fish and corals, sea walk (underwater walking with oxygen helmet), kayaking through mangroves, parasailing, banana boat rides, jet-ski, game fishing, underwater photography, adventure paradise."
+  },
+  {
+    "name": "Andaman Nicobar Carnival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Andaman & Nicobar Islands",
+    "city": "Port Blair",
+    "coordinates": {
+      "lat": 11.6234,
+      "long": 92.7265
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "December",
+      "January"
+    ],
+    "description": "Annual Island Tourism Festival held December-January, 10-day celebration showcasing Andaman culture and ecology, tribal dances by Nicobarese and Karen tribes, handicrafts exhibition (shell crafts, wood carvings), food festival with seafood delicacies, beach volleyball, water sports competitions, cultural programs, adventure activities, Miss Andaman pageant, tourism promotion, music concerts, fireworks, celebrates Island Foundation Day (December 30), Port Blair main venue, festive atmosphere."
+  }
+]
