@@ -307,7 +307,7 @@ function App(): JSX.Element {
               >
                 <Popup>
                   <div className="popup-content">
-                    <h3>{place.name}</h3>
+                    <h3>{place.heritage?.unesco ? '🪙' : place.heritage?.national ? '⭐' : ''}{place.name}</h3>
                     <p><strong>Type:</strong> {place.type}</p>
                     <p><strong>Location:</strong> {place.city}, {place.state}</p>
                     {place.heritage && (place.heritage.unesco || place.heritage.national || place.heritage.state) && (

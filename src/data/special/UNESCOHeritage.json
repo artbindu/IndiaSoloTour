@@ -918,7 +918,7 @@
     ]
   },
   {
-    "name": "Dholavira: A Harappan City",
+    "name": "Dholavira (Harappan City)",
     "type": "UNESCO Heritage",
     "country": "India",
     "state": "Gujarat",
@@ -1044,8 +1044,8 @@
     "state": "Assam",
     "city": "Baksa / Chirang",
     "coordinates": {
-      "lat": 26.831,
-      "long": 90.707
+      "lat": 26.731,
+    "long": 90.722
     },
     "heritage": {
       "unesco": true,
