@@ -13,7 +13,6 @@ on:
 
 env:
   NODE_VERSION: '18.x'
-  CI: true
 
 jobs:
   build:
@@ -54,9 +53,10 @@ jobs:
         uses: actions/upload-artifact@v4
         if: matrix.node-version == '18.x' && github.event_name == 'push'
         with:
-          name: build-output-${{ github.sha }}
+          name: build-output
           path: build/
           retention-days: 30
+          overwrite: true
       
       - name: Upload coverage reports
         uses: actions/upload-artifact@v4
@@ -65,6 +65,7 @@ jobs:
           name: coverage-report
           path: coverage/
           retention-days: 7
+          overwrite: true
   
   deploy-production:
     name: Deploy to Production (GitHub Pages)
@@ -96,14 +97,18 @@ jobs:
           CI: false
           PUBLIC_URL: /IndiaSoloTour
       
+      - name: Add .nojekyll file
+        run: touch ./build/.nojekyll
+      
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'Deploy: ${{ github.event.head_commit.message }}'
+          commit_message: 'Deploy ${{ github.sha }}'
+          force_orphan: true
   
   deploy-staging:
     name: Deploy Staging (Project Branch)
@@ -136,6 +141,7 @@ jobs:
       - name: Upload staging build
         uses: actions/upload-artifact@v4
         with:
-          name: staging-build-${{ github.sha }}
+          name: staging-build
           path: build/
           retention-days: 14
+          overwrite: true
