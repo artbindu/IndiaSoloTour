@@ -75,7 +75,7 @@ export function Sidebar({
               <option value="all">
                 All Places ({placesCountByType("all")})
               </option>
-              {uniqueTypes.sort().map((type) => (
+              {[...uniqueTypes].sort().map((type) => (
                 <option key={type} value={type}>
                   {type} ({placesCountByType(type)})
                 </option>
