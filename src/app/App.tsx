@@ -210,7 +210,11 @@ function App(): JSX.Element {
   if (loading) {
     return (
       <div className="loading">
-        <img src="/favicon.ico" className="loading-icon" />
+        <img
+          src={`${process.env.PUBLIC_URL}/favicon.ico`}
+          alt="Loading"
+          className="loading-icon"
+        />
         <span>Loading map data...</span>
       </div>
     );
