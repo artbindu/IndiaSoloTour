@@ -149,11 +149,11 @@
   border-radius: 50%;
 }
 
-input:checked + .slider {
+input:checked+.slider {
   background-color: #4CAF50;
 }
 
-input:checked + .slider:before {
+input:checked+.slider:before {
   transform: translateX(24px);
 }
 
@@ -291,7 +291,7 @@ input:checked + .slider:before {
   .App {
     flex-direction: column;
   }
-  
+
   .sidebar {
     position: fixed;
     top: 0;
@@ -370,7 +370,7 @@ input:checked + .slider:before {
     bottom: 3px;
   }
 
-  input:checked + .slider:before {
+  input:checked+.slider:before {
     transform: translateX(21px);
   }
 
@@ -397,7 +397,7 @@ input:checked + .slider:before {
     height: 16px;
     margin-right: 8px;
   }
-  
+
   .leaflet-container {
     height: 55vh;
   }

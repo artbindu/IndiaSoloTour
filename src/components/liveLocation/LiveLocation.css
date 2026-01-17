@@ -1,0 +1,70 @@
+/* Current Location Button */
+.location-button-container {
+    position: absolute;
+    bottom: 30px;
+    right: 10px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.location-button {
+    background: white;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+.location-button:hover:not(:disabled) {
+    background: #f0f0f0;
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.location-button:active:not(:disabled) {
+    transform: scale(0.95);
+}
+
+.location-button:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.location-error {
+    background: #ff4444;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    max-width: 250px;
+    text-align: center;
+    animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.current-location-marker {
+    background: none;
+    border: none;
+}
