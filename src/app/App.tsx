@@ -1,23 +1,11 @@
 import React, { useState, useEffect } from "react";
-import {
-  MapContainer,
-  TileLayer,
-  Marker,
-  Popup,
-  LayerGroup,
-} from "react-leaflet";
 import L from "leaflet";
 import "./App.css";
-import {
-  mapConfig,
-  iconColors,
-  markerConfig,
-  dataSources,
-  appConfig,
-} from "../config/config";
+import { dataSources, appConfig } from "../config/config";
 import { Place } from "../models/Places";
 import { GITagItem } from "../models/Items";
-import { LiveLocation } from "../component/liveLocation/LiveLocation";
+import { Sidebar } from "../components/layout/Sidebar/Sidebar";
+import { MapView } from "../components/layout/MapView/MapView";
 
 // Import marker images
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
@@ -31,16 +19,6 @@ L.Icon.Default.mergeOptions({
   iconUrl: markerIcon,
   shadowUrl: markerShadow,
 });
-
-// Custom marker icons for different categories
-const createCustomIcon = (color: string): L.DivIcon => {
-  return L.divIcon({
-    className: "custom-marker",
-    html: `<div style="background-color: ${color}; width: ${markerConfig.size}px; height: ${markerConfig.size}px; border-radius: 50%; border: ${markerConfig.borderWidth}px solid ${markerConfig.borderColor}; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"></div>`,
-    iconSize: [markerConfig.size, markerConfig.size],
-    iconAnchor: [markerConfig.size / 2, markerConfig.size / 2],
-  });
-};
 
 function App(): JSX.Element {
   const [places, setPlaces] = useState<Place[]>([]);
@@ -198,7 +176,7 @@ function App(): JSX.Element {
     ...new Set(
       places
         .filter((place) => stateFilter === "all" || place.state === stateFilter)
-        .map((place) => place.type)
+        .map((place) => place.type),
     ),
   ];
   const uniqueStates: string[] = [
@@ -207,6 +185,19 @@ function App(): JSX.Element {
       ...giTags.map((item) => item.state),
     ]),
   ].sort();
+
+  // Helper function to count places by type
+  const placesCountByType = (type: string): number => {
+    if (type === "all") {
+      return places.filter(
+        (p) => stateFilter === "all" || p.state === stateFilter,
+      ).length;
+    }
+    return places.filter(
+      (p) =>
+        p.type === type && (stateFilter === "all" || p.state === stateFilter),
+    ).length;
+  };
 
   // Auto-hide sidebar on mobile after filter change
   const handleFilterChange = (callback: () => void) => {
@@ -217,243 +208,38 @@ function App(): JSX.Element {
   };
 
   if (loading) {
-    return <div className="loading">Loading map data...</div>;
+    return (
+      <div className="loading">
+        <img src="/favicon.ico" alt="" className="loading-icon" />
+        <span>Loading map data...</span>
+      </div>
+    );
   }
 
   return (
     <div className="App">
-      <button
-        className="sidebar-toggle"
-        onClick={() => setSidebarOpen(!sidebarOpen)}
-        aria-label="Toggle sidebar"
-      >
-        <span className="hamburger-icon">{sidebarOpen ? "✕" : "☰"}</span>
-      </button>
-
-      <div className={`sidebar ${sidebarOpen ? "open" : ""}`}>
-        <h1>
-          <img src={appConfig.url} alt="India" className="title-icon" />
-          {appConfig.title}
-        </h1>
-        {appConfig.showStatistics && (
-          <div className="stats">
-            <p>
-              <strong>Total Places:</strong> {filteredPlaces.length}
-            </p>
-            <p>
-              <strong>GI Tags:</strong> {filteredGiTags.length}
-            </p>
-          </div>
-        )}
-
-        <div className="filters">
-          <div className="filter-section">
-            <h3>Location Filter Type</h3>
-            <select
-              value={locationTypeFilter}
-              onChange={(e) =>
-                handleFilterChange(() => setLocationTypeFilter(e.target.value))
-              }
-            >
-              <option value="all">
-                All Places (
-                {
-                  places.filter(
-                    (p) => stateFilter === "all" || p.state === stateFilter
-                  ).length
-                }
-                )
-              </option>
-              {uniqueTypes.sort().map((type) => (
-                <option key={type} value={type}>
-                  {type} (
-                  {
-                    places.filter(
-                      (p) =>
-                        p.type === type &&
-                        (stateFilter === "all" || p.state === stateFilter)
-                    ).length
-                  }
-                  )
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className="filter-section">
-            <h3>State Wise Location Filter</h3>
-            <select
-              value={stateFilter}
-              onChange={(e) =>
-                handleFilterChange(() => setStateFilter(e.target.value))
-              }
-            >
-              <option value="all">All States</option>
-              {uniqueStates.map((state) => (
-                <option key={state} value={state}>
-                  {state}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className="filter-section">
-            <h3>GI Tag Filter</h3>
-            <div className="switch-container">
-              <label className="switch">
-                <input
-                  type="checkbox"
-                  checked={showGiTags}
-                  onChange={(e) =>
-                    handleFilterChange(() => setShowGiTags(e.target.checked))
-                  }
-                />
-                <span className="slider"></span>
-              </label>
-              <span className="switch-label">
-                {showGiTags
-                  ? `ON - Showing ${giTags.length} GI Tags`
-                  : "OFF - Hidden"}
-              </span>
-            </div>
-          </div>
-        </div>
-
-        {appConfig.showLegend && (
-          <div className="legend">
-            <h3>Legend</h3>
-            {Object.entries(iconColors).map(([type, color]) => (
-              <div key={type} className="legend-item">
-                <div
-                  className="legend-color"
-                  style={{ backgroundColor: color }}
-                ></div>
-                <span>{type}</span>
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
-
-      <MapContainer
-        center={mapConfig.center}
-        zoom={mapConfig.defaultZoom}
-        style={{ height: "100vh", width: "100%" }}
-      >
-        <TileLayer
-          attribution={mapConfig.tileLayer.attribution}
-          url={mapConfig.tileLayer.url}
-        />
-
-        {/* Live Location Component */}
-        <LiveLocation />
-
-        {/* Tourist Places */}
-        <LayerGroup>
-          {filteredPlaces.map((place, index) => {
-            if (
-              !place.coordinates ||
-              !place.coordinates.lat ||
-              !place.coordinates.long
-            ) {
-              return null;
-            }
-
-            const color = iconColors[place.type] || markerConfig.defaultColor;
-            const icon = createCustomIcon(color);
-
-            return (
-              <Marker
-                key={`place-${index}`}
-                position={[place.coordinates.lat, place.coordinates.long]}
-                icon={icon}
-              >
-                <Popup>
-                  <div className="popup-content">
-                    <h3>
-                      {place.heritage?.unesco
-                        ? "🪙"
-                        : place.heritage?.national
-                          ? "⭐"
-                          : ""}
-                      {place.name}
-                    </h3>
-                    <p>
-                      <strong>Type:</strong> {place.type}
-                    </p>
-                    <p>
-                      <strong>Location:</strong> {place.city}, {place.state}
-                    </p>
-                    {place.heritage &&
-                      (place.heritage.unesco ||
-                        place.heritage.national ||
-                        place.heritage.state) && (
-                        <p>
-                          <strong>Heritage:</strong>
-                          {place.heritage.unesco && " UNESCO"}
-                          {place.heritage.national && " National"}
-                          {place.heritage.state && " State"}
-                        </p>
-                      )}
-                    {place.description && (
-                      <p className="description">{place.description}</p>
-                    )}
-                    {place.bestVisitMonths && (
-                      <p>
-                        <strong>Best Visit:</strong>{" "}
-                        {place.bestVisitMonths.join(", ")}
-                      </p>
-                    )}
-                  </div>
-                </Popup>
-              </Marker>
-            );
-          })}
-        </LayerGroup>
-
-        {/* GI Tags */}
-        {showGiTags && (
-          <LayerGroup>
-            {filteredGiTags.map((item, index) => {
-              if (
-                !item.coordinates ||
-                !item.coordinates.lat ||
-                !item.coordinates.long
-              ) {
-                return null;
-              }
-
-              const icon = createCustomIcon(iconColors["GI Tags"]);
-
-              return (
-                <Marker
-                  key={`gi-${index}`}
-                  position={[item.coordinates.lat, item.coordinates.long]}
-                  icon={icon}
-                >
-                  <Popup>
-                    <div className="popup-content">
-                      <h3>🏅 {item.name}</h3>
-                      <p>
-                        <strong>Type:</strong> {item.Type}
-                      </p>
-                      <p>
-                        <strong>Location:</strong> {item.location}, {item.state}
-                      </p>
-                      <p>
-                        <strong>Significance:</strong> {item.significance}
-                      </p>
-                      {item.description && (
-                        <p className="description">{item.description}</p>
-                      )}
-                    </div>
-                  </Popup>
-                </Marker>
-              );
-            })}
-          </LayerGroup>
-        )}
-      </MapContainer>
+      <Sidebar
+        sidebarOpen={sidebarOpen}
+        setSidebarOpen={setSidebarOpen}
+        filteredPlacesCount={filteredPlaces.length}
+        filteredGiTagsCount={filteredGiTags.length}
+        locationTypeFilter={locationTypeFilter}
+        setLocationTypeFilter={setLocationTypeFilter}
+        uniqueTypes={uniqueTypes}
+        placesCountByType={placesCountByType}
+        stateFilter={stateFilter}
+        setStateFilter={setStateFilter}
+        uniqueStates={uniqueStates}
+        showGiTags={showGiTags}
+        setShowGiTags={setShowGiTags}
+        giTagsTotal={giTags.length}
+        handleFilterChange={handleFilterChange}
+      />
+      <MapView
+        filteredPlaces={filteredPlaces}
+        filteredGiTags={filteredGiTags}
+        showGiTags={showGiTags}
+      />
     </div>
   );
 }
