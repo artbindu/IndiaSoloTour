@@ -210,7 +210,7 @@ function App(): JSX.Element {
   if (loading) {
     return (
       <div className="loading">
-        <img src="/favicon.ico" alt="" className="loading-icon" />
+        <img src="/favicon.ico" className="loading-icon" />
         <span>Loading map data...</span>
       </div>
     );
