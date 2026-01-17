@@ -1,0 +1,305 @@
+.gyroscope-compass {
+    position: fixed;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    cursor: move;
+    transition: box-shadow 0.3s ease, padding 0.3s ease;
+    z-index: 1000;
+    user-select: none;
+    touch-action: none;
+}
+
+.gyroscope-compass:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.gyroscope-compass.dragging {
+    cursor: grabbing;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.1s ease;
+}
+
+.gyroscope-compass.expanded {
+    padding: 16px;
+}
+
+.compass-container {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gyroscope-compass.expanded .compass-container {
+    width: 120px;
+    height: 120px;
+}
+
+/* Compass Rose */
+.compass-rose {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.2s ease-out;
+    will-change: transform;
+}
+
+/* Compass Needle */
+.compass-needle {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.needle-north {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 35px solid #ff4444;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+}
+
+.needle-south {
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 35px solid #666;
+}
+
+/* Cardinal Directions */
+.compass-directions {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    font-size: 14px;
+    color: #333;
+}
+
+.direction {
+    position: absolute;
+    font-family: 'Arial', sans-serif;
+}
+
+.direction.north {
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #ff4444;
+    font-weight: 900;
+}
+
+.direction.east {
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.direction.south {
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.direction.west {
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+/* Center Dot */
+.compass-center {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: #333;
+    border-radius: 50%;
+    border: 2px solid white;
+    z-index: 10;
+}
+
+/* Heading Display */
+.heading-display {
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    white-space: nowrap;
+}
+
+.heading-value {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 2px;
+}
+
+.heading-direction {
+    font-size: 14px;
+    color: #666;
+    font-weight: 600;
+}
+
+/* Debug Info */
+.debug-info {
+    margin-top: 60px;
+    padding-top: 12px;
+    border-top: 1px solid #e0e0e0;
+    font-size: 11px;
+    color: #666;
+    min-width: 180px;
+}
+
+.debug-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+
+.debug-row span:first-child {
+    font-weight: 500;
+}
+
+/* Permission Button */
+.permission-needed {
+    cursor: pointer;
+}
+
+.permission-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.permission-button:hover {
+    opacity: 0.8;
+}
+
+.compass-icon {
+    font-size: 32px;
+}
+
+.permission-text {
+    font-size: 12px;
+    color: #333;
+    font-weight: 600;
+}
+
+/* Error State */
+.gyroscope-compass.error {
+    background: rgba(255, 240, 240, 0.95);
+    cursor: default;
+}
+
+.error-text {
+    font-size: 11px;
+    color: #d32f2f;
+    margin-top: 8px;
+    text-align: center;
+    max-width: 100px;
+}
+
+/* Loading State */
+.gyroscope-compass.loading {
+    cursor: default;
+}
+
+.loading-text {
+    font-size: 12px;
+    color: #666;
+    margin-top: 8px;
+    text-align: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .gyroscope-compass {
+        bottom: 15px;
+        right: 15px;
+    }
+
+    .compass-container {
+        width: 70px;
+        height: 70px;
+    }
+
+    .gyroscope-compass.expanded .compass-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    .needle-north,
+    .needle-south {
+        border-left-width: 6px;
+        border-right-width: 6px;
+    }
+
+    .needle-north {
+        border-bottom-width: 28px;
+    }
+
+    .needle-south {
+        border-top-width: 28px;
+    }
+
+    .compass-directions {
+        font-size: 12px;
+    }
+
+    .heading-value {
+        font-size: 16px;
+    }
+
+    .heading-direction {
+        font-size: 12px;
+    }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    .gyroscope-compass {
+        background: rgba(40, 40, 40, 0.95);
+    }
+
+    .heading-value,
+    .direction {
+        color: #e0e0e0;
+    }
+
+    .heading-direction {
+        color: #b0b0b0;
+    }
+
+    .compass-center {
+        background: #e0e0e0;
+        border-color: #333;
+    }
+
+    .debug-info {
+        color: #b0b0b0;
+        border-top-color: #555;
+    }
+}

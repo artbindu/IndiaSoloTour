@@ -1,0 +1,264 @@
+.compass-calibration-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.compass-calibration-card {
+    background: white;
+    border-radius: 16px;
+    padding: 24px;
+    max-width: 400px;
+    width: 90%;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.calibration-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.calibration-header h3 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.close-button {
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: #999;
+    cursor: pointer;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s;
+}
+
+.close-button:hover {
+    background: #f0f0f0;
+    color: #333;
+}
+
+.calibration-content {
+    text-align: center;
+}
+
+.calibration-animation {
+    position: relative;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.phone-icon {
+    font-size: 60px;
+    animation: wobble 2s ease-in-out infinite;
+}
+
+@keyframes wobble {
+
+    0%,
+    100% {
+        transform: rotate(-15deg);
+    }
+
+    50% {
+        transform: rotate(15deg);
+    }
+}
+
+.rotation-indicator {
+    position: absolute;
+    font-size: 40px;
+    color: #4CAF50;
+    animation: spin 3s linear infinite;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.calibration-instruction {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.calibration-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.step {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    transition: all 0.2s;
+}
+
+.step:hover {
+    background: #e9ecef;
+}
+
+.step-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: #4CAF50;
+    color: white;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 14px;
+    flex-shrink: 0;
+}
+
+.step-text {
+    font-size: 14px;
+    color: #333;
+    flex: 1;
+}
+
+.calibration-footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.calibration-done-button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 12px 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.calibration-done-button:hover {
+    background: #45a049;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+}
+
+.calibration-done-button:active {
+    transform: translateY(0);
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    .compass-calibration-card {
+        background: #2c2c2c;
+    }
+
+    .calibration-header h3,
+    .step-text,
+    .calibration-instruction {
+        color: #e0e0e0;
+    }
+
+    .close-button {
+        color: #999;
+    }
+
+    .close-button:hover {
+        background: #3c3c3c;
+        color: #e0e0e0;
+    }
+
+    .step {
+        background: #3c3c3c;
+    }
+
+    .step:hover {
+        background: #4c4c4c;
+    }
+}
+
+/* Mobile Responsive */
+@media (max-width: 480px) {
+    .compass-calibration-card {
+        padding: 20px;
+    }
+
+    .calibration-header h3 {
+        font-size: 18px;
+    }
+
+    .phone-icon {
+        font-size: 50px;
+    }
+
+    .rotation-indicator {
+        font-size: 35px;
+    }
+
+    .calibration-instruction {
+        font-size: 14px;
+    }
+
+    .step-text {
+        font-size: 13px;
+    }
+
+    .calibration-done-button {
+        width: 100%;
+    }
+}
