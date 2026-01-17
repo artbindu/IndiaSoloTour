@@ -33,7 +33,7 @@ jobs:
         continue-on-error: true
 
       - name: Build check
-        run: npm run build
+        run: npm run build:standard
         env:
           CI: false
 

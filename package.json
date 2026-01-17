@@ -1,6 +1,6 @@
 {
   "name": "india-solo-tour-map",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "license": "MIT",
   "homepage": "https://artbindu.github.io/IndiaSoloTour",
@@ -23,11 +23,14 @@
     "typescript": "^4.9.5"
   },
   "devDependencies": {
-    "@types/node": "^20.10.0"
+    "@types/node": "^20.10.0",
+    "javascript-obfuscator": "^4.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && npm run obfuscate",
+    "build:standard": "react-scripts build",
+    "obfuscate": "node scripts/obfuscate.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
