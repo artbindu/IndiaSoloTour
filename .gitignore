@@ -24,3 +24,4 @@ yarn-error.log*
 src/data/data.md
 src/data/special/NationalHeritage.json
 STRUCTURE.md
+src/**/*.md
