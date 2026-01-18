@@ -8,6 +8,25 @@
     "node": ">=18.0.0",
     "npm": ">=9.0.0"
   },
+  "scripts": {
+    "build:local": "cross-env PUBLIC_URL=. react-scripts build",
+    "start:dev": "npx serve -s build -l 3000",
+    "clean": "rimraf build",
+    "dev": "npm run clean && npm run build:local && npm run start:dev",
+    "dev:watch": "nodemon --watch src --ext ts,tsx,css,json --exec \"npm run build:local\"",
+    "start": "react-scripts start",
+    "build": "react-scripts build && npm run obfuscate",
+    "build:watch": "nodemon --watch src --ext ts,tsx,css,json --exec \"npm run build\"",
+    "obfuscate": "node scripts/obfuscate.js",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "release": "standard-version",
+    "release:patch": "standard-version --release-as patch",
+    "release:minor": "standard-version --release-as minor",
+    "release:major": "standard-version --release-as major",
+    "release:first": "standard-version --first-release",
+    "release:dry": "standard-version --dry-run"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -24,22 +43,12 @@
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
+    "cross-env": "^10.1.0",
     "javascript-obfuscator": "^4.1.1",
+    "nodemon": "^3.1.11",
+    "rimraf": "^6.1.2",
+    "serve": "^14.2.5",
     "standard-version": "^9.5.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build && npm run obfuscate",
-    "build:standard": "react-scripts build",
-    "obfuscate": "node scripts/obfuscate.js",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "release": "standard-version",
-    "release:patch": "standard-version --release-as patch",
-    "release:minor": "standard-version --release-as minor",
-    "release:major": "standard-version --release-as major",
-    "release:first": "standard-version --first-release",
-    "release:dry": "standard-version --dry-run"
   },
   "eslintConfig": {
     "extends": [

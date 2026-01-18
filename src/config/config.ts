@@ -23,6 +23,18 @@ export interface MarkerConfig {
   defaultColor: string;
 }
 
+export enum HeritageType {
+  UNESCO = "unesco",
+  NATIONAL = "national",
+  STATE = "state",
+}
+
+export interface HeritageIcons {
+  unesco: string;
+  national: string;
+  state: string;
+}
+
 export interface DataSources {
   stateFiles: string[];
   utFiles: string[];
@@ -96,7 +108,7 @@ export const iconColors: IconColors = {
   "GI Tags": "#FF1493",
   "Char Dham": "#FF6B35",
   "Chota Char Dham": "#00ccff",
-  "Jyotirlinga": "#FFA500",
+  Jyotirlinga: "#FFA500",
   "Shakti Peeth": "#DA70D6",
   "UNESCO Heritage": "#FFD700",
 };
@@ -107,6 +119,19 @@ export const markerConfig: MarkerConfig = {
   borderColor: "white",
   borderWidth: 2,
   defaultColor: "#6C757D", // Fallback color for unknown types
+};
+
+// Heritage Icons Configuration
+export const heritageIcons: Record<HeritageType, string> = {
+  [HeritageType.UNESCO]: "🇺🇳",
+  [HeritageType.NATIONAL]: "🇮🇳",
+  [HeritageType.STATE]: "",
+};
+
+export const heritageColors: Record<HeritageType, string> = {
+  [HeritageType.UNESCO]: "#FFD700",
+  [HeritageType.NATIONAL]: "#f83808",
+  [HeritageType.STATE]: "",
 };
 
 // Data Sources Configuration

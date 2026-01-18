@@ -6,6 +6,14 @@ import { Place } from "../models/Places";
 import { GITagItem } from "../models/Items";
 import { Sidebar } from "../components/layout/Sidebar/Sidebar";
 import { MapView } from "../components/layout/MapView/MapView";
+import {
+  filterPlaces,
+  filterGiTags,
+  getUniqueTypes,
+  getUniqueStates,
+  countPlacesByType,
+  handleFilterChange as utilHandleFilterChange,
+} from "../utils/utils";
 
 // Import marker images
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
@@ -148,63 +156,27 @@ function App(): JSX.Element {
     loadAllData();
   }, []);
 
-  // Apply all filters
-  const filteredPlaces: Place[] = places.filter((place) => {
-    // Location Type Filter
-    if (locationTypeFilter !== "all" && place.type !== locationTypeFilter) {
-      return false;
-    }
-    // State Filter
-    if (stateFilter !== "all" && place.state !== stateFilter) {
-      return false;
-    }
-    return true;
-  });
+  // Apply all filters using utility functions
+  const filteredPlaces: Place[] = filterPlaces(
+    places,
+    locationTypeFilter,
+    stateFilter,
+  );
 
-  // Filter GI Tags (only by state if enabled)
-  const filteredGiTags: GITagItem[] = showGiTags
-    ? giTags.filter((item) => {
-        // State Filter
-        // if (stateFilter !== 'all' && item.state !== stateFilter) {
-        //   return false;
-        // }
-        return true;
-      })
-    : [];
+  // Filter GI Tags using utility function
+  const filteredGiTags: GITagItem[] = filterGiTags(giTags, showGiTags);
 
-  const uniqueTypes: string[] = [
-    ...new Set(
-      places
-        .filter((place) => stateFilter === "all" || place.state === stateFilter)
-        .map((place) => place.type),
-    ),
-  ];
-  const uniqueStates: string[] = [
-    ...new Set([
-      ...places.map((place) => place.state),
-      ...giTags.map((item) => item.state),
-    ]),
-  ].sort();
+  const uniqueTypes: string[] = getUniqueTypes(places, stateFilter);
+  const uniqueStates: string[] = getUniqueStates(places, giTags);
 
-  // Helper function to count places by type
+  // Helper function to count places by type using utility
   const placesCountByType = (type: string): number => {
-    if (type === "all") {
-      return places.filter(
-        (p) => stateFilter === "all" || p.state === stateFilter,
-      ).length;
-    }
-    return places.filter(
-      (p) =>
-        p.type === type && (stateFilter === "all" || p.state === stateFilter),
-    ).length;
+    return countPlacesByType(places, type, stateFilter);
   };
 
-  // Auto-hide sidebar on mobile after filter change
+  // Auto-hide sidebar on mobile after filter change using utility
   const handleFilterChange = (callback: () => void) => {
-    callback();
-    if (window.innerWidth <= 768) {
-      setTimeout(() => setSidebarOpen(false), 300);
-    }
+    utilHandleFilterChange(callback, setSidebarOpen);
   };
 
   if (loading) {

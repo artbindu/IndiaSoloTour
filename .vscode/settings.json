@@ -12,7 +12,7 @@
   "files.exclude": {
     "**/.git": true,
     "**/node_modules": true,
-    "**/build": true,
+    "**/build": false,
     "**/.DS_Store": true,
     ".github": true,
     ".vscode": true,
@@ -45,7 +45,7 @@
     "*.jsx": "${capture}.js, ${capture}.test.jsx, ${capture}.spec.jsx",
     "*.css": "${capture}.css.map, ${capture}.min.css, ${capture}.scss",
     "*.scss": "${capture}.css, ${capture}.css.map, ${capture}.min.css",
-    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, .npmrc, .yarnrc, .nvmrc, .node-version",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, .npmrc, .yarnrc, .nvmrc, .node-version, .versionrc.json, nodemon.json",
     "tsconfig.json": "tsconfig.*.json, STRUCTURE.md, .gitignore",
     ".gitignore": ".gitattributes, .gitmodules, .gitmessage, .mailmap, .git-blame*",
     "readme.md": "authors, backers.md, changelog*, citation*, code_of_conduct.md, codeowners, contributing.md, contributors, copying, credits, governance.md, history.md, license*, maintainers, readme*, security.md, sponsors.md",

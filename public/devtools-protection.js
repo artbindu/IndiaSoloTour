@@ -1,6 +1,11 @@
 // DevTools Protection - Production Only
 (function () {
-
+    // Only run in production (skip localhost and file:// protocol)
+    if (window.location.hostname === 'localhost' ||
+        window.location.hostname === '127.0.0.1' ||
+        window.location.protocol === 'file:') {
+        return;
+    }
 
     // Disable right-click
     document.addEventListener('contextmenu', function (e) {

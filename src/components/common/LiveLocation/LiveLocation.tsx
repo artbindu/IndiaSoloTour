@@ -1,7 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { Marker, Popup, useMap } from "react-leaflet";
-import L from "leaflet";
 import "./LiveLocation.css";
+import {
+  createCurrentLocationIcon,
+  getGeolocationErrorMessage,
+} from "../../../utils/utils";
 
 // Component to handle map centering
 function LocationMarker({
@@ -19,19 +22,7 @@ function LocationMarker({
 
   if (!position) return null;
 
-  const currentLocationIcon = L.divIcon({
-    className: "current-location-marker",
-    html: `<div style="
-      width: 20px;
-      height: 20px;
-      background: #4285F4;
-      border: 3px solid white;
-      border-radius: 50%;
-      box-shadow: 0 0 10px rgba(66, 133, 244, 0.8);
-    "></div>`,
-    iconSize: [20, 20],
-    iconAnchor: [10, 10],
-  });
+  const currentLocationIcon = createCurrentLocationIcon();
 
   return (
     <Marker position={position} icon={currentLocationIcon}>
@@ -81,19 +72,7 @@ export function LiveLocation({
         }
       },
       (error) => {
-        let errorMessage = "Unable to retrieve location";
-        switch (error.code) {
-          case error.PERMISSION_DENIED:
-            errorMessage =
-              "Location permission denied. Please enable location access.";
-            break;
-          case error.POSITION_UNAVAILABLE:
-            errorMessage = "Location information unavailable.";
-            break;
-          case error.TIMEOUT:
-            errorMessage = "Location request timed out.";
-            break;
-        }
+        const errorMessage = getGeolocationErrorMessage(error);
         setLocationError(errorMessage);
         setLocationLoading(false);
       },
@@ -101,7 +80,7 @@ export function LiveLocation({
         enableHighAccuracy: true,
         timeout: 10000,
         maximumAge: 0,
-      }
+      },
     );
   };
 
@@ -118,7 +97,7 @@ export function LiveLocation({
           disabled={locationLoading}
           title="Get my location"
         >
-          {locationLoading ? "⏳" : "📍"}
+          {locationLoading ? "🗺️" : "📍"}
         </button>
         {locationError && <div className="location-error">{locationError}</div>}
       </div>

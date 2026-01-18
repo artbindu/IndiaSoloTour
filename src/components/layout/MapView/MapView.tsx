@@ -6,22 +6,17 @@ import {
   Popup,
   LayerGroup,
 } from "react-leaflet";
-import L from "leaflet";
 import "./MapView.css";
 import { mapConfig, iconColors, markerConfig } from "../../../config/config";
 import { Place } from "../../../models/Places";
 import { GITagItem } from "../../../models/Items";
 import { LiveLocation } from "../../common/LiveLocation/LiveLocation";
-
-// Custom marker icons for different categories
-const createCustomIcon = (color: string): L.DivIcon => {
-  return L.divIcon({
-    className: "custom-marker",
-    html: `<div style="background-color: ${color}; width: ${markerConfig.size}px; height: ${markerConfig.size}px; border-radius: 50%; border: ${markerConfig.borderWidth}px solid ${markerConfig.borderColor}; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"></div>`,
-    iconSize: [markerConfig.size, markerConfig.size],
-    iconAnchor: [markerConfig.size / 2, markerConfig.size / 2],
-  });
-};
+import {
+  createCustomIcon,
+  hasValidCoordinates,
+  getHeritageIcon,
+  getHeritageColor,
+} from "../../../utils/utils";
 
 interface MapViewProps {
   filteredPlaces: Place[];
@@ -51,11 +46,7 @@ export function MapView({
       {/* Tourist Places */}
       <LayerGroup>
         {filteredPlaces.map((place, index) => {
-          if (
-            !place.coordinates ||
-            !place.coordinates.lat ||
-            !place.coordinates.long
-          ) {
+          if (!hasValidCoordinates(place.coordinates)) {
             return null;
           }
 
@@ -71,11 +62,15 @@ export function MapView({
               <Popup>
                 <div className="popup-content">
                   <h3>
-                    {place.heritage?.unesco
-                      ? "🪙"
-                      : place.heritage?.national
-                        ? "⭐"
-                        : ""}
+                    <span
+                      style={{
+                        backgroundColor: getHeritageColor(place.heritage),
+                        padding: "8px",
+                        borderRadius: "50%",
+                      }}
+                    >
+                      {getHeritageIcon(place.heritage)}{" "}
+                    </span>
                     {place.name}
                   </h3>
                   <p>
@@ -115,11 +110,7 @@ export function MapView({
       {showGiTags && (
         <LayerGroup>
           {filteredGiTags.map((item, index) => {
-            if (
-              !item.coordinates ||
-              !item.coordinates.lat ||
-              !item.coordinates.long
-            ) {
+            if (!hasValidCoordinates(item.coordinates)) {
               return null;
             }
 
