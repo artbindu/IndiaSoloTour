@@ -859,5 +859,31 @@
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["December"],
     "description": "Annual December festival in India's first private planned hill city Lavasa, Italian-themed town comes alive with carnival celebrations, live music concerts featuring Bollywood and indie artists, DJ nights and EDM parties, adventure sports competitions - rappelling, zip-lining, water sports on Warasgaon Lake, food festival with multi-cuisine stalls and celebrity chef demonstrations, wine and dine events at lakefront restaurants, art exhibitions, fashion shows, vintage car rally, New Year countdown celebrations grand, fireworks over lake, illuminated colorful buildings Mediterranean-style, attracts young crowds and families from Pune-Mumbai, hotel packages, yacht parties, nightlife, combines luxury with adventure, photography hotspot, Instagram-worthy carnival atmosphere, tourism promotion initiative."
-  }
+  },
+  {
+  "name": "Sindhudurg Fort",
+  "type": "Historical Fort / Sea Fort",
+  "country": "India",
+  "state": "Maharashtra",
+  "city": "Malvan",
+  "coordinates": {
+    "lat": 16.043769,
+    "long": 73.461416
+  },
+  "heritage": {
+    "unesco": true,
+    "national": true,
+    "state": false
+  },
+  "monsoonFriendly": "Low",
+  "bestVisitMonths": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "description": "Sindhudurg Fort is a 17th‑century island sea fort commissioned by Chhatrapati Shivaji Maharaj between 1664–1667 to protect the Maratha coastline. Built on Kurte Island off the Malvan coast, it features massive 30‑ft high and 12‑ft thick laterite walls, a concealed entrance, freshwater wells, and temples including the only temple dedicated to Shivaji Maharaj. Accessible by boat from Malvan jetty, the fort spans 48 acres and served as a major Maratha naval base. It is a protected ASI monument and part of the UNESCO‑listed Maratha Military Landscapes of India (2025). The fort is closed during monsoon due to high tides; winter offers the best visibility and safe access."
+}
 ]
