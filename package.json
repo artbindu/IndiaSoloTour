@@ -25,7 +25,8 @@
     "release:minor": "standard-version --release-as minor",
     "release:major": "standard-version --release-as major",
     "release:first": "standard-version --first-release",
-    "release:dry": "standard-version --dry-run"
+    "release:dry": "standard-version --dry-run",
+    "format": "prettier --write \"**/*.json\" \"**/*.tsx\""
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -46,6 +47,7 @@
     "cross-env": "^10.1.0",
     "javascript-obfuscator": "^4.1.1",
     "nodemon": "^3.1.11",
+    "prettier": "^3.3.3",
     "rimraf": "^6.1.2",
     "serve": "^14.2.5",
     "standard-version": "^9.5.0"

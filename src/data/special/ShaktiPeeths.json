@@ -290,7 +290,8 @@
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["November", "December", "January", "February"],
     "description": "Head of Goddess Sati",
-    "others": ["International"]
+    "others": ["International"],
+    "isMyData": false
   },
   {
     "name": "Sharada Peeth",
@@ -601,7 +602,8 @@
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["April", "May", "August", "September", "October"],
     "description": "Anklet of Goddess Sati",
-    "others": ["International"]
+    "others": ["International"],
+    "isMyData": false
   },
   {
     "name": "Manasa",
@@ -729,7 +731,8 @@
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November", "December", "January", "February", "March"],
     "description": "Palms of Goddess Sati",
-    "others": ["International"]
+    "others": ["International"],
+    "isMyData": false
   },
   {
     "name": "Sugandha",

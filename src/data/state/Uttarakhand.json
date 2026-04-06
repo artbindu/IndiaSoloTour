@@ -566,8 +566,8 @@
     "state": "Uttarakhand",
     "city": "Statewide",
     "coordinates": {
-      "lat": 30.0,
-      "long": 79.0
+      "lat": 30,
+      "long": 79
     },
     "heritage": {
       "unesco": false,

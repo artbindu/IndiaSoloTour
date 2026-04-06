@@ -44,7 +44,8 @@
       "March"
     ],
     "description": "Presiding Deity: Krishna (Liberation)",
-    "others": ["ASI Heritage Site"]
+    "others": ["ASI Heritage Site"],
+    "isMyData": false
   },
   {
     "name": "Puri (Jagannath)",

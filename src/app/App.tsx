@@ -161,7 +161,10 @@ function App(): JSX.Element {
     places,
     locationTypeFilter,
     stateFilter,
-  );
+  ).map((place) => ({
+    ...place,
+    isMyData: locationTypeFilter === "all",
+  }));
 
   // Filter GI Tags using utility function
   const filteredGiTags: GITagItem[] = filterGiTags(giTags, showGiTags);

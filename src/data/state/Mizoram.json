@@ -278,7 +278,7 @@
     "city": "Champhai",
     "coordinates": {
       "lat": 23.5,
-      "long": 93.0
+      "long": 93
     },
     "heritage": {
       "unesco": false,
@@ -514,7 +514,7 @@
     "city": "Champhai",
     "coordinates": {
       "lat": 23.5,
-      "long": 93.0
+      "long": 93
     },
     "heritage": {
       "unesco": false,
@@ -568,7 +568,7 @@
     "state": "Mizoram",
     "city": "Kolasib",
     "coordinates": {
-      "lat": 24.0,
+      "lat": 24,
       "long": 92.83
     },
     "heritage": {
