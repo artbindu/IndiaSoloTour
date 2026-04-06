@@ -31,6 +31,7 @@ L.Icon.Default.mergeOptions({
 function App(): JSX.Element {
   const [places, setPlaces] = useState<Place[]>([]);
   const [giTags, setGiTags] = useState<GITagItem[]>([]);
+  const [userPreference, setUserPreference] = useState<boolean>(true);
   const [locationTypeFilter, setLocationTypeFilter] = useState<string>("all");
   const [showGiTags, setShowGiTags] = useState<boolean>(false);
   const [stateFilter, setStateFilter] = useState<string>("all");
@@ -161,6 +162,7 @@ function App(): JSX.Element {
     places,
     locationTypeFilter,
     stateFilter,
+    userPreference,
   );
 
   // Filter GI Tags using utility function
@@ -199,6 +201,8 @@ function App(): JSX.Element {
         setSidebarOpen={setSidebarOpen}
         filteredPlacesCount={filteredPlaces.length}
         filteredGiTagsCount={filteredGiTags.length}
+        userPreference={userPreference}
+        setUserPreference={setUserPreference}
         locationTypeFilter={locationTypeFilter}
         setLocationTypeFilter={setLocationTypeFilter}
         uniqueTypes={uniqueTypes}

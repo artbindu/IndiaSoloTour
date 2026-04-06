@@ -47,12 +47,14 @@ export const createCurrentLocationIcon = (): L.DivIcon => {
  * @param places - Array of places to filter
  * @param locationTypeFilter - Filter by location type ('all' for no filter)
  * @param stateFilter - Filter by state ('all' for no filter)
+ * @param userPreference - When true, show only places marked as user's data
  * @returns Filtered array of places
  */
 export const filterPlaces = (
   places: Place[],
   locationTypeFilter: string,
   stateFilter: string,
+  userPreference: boolean,
 ): Place[] => {
   return places.filter((place) => {
     // Location Type Filter
@@ -63,7 +65,7 @@ export const filterPlaces = (
     if (stateFilter !== "all" && place.state !== stateFilter) {
       return false;
     }
-    return locationTypeFilter === "all" ? place.isMyData : true;
+    return userPreference ? !!place.isMyData : true;
   });
 };
 

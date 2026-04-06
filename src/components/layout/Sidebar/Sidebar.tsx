@@ -7,6 +7,8 @@ interface SidebarProps {
   setSidebarOpen: (open: boolean) => void;
   filteredPlacesCount: number;
   filteredGiTagsCount: number;
+  userPreference: boolean;
+  setUserPreference: (value: boolean) => void;
   locationTypeFilter: string;
   setLocationTypeFilter: (value: string) => void;
   uniqueTypes: string[];
@@ -25,6 +27,8 @@ export function Sidebar({
   setSidebarOpen,
   filteredPlacesCount,
   filteredGiTagsCount,
+  userPreference,
+  setUserPreference,
   locationTypeFilter,
   setLocationTypeFilter,
   uniqueTypes,
@@ -64,6 +68,27 @@ export function Sidebar({
         )}
 
         <div className="filters">
+          <div className="filter-section">
+            <h3>User Preference</h3>
+            <div className="switch-container">
+              <label className="switch">
+                <input
+                  type="checkbox"
+                  checked={userPreference}
+                  onChange={(e) =>
+                    handleFilterChange(() =>
+                      setUserPreference(e.target.checked),
+                    )
+                  }
+                />
+                <span className="slider"></span>
+              </label>
+              <span className="switch-label">
+                {userPreference ? "ON" : "OFF"}
+              </span>
+            </div>
+          </div>
+
           <div className="filter-section">
             <h3>Location Filter Type</h3>
             <select
