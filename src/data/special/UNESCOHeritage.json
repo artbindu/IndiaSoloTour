@@ -28,7 +28,7 @@
       "Major tourist attraction",
       "Mughal architecture masterpiece"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Agra Fort",
@@ -59,7 +59,7 @@
       "Mughal architecture",
       "Historical monument"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Fatehpur Sikri",
@@ -84,7 +84,7 @@
       "Mughal architecture",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Ajanta Caves",
@@ -115,7 +115,7 @@
       "Buddhist art",
       "Ancient cave architecture"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Ellora Caves",
@@ -146,7 +146,7 @@
       "Rock-cut architecture",
       "Cultural and religious heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Elephanta Caves",
@@ -171,7 +171,7 @@
       "Cultural heritage",
       "Historic cave temples"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Sun Temple, Konark",
@@ -196,7 +196,7 @@
       "Kalinga architecture",
       "Historic temple"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Group of Monuments at Mahabalipuram",
@@ -221,7 +221,7 @@
       "Pallava architecture",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Great Living Chola Temples",
@@ -246,7 +246,7 @@
       "Chola architecture",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Group of Monuments at Hampi",
@@ -277,7 +277,7 @@
       "Vijayanagara architecture",
       "Historical site"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Group of Monuments at Pattadakal",
@@ -302,7 +302,7 @@
       "Chalukya architecture",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Khajuraho Group of Monuments",
@@ -333,7 +333,7 @@
       "Hindu and Jain temples",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Buddhist Monuments at Sanchi",
@@ -358,7 +358,7 @@
       "Stupa architecture",
       "Buddhist pilgrimage site"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Humayun’s Tomb",
@@ -389,7 +389,7 @@
       "Mughal architecture",
       "Historical monument"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Qutb Minar and its Monuments",
@@ -420,7 +420,7 @@
       "Islamic architecture",
       "Historical complex"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Mountain Railways of India",
@@ -445,7 +445,7 @@
       "Engineering heritage",
       "Tourist attraction"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Mahabodhi Temple Complex at Bodh Gaya",
@@ -477,7 +477,7 @@
       "ASI Protected Monument",
       "Major Buddhist pilgrimage site"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Rock Shelters of Bhimbetka",
@@ -502,7 +502,7 @@
       "Prehistoric art",
       "Archaeological site"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Champaner–Pavagadh Archaeological Park",
@@ -527,7 +527,7 @@
       "Archaeological park",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Chhatrapati Shivaji Maharaj Terminus",
@@ -552,7 +552,7 @@
       "Architectural heritage",
       "Railway landmark"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Red Fort Complex",
@@ -583,7 +583,7 @@
       "Mughal architecture",
       "Historical monument"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Jantar Mantar, Jaipur",
@@ -614,7 +614,7 @@
       "Astronomical instruments",
       "Scientific heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Hill Forts of Rajasthan",
@@ -645,7 +645,7 @@
       "Military architecture",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Rani-ki-Vav (Queen’s Stepwell)",
@@ -676,7 +676,7 @@
       "Stepwell architecture",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Archaeological Site of Nalanda Mahavihara",
@@ -707,7 +707,7 @@
       "Ancient university",
       "Buddhist heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Khangchendzonga National Park (Mixed)",
@@ -732,7 +732,7 @@
       "Mixed natural and cultural heritage",
       "Himalayan ecosystem"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "The Architectural Work of Le Corbusier",
@@ -763,7 +763,7 @@
       "Modern architecture",
       "Urban planning"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Historic City of Ahmedabad",
@@ -794,7 +794,7 @@
       "Cultural heritage",
       "Architectural ensemble"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
@@ -819,7 +819,7 @@
       "Architectural heritage",
       "Cultural ensemble"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Jaipur City, Rajasthan",
@@ -850,7 +850,7 @@
       "Urban planning",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Kakatiya Rudreshwara (Ramappa) Temple",
@@ -881,7 +881,7 @@
       "Kakatiya architecture",
       "Cultural heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Dholavira (Harappan City)",
@@ -912,7 +912,7 @@
       "Harappan civilization",
       "Archaeological site"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Santiniketan",
@@ -943,7 +943,7 @@
       "Cultural heritage",
       "Educational center"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Sacred Ensembles of the Hoysalas",
@@ -974,7 +974,7 @@
       "Hoysala architecture",
       "Cultural and religious heritage"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Kaziranga National Park",
@@ -1000,7 +1000,7 @@
       "Important Bird Area",
       "Brahmaputra floodplain ecosystem"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Manas Wildlife Sanctuary",
@@ -1026,7 +1026,7 @@
       "Biosphere Reserve",
       "Eastern Himalayan biodiversity hotspot"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Keoladeo National Park",
@@ -1058,7 +1058,7 @@
       "Ramsar Wetland",
       "Former royal hunting reserve"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Sundarbans National Park",
@@ -1084,7 +1084,7 @@
       "Biosphere Reserve",
       "Mangrove ecosystem"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Nanda Devi and Valley of Flowers National Parks",
@@ -1110,7 +1110,7 @@
       "Himalayan ecosystem",
       "Valley of endemic flowers"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Western Ghats",
@@ -1136,7 +1136,7 @@
       "Multiple protected areas",
       "High endemism"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Great Himalayan National Park",
@@ -1162,7 +1162,7 @@
       "Western Himalayas ecosystem",
       "Protected wildlife reserve"
     ],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Khangchendzonga National Park",
@@ -1188,6 +1188,6 @@
       "Himalayan biodiversity hotspot",
       "Sacred landscape of Sikkim"
     ],
-    "isMyData": false
+    "isMyData": true
   }
 ]

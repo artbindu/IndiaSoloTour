@@ -63,7 +63,7 @@ export const filterPlaces = (
     if (stateFilter !== "all" && place.state !== stateFilter) {
       return false;
     }
-    return true;
+    return locationTypeFilter === "all" ? place.isMyData : true;
   });
 };
 

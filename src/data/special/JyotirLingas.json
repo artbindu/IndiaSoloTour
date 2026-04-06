@@ -25,7 +25,7 @@
     ],
     "description": "First Jyotirlinga - Eternal / First",
     "others": ["ASI Heritage Site"],
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Mallikarjuna",
@@ -52,7 +52,7 @@
       "March"
     ],
     "description": "Jyotirlinga with Shakti Peeth - Jyoti + Shakti",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Mahakaleshwar",
@@ -79,7 +79,7 @@
       "March"
     ],
     "description": "Dakshinamurti - South-facing deity",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Omkareshwar",
@@ -106,7 +106,7 @@
       "March"
     ],
     "description": "Om-shaped island Jyotirlinga",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Kedarnath",
@@ -126,7 +126,7 @@
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
     "description": "Himalayan Jyotirlinga - Swayambhu (self-manifested)",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Bhimashankar",
@@ -153,7 +153,7 @@
       "March"
     ],
     "description": "Sahyadri Jyotirlinga",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Kashi Vishwanath",
@@ -180,7 +180,7 @@
       "March"
     ],
     "description": "Moksha Jyotirlinga - Liberation temple",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Trimbakeshwar",
@@ -207,7 +207,7 @@
       "March"
     ],
     "description": "Origin of Godavari river",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Vaidyanath (Baidyanath Dham)",
@@ -234,7 +234,7 @@
       "March"
     ],
     "description": "The Healer Jyotirlinga",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Nageshwar",
@@ -261,7 +261,7 @@
       "March"
     ],
     "description": "Poison Conqueror Jyotirlinga",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Rameshwaram",
@@ -288,7 +288,7 @@
       "March"
     ],
     "description": "Setu Jyotirlinga - Bridge to Lanka",
-    "isMyData": false
+    "isMyData": true
   },
   {
     "name": "Grishneshwar",
@@ -316,6 +316,6 @@
     ],
     "description": "Compassion Jyotirlinga near Ellora Caves",
     "others": ["Near Ellora ASI zone"],
-    "isMyData": false
+    "isMyData": true
   }
 ]
