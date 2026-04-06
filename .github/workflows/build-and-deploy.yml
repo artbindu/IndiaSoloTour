@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  NODE_VERSION: "18.x"
+  NODE_VERSION: "20.20.0"
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.x, 20.x]
+        node-version: [20.20.0]
 
     steps:
       - name: Checkout code
@@ -51,7 +51,7 @@ jobs:
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
-        if: matrix.node-version == '18.x' && github.event_name == 'push'
+        if: matrix.node-version == '20.20.0' && github.event_name == 'push'
         with:
           name: build-output
           path: build/
@@ -60,7 +60,7 @@ jobs:
 
       - name: Upload coverage reports
         uses: actions/upload-artifact@v4
-        if: matrix.node-version == '18.x'
+        if: matrix.node-version == '20.20.0'
         with:
           name: coverage-report
           path: coverage/
