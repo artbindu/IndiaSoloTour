@@ -27,7 +27,8 @@
       "UNESCO World Heritage Site (1983)",
       "Major tourist attraction",
       "Mughal architecture masterpiece"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Agra Fort",
@@ -57,7 +58,8 @@
       "UNESCO World Heritage Site (1983)",
       "Mughal architecture",
       "Historical monument"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Fatehpur Sikri",
@@ -86,7 +88,8 @@
       "UNESCO World Heritage Site (1986)",
       "Mughal architecture",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Ajanta Caves",
@@ -116,7 +119,8 @@
       "UNESCO World Heritage Site (1983)",
       "Buddhist art",
       "Ancient cave architecture"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Ellora Caves",
@@ -146,7 +150,8 @@
       "UNESCO World Heritage Site (1983)",
       "Rock-cut architecture",
       "Cultural and religious heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Elephanta Caves",
@@ -175,7 +180,8 @@
       "UNESCO World Heritage Site (1987)",
       "Cultural heritage",
       "Historic cave temples"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Sun Temple, Konark",
@@ -204,7 +210,8 @@
       "UNESCO World Heritage Site (1984)",
       "Kalinga architecture",
       "Historic temple"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Group of Monuments at Mahabalipuram",
@@ -233,7 +240,8 @@
       "UNESCO World Heritage Site (1984)",
       "Pallava architecture",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Great Living Chola Temples",
@@ -262,7 +270,8 @@
       "UNESCO World Heritage Site (1987)",
       "Chola architecture",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Group of Monuments at Hampi",
@@ -292,7 +301,8 @@
       "UNESCO World Heritage Site (1986)",
       "Vijayanagara architecture",
       "Historical site"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Group of Monuments at Pattadakal",
@@ -321,7 +331,8 @@
       "UNESCO World Heritage Site (1987)",
       "Chalukya architecture",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Khajuraho Group of Monuments",
@@ -351,7 +362,8 @@
       "UNESCO World Heritage Site (1986)",
       "Hindu and Jain temples",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Buddhist Monuments at Sanchi",
@@ -380,7 +392,8 @@
       "UNESCO World Heritage Site (1989)",
       "Stupa architecture",
       "Buddhist pilgrimage site"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Humayun’s Tomb",
@@ -410,7 +423,8 @@
       "UNESCO World Heritage Site (1993)",
       "Mughal architecture",
       "Historical monument"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Qutb Minar and its Monuments",
@@ -440,7 +454,8 @@
       "UNESCO World Heritage Site (1993)",
       "Islamic architecture",
       "Historical complex"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Mountain Railways of India",
@@ -469,7 +484,8 @@
       "UNESCO World Heritage Site (1999)",
       "Engineering heritage",
       "Tourist attraction"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Mahabodhi Temple Complex at Bodh Gaya",
@@ -500,7 +516,8 @@
       "UNESCO World Heritage Site (2002)",
       "ASI Protected Monument",
       "Major Buddhist pilgrimage site"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Rock Shelters of Bhimbetka",
@@ -529,7 +546,8 @@
       "UNESCO World Heritage Site (2003)",
       "Prehistoric art",
       "Archaeological site"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Champaner–Pavagadh Archaeological Park",
@@ -558,7 +576,8 @@
       "UNESCO World Heritage Site (2004)",
       "Archaeological park",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Chhatrapati Shivaji Maharaj Terminus",
@@ -587,7 +606,8 @@
       "UNESCO World Heritage Site (2004)",
       "Architectural heritage",
       "Railway landmark"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Red Fort Complex",
@@ -617,7 +637,8 @@
       "UNESCO World Heritage Site (2007)",
       "Mughal architecture",
       "Historical monument"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Jantar Mantar, Jaipur",
@@ -647,7 +668,8 @@
       "UNESCO World Heritage Site (2010)",
       "Astronomical instruments",
       "Scientific heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Hill Forts of Rajasthan",
@@ -677,7 +699,8 @@
       "UNESCO World Heritage Site (2013)",
       "Military architecture",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Rani-ki-Vav (Queen’s Stepwell)",
@@ -707,7 +730,8 @@
       "UNESCO World Heritage Site (2014)",
       "Stepwell architecture",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Archaeological Site of Nalanda Mahavihara",
@@ -737,7 +761,8 @@
       "UNESCO World Heritage Site (2016)",
       "Ancient university",
       "Buddhist heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Khangchendzonga National Park (Mixed)",
@@ -766,7 +791,8 @@
       "UNESCO World Heritage Site (2016)",
       "Mixed natural and cultural heritage",
       "Himalayan ecosystem"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "The Architectural Work of Le Corbusier",
@@ -796,7 +822,8 @@
       "UNESCO World Heritage Site (2016)",
       "Modern architecture",
       "Urban planning"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Historic City of Ahmedabad",
@@ -826,7 +853,8 @@
       "UNESCO World Heritage Site (2017)",
       "Cultural heritage",
       "Architectural ensemble"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
@@ -855,7 +883,8 @@
       "UNESCO World Heritage Site (2018)",
       "Architectural heritage",
       "Cultural ensemble"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Jaipur City, Rajasthan",
@@ -885,7 +914,8 @@
       "UNESCO World Heritage Site (2019)",
       "Urban planning",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Kakatiya Rudreshwara (Ramappa) Temple",
@@ -915,7 +945,8 @@
       "UNESCO World Heritage Site (2021)",
       "Kakatiya architecture",
       "Cultural heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Dholavira (Harappan City)",
@@ -945,7 +976,8 @@
       "UNESCO World Heritage Site (2021)",
       "Harappan civilization",
       "Archaeological site"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Santiniketan",
@@ -975,7 +1007,8 @@
       "UNESCO World Heritage Site (2023)",
       "Cultural heritage",
       "Educational center"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Sacred Ensembles of the Hoysalas",
@@ -1005,7 +1038,8 @@
       "UNESCO World Heritage Site (2023)",
       "Hoysala architecture",
       "Cultural and religious heritage"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Kaziranga National Park",
@@ -1035,7 +1069,8 @@
       "Tiger Reserve",
       "Important Bird Area",
       "Brahmaputra floodplain ecosystem"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Manas Wildlife Sanctuary",
@@ -1064,7 +1099,8 @@
       "Tiger Reserve",
       "Biosphere Reserve",
       "Eastern Himalayan biodiversity hotspot"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Keoladeo National Park",
@@ -1095,7 +1131,8 @@
       "Important Bird Area",
       "Ramsar Wetland",
       "Former royal hunting reserve"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Sundarbans National Park",
@@ -1124,7 +1161,8 @@
       "Tiger Reserve",
       "Biosphere Reserve",
       "Mangrove ecosystem"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Nanda Devi and Valley of Flowers National Parks",
@@ -1154,7 +1192,8 @@
       "Biosphere Reserve",
       "Himalayan ecosystem",
       "Valley of endemic flowers"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Western Ghats",
@@ -1184,7 +1223,8 @@
       "Global biodiversity hotspot",
       "Multiple protected areas",
       "High endemism"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Great Himalayan National Park",
@@ -1214,7 +1254,8 @@
       "Biodiversity hotspot",
       "Western Himalayas ecosystem",
       "Protected wildlife reserve"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Khangchendzonga National Park",
@@ -1244,6 +1285,7 @@
       "Mixed Natural and Cultural Site",
       "Himalayan biodiversity hotspot",
       "Sacred landscape of Sikkim"
-    ]
+    ],
+    "isMyData": false
   }
 ]

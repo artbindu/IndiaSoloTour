@@ -24,7 +24,8 @@
       "March"
     ],
     "description": "First Jyotirlinga - Eternal / First",
-    "others": ["ASI Heritage Site"]
+    "others": ["ASI Heritage Site"],
+    "isMyData": false
   },
   {
     "name": "Mallikarjuna",
@@ -50,7 +51,8 @@
       "February",
       "March"
     ],
-    "description": "Jyotirlinga with Shakti Peeth - Jyoti + Shakti"
+    "description": "Jyotirlinga with Shakti Peeth - Jyoti + Shakti",
+    "isMyData": false
   },
   {
     "name": "Mahakaleshwar",
@@ -76,7 +78,8 @@
       "February",
       "March"
     ],
-    "description": "Dakshinamurti - South-facing deity"
+    "description": "Dakshinamurti - South-facing deity",
+    "isMyData": false
   },
   {
     "name": "Omkareshwar",
@@ -102,7 +105,8 @@
       "February",
       "March"
     ],
-    "description": "Om-shaped island Jyotirlinga"
+    "description": "Om-shaped island Jyotirlinga",
+    "isMyData": false
   },
   {
     "name": "Kedarnath",
@@ -121,7 +125,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Himalayan Jyotirlinga - Swayambhu (self-manifested)"
+    "description": "Himalayan Jyotirlinga - Swayambhu (self-manifested)",
+    "isMyData": false
   },
   {
     "name": "Bhimashankar",
@@ -147,7 +152,8 @@
       "February",
       "March"
     ],
-    "description": "Sahyadri Jyotirlinga"
+    "description": "Sahyadri Jyotirlinga",
+    "isMyData": false
   },
   {
     "name": "Kashi Vishwanath",
@@ -173,7 +179,8 @@
       "February",
       "March"
     ],
-    "description": "Moksha Jyotirlinga - Liberation temple"
+    "description": "Moksha Jyotirlinga - Liberation temple",
+    "isMyData": false
   },
   {
     "name": "Trimbakeshwar",
@@ -199,7 +206,8 @@
       "February",
       "March"
     ],
-    "description": "Origin of Godavari river"
+    "description": "Origin of Godavari river",
+    "isMyData": false
   },
   {
     "name": "Vaidyanath (Baidyanath Dham)",
@@ -225,7 +233,8 @@
       "February",
       "March"
     ],
-    "description": "The Healer Jyotirlinga"
+    "description": "The Healer Jyotirlinga",
+    "isMyData": false
   },
   {
     "name": "Nageshwar",
@@ -251,7 +260,8 @@
       "February",
       "March"
     ],
-    "description": "Poison Conqueror Jyotirlinga"
+    "description": "Poison Conqueror Jyotirlinga",
+    "isMyData": false
   },
   {
     "name": "Rameshwaram",
@@ -277,7 +287,8 @@
       "February",
       "March"
     ],
-    "description": "Setu Jyotirlinga - Bridge to Lanka"
+    "description": "Setu Jyotirlinga - Bridge to Lanka",
+    "isMyData": false
   },
   {
     "name": "Grishneshwar",
@@ -304,6 +315,7 @@
       "March"
     ],
     "description": "Compassion Jyotirlinga near Ellora Caves",
-    "others": ["Near Ellora ASI zone"]
+    "others": ["Near Ellora ASI zone"],
+    "isMyData": false
   }
 ]

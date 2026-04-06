@@ -23,7 +23,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Golconda Fort",
@@ -49,7 +50,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Qutb Shahi Tombs",
@@ -75,7 +77,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Mecca Masjid",
@@ -101,7 +104,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Birla Mandir",
@@ -126,7 +130,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Ramappa (Rudreshwara) Temple",
@@ -152,7 +157,8 @@
       "February",
       "March"
     ],
-    "significance": "UNESCO World Heritage Site"
+    "significance": "UNESCO World Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Bhadrakali Temple",
@@ -177,7 +183,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Warangal Fort",
@@ -203,7 +210,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Thousand Pillar Temple",
@@ -229,7 +237,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Laknavaram Lake",
@@ -253,7 +262,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Kuntala Waterfall",
@@ -280,7 +290,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Bogatha Waterfall",
@@ -307,7 +318,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Kawal Tiger Reserve",
@@ -333,7 +345,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Eturnagaram Wildlife Sanctuary",
@@ -359,7 +372,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Pocharam Wildlife Sanctuary",
@@ -384,7 +398,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Ananthagiri Hills",
@@ -408,7 +423,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Medak Cathedral",
@@ -434,7 +450,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Basar Saraswati Temple",
@@ -460,7 +477,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Nagarjuna Sagar Dam",
@@ -485,7 +503,8 @@
       "January",
       "February"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Hussain Sagar Lake",
@@ -509,7 +528,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Shilparamam Crafts Village",
@@ -534,7 +554,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Bathukamma Festival",
@@ -552,7 +573,8 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["September", "October"]
+    "bestVisitMonths": ["September", "October"],
+    "isMyData": false
   },
   {
     "name": "Bonalu Festival",
@@ -570,6 +592,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["July", "August"]
+    "bestVisitMonths": ["July", "August"],
+    "isMyData": false
   }
 ]

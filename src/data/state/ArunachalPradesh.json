@@ -26,7 +26,8 @@
       "September",
       "October"
     ],
-    "description": "Largest monastery in India and second largest in world, 400-year-old Gelugpa Order monastery at 3300m altitude, 65 residential buildings with 450+ monks, birthplace of 6th Dalai Lama, 8-meter golden Buddha statue, library with ancient Buddhist manuscripts, stunning mountain views."
+    "description": "Largest monastery in India and second largest in world, 400-year-old Gelugpa Order monastery at 3300m altitude, 65 residential buildings with 450+ monks, birthplace of 6th Dalai Lama, 8-meter golden Buddha statue, library with ancient Buddhist manuscripts, stunning mountain views.",
+    "isMyData": false
   },
   {
     "name": "Sela Pass",
@@ -53,7 +54,8 @@
       "September",
       "October"
     ],
-    "description": "High-altitude mountain pass at 4170m on Tawang-Guwahati route, Sela Lake (Paradise Lake) at summit, 101 lakes in vicinity, snow-covered most of year, Jaswant Garh War Memorial nearby, Sela Top view point, prayer flags, challenging drive, gateway to Tawang."
+    "description": "High-altitude mountain pass at 4170m on Tawang-Guwahati route, Sela Lake (Paradise Lake) at summit, 101 lakes in vicinity, snow-covered most of year, Jaswant Garh War Memorial nearby, Sela Top view point, prayer flags, challenging drive, gateway to Tawang.",
+    "isMyData": false
   },
   {
     "name": "Bum La Pass",
@@ -80,7 +82,8 @@
       "September",
       "October"
     ],
-    "description": "Indo-China border pass at 4571m, open to tourists with permits, historic 1962 war site, Indian Army presence, views of China border, 37km from Tawang, Sangestar Tso (Madhuri Lake) en route, closed Mondays, pristine snow landscape."
+    "description": "Indo-China border pass at 4571m, open to tourists with permits, historic 1962 war site, Indian Army presence, views of China border, 37km from Tawang, Sangestar Tso (Madhuri Lake) en route, closed Mondays, pristine snow landscape.",
+    "isMyData": false
   },
   {
     "name": "Madhuri Lake (Sangestar Lake)",
@@ -107,7 +110,8 @@
       "September",
       "October"
     ],
-    "description": "High-altitude lake at 3700m formed after 1950 earthquake, named after Bollywood actress Madhuri Dixit (film 'Koyla' shot here), crystal-clear emerald waters, snow-capped peaks backdrop, en route to Bum La Pass, pristine beauty, photography paradise."
+    "description": "High-altitude lake at 3700m formed after 1950 earthquake, named after Bollywood actress Madhuri Dixit (film 'Koyla' shot here), crystal-clear emerald waters, snow-capped peaks backdrop, en route to Bum La Pass, pristine beauty, photography paradise.",
+    "isMyData": false
   },
   {
     "name": "Nuranang Waterfall",
@@ -134,7 +138,8 @@
       "September",
       "October"
     ],
-    "description": "Spectacular 100-meter waterfall also called Bong Bong Falls or Jang Falls, on Tawang-Bomdila road near Jang village, named after local Monpa girl Nura who helped Indian soldier in 1962 war, hydroelectric project, picnic spot, stunning natural beauty."
+    "description": "Spectacular 100-meter waterfall also called Bong Bong Falls or Jang Falls, on Tawang-Bomdila road near Jang village, named after local Monpa girl Nura who helped Indian soldier in 1962 war, hydroelectric project, picnic spot, stunning natural beauty.",
+    "isMyData": false
   },
   {
     "name": "Dirang Valley",
@@ -161,7 +166,8 @@
       "September",
       "October"
     ],
-    "description": "Picturesque valley at 1497m altitude, gateway to Tawang, Monpa tribal villages, apple and kiwi orchards, hot water springs, Dirang Dzong (old fort), sheep breeding farm, yak research center, traditional stone and wood houses, peaceful ambiance."
+    "description": "Picturesque valley at 1497m altitude, gateway to Tawang, Monpa tribal villages, apple and kiwi orchards, hot water springs, Dirang Dzong (old fort), sheep breeding farm, yak research center, traditional stone and wood houses, peaceful ambiance.",
+    "isMyData": false
   },
   {
     "name": "Bomdila Monastery",
@@ -190,7 +196,8 @@
       "September",
       "October"
     ],
-    "description": "Largest monastery in Bomdila, Buddhist learning center, Gentse Gaden Rabgyel Lling Monastery, Dalai Lama consecrated in 1997, colorful murals, prayer hall, Buddhist teachings, panoramic Himalayan views, Monpa cultural center, peaceful meditation spot."
+    "description": "Largest monastery in Bomdila, Buddhist learning center, Gentse Gaden Rabgyel Lling Monastery, Dalai Lama consecrated in 1997, colorful murals, prayer hall, Buddhist teachings, panoramic Himalayan views, Monpa cultural center, peaceful meditation spot.",
+    "isMyData": false
   },
   {
     "name": "Sela Lake",
@@ -217,7 +224,8 @@
       "September",
       "October"
     ],
-    "description": "Paradise Lake at Sela Pass summit, frozen most of year, crystal-clear turquoise waters in summer, surrounded by snow peaks, prayer flags, sacred to Monpa tribe, legend of Sela's sacrifice for soldiers, part of 101 lakes cluster, breathtaking scenery."
+    "description": "Paradise Lake at Sela Pass summit, frozen most of year, crystal-clear turquoise waters in summer, surrounded by snow peaks, prayer flags, sacred to Monpa tribe, legend of Sela's sacrifice for soldiers, part of 101 lakes cluster, breathtaking scenery.",
+    "isMyData": false
   },
   {
     "name": "Ziro Valley",
@@ -244,7 +252,8 @@
       "March",
       "April"
     ],
-    "description": "UNESCO World Heritage Site tentative list, home to Apatani tribe with unique facial tattoos and nose plugs, wet rice cultivation terraces, bamboo houses on stilts, Ziro Music Festival (September), pine forests, Old Ziro and Hong villages, sustainable agriculture practices."
+    "description": "UNESCO World Heritage Site tentative list, home to Apatani tribe with unique facial tattoos and nose plugs, wet rice cultivation terraces, bamboo houses on stilts, Ziro Music Festival (September), pine forests, Old Ziro and Hong villages, sustainable agriculture practices.",
+    "isMyData": false
   },
   {
     "name": "Talley Valley Wildlife Sanctuary",
@@ -271,7 +280,8 @@
       "March",
       "April"
     ],
-    "description": "337 sq km sanctuary near Ziro Valley, silver fir and pine forests, clouded leopard, red panda, musk deer, Himalayan black bear, 200+ bird species, pristine ecosystem, trekking trails, Apatani tribal area, biodiversity hotspot, research zone."
+    "description": "337 sq km sanctuary near Ziro Valley, silver fir and pine forests, clouded leopard, red panda, musk deer, Himalayan black bear, 200+ bird species, pristine ecosystem, trekking trails, Apatani tribal area, biodiversity hotspot, research zone.",
+    "isMyData": false
   },
   {
     "name": "Mechuka Valley",
@@ -299,7 +309,8 @@
       "September",
       "October"
     ],
-    "description": "Hidden valley at 1800m near China border, Memba tribal villages, Siyom River, Samten Yongcha Monastery (400 years old), Mechuka Gompa, airstrip, snow peaks surrounding, offbeat destination, permits required, pristine Himalayan beauty, adventure hub."
+    "description": "Hidden valley at 1800m near China border, Memba tribal villages, Siyom River, Samten Yongcha Monastery (400 years old), Mechuka Gompa, airstrip, snow peaks surrounding, offbeat destination, permits required, pristine Himalayan beauty, adventure hub.",
+    "isMyData": false
   },
   {
     "name": "Parshuram Kund",
@@ -326,7 +337,8 @@
       "February",
       "March"
     ],
-    "description": "Sacred pilgrimage site on Lohit River, legend of Parshuram washing blood after killing Kshatriyas, Makar Sankranti Mela (January) with 70,000+ pilgrims, holy dip rituals, Brahma Kund pool, temples, Mishmi tribal area, scenic river valley."
+    "description": "Sacred pilgrimage site on Lohit River, legend of Parshuram washing blood after killing Kshatriyas, Makar Sankranti Mela (January) with 70,000+ pilgrims, holy dip rituals, Brahma Kund pool, temples, Mishmi tribal area, scenic river valley.",
+    "isMyData": false
   },
   {
     "name": "Itanagar",
@@ -352,7 +364,8 @@
       "February",
       "March"
     ],
-    "description": "Capital of Arunachal Pradesh, Land of the Dawn-Lit Mountains gateway, Ita Fort (14th century), Ganga Lake (Gyakar Sinyi), State Museum, Craft Centre and Emporium, Indira Gandhi Park, Buddhist temple, tribal culture hub, administrative center."
+    "description": "Capital of Arunachal Pradesh, Land of the Dawn-Lit Mountains gateway, Ita Fort (14th century), Ganga Lake (Gyakar Sinyi), State Museum, Craft Centre and Emporium, Indira Gandhi Park, Buddhist temple, tribal culture hub, administrative center.",
+    "isMyData": false
   },
   {
     "name": "Ita Fort",
@@ -378,7 +391,8 @@
       "February",
       "March"
     ],
-    "description": "14th-15th century fort meaning Brick Fort, irregular-shaped fortification with 8-meter walls, lakhs of bricks used, mystery surrounds its builders (possibly Jitari kings), archaeological significance, partly excavated, historical landmark in Itanagar, panoramic city views."
+    "description": "14th-15th century fort meaning Brick Fort, irregular-shaped fortification with 8-meter walls, lakhs of bricks used, mystery surrounds its builders (possibly Jitari kings), archaeological significance, partly excavated, historical landmark in Itanagar, panoramic city views.",
+    "isMyData": false
   },
   {
     "name": "Namdapha National Park",
@@ -405,7 +419,8 @@
       "February",
       "March"
     ],
-    "description": "India's largest protected area in biodiversity, 1985 sq km, only park with four big cats (tiger, leopard, clouded leopard, snow leopard), hoolock gibbons, red pandas, 425+ bird species, altitude ranges 200m to 4571m, Noa-Dihing River, dense rainforests, trekking."
+    "description": "India's largest protected area in biodiversity, 1985 sq km, only park with four big cats (tiger, leopard, clouded leopard, snow leopard), hoolock gibbons, red pandas, 425+ bird species, altitude ranges 200m to 4571m, Noa-Dihing River, dense rainforests, trekking.",
+    "isMyData": false
   },
   {
     "name": "Sippi River",
@@ -432,7 +447,8 @@
       "March",
       "April"
     ],
-    "description": "Tributary of Siang (Brahmaputra) River, pristine river ecosystem, angling destination (golden mahseer), rafting opportunities, Adi tribal villages, riverside camping, jungle trekking, birdwatching, offbeat eco-tourism, natural beauty, adventure activities."
+    "description": "Tributary of Siang (Brahmaputra) River, pristine river ecosystem, angling destination (golden mahseer), rafting opportunities, Adi tribal villages, riverside camping, jungle trekking, birdwatching, offbeat eco-tourism, natural beauty, adventure activities.",
+    "isMyData": false
   },
   {
     "name": "Pakhui Wildlife Sanctuary",
@@ -459,7 +475,8 @@
       "March",
       "April"
     ],
-    "description": "862 sq km tiger reserve, elephants, leopards, clouded leopards, hornbills, Pakke-Kessang district, Pakke River, eco-tourism camps, jungle safari, Nyishi tribal area, butterfly diversity (160+ species), orchids, hornbill nest adoption program, conservation success story."
+    "description": "862 sq km tiger reserve, elephants, leopards, clouded leopards, hornbills, Pakke-Kessang district, Pakke River, eco-tourism camps, jungle safari, Nyishi tribal area, butterfly diversity (160+ species), orchids, hornbill nest adoption program, conservation success story.",
+    "isMyData": false
   },
   {
     "name": "Daporijo",
@@ -486,7 +503,8 @@
       "March",
       "April"
     ],
-    "description": "Hill town on Subansiri River banks, headquarters of Upper Subansiri district, Tagin tribal culture, hanging bridge (longest in state), fishing, river rafting, trekking to nearby villages, gateway to Taliha and Kamporijo, offbeat destination, natural beauty."
+    "description": "Hill town on Subansiri River banks, headquarters of Upper Subansiri district, Tagin tribal culture, hanging bridge (longest in state), fishing, river rafting, trekking to nearby villages, gateway to Taliha and Kamporijo, offbeat destination, natural beauty.",
+    "isMyData": false
   },
   {
     "name": "Bomdila Viewpoint",
@@ -514,7 +532,8 @@
       "September",
       "October"
     ],
-    "description": "Upper Gompa viewpoint at 2530m altitude, 180-degree panoramic views of snow-capped Himalayan peaks including Gorichen Peak and Kangto, sunrise-sunset views, prayer flags, Bomdila town views, photography spot, clear skies essential, peaceful location."
+    "description": "Upper Gompa viewpoint at 2530m altitude, 180-degree panoramic views of snow-capped Himalayan peaks including Gorichen Peak and Kangto, sunrise-sunset views, prayer flags, Bomdila town views, photography spot, clear skies essential, peaceful location.",
+    "isMyData": false
   },
   {
     "name": "Ganga Lake",
@@ -541,7 +560,8 @@
       "September",
       "October"
     ],
-    "description": "High-altitude lake at 3700m near Tawang, part of 101 lakes around Sela Pass, crystal-clear waters, surrounded by rocky terrain and snow peaks, peaceful atmosphere, prayer flags, Buddhist pilgrimage significance, photography destination, pristine mountain landscape."
+    "description": "High-altitude lake at 3700m near Tawang, part of 101 lakes around Sela Pass, crystal-clear waters, surrounded by rocky terrain and snow peaks, peaceful atmosphere, prayer flags, Buddhist pilgrimage significance, photography destination, pristine mountain landscape.",
+    "isMyData": false
   },
   {
     "name": "Tawang War Memorial",
@@ -570,7 +590,8 @@
       "September",
       "October"
     ],
-    "description": "Memorial commemorating martyrs of 1962 Sino-Indian War, 40-foot stupa-shaped structure, names of 2,420 soldiers inscribed, flame of remembrance, museum with war artifacts, photographs, weapons, light and sound show, tribute to brave soldiers, national pride symbol."
+    "description": "Memorial commemorating martyrs of 1962 Sino-Indian War, 40-foot stupa-shaped structure, names of 2,420 soldiers inscribed, flame of remembrance, museum with war artifacts, photographs, weapons, light and sound show, tribute to brave soldiers, national pride symbol.",
+    "isMyData": false
   },
   {
     "name": "Sangti Valley",
@@ -598,7 +619,8 @@
       "September",
       "October"
     ],
-    "description": "Scenic valley 17km from Dirang, winter home to black-necked cranes (October-March), Dirang River, Monpa villages, apple orchards, camping destination, trekking, birdwatching paradise, tranquil landscape, homestays, offbeat eco-tourism spot."
+    "description": "Scenic valley 17km from Dirang, winter home to black-necked cranes (October-March), Dirang River, Monpa villages, apple orchards, camping destination, trekking, birdwatching paradise, tranquil landscape, homestays, offbeat eco-tourism spot.",
+    "isMyData": false
   },
   {
     "name": "Malinithan Archaeological Site",
@@ -626,7 +648,8 @@
       "March",
       "April"
     ],
-    "description": "15th-16th century Hindu temple ruins, dedicated to Goddess Durga (local belief as Parvati's mother Malini), brick structures, stone sculptures, terracotta plaques, ASI protected site, on Subansiri River banks near Likabali, archaeological excavations, Arunachal's ancient history."
+    "description": "15th-16th century Hindu temple ruins, dedicated to Goddess Durga (local belief as Parvati's mother Malini), brick structures, stone sculptures, terracotta plaques, ASI protected site, on Subansiri River banks near Likabali, archaeological excavations, Arunachal's ancient history.",
+    "isMyData": false
   },
   {
     "name": "Siang River",
@@ -653,7 +676,8 @@
       "March",
       "April"
     ],
-    "description": "Brahmaputra River in Arunachal (called Siang), white-water rafting paradise with Grade IV-V rapids, angling for golden mahseer, Pasighat to Along stretch, Adi tribal villages, stunning gorges, adventure tourism hub, river festivals, biodiversity hotspot."
+    "description": "Brahmaputra River in Arunachal (called Siang), white-water rafting paradise with Grade IV-V rapids, angling for golden mahseer, Pasighat to Along stretch, Adi tribal villages, stunning gorges, adventure tourism hub, river festivals, biodiversity hotspot.",
+    "isMyData": false
   },
   {
     "name": "Arunachal Adventure Festival",
@@ -672,6 +696,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["October"],
-    "description": "Annual adventure sports festival celebrating Arunachal's tourism potential, rock climbing, paragliding, trekking, mountain biking, traditional archery, Monpa cultural performances, local cuisine, handicrafts exhibition, October celebration, promotes adventure tourism, community participation."
+    "description": "Annual adventure sports festival celebrating Arunachal's tourism potential, rock climbing, paragliding, trekking, mountain biking, traditional archery, Monpa cultural performances, local cuisine, handicrafts exhibition, October celebration, promotes adventure tourism, community participation.",
+    "isMyData": false
   }
 ]

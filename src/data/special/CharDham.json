@@ -16,7 +16,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Presiding Deity: Vishnu (Salvation)"
+    "description": "Presiding Deity: Vishnu (Salvation)",
+    "isMyData": false
   },
   {
     "name": "Dwarka",
@@ -69,7 +70,8 @@
       "February",
       "March"
     ],
-    "description": "Presiding Deity: Vishnu/Jagannath (Moksha)"
+    "description": "Presiding Deity: Vishnu/Jagannath (Moksha)",
+    "isMyData": false
   },
   {
     "name": "Rameshwaram",
@@ -95,7 +97,8 @@
       "February",
       "March"
     ],
-    "description": "Presiding Deity: Shiva (Purification)"
+    "description": "Presiding Deity: Shiva (Purification)",
+    "isMyData": false
   },
   {
     "name": "Yamunotri",
@@ -114,7 +117,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Presiding Deity: Goddess Yamuna"
+    "description": "Presiding Deity: Goddess Yamuna",
+    "isMyData": false
   },
   {
     "name": "Gangotri",
@@ -133,7 +137,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Presiding Deity: Goddess Ganga"
+    "description": "Presiding Deity: Goddess Ganga",
+    "isMyData": false
   },
   {
     "name": "Kedarnath",
@@ -152,7 +157,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Presiding Deity: Lord Shiva"
+    "description": "Presiding Deity: Lord Shiva",
+    "isMyData": false
   },
   {
     "name": "Badrinath",
@@ -171,6 +177,7 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Presiding Deity: Lord Vishnu"
+    "description": "Presiding Deity: Lord Vishnu",
+    "isMyData": false
   }
 ]

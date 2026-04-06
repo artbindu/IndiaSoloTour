@@ -24,7 +24,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site featuring ruins of the Vijayanagara Empire, ancient temples, royal structures, and monuments showcasing 14th-16th century architecture."
+    "description": "UNESCO World Heritage Site featuring ruins of the Vijayanagara Empire, ancient temples, royal structures, and monuments showcasing 14th-16th century architecture.",
+    "isMyData": false
   },
   {
     "name": "Pattadakal Group of Monuments",
@@ -51,7 +52,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site with 7th-8th century Chalukya temples blending Dravidian and Nagara architectural styles."
+    "description": "UNESCO World Heritage Site with 7th-8th century Chalukya temples blending Dravidian and Nagara architectural styles.",
+    "isMyData": false
   },
   {
     "name": "Badami Cave Temples",
@@ -78,7 +80,8 @@
       "February",
       "March"
     ],
-    "description": "6th-century rock-cut cave temples dedicated to Hindu and Jain deities, showcasing Early Chalukya architecture."
+    "description": "6th-century rock-cut cave temples dedicated to Hindu and Jain deities, showcasing Early Chalukya architecture.",
+    "isMyData": false
   },
   {
     "name": "Aihole",
@@ -105,7 +108,8 @@
       "February",
       "March"
     ],
-    "description": "Cradle of Indian architecture with over 125 temples from 6th-12th centuries, demonstrating evolution of Hindu temple architecture."
+    "description": "Cradle of Indian architecture with over 125 temples from 6th-12th centuries, demonstrating evolution of Hindu temple architecture.",
+    "isMyData": false
   },
   {
     "name": "Virupaksha Temple, Hampi",
@@ -132,7 +136,8 @@
       "February",
       "March"
     ],
-    "description": "7th-century temple dedicated to Lord Shiva, functioning temple within the Hampi UNESCO complex, famous for its gopuram and ancient Vijayanagara architecture."
+    "description": "7th-century temple dedicated to Lord Shiva, functioning temple within the Hampi UNESCO complex, famous for its gopuram and ancient Vijayanagara architecture.",
+    "isMyData": false
   },
   {
     "name": "Kukke Subramanya Temple",
@@ -159,7 +164,8 @@
       "February",
       "March"
     ],
-    "description": "Ancient temple dedicated to Lord Subramanya (Kartikeya), famous for Sarpa Dosha rituals and situated in the Western Ghats."
+    "description": "Ancient temple dedicated to Lord Subramanya (Kartikeya), famous for Sarpa Dosha rituals and situated in the Western Ghats.",
+    "isMyData": false
   },
   {
     "name": "Dharmasthala Manjunatha Temple",
@@ -186,7 +192,8 @@
       "February",
       "March"
     ],
-    "description": "800-year-old temple dedicated to Lord Shiva (Manjunatha), unique pilgrimage site managed by Jain administration serving Hindu deity."
+    "description": "800-year-old temple dedicated to Lord Shiva (Manjunatha), unique pilgrimage site managed by Jain administration serving Hindu deity.",
+    "isMyData": false
   },
   {
     "name": "Sringeri Sharada Peetham",
@@ -213,7 +220,8 @@
       "February",
       "March"
     ],
-    "description": "First of the four Advaita Vedanta mathas established by Adi Shankaracharya in the 8th century, dedicated to Goddess Saraswati."
+    "description": "First of the four Advaita Vedanta mathas established by Adi Shankaracharya in the 8th century, dedicated to Goddess Saraswati.",
+    "isMyData": false
   },
   {
     "name": "Mysore Palace",
@@ -240,7 +248,8 @@
       "February",
       "March"
     ],
-    "description": "Magnificent Indo-Saracenic palace of the Wadiyar dynasty, one of India's most visited monuments, famous for Dasara illuminations."
+    "description": "Magnificent Indo-Saracenic palace of the Wadiyar dynasty, one of India's most visited monuments, famous for Dasara illuminations.",
+    "isMyData": false
   },
   {
     "name": "Chamundi Hill",
@@ -266,7 +275,8 @@
       "February",
       "March"
     ],
-    "description": "Sacred hill with Chamundeshwari Temple dedicated to Goddess Durga, featuring 1000 steps and panoramic views of Mysuru city."
+    "description": "Sacred hill with Chamundeshwari Temple dedicated to Goddess Durga, featuring 1000 steps and panoramic views of Mysuru city.",
+    "isMyData": false
   },
   {
     "name": "Coorg (Kodagu)",
@@ -294,7 +304,8 @@
       "April",
       "May"
     ],
-    "description": "Scotland of India, famous for coffee plantations, misty hills, waterfalls, Abbey Falls, Raja's Seat, and Kodava culture."
+    "description": "Scotland of India, famous for coffee plantations, misty hills, waterfalls, Abbey Falls, Raja's Seat, and Kodava culture.",
+    "isMyData": false
   },
   {
     "name": "Chikmagalur",
@@ -322,7 +333,8 @@
       "April",
       "May"
     ],
-    "description": "Birthplace of Indian coffee, hill station with coffee estates, Mullayanagiri peak, Baba Budangiri range, and Kudremukh."
+    "description": "Birthplace of Indian coffee, hill station with coffee estates, Mullayanagiri peak, Baba Budangiri range, and Kudremukh.",
+    "isMyData": false
   },
   {
     "name": "Mullayanagiri Peak",
@@ -350,7 +362,8 @@
       "April",
       "May"
     ],
-    "description": "Highest peak in Karnataka (1,930 meters), popular trekking destination with panoramic views of the Western Ghats."
+    "description": "Highest peak in Karnataka (1,930 meters), popular trekking destination with panoramic views of the Western Ghats.",
+    "isMyData": false
   },
   {
     "name": "Jog Falls",
@@ -378,7 +391,8 @@
       "January",
       "February"
     ],
-    "description": "India's second-highest plunge waterfall (253 meters) on Sharavathi River, most spectacular during monsoons."
+    "description": "India's second-highest plunge waterfall (253 meters) on Sharavathi River, most spectacular during monsoons.",
+    "isMyData": false
   },
   {
     "name": "Kudremukh National Park",
@@ -407,7 +421,8 @@
       "April",
       "May"
     ],
-    "description": "Western Ghats biodiversity hotspot with horse-face peak, tropical forests, grasslands, home to tigers, leopards, and endemic species."
+    "description": "Western Ghats biodiversity hotspot with horse-face peak, tropical forests, grasslands, home to tigers, leopards, and endemic species.",
+    "isMyData": false
   },
   {
     "name": "Bandipur National Park",
@@ -436,7 +451,8 @@
       "April",
       "May"
     ],
-    "description": "Premier tiger reserve and Project Tiger reserve, part of the Nilgiri Biosphere Reserve, rich in wildlife including elephants, gaur, and 200+ bird species."
+    "description": "Premier tiger reserve and Project Tiger reserve, part of the Nilgiri Biosphere Reserve, rich in wildlife including elephants, gaur, and 200+ bird species.",
+    "isMyData": false
   },
   {
     "name": "Nagarhole National Park",
@@ -465,7 +481,8 @@
       "April",
       "May"
     ],
-    "description": "Also known as Rajiv Gandhi National Park, excellent for wildlife safaris with tigers, elephants, leopards, and diverse birdlife along Kabini River."
+    "description": "Also known as Rajiv Gandhi National Park, excellent for wildlife safaris with tigers, elephants, leopards, and diverse birdlife along Kabini River.",
+    "isMyData": false
   },
   {
     "name": "Gokarna Beach",
@@ -491,7 +508,8 @@
       "February",
       "March"
     ],
-    "description": "Sacred beach town with pristine beaches (Om Beach, Half Moon, Paradise), pilgrimage site with Mahabaleshwar Temple, laid-back hippie vibe."
+    "description": "Sacred beach town with pristine beaches (Om Beach, Half Moon, Paradise), pilgrimage site with Mahabaleshwar Temple, laid-back hippie vibe.",
+    "isMyData": false
   },
   {
     "name": "Om Beach",
@@ -517,7 +535,8 @@
       "February",
       "March"
     ],
-    "description": "Famous beach near Gokarna shaped like the Om symbol, popular for water sports, beach camping, and serene sunsets."
+    "description": "Famous beach near Gokarna shaped like the Om symbol, popular for water sports, beach camping, and serene sunsets.",
+    "isMyData": false
   },
   {
     "name": "Murudeshwar Temple & Beach",
@@ -544,7 +563,8 @@
       "February",
       "March"
     ],
-    "description": "Coastal town with world's second-tallest Shiva statue (123 feet), ancient Shiva temple, beautiful beach, and Arabian Sea views."
+    "description": "Coastal town with world's second-tallest Shiva statue (123 feet), ancient Shiva temple, beautiful beach, and Arabian Sea views.",
+    "isMyData": false
   },
   {
     "name": "Udupi Sri Krishna Temple",
@@ -571,7 +591,8 @@
       "February",
       "March"
     ],
-    "description": "13th-century temple founded by Madhvacharya, famous for Paryaya system of administration, unique window worship (Kanakana Kindi), and Udupi cuisine."
+    "description": "13th-century temple founded by Madhvacharya, famous for Paryaya system of administration, unique window worship (Kanakana Kindi), and Udupi cuisine.",
+    "isMyData": false
   },
   {
     "name": "Belur Chennakesava Temple",
@@ -598,7 +619,8 @@
       "February",
       "March"
     ],
-    "description": "12th-century Hoysala temple with intricate sculptures, star-shaped platform, and exquisite stone carvings depicting Hindu epics."
+    "description": "12th-century Hoysala temple with intricate sculptures, star-shaped platform, and exquisite stone carvings depicting Hindu epics.",
+    "isMyData": false
   },
   {
     "name": "Halebidu Hoysaleswara Temple",
@@ -625,7 +647,8 @@
       "February",
       "March"
     ],
-    "description": "12th-century Hoysala architectural masterpiece dedicated to Lord Shiva, featuring detailed sculptures, friezes depicting Hindu mythology."
+    "description": "12th-century Hoysala architectural masterpiece dedicated to Lord Shiva, featuring detailed sculptures, friezes depicting Hindu mythology.",
+    "isMyData": false
   },
   {
     "name": "Bannerghatta National Park",
@@ -654,7 +677,8 @@
       "April",
       "May"
     ],
-    "description": "National park near Bengaluru with biological reserve, zoo, safari park, butterfly park, and rescue center for wildlife conservation."
+    "description": "National park near Bengaluru with biological reserve, zoo, safari park, butterfly park, and rescue center for wildlife conservation.",
+    "isMyData": false
   },
   {
     "name": "Lalbagh Botanical Garden",
@@ -679,7 +703,8 @@
       "January",
       "February"
     ],
-    "description": "240-acre botanical garden with Glass House inspired by Crystal Palace, diverse plant species, flower shows, and Kempegowda Tower."
+    "description": "240-acre botanical garden with Glass House inspired by Crystal Palace, diverse plant species, flower shows, and Kempegowda Tower.",
+    "isMyData": false
   },
   {
     "name": "Cubbon Park",
@@ -704,7 +729,8 @@
       "January",
       "February"
     ],
-    "description": "300-acre green space in Bengaluru's heart with walking paths, children's park, statues, bandstand, Attara Kacheri, and Vidhana Soudha views."
+    "description": "300-acre green space in Bengaluru's heart with walking paths, children's park, statues, bandstand, Attara Kacheri, and Vidhana Soudha views.",
+    "isMyData": false
   },
   {
     "name": "Bengaluru Palace",
@@ -730,7 +756,8 @@
       "February",
       "March"
     ],
-    "description": "Tudor-style palace built in 1878, inspired by Windsor Castle, with Gothic windows, turrets, fortifications, and elegant woodwork."
+    "description": "Tudor-style palace built in 1878, inspired by Windsor Castle, with Gothic windows, turrets, fortifications, and elegant woodwork.",
+    "isMyData": false
   },
   {
     "name": "Mysuru Dasara Festival",
@@ -749,7 +776,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["September", "October"],
-    "description": "Karnataka's state festival celebrating victory of good over evil, featuring grand procession (Jumbo Savari), palace illuminations, cultural programs."
+    "description": "Karnataka's state festival celebrating victory of good over evil, featuring grand procession (Jumbo Savari), palace illuminations, cultural programs.",
+    "isMyData": false
   },
   {
     "name": "Hampi Utsav",
@@ -768,6 +796,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November"],
-    "description": "Annual cultural festival celebrating Vijayanagara heritage with music, dance, drama, puppet shows, fireworks against backdrop of ancient ruins."
+    "description": "Annual cultural festival celebrating Vijayanagara heritage with music, dance, drama, puppet shows, fireworks against backdrop of ancient ruins.",
+    "isMyData": false
   }
 ]

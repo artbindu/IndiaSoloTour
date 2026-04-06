@@ -24,7 +24,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site, magnificent Rajput fort with Sheesh Mahal (Mirror Palace), elephant rides, light & sound show, blend of Hindu-Mughal architecture."
+    "description": "UNESCO World Heritage Site, magnificent Rajput fort with Sheesh Mahal (Mirror Palace), elephant rides, light & sound show, blend of Hindu-Mughal architecture.",
+    "isMyData": false
   },
   {
     "name": "Jantar Mantar",
@@ -51,7 +52,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site, 18th-century astronomical observatory by Maharaja Sawai Jai Singh II, world's largest stone sundial (Samrat Yantra), 19 instruments."
+    "description": "UNESCO World Heritage Site, 18th-century astronomical observatory by Maharaja Sawai Jai Singh II, world's largest stone sundial (Samrat Yantra), 19 instruments.",
+    "isMyData": false
   },
   {
     "name": "Jaipur City (Pink City)",
@@ -78,7 +80,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage City, planned Pink City with Hawa Mahal, City Palace, Jantar Mantar, vibrant bazaars, Rajasthani cuisine, gem & jewelry markets."
+    "description": "UNESCO World Heritage City, planned Pink City with Hawa Mahal, City Palace, Jantar Mantar, vibrant bazaars, Rajasthani cuisine, gem & jewelry markets.",
+    "isMyData": false
   },
   {
     "name": "Hawa Mahal",
@@ -105,7 +108,8 @@
       "February",
       "March"
     ],
-    "description": "Palace of Winds, iconic 5-story facade with 953 jharokhas (windows), built for royal women to observe street life, unique honeycomb architecture."
+    "description": "Palace of Winds, iconic 5-story facade with 953 jharokhas (windows), built for royal women to observe street life, unique honeycomb architecture.",
+    "isMyData": false
   },
   {
     "name": "City Palace, Jaipur",
@@ -132,7 +136,8 @@
       "February",
       "March"
     ],
-    "description": "Royal residence blend of Rajput, Mughal, European architecture, Chandra Mahal, Mubarak Mahal, museums with textiles, arms, royal artifacts."
+    "description": "Royal residence blend of Rajput, Mughal, European architecture, Chandra Mahal, Mubarak Mahal, museums with textiles, arms, royal artifacts.",
+    "isMyData": false
   },
   {
     "name": "Mehrangarh Fort",
@@ -159,7 +164,8 @@
       "February",
       "March"
     ],
-    "description": "One of India's largest forts on 125m hill, intricate lattice windows, palaces with mirror work, museum with palanquins, weapons, paintings, panoramic Blue City views."
+    "description": "One of India's largest forts on 125m hill, intricate lattice windows, palaces with mirror work, museum with palanquins, weapons, paintings, panoramic Blue City views.",
+    "isMyData": false
   },
   {
     "name": "Umaid Bhawan Palace",
@@ -186,7 +192,8 @@
       "February",
       "March"
     ],
-    "description": "Last great palace of India (1943), Art Deco architecture, 347 rooms, now luxury hotel & museum, royal family residence, vintage car collection."
+    "description": "Last great palace of India (1943), Art Deco architecture, 347 rooms, now luxury hotel & museum, royal family residence, vintage car collection.",
+    "isMyData": false
   },
   {
     "name": "Jaisalmer Fort",
@@ -213,7 +220,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site, Golden Fort, one of world's few living forts with residents, yellow sandstone, Jain temples, havelis, desert views."
+    "description": "UNESCO World Heritage Site, Golden Fort, one of world's few living forts with residents, yellow sandstone, Jain temples, havelis, desert views.",
+    "isMyData": false
   },
   {
     "name": "Patwon Ki Haveli",
@@ -240,7 +248,8 @@
       "February",
       "March"
     ],
-    "description": "Largest haveli complex in Jaisalmer, five-story elaborate yellow sandstone, intricate carvings, jharokhas, 60 balconies, merchant family residence."
+    "description": "Largest haveli complex in Jaisalmer, five-story elaborate yellow sandstone, intricate carvings, jharokhas, 60 balconies, merchant family residence.",
+    "isMyData": false
   },
   {
     "name": "Sam Sand Dunes",
@@ -266,7 +275,8 @@
       "February",
       "March"
     ],
-    "description": "Thar Desert sand dunes 40km from Jaisalmer, camel safaris, desert camping, cultural programs, jeep rides, spectacular sunsets over golden sands."
+    "description": "Thar Desert sand dunes 40km from Jaisalmer, camel safaris, desert camping, cultural programs, jeep rides, spectacular sunsets over golden sands.",
+    "isMyData": false
   },
   {
     "name": "Lake Pichola",
@@ -292,7 +302,8 @@
       "February",
       "March"
     ],
-    "description": "Artificial lake with Lake Palace (luxury hotel), Jag Mandir palace, boat rides, sunset views, City Palace backdrop, romantic Udaipur setting."
+    "description": "Artificial lake with Lake Palace (luxury hotel), Jag Mandir palace, boat rides, sunset views, City Palace backdrop, romantic Udaipur setting.",
+    "isMyData": false
   },
   {
     "name": "City Palace, Udaipur",
@@ -319,7 +330,8 @@
       "February",
       "March"
     ],
-    "description": "Magnificent palace complex on Lake Pichola banks, 11 palaces built over 400 years, museums, courtyards, paintings, crystal gallery, panoramic lake views."
+    "description": "Magnificent palace complex on Lake Pichola banks, 11 palaces built over 400 years, museums, courtyards, paintings, crystal gallery, panoramic lake views.",
+    "isMyData": false
   },
   {
     "name": "Sajjangarh (Monsoon Palace)",
@@ -346,7 +358,8 @@
       "February",
       "March"
     ],
-    "description": "Hilltop palace overlooking Fateh Sagar Lake, built to watch monsoon clouds, 360-degree views of Udaipur city, lakes, Aravalli hills, sunset viewpoint."
+    "description": "Hilltop palace overlooking Fateh Sagar Lake, built to watch monsoon clouds, 360-degree views of Udaipur city, lakes, Aravalli hills, sunset viewpoint.",
+    "isMyData": false
   },
   {
     "name": "Ranthambore National Park",
@@ -374,7 +387,8 @@
       "March",
       "April"
     ],
-    "description": "Premier tiger reserve with Ranthambore Fort, high tiger sighting probability, leopards, sloth bears, crocodiles, historic temples, safari zones."
+    "description": "Premier tiger reserve with Ranthambore Fort, high tiger sighting probability, leopards, sloth bears, crocodiles, historic temples, safari zones.",
+    "isMyData": false
   },
   {
     "name": "Keoladeo National Park",
@@ -401,7 +415,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site, Bharatpur Bird Sanctuary, 370+ bird species, migratory Siberian cranes (historically), wetland ecosystem, cycling trails."
+    "description": "UNESCO World Heritage Site, Bharatpur Bird Sanctuary, 370+ bird species, migratory Siberian cranes (historically), wetland ecosystem, cycling trails.",
+    "isMyData": false
   },
   {
     "name": "Sariska Tiger Reserve",
@@ -429,7 +444,8 @@
       "March",
       "April"
     ],
-    "description": "Tiger reserve in Aravalli hills, leopards, wild boars, sambars, Kankwari Fort, Pandupol Temple, Siliserh Lake, successful tiger reintroduction project."
+    "description": "Tiger reserve in Aravalli hills, leopards, wild boars, sambars, Kankwari Fort, Pandupol Temple, Siliserh Lake, successful tiger reintroduction project.",
+    "isMyData": false
   },
   {
     "name": "Pushkar Lake",
@@ -456,7 +472,8 @@
       "February",
       "March"
     ],
-    "description": "Sacred lake with 52 ghats, pilgrimage site for Kartik Purnima, holy dip, aarti ceremonies, surrounded by temples, serene spiritual atmosphere."
+    "description": "Sacred lake with 52 ghats, pilgrimage site for Kartik Purnima, holy dip, aarti ceremonies, surrounded by temples, serene spiritual atmosphere.",
+    "isMyData": false
   },
   {
     "name": "Brahma Temple, Pushkar",
@@ -483,7 +500,8 @@
       "February",
       "March"
     ],
-    "description": "One of world's few temples dedicated to Lord Brahma, 14th-century temple with four-faced idol, marble floors, silver turtle on entrance, Pushkar Lake views."
+    "description": "One of world's few temples dedicated to Lord Brahma, 14th-century temple with four-faced idol, marble floors, silver turtle on entrance, Pushkar Lake views.",
+    "isMyData": false
   },
   {
     "name": "Ajmer Sharif Dargah",
@@ -510,7 +528,8 @@
       "February",
       "March"
     ],
-    "description": "Sufi shrine of Moinuddin Chishti, visited by people of all faiths, qawwali music, Urs festival, Mughal gates (Nizam Gate), spiritual center since 13th century."
+    "description": "Sufi shrine of Moinuddin Chishti, visited by people of all faiths, qawwali music, Urs festival, Mughal gates (Nizam Gate), spiritual center since 13th century.",
+    "isMyData": false
   },
   {
     "name": "Mount Abu",
@@ -536,7 +555,8 @@
       "February",
       "March"
     ],
-    "description": "Rajasthan's only hill station, Nakki Lake, Guru Shikhar peak (1,722m), sunset point, Toad Rock, cool climate, Dilwara Jain Temples, Aravalli range."
+    "description": "Rajasthan's only hill station, Nakki Lake, Guru Shikhar peak (1,722m), sunset point, Toad Rock, cool climate, Dilwara Jain Temples, Aravalli range.",
+    "isMyData": false
   },
   {
     "name": "Dilwara Temples",
@@ -563,7 +583,8 @@
       "February",
       "March"
     ],
-    "description": "11th-15th century Jain temples, world-famous intricate marble carvings, Vimal Vasahi and Luna Vasahi temples, architectural masterpiece, spiritual tranquility."
+    "description": "11th-15th century Jain temples, world-famous intricate marble carvings, Vimal Vasahi and Luna Vasahi temples, architectural masterpiece, spiritual tranquility.",
+    "isMyData": false
   },
   {
     "name": "Chittorgarh Fort",
@@ -590,7 +611,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site, largest fort in India (700 acres), Vijay Stambh (Victory Tower), Rani Padmini's Palace, Gaumukh Reservoir, Rajput valor symbol."
+    "description": "UNESCO World Heritage Site, largest fort in India (700 acres), Vijay Stambh (Victory Tower), Rani Padmini's Palace, Gaumukh Reservoir, Rajput valor symbol.",
+    "isMyData": false
   },
   {
     "name": "Kumbhalgarh Fort",
@@ -617,7 +639,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site, birthplace of Maharana Pratap, 36km wall (second longest after Great Wall of China), 360 temples, light & sound show, Aravalli views."
+    "description": "UNESCO World Heritage Site, birthplace of Maharana Pratap, 36km wall (second longest after Great Wall of China), 360 temples, light & sound show, Aravalli views.",
+    "isMyData": false
   },
   {
     "name": "Bikaner Junagarh Fort",
@@ -644,7 +667,8 @@
       "February",
       "March"
     ],
-    "description": "16th-century fort never conquered in battle, 986m long wall, palaces with mirror work, gold leaf paintings, museums, Anup Mahal, Karan Mahal."
+    "description": "16th-century fort never conquered in battle, 986m long wall, palaces with mirror work, gold leaf paintings, museums, Anup Mahal, Karan Mahal.",
+    "isMyData": false
   },
   {
     "name": "Tal Chhapar Sanctuary",
@@ -670,7 +694,8 @@
       "February",
       "March"
     ],
-    "description": "Blackbuck sanctuary in Shekhawati region, semi-arid grassland ecosystem, desert foxes, harriers, open landscape perfect for wildlife photography."
+    "description": "Blackbuck sanctuary in Shekhawati region, semi-arid grassland ecosystem, desert foxes, harriers, open landscape perfect for wildlife photography.",
+    "isMyData": false
   },
   {
     "name": "Kalbeliya Dance Village",
@@ -696,7 +721,8 @@
       "February",
       "March"
     ],
-    "description": "Traditional Kalbeliya gypsy community, UNESCO Intangible Cultural Heritage dance form, snake charmer culture, folk music, vibrant costumes, cultural experiences."
+    "description": "Traditional Kalbeliya gypsy community, UNESCO Intangible Cultural Heritage dance form, snake charmer culture, folk music, vibrant costumes, cultural experiences.",
+    "isMyData": false
   },
   {
     "name": "Pushkar Camel Fair",
@@ -715,7 +741,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["October", "November"],
-    "description": "World's largest camel fair during Kartik Purnima, livestock trading, camel races, cultural events, folk performances, hot air ballooning, spiritual gatherings."
+    "description": "World's largest camel fair during Kartik Purnima, livestock trading, camel races, cultural events, folk performances, hot air ballooning, spiritual gatherings.",
+    "isMyData": false
   },
   {
     "name": "Desert Festival",
@@ -734,6 +761,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["February"],
-    "description": "Annual cultural festival showcasing Rajasthani folk culture, camel races, turban tying competitions, folk music & dance, Mr. Desert competition, Sam Sand Dunes events."
+    "description": "Annual cultural festival showcasing Rajasthani folk culture, camel races, turban tying competitions, folk music & dance, Mr. Desert competition, Sam Sand Dunes events.",
+    "isMyData": false
   }
 ]

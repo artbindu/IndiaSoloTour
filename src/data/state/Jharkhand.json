@@ -23,7 +23,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Parasnath Hill (Shikharji)",
@@ -49,7 +50,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Rajrappa Chhinnamasta Temple",
@@ -74,7 +76,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Betla National Park",
@@ -100,7 +103,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Netarhat",
@@ -124,7 +128,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Hundru Falls",
@@ -151,7 +156,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Dassam Falls",
@@ -178,7 +184,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Jonha Falls",
@@ -205,7 +212,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Patratu Valley & Dam",
@@ -229,7 +237,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Birsa Zoological Park",
@@ -254,7 +263,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Rock Garden & Jharkhand War Memorial",
@@ -279,7 +289,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Tagore Hill",
@@ -304,7 +315,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Rajmahal Hills",
@@ -328,7 +340,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Udhwa Lake Bird Sanctuary",
@@ -347,7 +360,8 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"]
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "isMyData": false
   },
   {
     "name": "Lodh Falls",
@@ -374,7 +388,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Maluti Temples",
@@ -400,7 +415,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Rajmahal Palace Ruins",
@@ -426,7 +442,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Tribal Museum (Ranchi)",
@@ -451,7 +468,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Sarhul Festival",
@@ -469,7 +487,8 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["March", "April"]
+    "bestVisitMonths": ["March", "April"],
+    "isMyData": false
   },
   {
     "name": "Karam Festival",
@@ -487,6 +506,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["August", "September"]
+    "bestVisitMonths": ["August", "September"],
+    "isMyData": false
   }
 ]

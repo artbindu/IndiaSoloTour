@@ -25,7 +25,8 @@
       "September",
       "October"
     ],
-    "description": "Iconic Kashmir lake with houseboats, shikaras (traditional wooden boats), floating gardens, Char Chinar island, lotus blooms, Mughal-era charm, 'Jewel in the crown of Kashmir'."
+    "description": "Iconic Kashmir lake with houseboats, shikaras (traditional wooden boats), floating gardens, Char Chinar island, lotus blooms, Mughal-era charm, 'Jewel in the crown of Kashmir'.",
+    "isMyData": false
   },
   {
     "name": "Mughal Gardens",
@@ -52,7 +53,8 @@
       "September",
       "October"
     ],
-    "description": "Collection of terraced Mughal gardens including Nishat Bagh (Garden of Joy), Shalimar Bagh (Abode of Love), Chashmashahi (Royal Spring), Persian charbagh architecture, fountains, terraced lawns."
+    "description": "Collection of terraced Mughal gardens including Nishat Bagh (Garden of Joy), Shalimar Bagh (Abode of Love), Chashmashahi (Royal Spring), Persian charbagh architecture, fountains, terraced lawns.",
+    "isMyData": false
   },
   {
     "name": "Shankaracharya Temple",
@@ -81,7 +83,8 @@
       "September",
       "October"
     ],
-    "description": "Ancient Shiva temple atop Shankaracharya Hill, 1000+ steps climb, panoramic views of Srinagar and Dal Lake, built 200 BCE, visited by Adi Shankaracharya, octagonal base with Persian inscription."
+    "description": "Ancient Shiva temple atop Shankaracharya Hill, 1000+ steps climb, panoramic views of Srinagar and Dal Lake, built 200 BCE, visited by Adi Shankaracharya, octagonal base with Persian inscription.",
+    "isMyData": false
   },
   {
     "name": "Gulmarg",
@@ -100,7 +103,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["December", "January", "February", "March"],
-    "description": "Meadow of Flowers, Asia's highest ski resort, world's highest green golf course, Gulmarg Gondola (cable car), snow sports hub, Apharwat Peak access, winter skiing paradise, summer meadows."
+    "description": "Meadow of Flowers, Asia's highest ski resort, world's highest green golf course, Gulmarg Gondola (cable car), snow sports hub, Apharwat Peak access, winter skiing paradise, summer meadows.",
+    "isMyData": false
   },
   {
     "name": "Apharwat Peak",
@@ -119,7 +123,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["December", "January", "February", "March"],
-    "description": "4390m peak accessible via Gulmarg Gondola Phase 2, highest point for skiing in India, panoramic Himalayan views, advanced ski terrain, snow-covered year-round, adventure sports destination."
+    "description": "4390m peak accessible via Gulmarg Gondola Phase 2, highest point for skiing in India, panoramic Himalayan views, advanced ski terrain, snow-covered year-round, adventure sports destination.",
+    "isMyData": false
   },
   {
     "name": "Pahalgam",
@@ -147,7 +152,8 @@
       "September",
       "October"
     ],
-    "description": "Valley of Shepherds on Lidder River banks, base camp for Amarnath Yatra, Bollywood filming location, trekking hub to Kolahoi Glacier, pony rides, pine forests, trout fishing, scenic beauty."
+    "description": "Valley of Shepherds on Lidder River banks, base camp for Amarnath Yatra, Bollywood filming location, trekking hub to Kolahoi Glacier, pony rides, pine forests, trout fishing, scenic beauty.",
+    "isMyData": false
   },
   {
     "name": "Betaab Valley",
@@ -175,7 +181,8 @@
       "September",
       "October"
     ],
-    "description": "Named after Bollywood film 'Betaab' (1983), lush green meadows, snow-capped mountains backdrop, crystal-clear streams, camping spot, photography paradise, 15km from Pahalgam."
+    "description": "Named after Bollywood film 'Betaab' (1983), lush green meadows, snow-capped mountains backdrop, crystal-clear streams, camping spot, photography paradise, 15km from Pahalgam.",
+    "isMyData": false
   },
   {
     "name": "Aru Valley",
@@ -203,7 +210,8 @@
       "September",
       "October"
     ],
-    "description": "Picturesque valley and trekking base camp to Kolahoi Glacier, Tarsar-Marsar lakes, Lidderwat, peaceful meadows, shepherd settlements, camping, horse riding, offbeat tranquil destination near Pahalgam."
+    "description": "Picturesque valley and trekking base camp to Kolahoi Glacier, Tarsar-Marsar lakes, Lidderwat, peaceful meadows, shepherd settlements, camping, horse riding, offbeat tranquil destination near Pahalgam.",
+    "isMyData": false
   },
   {
     "name": "Sonamarg",
@@ -229,7 +237,8 @@
       "September",
       "October"
     ],
-    "description": "Meadow of Gold on Srinagar-Leh highway, gateway to Ladakh, Thajiwas Glacier, pony rides, alpine flowers, trout fishing in Sindh River, Zoji La Pass nearby, trekking to Gangabal Lake."
+    "description": "Meadow of Gold on Srinagar-Leh highway, gateway to Ladakh, Thajiwas Glacier, pony rides, alpine flowers, trout fishing in Sindh River, Zoji La Pass nearby, trekking to Gangabal Lake.",
+    "isMyData": false
   },
   {
     "name": "Kheer Bhawani Temple",
@@ -258,7 +267,8 @@
       "September",
       "October"
     ],
-    "description": "Kashmiri Pandit pilgrimage shrine dedicated to Goddess Ragnya Devi, sacred spring that changes colors, annual Mela Kheer Bhawani festival (May-June), Tulmulla village, white marble temple."
+    "description": "Kashmiri Pandit pilgrimage shrine dedicated to Goddess Ragnya Devi, sacred spring that changes colors, annual Mela Kheer Bhawani festival (May-June), Tulmulla village, white marble temple.",
+    "isMyData": false
   },
   {
     "name": "Vaishno Devi Temple",
@@ -288,7 +298,8 @@
       "May",
       "June"
     ],
-    "description": "One of India's most visited pilgrimage sites, shrine of Mata Vaishno Devi in Trikuta Mountains, 13km trek from Katra, holy cave with three Pindis (natural rock formations), 8+ million annual visitors."
+    "description": "One of India's most visited pilgrimage sites, shrine of Mata Vaishno Devi in Trikuta Mountains, 13km trek from Katra, holy cave with three Pindis (natural rock formations), 8+ million annual visitors.",
+    "isMyData": false
   },
   {
     "name": "Raghunath Temple",
@@ -315,7 +326,8 @@
       "February",
       "March"
     ],
-    "description": "Largest temple complex in northern India, built by Maharaja Gulab Singh (1835-1860), seven shrines with shikharas, central shrine to Lord Rama, gold-plated interiors, Sanskrit inscriptions on walls."
+    "description": "Largest temple complex in northern India, built by Maharaja Gulab Singh (1835-1860), seven shrines with shikharas, central shrine to Lord Rama, gold-plated interiors, Sanskrit inscriptions on walls.",
+    "isMyData": false
   },
   {
     "name": "Bahu Fort",
@@ -342,7 +354,8 @@
       "February",
       "March"
     ],
-    "description": "Ancient fort overlooking Tawi River, 3000 years old, Kali Mata Temple (Bave Wali Mata) inside, Maharaja Ranbir Singh renovations, fortifications, terraced gardens, panoramic city views, light and sound show."
+    "description": "Ancient fort overlooking Tawi River, 3000 years old, Kali Mata Temple (Bave Wali Mata) inside, Maharaja Ranbir Singh renovations, fortifications, terraced gardens, panoramic city views, light and sound show.",
+    "isMyData": false
   },
   {
     "name": "Ranbireshwar Temple",
@@ -370,7 +383,8 @@
       "February",
       "March"
     ],
-    "description": "Shiva temple built by Maharaja Ranbir Singh (1883), 12 crystal Shiva lingas, one of largest Shiva lingas in north India, galleries with thousands of Shaligrams (ammonite fossils), architectural marvel."
+    "description": "Shiva temple built by Maharaja Ranbir Singh (1883), 12 crystal Shiva lingas, one of largest Shiva lingas in north India, galleries with thousands of Shaligrams (ammonite fossils), architectural marvel.",
+    "isMyData": false
   },
   {
     "name": "Dachigam National Park",
@@ -400,7 +414,8 @@
       "September",
       "October"
     ],
-    "description": "Home to critically endangered Hangul (Kashmir stag), 141 sq km park, alpine forests, meadows, Dachigam River, Himalayan black bear, leopard, birding (over 150 species), trekking trails."
+    "description": "Home to critically endangered Hangul (Kashmir stag), 141 sq km park, alpine forests, meadows, Dachigam River, Himalayan black bear, leopard, birding (over 150 species), trekking trails.",
+    "isMyData": false
   },
   {
     "name": "Hemis Monastery",
@@ -421,7 +436,8 @@
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "July", "August", "September"],
-    "description": "Largest and wealthiest Buddhist monastery in Ladakh, Drukpa Lineage, founded 1630, Hemis Festival (June-July), sacred masked Cham dances, ancient thangkas, copper statue of Buddha, Hemis National Park nearby."
+    "description": "Largest and wealthiest Buddhist monastery in Ladakh, Drukpa Lineage, founded 1630, Hemis Festival (June-July), sacred masked Cham dances, ancient thangkas, copper statue of Buddha, Hemis National Park nearby.",
+    "isMyData": false
   },
   {
     "name": "Thiksey Monastery",
@@ -442,7 +458,8 @@
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "July", "August", "September"],
-    "description": "12-storey monastery complex resembling Potala Palace, 15th century, Gelugpa Order, 12-meter Maitreya Buddha statue, monastery museum, morning prayer assembly (6 AM), stunning Indus Valley views, 19km from Leh."
+    "description": "12-storey monastery complex resembling Potala Palace, 15th century, Gelugpa Order, 12-meter Maitreya Buddha statue, monastery museum, morning prayer assembly (6 AM), stunning Indus Valley views, 19km from Leh.",
+    "isMyData": false
   },
   {
     "name": "Pangong Lake",
@@ -461,7 +478,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "July", "August", "September"],
-    "description": "134km endorheic lake at 4350m, extends from India to China, crystal-clear blue water changing colors, brackish water freezes in winter, Bollywood '3 Idiots' location, camping, migratory birds, permits required."
+    "description": "134km endorheic lake at 4350m, extends from India to China, crystal-clear blue water changing colors, brackish water freezes in winter, Bollywood '3 Idiots' location, camping, migratory birds, permits required.",
+    "isMyData": false
   },
   {
     "name": "Nubra Valley",
@@ -480,7 +498,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "July", "August", "September"],
-    "description": "Valley of Flowers, accessed via Khardung La (world's highest motorable pass), double-humped Bactrian camels at Hunder sand dunes, Diskit Monastery with 32m Maitreya Buddha, Shyok and Nubra river confluence."
+    "description": "Valley of Flowers, accessed via Khardung La (world's highest motorable pass), double-humped Bactrian camels at Hunder sand dunes, Diskit Monastery with 32m Maitreya Buddha, Shyok and Nubra river confluence.",
+    "isMyData": false
   },
   {
     "name": "Zanskar Valley",
@@ -499,7 +518,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["June", "July", "August", "September"],
-    "description": "Remote Himalayan valley, frozen Zanskar River Chadar Trek (winter), Phugtal Monastery in cliff cave, ancient Buddhist monasteries, trekking routes, Zanskar-Padum circuit, high-altitude desert landscape, adventure hub."
+    "description": "Remote Himalayan valley, frozen Zanskar River Chadar Trek (winter), Phugtal Monastery in cliff cave, ancient Buddhist monasteries, trekking routes, Zanskar-Padum circuit, high-altitude desert landscape, adventure hub.",
+    "isMyData": false
   },
   {
     "name": "Kargil War Memorial",
@@ -527,7 +547,8 @@
       "September",
       "October"
     ],
-    "description": "Memorial commemorating Kargil War (1999) heroes at Dras, sandstone wall with names of martyrs, Tololing and Tiger Hill battle sites visible, museum, light and sound show, Vijay Diwas (July 26) celebrations."
+    "description": "Memorial commemorating Kargil War (1999) heroes at Dras, sandstone wall with names of martyrs, Tololing and Tiger Hill battle sites visible, museum, light and sound show, Vijay Diwas (July 26) celebrations.",
+    "isMyData": false
   },
   {
     "name": "Sonamarg Thajiwas Glacier",
@@ -546,7 +567,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "July", "August", "September"],
-    "description": "Accessible glacier 3km from Sonamarg via pony or short trek, snow-covered year-round, sledging on snow, alpine scenery, photography spot, mini Switzerland of Kashmir, day trip destination."
+    "description": "Accessible glacier 3km from Sonamarg via pony or short trek, snow-covered year-round, sledging on snow, alpine scenery, photography spot, mini Switzerland of Kashmir, day trip destination.",
+    "isMyData": false
   },
   {
     "name": "Shalimar Bagh",
@@ -574,7 +596,8 @@
       "September",
       "October"
     ],
-    "description": "Abode of Love, largest Mughal garden in Kashmir, built by Jahangir for Nur Jahan (1619), terraced garden with water channels, fountains, pavilions, chinar trees, Dal Lake backdrop, evening illuminations."
+    "description": "Abode of Love, largest Mughal garden in Kashmir, built by Jahangir for Nur Jahan (1619), terraced garden with water channels, fountains, pavilions, chinar trees, Dal Lake backdrop, evening illuminations.",
+    "isMyData": false
   },
   {
     "name": "Pari Mahal",
@@ -602,7 +625,8 @@
       "September",
       "October"
     ],
-    "description": "Palace of Fairies, seven-terraced garden built by Dara Shikoh (Mughal prince), observatory and astronomy school, Zabarwan mountain range, overlooking Dal Lake, illuminated evenings, architectural ruins with arched terraces."
+    "description": "Palace of Fairies, seven-terraced garden built by Dara Shikoh (Mughal prince), observatory and astronomy school, Zabarwan mountain range, overlooking Dal Lake, illuminated evenings, architectural ruins with arched terraces.",
+    "isMyData": false
   },
   {
     "name": "Gulmarg Gondola",
@@ -621,7 +645,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["December", "January", "February", "March"],
-    "description": "World's second-highest cable car, two-phase gondola to Apharwat Peak (3979m), Phase 1 to Kongdori (2600m), Phase 2 to Apharwat (3979m), skiing access, panoramic Himalayan views, operated by JKTDC."
+    "description": "World's second-highest cable car, two-phase gondola to Apharwat Peak (3979m), Phase 1 to Kongdori (2600m), Phase 2 to Apharwat (3979m), skiing access, panoramic Himalayan views, operated by JKTDC.",
+    "isMyData": false
   },
   {
     "name": "Hemis Festival",
@@ -640,7 +665,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["July"],
-    "description": "Annual Buddhist festival celebrating Guru Padmasambhava's birthday at Hemis Monastery, masked Cham dance performances, traditional music, colorful costumes, sacred thangka unfurling (every 12 years), cultural immersion, June-July."
+    "description": "Annual Buddhist festival celebrating Guru Padmasambhava's birthday at Hemis Monastery, masked Cham dance performances, traditional music, colorful costumes, sacred thangka unfurling (every 12 years), cultural immersion, June-July.",
+    "isMyData": false
   },
   {
     "name": "Tulip Garden (Indira Gandhi Memorial)",
@@ -659,6 +685,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["March", "April"],
-    "description": "Asia's largest tulip garden, 1.5 million tulips of 60+ varieties, opened 2007, Zabarwan mountain foothills, Dal Lake backdrop, annual Tulip Festival (March-April), floral terraces, photography paradise, short blooming season."
+    "description": "Asia's largest tulip garden, 1.5 million tulips of 60+ varieties, opened 2007, Zabarwan mountain foothills, Dal Lake backdrop, annual Tulip Festival (March-April), floral terraces, photography paradise, short blooming season.",
+    "isMyData": false
   }
 ]

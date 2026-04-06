@@ -25,7 +25,8 @@
       "October",
       "November"
     ],
-    "description": "Queen of Hills at 2,205m, British summer capital, colonial architecture, Mall Road, Ridge, Christ Church, toy train (UNESCO World Heritage), Jakhu Temple, pine forests."
+    "description": "Queen of Hills at 2,205m, British summer capital, colonial architecture, Mall Road, Ridge, Christ Church, toy train (UNESCO World Heritage), Jakhu Temple, pine forests.",
+    "isMyData": false
   },
   {
     "name": "The Ridge & Mall Road",
@@ -53,7 +54,8 @@
       "October",
       "November"
     ],
-    "description": "Heart of Shimla, open space with Christ Church, Gaiety Theatre, Scandal Point, shopping, cafes, cultural events, Himalayan panoramic views, pedestrian zone."
+    "description": "Heart of Shimla, open space with Christ Church, Gaiety Theatre, Scandal Point, shopping, cafes, cultural events, Himalayan panoramic views, pedestrian zone.",
+    "isMyData": false
   },
   {
     "name": "Kufri",
@@ -80,7 +82,8 @@
       "January",
       "February"
     ],
-    "description": "Winter sports destination at 2,743m, skiing, Himalayan Nature Park, Mahasu Peak, yak and pony rides, adventure activities, snow activities in winter."
+    "description": "Winter sports destination at 2,743m, skiing, Himalayan Nature Park, Mahasu Peak, yak and pony rides, adventure activities, snow activities in winter.",
+    "isMyData": false
   },
   {
     "name": "Manali",
@@ -109,7 +112,8 @@
       "January",
       "February"
     ],
-    "description": "Valley of Gods at 2,050m, adventure hub, Hadimba Temple, Old Manali, Vashisht hot springs, gateway to Rohtang Pass, honeymoon destination, Beas River, apple orchards."
+    "description": "Valley of Gods at 2,050m, adventure hub, Hadimba Temple, Old Manali, Vashisht hot springs, gateway to Rohtang Pass, honeymoon destination, Beas River, apple orchards.",
+    "isMyData": false
   },
   {
     "name": "Solang Valley",
@@ -135,7 +139,8 @@
       "January",
       "February"
     ],
-    "description": "Adventure capital near Manali, paragliding, zorbing, skiing in winter, cable car, skiing slopes, snow activities, Solang Ropeway, stunning mountain scenery."
+    "description": "Adventure capital near Manali, paragliding, zorbing, skiing in winter, cable car, skiing slopes, snow activities, Solang Ropeway, stunning mountain scenery.",
+    "isMyData": false
   },
   {
     "name": "Rohtang Pass",
@@ -161,7 +166,8 @@
       "September",
       "October"
     ],
-    "description": "High mountain pass at 3,978m, gateway to Lahaul-Spiti, snow activities, panoramic views, permits required, connects Kullu Valley to Lahaul Valley, seasonal opening."
+    "description": "High mountain pass at 3,978m, gateway to Lahaul-Spiti, snow activities, panoramic views, permits required, connects Kullu Valley to Lahaul Valley, seasonal opening.",
+    "isMyData": false
   },
   {
     "name": "Kasol",
@@ -188,7 +194,8 @@
       "October",
       "November"
     ],
-    "description": "Mini Israel of India in Parvati Valley, backpacker hub, hippie culture, Israeli cafes, trekking to Kheerganga, Tosh village, riverside camping, Parvati River."
+    "description": "Mini Israel of India in Parvati Valley, backpacker hub, hippie culture, Israeli cafes, trekking to Kheerganga, Tosh village, riverside camping, Parvati River.",
+    "isMyData": false
   },
   {
     "name": "Parvati Valley",
@@ -215,7 +222,8 @@
       "October",
       "November"
     ],
-    "description": "Mystical valley with Kasol, Manikaran hot springs, Tosh, Malana villages, trekking routes to Kheerganga, Pin Parvati Pass, hashish culture, scenic beauty."
+    "description": "Mystical valley with Kasol, Manikaran hot springs, Tosh, Malana villages, trekking routes to Kheerganga, Pin Parvati Pass, hashish culture, scenic beauty.",
+    "isMyData": false
   },
   {
     "name": "Dharamshala",
@@ -243,7 +251,8 @@
       "October",
       "November"
     ],
-    "description": "Seat of Tibetan government-in-exile at 1,457m, Dalai Lama residence, Tibetan culture, monasteries, cricket stadium with Dhauladhar backdrop, McLeod Ganj nearby."
+    "description": "Seat of Tibetan government-in-exile at 1,457m, Dalai Lama residence, Tibetan culture, monasteries, cricket stadium with Dhauladhar backdrop, McLeod Ganj nearby.",
+    "isMyData": false
   },
   {
     "name": "McLeod Ganj",
@@ -271,7 +280,8 @@
       "October",
       "November"
     ],
-    "description": "Little Lhasa, Tibetan refugee center, Dalai Lama Temple, Tsuglagkhang Complex, Tibetan Museum, cafes, monasteries, trekking to Triund, Buddhist philosophy courses."
+    "description": "Little Lhasa, Tibetan refugee center, Dalai Lama Temple, Tsuglagkhang Complex, Tibetan Museum, cafes, monasteries, trekking to Triund, Buddhist philosophy courses.",
+    "isMyData": false
   },
   {
     "name": "Dalai Lama Temple",
@@ -299,7 +309,8 @@
       "October",
       "November"
     ],
-    "description": "Tsuglagkhang Complex, official residence of Dalai Lama, Tibetan Buddhist temple, Namgyal Monastery, museum with Tibetan history, teachings and audiences with Dalai Lama."
+    "description": "Tsuglagkhang Complex, official residence of Dalai Lama, Tibetan Buddhist temple, Namgyal Monastery, museum with Tibetan history, teachings and audiences with Dalai Lama.",
+    "isMyData": false
   },
   {
     "name": "Kangra Fort",
@@ -326,7 +337,8 @@
       "February",
       "March"
     ],
-    "description": "Ancient fort dating back to Trigarta Kingdom, largest fort in Himalayas, damaged by 1905 earthquake, temples, panoramic Kangra Valley views, Beas-Banganga confluence."
+    "description": "Ancient fort dating back to Trigarta Kingdom, largest fort in Himalayas, damaged by 1905 earthquake, temples, panoramic Kangra Valley views, Beas-Banganga confluence.",
+    "isMyData": false
   },
   {
     "name": "Palampur",
@@ -353,7 +365,8 @@
       "October",
       "November"
     ],
-    "description": "Tea Capital of North India at 1,220m, tea gardens, Dhauladhar mountain range backdrop, colonial heritage, Neugal Khad, Baijnath Temple, trekking base, Andretta pottery village."
+    "description": "Tea Capital of North India at 1,220m, tea gardens, Dhauladhar mountain range backdrop, colonial heritage, Neugal Khad, Baijnath Temple, trekking base, Andretta pottery village.",
+    "isMyData": false
   },
   {
     "name": "Bir Billing",
@@ -380,7 +393,8 @@
       "October",
       "November"
     ],
-    "description": "World's second-best paragliding site, Billing takeoff at 2,400m to Bir landing at 1,400m, Tibetan monasteries, meditation centers, paragliding capital of India."
+    "description": "World's second-best paragliding site, Billing takeoff at 2,400m to Bir landing at 1,400m, Tibetan monasteries, meditation centers, paragliding capital of India.",
+    "isMyData": false
   },
   {
     "name": "Chamba",
@@ -407,7 +421,8 @@
       "October",
       "November"
     ],
-    "description": "Ancient town on Ravi River at 996m, Lakshmi Narayan Temple complex, Chaugan (parade ground), Rang Mahal palace, Chamba Rumal embroidery, Minjar Fair, miniature paintings."
+    "description": "Ancient town on Ravi River at 996m, Lakshmi Narayan Temple complex, Chaugan (parade ground), Rang Mahal palace, Chamba Rumal embroidery, Minjar Fair, miniature paintings.",
+    "isMyData": false
   },
   {
     "name": "Khajjiar",
@@ -434,7 +449,8 @@
       "October",
       "November"
     ],
-    "description": "Mini Switzerland of India at 1,920m, saucer-shaped meadow with lake, Khajji Nag Temple, deodar forests, adventure activities, zorbing, horse riding, serene beauty."
+    "description": "Mini Switzerland of India at 1,920m, saucer-shaped meadow with lake, Khajji Nag Temple, deodar forests, adventure activities, zorbing, horse riding, serene beauty.",
+    "isMyData": false
   },
   {
     "name": "Dalhousie",
@@ -461,7 +477,8 @@
       "October",
       "November"
     ],
-    "description": "Colonial hill station at 1,970m spread over five hills, Victorian architecture, St. John's Church, Panchpula waterfalls, Khajjiar nearby, pine and deodar forests, serene ambiance."
+    "description": "Colonial hill station at 1,970m spread over five hills, Victorian architecture, St. John's Church, Panchpula waterfalls, Khajjiar nearby, pine and deodar forests, serene ambiance.",
+    "isMyData": false
   },
   {
     "name": "Spiti Valley",
@@ -480,7 +497,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["June", "July", "August", "September"],
-    "description": "Cold desert mountain valley at 3,800m+, Middle Land between India and Tibet, ancient monasteries, Key, Tabo, Dhankar, Kaza town, high-altitude villages, Pin Valley, Chandratal Lake."
+    "description": "Cold desert mountain valley at 3,800m+, Middle Land between India and Tibet, ancient monasteries, Key, Tabo, Dhankar, Kaza town, high-altitude villages, Pin Valley, Chandratal Lake.",
+    "isMyData": false
   },
   {
     "name": "Key Monastery",
@@ -500,7 +518,8 @@
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["June", "July", "August", "September"],
-    "description": "Largest monastery in Spiti at 4,166m, 1000-year-old Tibetan Buddhist gompa, training center for lamas, hilltop fortress architecture, ancient murals, manuscripts, stunning valley views."
+    "description": "Largest monastery in Spiti at 4,166m, 1000-year-old Tibetan Buddhist gompa, training center for lamas, hilltop fortress architecture, ancient murals, manuscripts, stunning valley views.",
+    "isMyData": false
   },
   {
     "name": "Tabo Monastery",
@@ -520,7 +539,8 @@
     "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["June", "July", "August", "September"],
-    "description": "UNESCO World Heritage Site (tentative), Ajanta of the Himalayas, 1000-year-old monastery founded 996 CE, ancient murals, stucco sculptures, Dalai Lama's Kalachakra initiation site."
+    "description": "UNESCO World Heritage Site (tentative), Ajanta of the Himalayas, 1000-year-old monastery founded 996 CE, ancient murals, stucco sculptures, Dalai Lama's Kalachakra initiation site.",
+    "isMyData": false
   },
   {
     "name": "Kalpa",
@@ -539,7 +559,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["April", "May", "June", "September", "October"],
-    "description": "Himalayan village at 2,960m with Kinner Kailash views, apple orchards, Buddhist and Hindu temples, suicide point, old Kalpa village, traditional Kinnauri architecture, Indo-Tibetan culture."
+    "description": "Himalayan village at 2,960m with Kinner Kailash views, apple orchards, Buddhist and Hindu temples, suicide point, old Kalpa village, traditional Kinnauri architecture, Indo-Tibetan culture.",
+    "isMyData": false
   },
   {
     "name": "Sangla Valley",
@@ -558,7 +579,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["April", "May", "June", "September", "October"],
-    "description": "Baspa Valley with Sangla village at 2,680m, traditional Kinnauri houses, Kamru Fort, Bering Nag Temple, apple orchards, walnut trees, Baspa River, offbeat destination."
+    "description": "Baspa Valley with Sangla village at 2,680m, traditional Kinnauri houses, Kamru Fort, Bering Nag Temple, apple orchards, walnut trees, Baspa River, offbeat destination.",
+    "isMyData": false
   },
   {
     "name": "Chail",
@@ -585,7 +607,8 @@
       "October",
       "November"
     ],
-    "description": "Tranquil hill station at 2,250m, world's highest cricket ground, Chail Palace (now hotel), Kali Ka Tibba temple, Chail Wildlife Sanctuary, panoramic views, alternative to crowded Shimla."
+    "description": "Tranquil hill station at 2,250m, world's highest cricket ground, Chail Palace (now hotel), Kali Ka Tibba temple, Chail Wildlife Sanctuary, panoramic views, alternative to crowded Shimla.",
+    "isMyData": false
   },
   {
     "name": "Great Himalayan National Park",
@@ -613,7 +636,8 @@
       "October",
       "November"
     ],
-    "description": "UNESCO World Heritage Site, 1,171 sq km conservation area, snow leopards, Himalayan brown bears, blue sheep, 375+ fauna species, 180+ bird species, high-altitude trekking, biodiversity hotspot."
+    "description": "UNESCO World Heritage Site, 1,171 sq km conservation area, snow leopards, Himalayan brown bears, blue sheep, 375+ fauna species, 180+ bird species, high-altitude trekking, biodiversity hotspot.",
+    "isMyData": false
   },
   {
     "name": "Pin Valley National Park",
@@ -633,7 +657,8 @@
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["June", "July", "August", "September"],
-    "description": "Cold desert national park at 3,500-6,000m, snow leopards, Siberian ibex, Tibetan gazelles, red fox, 80+ bird species, Pin River, Kungri Monastery, glaciers, high-altitude flora."
+    "description": "Cold desert national park at 3,500-6,000m, snow leopards, Siberian ibex, Tibetan gazelles, red fox, 80+ bird species, Pin River, Kungri Monastery, glaciers, high-altitude flora.",
+    "isMyData": false
   },
   {
     "name": "Nako Village",
@@ -659,7 +684,8 @@
       "September",
       "October"
     ],
-    "description": "Picturesque village at 3,662m on Indo-Tibet border, Nako Lake, ancient Buddhist monastery with 1000-year-old murals, foot and handprints of Padmasambhava, remote Himalayan culture."
+    "description": "Picturesque village at 3,662m on Indo-Tibet border, Nako Lake, ancient Buddhist monastery with 1000-year-old murals, foot and handprints of Padmasambhava, remote Himalayan culture.",
+    "isMyData": false
   },
   {
     "name": "Kullu Dussehra Festival",
@@ -678,6 +704,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["October"],
-    "description": "International Kullu Dussehra, week-long celebration when Dussehra ends elsewhere, Lord Raghunath Rath Yatra, 200+ village deities procession, folk performances, unique cultural tradition since 1637."
+    "description": "International Kullu Dussehra, week-long celebration when Dussehra ends elsewhere, Lord Raghunath Rath Yatra, 200+ village deities procession, folk performances, unique cultural tradition since 1637.",
+    "isMyData": false
   }
 ]

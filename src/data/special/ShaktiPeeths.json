@@ -24,7 +24,8 @@
       "March"
     ],
     "description": "Toes of Goddess Sati",
-    "others": ["ASI Heritage Site"]
+    "others": ["ASI Heritage Site"],
+    "isMyData": false
   },
   {
     "name": "Kamakhya",
@@ -50,7 +51,8 @@
       "February",
       "March"
     ],
-    "description": "Yoni of Goddess Sati"
+    "description": "Yoni of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Vimala",
@@ -76,7 +78,8 @@
       "February",
       "March"
     ],
-    "description": "Navel of Goddess Sati"
+    "description": "Navel of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Tara Tarini",
@@ -103,7 +106,8 @@
       "March",
       "April"
     ],
-    "description": "Breasts of Goddess Sati"
+    "description": "Breasts of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Biraja",
@@ -130,7 +134,8 @@
       "March",
       "April"
     ],
-    "description": "Navel of Goddess Sati"
+    "description": "Navel of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Mangala Gauri",
@@ -156,7 +161,8 @@
       "February",
       "March"
     ],
-    "description": "Breast of Goddess Sati"
+    "description": "Breast of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Vishalakshi",
@@ -182,7 +188,8 @@
       "February",
       "March"
     ],
-    "description": "Earring of Goddess Sati"
+    "description": "Earring of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Tripura Sundari",
@@ -208,7 +215,8 @@
       "February",
       "March"
     ],
-    "description": "Foot of Goddess Sati"
+    "description": "Foot of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Jwalamukhi",
@@ -234,7 +242,8 @@
       "October",
       "November"
     ],
-    "description": "Tongue of Goddess Sati"
+    "description": "Tongue of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Chhinnamasta",
@@ -260,7 +269,8 @@
       "February",
       "March"
     ],
-    "description": "Head of Goddess Sati"
+    "description": "Head of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Hinglaj (Hingula)",
@@ -300,7 +310,8 @@
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Brain of Goddess Sati",
-    "others": ["Ruins"]
+    "others": ["Ruins"],
+    "isMyData": false
   },
   {
     "name": "Kanyakumari",
@@ -326,7 +337,8 @@
       "February",
       "March"
     ],
-    "description": "Back of Goddess Sati"
+    "description": "Back of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Meenakshi",
@@ -352,7 +364,8 @@
       "February",
       "March"
     ],
-    "description": "Navel of Goddess Sati"
+    "description": "Navel of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Brihat Kali",
@@ -378,7 +391,8 @@
       "February",
       "March"
     ],
-    "description": "Ankle of Goddess Sati"
+    "description": "Ankle of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Dakshineswar",
@@ -404,7 +418,8 @@
       "February",
       "March"
     ],
-    "description": "Aspect of Goddess Sati"
+    "description": "Aspect of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Naina Devi",
@@ -430,7 +445,8 @@
       "October",
       "November"
     ],
-    "description": "Eyes of Goddess Sati"
+    "description": "Eyes of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Vaishno Devi",
@@ -456,7 +472,8 @@
       "October",
       "November"
     ],
-    "description": "Hair of Goddess Sati"
+    "description": "Hair of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Ambaji",
@@ -482,7 +499,8 @@
       "February",
       "March"
     ],
-    "description": "Heart of Goddess Sati"
+    "description": "Heart of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Mahalakshmi (Kolhapur)",
@@ -508,7 +526,8 @@
       "February",
       "March"
     ],
-    "description": "Eyes of Goddess Sati"
+    "description": "Eyes of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Tulja Bhavani",
@@ -534,7 +553,8 @@
       "February",
       "March"
     ],
-    "description": "Head of Goddess Sati"
+    "description": "Head of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Renuka",
@@ -560,7 +580,8 @@
       "October",
       "November"
     ],
-    "description": "Blood of Goddess Sati"
+    "description": "Blood of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Shankari Devi",
@@ -606,7 +627,8 @@
       "February",
       "March"
     ],
-    "description": "Mind of Goddess Sati"
+    "description": "Mind of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Bahula",
@@ -632,7 +654,8 @@
       "February",
       "March"
     ],
-    "description": "Arm of Goddess Sati"
+    "description": "Arm of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Attahas",
@@ -658,7 +681,8 @@
       "February",
       "March"
     ],
-    "description": "Lips of Goddess Sati"
+    "description": "Lips of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Jayanti",
@@ -684,7 +708,8 @@
       "February",
       "March"
     ],
-    "description": "Thigh of Goddess Sati"
+    "description": "Thigh of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Jeshoreshwari",
@@ -724,7 +749,8 @@
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November", "December", "January", "February", "March"],
     "description": "Nose of Goddess Sati",
-    "others": ["International"]
+    "others": ["International"],
+    "isMyData": false
   },
   {
     "name": "Chandranath",
@@ -750,7 +776,8 @@
       "February",
       "March"
     ],
-    "description": "Right Arm of Goddess Sati"
+    "description": "Right Arm of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Ratnavali",
@@ -776,7 +803,8 @@
       "March",
       "April"
     ],
-    "description": "Necklace of Goddess Sati"
+    "description": "Necklace of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Mithila",
@@ -802,7 +830,8 @@
       "February",
       "March"
     ],
-    "description": "Shoulder of Goddess Sati"
+    "description": "Shoulder of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Ujjaini",
@@ -828,7 +857,8 @@
       "February",
       "March"
     ],
-    "description": "Elbow of Goddess Sati"
+    "description": "Elbow of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Mahamaya",
@@ -854,7 +884,8 @@
       "February",
       "March"
     ],
-    "description": "Left Foot of Goddess Sati"
+    "description": "Left Foot of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Bhairavi",
@@ -880,7 +911,8 @@
       "February",
       "March"
     ],
-    "description": "Fingers of Goddess Sati"
+    "description": "Fingers of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Devgarh",
@@ -905,7 +937,8 @@
       "January",
       "February"
     ],
-    "description": "Ankles of Goddess Sati"
+    "description": "Ankles of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Jogulamba",
@@ -931,7 +964,8 @@
       "February",
       "March"
     ],
-    "description": "Teeth of Goddess Sati"
+    "description": "Teeth of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Alopi Devi",
@@ -957,7 +991,8 @@
       "February",
       "March"
     ],
-    "description": "Last Remains of Goddess Sati"
+    "description": "Last Remains of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Bhabanipur",
@@ -984,7 +1019,8 @@
       "March"
     ],
     "description": "Knee of Goddess Sati",
-    "others": ["International"]
+    "others": ["International"],
+    "isMyData": false
   },
   {
     "name": "Manikarnika",
@@ -1010,7 +1046,8 @@
       "February",
       "March"
     ],
-    "description": "Earrings of Goddess Sati"
+    "description": "Earrings of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Sarvamangala",
@@ -1036,7 +1073,8 @@
       "February",
       "March"
     ],
-    "description": "Hair of Goddess Sati"
+    "description": "Hair of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Chamundeshwari",
@@ -1062,7 +1100,8 @@
       "February",
       "March"
     ],
-    "description": "Hair of Goddess Sati"
+    "description": "Hair of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Saptashrungi",
@@ -1088,7 +1127,8 @@
       "February",
       "March"
     ],
-    "description": "Right Arm of Goddess Sati"
+    "description": "Right Arm of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Bhadrakali",
@@ -1114,7 +1154,8 @@
       "February",
       "March"
     ],
-    "description": "Left Arm of Goddess Sati"
+    "description": "Left Arm of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Kottari",
@@ -1140,7 +1181,8 @@
       "February",
       "March"
     ],
-    "description": "Breast of Goddess Sati"
+    "description": "Breast of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Kodungallur",
@@ -1166,7 +1208,8 @@
       "February",
       "March"
     ],
-    "description": "Hair of Goddess Sati"
+    "description": "Hair of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Bhimashankar",
@@ -1192,7 +1235,8 @@
       "February",
       "March"
     ],
-    "description": "Sweat of Goddess Sati"
+    "description": "Sweat of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Srisailam",
@@ -1218,7 +1262,8 @@
       "February",
       "March"
     ],
-    "description": "Neck of Goddess Sati"
+    "description": "Neck of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Pratyangira",
@@ -1237,7 +1282,8 @@
     },
     "monsoonFriendly": "High",
     "bestVisitMonths": ["November", "December", "January", "February", "March"],
-    "description": "Anger Form of Goddess Sati"
+    "description": "Anger Form of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Ramgiri",
@@ -1262,7 +1308,8 @@
       "January",
       "February"
     ],
-    "description": "Wrist of Goddess Sati"
+    "description": "Wrist of Goddess Sati",
+    "isMyData": false
   },
   {
     "name": "Ambika",
@@ -1288,6 +1335,7 @@
       "February",
       "March"
     ],
-    "description": "Intestine of Goddess Sati"
+    "description": "Intestine of Goddess Sati",
+    "isMyData": false
   }
 ]

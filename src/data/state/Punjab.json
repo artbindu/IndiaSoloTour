@@ -24,7 +24,8 @@
       "March"
     ],
     "description": "Holiest Sikh shrine with gold-plated sanctum, Sarovar (holy pool), 24/7 open for worship, community kitchen (langar) serving 100,000+ daily, spiritual and architectural marvel.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Jallianwala Bagh",
@@ -51,7 +52,8 @@
       "March"
     ],
     "description": "Memorial site of 1919 Jallianwala Bagh massacre, preserved bullet marks on walls, martyrs' well, eternal flame, museum depicting British colonial atrocities, independence movement history.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Wagah Border",
@@ -77,7 +79,8 @@
       "February",
       "March"
     ],
-    "description": "India-Pakistan border with daily Beating Retreat ceremony, synchronized military drill, flag-lowering ceremony, patriotic atmosphere, spectator galleries, unique Indo-Pak tradition since 1959."
+    "description": "India-Pakistan border with daily Beating Retreat ceremony, synchronized military drill, flag-lowering ceremony, patriotic atmosphere, spectator galleries, unique Indo-Pak tradition since 1959.",
+    "isMyData": false
   },
   {
     "name": "Anandpur Sahib",
@@ -104,7 +107,8 @@
       "March"
     ],
     "description": "City of Bliss where Khalsa was founded by Guru Gobind Singh in 1699, multiple gurudwaras, Kesgarh Sahib, Hola Mohalla festival, Virasat-e-Khalsa museum, Sikh pilgrimage center.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Virasat-e-Khalsa Museum",
@@ -130,7 +134,8 @@
       "February",
       "March"
     ],
-    "description": "State-of-the-art museum showcasing 500 years of Sikh history and culture, interactive exhibits, multimedia displays, architectural marvel by Moshe Safdie, 300th anniversary of Khalsa commemoration."
+    "description": "State-of-the-art museum showcasing 500 years of Sikh history and culture, interactive exhibits, multimedia displays, architectural marvel by Moshe Safdie, 300th anniversary of Khalsa commemoration.",
+    "isMyData": false
   },
   {
     "name": "Bathinda Fort",
@@ -157,7 +162,8 @@
       "March"
     ],
     "description": "Qila Mubarak, one of India's oldest surviving forts (1000-1700 years old), where Razia Sultana was imprisoned, Sikh heritage, Guru Gobind Singh visited, ancient brick structure.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Sheesh Mahal, Patiala",
@@ -184,7 +190,8 @@
       "March"
     ],
     "description": "Palace of Mirrors within Qila Mubarak complex, museum with miniature paintings, arms collection, coins, medals, Patiala royal artifacts, Mughal and Rajput art, 19th-century architecture.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Qila Mubarak, Patiala",
@@ -211,7 +218,8 @@
       "March"
     ],
     "description": "Patiala royal fort complex founded 1763, multiple palaces including Sheesh Mahal, Darbar Hall, museum, royal architecture, Sikh heritage, UNESCO tentative list for World Heritage Site.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Kila Raipur Rural Olympics",
@@ -230,7 +238,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["February", "March"],
-    "description": "Rural Olympics since 1933, traditional Punjabi sports including bullock cart races, tractor races, kabaddi, horse riding stunts, showcasing rural Punjab culture and strength."
+    "description": "Rural Olympics since 1933, traditional Punjabi sports including bullock cart races, tractor races, kabaddi, horse riding stunts, showcasing rural Punjab culture and strength.",
+    "isMyData": false
   },
   {
     "name": "Sukhna Lake",
@@ -256,7 +265,8 @@
       "February",
       "March"
     ],
-    "description": "Artificial reservoir at Shivalik foothills, boating, water sports, walking track, bird watching, migratory birds in winter, Asian Rowing Championships venue, Le Corbusier's vision."
+    "description": "Artificial reservoir at Shivalik foothills, boating, water sports, walking track, bird watching, migratory birds in winter, Asian Rowing Championships venue, Le Corbusier's vision.",
+    "isMyData": false
   },
   {
     "name": "Rock Garden",
@@ -282,7 +292,8 @@
       "February",
       "March"
     ],
-    "description": "Nek Chand's sculpture garden created from industrial and urban waste, 40-acre open-air exhibition with thousands of sculptures, waterfalls, unique art installation, recycled art masterpiece."
+    "description": "Nek Chand's sculpture garden created from industrial and urban waste, 40-acre open-air exhibition with thousands of sculptures, waterfalls, unique art installation, recycled art masterpiece.",
+    "isMyData": false
   },
   {
     "name": "Pul Kanjari",
@@ -308,7 +319,8 @@
       "February",
       "March"
     ],
-    "description": "Historical site built by Maharaja Ranjit Singh for Moran, his Muslim wife, serene baoli (stepwell), gurudwara, temples, mosques, picnic spot, architectural heritage."
+    "description": "Historical site built by Maharaja Ranjit Singh for Moran, his Muslim wife, serene baoli (stepwell), gurudwara, temples, mosques, picnic spot, architectural heritage.",
+    "isMyData": false
   },
   {
     "name": "Ram Tirth",
@@ -335,7 +347,8 @@
       "March"
     ],
     "description": "Legendary birthplace of Luv and Kush (sons of Lord Rama), associated with Valmiki Ashram, holy tank, temple complex, annual fair, Ramayana connection, pilgrimage site.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Talwandi Sabo",
@@ -362,7 +375,8 @@
       "March"
     ],
     "description": "Damdama Sahib, one of five Takhts of Sikhism, where Guru Gobind Singh compiled final version of Guru Granth Sahib in 1705, significant Sikh heritage, gurudwara complex.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Kanjli Wetland",
@@ -388,7 +402,8 @@
       "February",
       "March"
     ],
-    "description": "Man-made wetland and bird sanctuary, 150+ bird species, migratory waterfowl, boating, eco-tourism, Ramsar site nomination, birdwatching paradise, winter migratory birds."
+    "description": "Man-made wetland and bird sanctuary, 150+ bird species, migratory waterfowl, boating, eco-tourism, Ramsar site nomination, birdwatching paradise, winter migratory birds.",
+    "isMyData": false
   },
   {
     "name": "Phillaur Fort",
@@ -414,7 +429,8 @@
       "February",
       "March"
     ],
-    "description": "19th-century fort built by Maharaja Ranjit Singh on Sutlej River banks, British-era police training center, historical significance, architectural heritage, red brick structure."
+    "description": "19th-century fort built by Maharaja Ranjit Singh on Sutlej River banks, British-era police training center, historical significance, architectural heritage, red brick structure.",
+    "isMyData": false
   },
   {
     "name": "Harike Wetland & Bird Sanctuary",
@@ -433,7 +449,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November", "December", "January", "February", "March"],
-    "description": "Largest wetland in northern India, Ramsar site, confluence of Sutlej and Beas rivers, 300+ bird species, migratory Siberian birds, boat safari, eco-tourism, biodiversity hotspot."
+    "description": "Largest wetland in northern India, Ramsar site, confluence of Sutlej and Beas rivers, 300+ bird species, migratory Siberian birds, boat safari, eco-tourism, biodiversity hotspot.",
+    "isMyData": false
   },
   {
     "name": "Hoshiarpur Cultural Hubs",
@@ -459,7 +476,8 @@
       "February",
       "March"
     ],
-    "description": "Birthplace of Punjabi cinema, wood carving craftsmanship, inlay work tradition, Shivalik hills foothills, Kamahi Devi temple, Takhni-Rehampur Wildlife Sanctuary, cultural heritage."
+    "description": "Birthplace of Punjabi cinema, wood carving craftsmanship, inlay work tradition, Shivalik hills foothills, Kamahi Devi temple, Takhni-Rehampur Wildlife Sanctuary, cultural heritage.",
+    "isMyData": false
   },
   {
     "name": "Ranjit Sagar Dam",
@@ -485,7 +503,8 @@
       "February",
       "March"
     ],
-    "description": "Thein Dam on Ravi River, vast reservoir surrounded by hills, water sports, boating, fishing, picnic spot, scenic beauty, hydroelectric project, tourist destination."
+    "description": "Thein Dam on Ravi River, vast reservoir surrounded by hills, water sports, boating, fishing, picnic spot, scenic beauty, hydroelectric project, tourist destination.",
+    "isMyData": false
   },
   {
     "name": "Punjab Heritage & Folk Festival",
@@ -504,6 +523,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November"],
-    "description": "Annual cultural festival celebrating Punjabi heritage, traditional folk music and dance (Bhangra, Giddha), handicrafts, cuisine, rural sports, showcasing Punjab's vibrant culture."
+    "description": "Annual cultural festival celebrating Punjabi heritage, traditional folk music and dance (Bhangra, Giddha), handicrafts, cuisine, rural sports, showcasing Punjab's vibrant culture.",
+    "isMyData": false
   }
 ]

@@ -16,7 +16,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "One of 12 Jyotirlingas, highest Shiva temple at 3,583m, Chota Char Dham pilgrimage site, trekking route from Gaurikund, Himalayan backdrop, 2013 flood survivor."
+    "description": "One of 12 Jyotirlingas, highest Shiva temple at 3,583m, Chota Char Dham pilgrimage site, trekking route from Gaurikund, Himalayan backdrop, 2013 flood survivor.",
+    "isMyData": false
   },
   {
     "name": "Badrinath Temple",
@@ -35,7 +36,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Char Dham pilgrimage site dedicated to Lord Vishnu, 3,133m altitude, Tapt Kund hot springs, Neelkanth Peak backdrop, Mana village (last Indian village near Tibet border)."
+    "description": "Char Dham pilgrimage site dedicated to Lord Vishnu, 3,133m altitude, Tapt Kund hot springs, Neelkanth Peak backdrop, Mana village (last Indian village near Tibet border).",
+    "isMyData": false
   },
   {
     "name": "Gangotri Temple",
@@ -54,7 +56,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Chota Char Dham site, origin of Ganges River from Gaumukh glacier, 3,100m altitude, 18th-century Ganga temple, Bhagirathi River, trekking to Gaumukh."
+    "description": "Chota Char Dham site, origin of Ganges River from Gaumukh glacier, 3,100m altitude, 18th-century Ganga temple, Bhagirathi River, trekking to Gaumukh.",
+    "isMyData": false
   },
   {
     "name": "Yamunotri Temple",
@@ -73,7 +76,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Chota Char Dham site, source of Yamuna River at 3,293m, Surya Kund hot spring for cooking rice offerings, trekking route from Janki Chatti, Divya Shila rock worship."
+    "description": "Chota Char Dham site, source of Yamuna River at 3,293m, Surya Kund hot spring for cooking rice offerings, trekking route from Janki Chatti, Divya Shila rock worship.",
+    "isMyData": false
   },
   {
     "name": "Haridwar Ganga Ghats",
@@ -99,7 +103,8 @@
       "February",
       "March"
     ],
-    "description": "Where Ganges enters plains from Himalayas, Har Ki Pauri ghat with evening Ganga aarti, Kumbh Mela venue, Mansa Devi and Chandi Devi temples via cable car."
+    "description": "Where Ganges enters plains from Himalayas, Har Ki Pauri ghat with evening Ganga aarti, Kumbh Mela venue, Mansa Devi and Chandi Devi temples via cable car.",
+    "isMyData": false
   },
   {
     "name": "Rishikesh (Yoga Capital)",
@@ -127,7 +132,8 @@
       "March",
       "April"
     ],
-    "description": "Yoga capital of the world, ashrams, Beatles Ashram, Ganga aarti at Triveni Ghat, white water rafting, Laxman Jhula, Ram Jhula suspension bridges, adventure hub."
+    "description": "Yoga capital of the world, ashrams, Beatles Ashram, Ganga aarti at Triveni Ghat, white water rafting, Laxman Jhula, Ram Jhula suspension bridges, adventure hub.",
+    "isMyData": false
   },
   {
     "name": "Laxman Jhula",
@@ -155,7 +161,8 @@
       "March",
       "April"
     ],
-    "description": "Iconic 450-foot suspension bridge over Ganges, mythological connection to Laxman, pedestrian bridge linking Tapovan to Jonk, surrounded by temples and ashrams."
+    "description": "Iconic 450-foot suspension bridge over Ganges, mythological connection to Laxman, pedestrian bridge linking Tapovan to Jonk, surrounded by temples and ashrams.",
+    "isMyData": false
   },
   {
     "name": "Nainital Lake",
@@ -182,7 +189,8 @@
       "October",
       "November"
     ],
-    "description": "Kidney-shaped lake at 2,084m, boating, Mall Road, Naina Devi Temple, Snow View Point via ropeway, Tiffin Top, colonial hill station charm, Kumaon hills."
+    "description": "Kidney-shaped lake at 2,084m, boating, Mall Road, Naina Devi Temple, Snow View Point via ropeway, Tiffin Top, colonial hill station charm, Kumaon hills.",
+    "isMyData": false
   },
   {
     "name": "Mussoorie",
@@ -209,7 +217,8 @@
       "October",
       "November"
     ],
-    "description": "Queen of Hills at 2,005m, Mall Road, Kempty Falls, Gun Hill viewpoint via cable car, Lal Tibba highest point, colonial architecture, Himalayan views."
+    "description": "Queen of Hills at 2,005m, Mall Road, Kempty Falls, Gun Hill viewpoint via cable car, Lal Tibba highest point, colonial architecture, Himalayan views.",
+    "isMyData": false
   },
   {
     "name": "Auli",
@@ -228,7 +237,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["December", "January", "February", "March"],
-    "description": "Premier ski destination at 2,500-3,050m, skiing slopes, cable car (Asia's longest), Nanda Devi and Mana Parbat views, artificial lake, adventure sports, winter paradise."
+    "description": "Premier ski destination at 2,500-3,050m, skiing slopes, cable car (Asia's longest), Nanda Devi and Mana Parbat views, artificial lake, adventure sports, winter paradise.",
+    "isMyData": false
   },
   {
     "name": "Valley of Flowers National Park",
@@ -247,7 +257,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["July", "August", "September"],
-    "description": "UNESCO World Heritage Site, alpine flower meadows at 3,658m, 500+ species of flowers including rare Brahma Kamal, snow leopards, Asiatic black bears, trekking paradise."
+    "description": "UNESCO World Heritage Site, alpine flower meadows at 3,658m, 500+ species of flowers including rare Brahma Kamal, snow leopards, Asiatic black bears, trekking paradise.",
+    "isMyData": false
   },
   {
     "name": "Hemkund Sahib",
@@ -266,7 +277,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["June", "July", "August", "September"],
-    "description": "Sacred Sikh shrine at 4,632m beside glacial lake, seven-peaked mountain setting, Guru Gobind Singh meditation site, Lakshman Temple nearby, challenging trek from Govindghat."
+    "description": "Sacred Sikh shrine at 4,632m beside glacial lake, seven-peaked mountain setting, Guru Gobind Singh meditation site, Lakshman Temple nearby, challenging trek from Govindghat.",
+    "isMyData": false
   },
   {
     "name": "Jim Corbett National Park",
@@ -294,7 +306,8 @@
       "May",
       "June"
     ],
-    "description": "India's oldest national park and Project Tiger reserve (1936), Bengal tigers, elephants, 580+ bird species, Dhikala zone, Ramganga River, diverse ecosystems, safari zones."
+    "description": "India's oldest national park and Project Tiger reserve (1936), Bengal tigers, elephants, 580+ bird species, Dhikala zone, Ramganga River, diverse ecosystems, safari zones.",
+    "isMyData": false
   },
   {
     "name": "Rajaji National Park",
@@ -322,7 +335,8 @@
       "May",
       "June"
     ],
-    "description": "820 sq km park at Himalayan foothills, elephants, tigers, leopards, 400+ bird species, Chilla, Motichur, and Rajaji zones, Ganges and Song rivers, sal forests."
+    "description": "820 sq km park at Himalayan foothills, elephants, tigers, leopards, 400+ bird species, Chilla, Motichur, and Rajaji zones, Ganges and Song rivers, sal forests.",
+    "isMyData": false
   },
   {
     "name": "Chopta (Mini Switzerland)",
@@ -349,7 +363,8 @@
       "October",
       "November"
     ],
-    "description": "Untouched meadows at 2,680m, base for Tungnath-Chandrashila trek, camping, birdwatching, rhododendron forests, Himalayan panoramas, serene offbeat destination."
+    "description": "Untouched meadows at 2,680m, base for Tungnath-Chandrashila trek, camping, birdwatching, rhododendron forests, Himalayan panoramas, serene offbeat destination.",
+    "isMyData": false
   },
   {
     "name": "Tungnath Temple",
@@ -375,7 +390,8 @@
       "September",
       "October"
     ],
-    "description": "World's highest Shiva temple at 3,680m, Panch Kedar pilgrimage site, 3.5 km trek from Chopta, 1,000-year-old temple, Nanda Devi and Chaukhamba peaks views."
+    "description": "World's highest Shiva temple at 3,680m, Panch Kedar pilgrimage site, 3.5 km trek from Chopta, 1,000-year-old temple, Nanda Devi and Chaukhamba peaks views.",
+    "isMyData": false
   },
   {
     "name": "Chandrashila Trek",
@@ -402,7 +418,8 @@
       "October",
       "November"
     ],
-    "description": "Summit at 4,000m beyond Tungnath, 360-degree Himalayan views of Nanda Devi, Trishul, Chaukhamba peaks, moderate trek, mythological significance where Rama meditated."
+    "description": "Summit at 4,000m beyond Tungnath, 360-degree Himalayan views of Nanda Devi, Trishul, Chaukhamba peaks, moderate trek, mythological significance where Rama meditated.",
+    "isMyData": false
   },
   {
     "name": "Pithoragarh",
@@ -429,7 +446,8 @@
       "October",
       "November"
     ],
-    "description": "Little Kashmir, Soar Valley at 1,645m, Pithoragarh Fort, gateway to Kailash Mansarovar, Panchachuli peaks views, Askot Wildlife Sanctuary, remote Himalayan charm."
+    "description": "Little Kashmir, Soar Valley at 1,645m, Pithoragarh Fort, gateway to Kailash Mansarovar, Panchachuli peaks views, Askot Wildlife Sanctuary, remote Himalayan charm.",
+    "isMyData": false
   },
   {
     "name": "Binsar Wildlife Sanctuary",
@@ -448,7 +466,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["March", "April", "May", "June", "October", "November"],
-    "description": "47 sq km sanctuary at 2,420m, 200+ bird species, leopards, Himalayan bears, oak and rhododendron forests, Zero Point with 300 km Himalayan panorama, eco-tourism."
+    "description": "47 sq km sanctuary at 2,420m, 200+ bird species, leopards, Himalayan bears, oak and rhododendron forests, Zero Point with 300 km Himalayan panorama, eco-tourism.",
+    "isMyData": false
   },
   {
     "name": "Almora",
@@ -467,7 +486,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["March", "April", "May", "June", "October", "November"],
-    "description": "Cultural capital of Kumaon at 1,638m, Chand dynasty heritage, Nanda Devi Temple, Kasar Devi, Bright End Corner sunset point, traditional bazaars, copper handicrafts."
+    "description": "Cultural capital of Kumaon at 1,638m, Chand dynasty heritage, Nanda Devi Temple, Kasar Devi, Bright End Corner sunset point, traditional bazaars, copper handicrafts.",
+    "isMyData": false
   },
   {
     "name": "Jageshwar Dham",
@@ -486,7 +506,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["March", "April", "May", "June", "October", "November"],
-    "description": "124 ancient Shiva temples in deodar forest from 9th-13th centuries, one of 12 Jyotirlinga candidates, Nagesh Jyotirlinga, archaeological site, tranquil spiritual atmosphere."
+    "description": "124 ancient Shiva temples in deodar forest from 9th-13th centuries, one of 12 Jyotirlinga candidates, Nagesh Jyotirlinga, archaeological site, tranquil spiritual atmosphere.",
+    "isMyData": false
   },
   {
     "name": "Tehri Lake",
@@ -515,7 +536,8 @@
       "May",
       "June"
     ],
-    "description": "Asia's highest dam reservoir at 830m, water sports including jet skiing, banana boat, kayaking, camping, Himalayan backdrop, created by Tehri Dam on Bhagirathi River."
+    "description": "Asia's highest dam reservoir at 830m, water sports including jet skiing, banana boat, kayaking, camping, Himalayan backdrop, created by Tehri Dam on Bhagirathi River.",
+    "isMyData": false
   },
   {
     "name": "Kausani",
@@ -534,7 +556,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["March", "April", "May", "June", "October", "November"],
-    "description": "Switzerland of India at 1,890m, 300 km panoramic view of Nanda Devi, Trishul, Panchachuli peaks, Anasakti Ashram (Mahatma Gandhi stayed), tea gardens, sunrise views."
+    "description": "Switzerland of India at 1,890m, 300 km panoramic view of Nanda Devi, Trishul, Panchachuli peaks, Anasakti Ashram (Mahatma Gandhi stayed), tea gardens, sunrise views.",
+    "isMyData": false
   },
   {
     "name": "Char Dham Yatra (Route)",
@@ -553,6 +576,7 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["May", "June", "September", "October"],
-    "description": "Sacred Chota Char Dham circuit covering Yamunotri, Gangotri, Kedarnath, Badrinath, Hindu pilgrimage journey through Himalayas, spiritual significance, challenging mountain routes."
+    "description": "Sacred Chota Char Dham circuit covering Yamunotri, Gangotri, Kedarnath, Badrinath, Hindu pilgrimage journey through Himalayas, spiritual significance, challenging mountain routes.",
+    "isMyData": false
   }
 ]

@@ -24,7 +24,8 @@
       "March"
     ],
     "description": "Former royal palace of Manikya dynasty built 1901, Indo-Saracenic architecture with Mughal domes, now State Museum, 800 acres Mughal Gardens, archaeological artifacts, tribal heritage galleries, royal memorabilia, sound and light show, illuminated evenings, Agartala's landmark.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Tripura State Museum",
@@ -50,7 +51,8 @@
       "February",
       "March"
     ],
-    "description": "Located in Ujjayanta Palace, showcases Tripura's 19 tribal communities' heritage, archaeological artifacts from 7th-9th century, stone sculptures, inscriptions, royal artifacts, traditional costumes, handicrafts, coins, manuscripts, cultural diversity exhibition."
+    "description": "Located in Ujjayanta Palace, showcases Tripura's 19 tribal communities' heritage, archaeological artifacts from 7th-9th century, stone sculptures, inscriptions, royal artifacts, traditional costumes, handicrafts, coins, manuscripts, cultural diversity exhibition.",
+    "isMyData": false
   },
   {
     "name": "Neermahal Palace",
@@ -77,7 +79,8 @@
       "March"
     ],
     "description": "Water Palace built 1930 by Maharaja Bir Bikram Kishore Manikya, India's largest water palace on Rudrasagar Lake, Hindu-Muslim architectural blend, open-air theatre, boat rides to palace, light and sound show, royal summer retreat, red-white facade, 53km from Agartala.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Jampui Hills",
@@ -103,7 +106,8 @@
       "February",
       "March"
     ],
-    "description": "Tripura's only hill station at 1000m altitude, Land of Eternal Spring with year-round mild climate, orange orchards (Tripura's orange bowl), pineapple gardens, panoramic Bangladesh views, Mizo tribal villages, sunrise-sunset points, trekking, offbeat destination, 250km from Agartala."
+    "description": "Tripura's only hill station at 1000m altitude, Land of Eternal Spring with year-round mild climate, orange orchards (Tripura's orange bowl), pineapple gardens, panoramic Bangladesh views, Mizo tribal villages, sunrise-sunset points, trekking, offbeat destination, 250km from Agartala.",
+    "isMyData": false
   },
   {
     "name": "Sepahijala Wildlife Sanctuary",
@@ -129,7 +133,8 @@
       "February",
       "March"
     ],
-    "description": "18.5 sq km sanctuary housing spectacled monkeys (Phayre's leaf monkey), clouded leopards, botanical gardens, orchidarium (150+ species), artificial lake, boating, toy train, zoo, aviary, Green Imperial Pigeon breeding center, 25km from Agartala, family destination."
+    "description": "18.5 sq km sanctuary housing spectacled monkeys (Phayre's leaf monkey), clouded leopards, botanical gardens, orchidarium (150+ species), artificial lake, boating, toy train, zoo, aviary, Green Imperial Pigeon breeding center, 25km from Agartala, family destination.",
+    "isMyData": false
   },
   {
     "name": "Dumboor Lake",
@@ -155,7 +160,8 @@
       "February",
       "March"
     ],
-    "description": "Large artificial lake created by Gumti Dam, 41 sq km, scenic beauty with islets, migratory waterfowl including white-winged wood duck, fishing, boating, water sports, picnic spot, sunset views, Twijilikma festival site, 120km from Agartala."
+    "description": "Large artificial lake created by Gumti Dam, 41 sq km, scenic beauty with islets, migratory waterfowl including white-winged wood duck, fishing, boating, water sports, picnic spot, sunset views, Twijilikma festival site, 120km from Agartala.",
+    "isMyData": false
   },
   {
     "name": "Ambassa",
@@ -181,7 +187,8 @@
       "February",
       "March"
     ],
-    "description": "District headquarters of Dhalai, gateway to Jampui Hills and Dumboor Lake, Raima Valley, Longtharai Valley viewpoint, Chebri River, tribal markets, Ambassa Tilla (hillock), base for North Tripura exploration, scenic surroundings, trade center."
+    "description": "District headquarters of Dhalai, gateway to Jampui Hills and Dumboor Lake, Raima Valley, Longtharai Valley viewpoint, Chebri River, tribal markets, Ambassa Tilla (hillock), base for North Tripura exploration, scenic surroundings, trade center.",
+    "isMyData": false
   },
   {
     "name": "Trishna Wildlife Sanctuary",
@@ -207,7 +214,8 @@
       "February",
       "March"
     ],
-    "description": "194 sq km sanctuary, Project Elephant reserve, elephants, leopards, bison, sambar deer, 150+ bird species including hornbills, Trishna Reservoir, dense forests, elephant safari, watchtowers, birdwatching, eco-tourism, tribal villages, near Bangladesh border."
+    "description": "194 sq km sanctuary, Project Elephant reserve, elephants, leopards, bison, sambar deer, 150+ bird species including hornbills, Trishna Reservoir, dense forests, elephant safari, watchtowers, birdwatching, eco-tourism, tribal villages, near Bangladesh border.",
+    "isMyData": false
   },
   {
     "name": "Gomati Riverfront",
@@ -233,7 +241,8 @@
       "February",
       "March"
     ],
-    "description": "Scenic riverfront development on Gomati River, recreational area with parks, walking tracks, boating, children's play area, sunset views, picnic spot, river cruises, eco-tourism initiatives, community gatherings, cultural events venue."
+    "description": "Scenic riverfront development on Gomati River, recreational area with parks, walking tracks, boating, children's play area, sunset views, picnic spot, river cruises, eco-tourism initiatives, community gatherings, cultural events venue.",
+    "isMyData": false
   },
   {
     "name": "Tripura Sundari Temple",
@@ -260,7 +269,8 @@
       "March"
     ],
     "description": "One of 51 Shakti Peeths where Sati's right foot fell, state goddess Tripura Sundari (Kali), 16th-century temple complex, turtle-shaped hill (Kurma Pitha), human sacrifice history replaced by animal sacrifice, Diwali and Durga Puja celebrations, pilgrimage site, 55km from Agartala.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Pilak Archaeological Site",
@@ -287,7 +297,8 @@
       "March"
     ],
     "description": "8th-12th century Buddhist-Hindu archaeological site, stone sculptures, rock-cut images, terracotta plaques, ancient monastery remains, ASI protected, Buddhist Avalokiteshvara images, Hindu deities, hilltop ruins, heritage significance, 100km from Agartala, near Bangladesh border.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Neer Chara Waterfalls",
@@ -313,7 +324,8 @@
       "February",
       "March"
     ],
-    "description": "Scenic waterfall cascading from 30 feet in Jampui Hills, natural swimming pool, trekking destination, surrounded by lush forests, monsoon spectacular flow, picnic spot, photography paradise, relatively less crowded, pristine environment, adventure tourism."
+    "description": "Scenic waterfall cascading from 30 feet in Jampui Hills, natural swimming pool, trekking destination, surrounded by lush forests, monsoon spectacular flow, picnic spot, photography paradise, relatively less crowded, pristine environment, adventure tourism.",
+    "isMyData": false
   },
   {
     "name": "Rowa Wildlife Sanctuary",
@@ -339,7 +351,8 @@
       "February",
       "March"
     ],
-    "description": "0.86 sq km micro-sanctuary, hoolock gibbons, spectacled langurs, 85+ bird species, dense bamboo forests, nature trails, birdwatching paradise, conservation area, eco-tourism, research zone, small but biodiverse, 38km from Agartala."
+    "description": "0.86 sq km micro-sanctuary, hoolock gibbons, spectacled langurs, 85+ bird species, dense bamboo forests, nature trails, birdwatching paradise, conservation area, eco-tourism, research zone, small but biodiverse, 38km from Agartala.",
+    "isMyData": false
   },
   {
     "name": "Kanchanpur Eco Park",
@@ -365,7 +378,8 @@
       "February",
       "March"
     ],
-    "description": "Eco-tourism park with natural beauty, gardens, children's play area, walking trails, picnic spots, local flora-fauna, recreational facilities, weekend getaway, family destination, nature conservation, community involvement, near Agartala outskirts."
+    "description": "Eco-tourism park with natural beauty, gardens, children's play area, walking trails, picnic spots, local flora-fauna, recreational facilities, weekend getaway, family destination, nature conservation, community involvement, near Agartala outskirts.",
+    "isMyData": false
   },
   {
     "name": "Tripura Carnival",
@@ -384,7 +398,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["December"],
-    "description": "Annual cultural carnival celebrating Tripura's diversity, traditional dances of 19 tribes, handicrafts exhibition, food stalls, music performances, cultural competitions, art exhibitions, tourism promotion, December celebration, showcase of tribal heritage, community participation."
+    "description": "Annual cultural carnival celebrating Tripura's diversity, traditional dances of 19 tribes, handicrafts exhibition, food stalls, music performances, cultural competitions, art exhibitions, tourism promotion, December celebration, showcase of tribal heritage, community participation.",
+    "isMyData": false
   },
   {
     "name": "Sepahijala Carnival",
@@ -403,7 +418,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["February"],
-    "description": "Annual eco-tourism festival at Sepahijala Wildlife Sanctuary, wildlife awareness programs, nature walks, cultural performances, handicrafts, local cuisine, orchid displays, conservation education, tourism promotion, February celebration, family event."
+    "description": "Annual eco-tourism festival at Sepahijala Wildlife Sanctuary, wildlife awareness programs, nature walks, cultural performances, handicrafts, local cuisine, orchid displays, conservation education, tourism promotion, February celebration, family event.",
+    "isMyData": false
   },
   {
     "name": "Unakoti",
@@ -430,7 +446,8 @@
       "March"
     ],
     "description": "One Less Than a Crore, 7th-9th century Shaivite pilgrimage site with rock-cut sculptures, 30-foot Unakotiswara Kal Bhairava (largest), bas-relief images of Shiva, Ganesha, Nandi, Ashutosh fair (April), UNESCO tentative list, mystical hillside carvings, 178km from Agartala.",
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Jolaibari",
@@ -456,7 +473,8 @@
       "February",
       "March"
     ],
-    "description": "Traditional tribal village showcasing indigenous Tripuri culture, bamboo houses, traditional weaving, handicrafts, tribal cuisine, community festivals, folk dances, authentic village life experience, homestays, cultural immersion, sustainable tourism, offbeat destination."
+    "description": "Traditional tribal village showcasing indigenous Tripuri culture, bamboo houses, traditional weaving, handicrafts, tribal cuisine, community festivals, folk dances, authentic village life experience, homestays, cultural immersion, sustainable tourism, offbeat destination.",
+    "isMyData": false
   },
   {
     "name": "Baramura Eco Park",
@@ -482,7 +500,8 @@
       "February",
       "March"
     ],
-    "description": "Eco-tourism park on Baramura Hill range, nature trails, trekking routes, panoramic views, biodiversity conservation, medicinal plants, birdwatching, adventure activities, picnic spots, environmental education, sustainable tourism practices, hill station ambiance near Agartala."
+    "description": "Eco-tourism park on Baramura Hill range, nature trails, trekking routes, panoramic views, biodiversity conservation, medicinal plants, birdwatching, adventure activities, picnic spots, environmental education, sustainable tourism practices, hill station ambiance near Agartala.",
+    "isMyData": false
   },
   {
     "name": "Trishna River",
@@ -508,7 +527,8 @@
       "February",
       "March"
     ],
-    "description": "Tributary of Gomati River, scenic riverine ecosystem, Trishna Reservoir for irrigation and drinking water, fishing spots, riverside picnics, boating opportunities, wildlife corridor, surrounded by Trishna Wildlife Sanctuary, natural beauty, eco-tourism potential."
+    "description": "Tributary of Gomati River, scenic riverine ecosystem, Trishna Reservoir for irrigation and drinking water, fishing spots, riverside picnics, boating opportunities, wildlife corridor, surrounded by Trishna Wildlife Sanctuary, natural beauty, eco-tourism potential.",
+    "isMyData": false
   },
   {
     "name": "Jampui Festival",
@@ -527,6 +547,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["January"],
-    "description": "Annual orange and tourism festival in Jampui Hills, celebrates orange harvest season, Mizo cultural performances, traditional dances and music, orange orchards tours, handicrafts exhibition, local cuisine, adventure activities, tourism promotion, January celebration, community fest."
+    "description": "Annual orange and tourism festival in Jampui Hills, celebrates orange harvest season, Mizo cultural performances, traditional dances and music, orange orchards tours, handicrafts exhibition, local cuisine, adventure activities, tourism promotion, January celebration, community fest.",
+    "isMyData": false
   }
 ]

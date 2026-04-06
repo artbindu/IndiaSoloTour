@@ -23,7 +23,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Great Living Chola Temples",
@@ -56,7 +57,8 @@
       "Includes Gangaikonda Cholapuram Temple",
       "Includes Airavatesvara Temple (Darasuram)",
       "ASI Protected Monuments"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Shore Temple",
@@ -82,7 +84,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Group of Monuments, Mahabalipuram",
@@ -108,7 +111,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Rameshwaram Temple",
@@ -135,7 +139,8 @@
       "February",
       "March",
       "April"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Kanyakumari",
@@ -161,7 +166,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Marina Beach",
@@ -179,7 +185,8 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"]
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "isMyData": false
   },
   {
     "name": "Ooty (Udhagamandalam)",
@@ -205,7 +212,8 @@
       "September",
       "October",
       "November"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Coonoor",
@@ -230,7 +238,8 @@
       "September",
       "October",
       "November"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Kodaikanal",
@@ -256,7 +265,8 @@
       "September",
       "October",
       "November"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Mudumalai National Park",
@@ -284,7 +294,8 @@
       "March",
       "April",
       "May"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Anamalai Tiger Reserve",
@@ -312,7 +323,8 @@
       "March",
       "April",
       "May"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Gulf of Mannar Marine Biosphere",
@@ -338,7 +350,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Courtallam Waterfalls",
@@ -356,7 +369,8 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["June", "July", "August", "September"]
+    "bestVisitMonths": ["June", "July", "August", "September"],
+    "isMyData": false
   },
   {
     "name": "Yercaud",
@@ -384,7 +398,8 @@
       "April",
       "May",
       "June"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Vellore Fort",
@@ -410,7 +425,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Chidambaram Nataraja Temple",
@@ -436,7 +452,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Tharangambadi (Tranquebar)",
@@ -462,7 +479,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Chettinad Heritage Villages",
@@ -488,7 +506,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "DakshinaChitra",
@@ -513,7 +532,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Auroville",
@@ -532,7 +552,8 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February", "March"]
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "isMyData": false
   },
   {
     "name": "Vaitheeswaran Koil",
@@ -558,7 +579,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Pongal Festival",
@@ -576,7 +598,8 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["January"]
+    "bestVisitMonths": ["January"],
+    "isMyData": false
   },
   {
     "name": "Chithirai Festival",
@@ -594,6 +617,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["April", "May"]
+    "bestVisitMonths": ["April", "May"],
+    "isMyData": false
   }
 ]

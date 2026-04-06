@@ -24,7 +24,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage stepwell built in 11th century, 7 levels of intricate sculptures depicting avatars of Vishnu, Maru-Gurjara architecture masterpiece."
+    "description": "UNESCO World Heritage stepwell built in 11th century, 7 levels of intricate sculptures depicting avatars of Vishnu, Maru-Gurjara architecture masterpiece.",
+    "isMyData": false
   },
   {
     "name": "Champaner–Pavagadh Archaeological Park",
@@ -51,7 +52,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site with 8th-14th century forts, palaces, mosques, temples, Kalika Mata Temple atop Pavagadh Hill, Indo-Islamic architecture."
+    "description": "UNESCO World Heritage Site with 8th-14th century forts, palaces, mosques, temples, Kalika Mata Temple atop Pavagadh Hill, Indo-Islamic architecture.",
+    "isMyData": false
   },
   {
     "name": "Dholavira (Harappan City)",
@@ -78,7 +80,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage Site, one of India's largest Harappan civilization cities (3000 BCE), sophisticated water management, unique signboard system."
+    "description": "UNESCO World Heritage Site, one of India's largest Harappan civilization cities (3000 BCE), sophisticated water management, unique signboard system.",
+    "isMyData": false
   },
   {
     "name": "Sun Temple, Modhera",
@@ -105,7 +108,8 @@
       "February",
       "March"
     ],
-    "description": "11th-century Sun Temple dedicated to Surya, exquisite carvings, Sabha Mandap, Kunda (stepwell), astronomical alignment at equinoxes, Solanki architecture."
+    "description": "11th-century Sun Temple dedicated to Surya, exquisite carvings, Sabha Mandap, Kunda (stepwell), astronomical alignment at equinoxes, Solanki architecture.",
+    "isMyData": false
   },
   {
     "name": "Somnath Jyotirlinga Temple",
@@ -132,7 +136,8 @@
       "February",
       "March"
     ],
-    "description": "First among 12 Jyotirlingas, ancient temple rebuilt multiple times, seaside location, evening aarti, historical significance spanning millennia."
+    "description": "First among 12 Jyotirlingas, ancient temple rebuilt multiple times, seaside location, evening aarti, historical significance spanning millennia.",
+    "isMyData": false
   },
   {
     "name": "Dwarkadhish Temple (Dwarka)",
@@ -159,7 +164,8 @@
       "February",
       "March"
     ],
-    "description": "Char Dham pilgrimage site, Krishna's legendary kingdom, 5-storied temple with 60 pillars, Gomti Ghat, Beyt Dwarka island, ancient maritime history."
+    "description": "Char Dham pilgrimage site, Krishna's legendary kingdom, 5-storied temple with 60 pillars, Gomti Ghat, Beyt Dwarka island, ancient maritime history.",
+    "isMyData": false
   },
   {
     "name": "Ambaji Temple",
@@ -186,7 +192,8 @@
       "February",
       "March"
     ],
-    "description": "One of 51 Shakti Peeths, sacred to Goddess Amba, no idol worship (heart symbol yantra), Arasuri Hill trekking, Gabbar Hill viewpoint."
+    "description": "One of 51 Shakti Peeths, sacred to Goddess Amba, no idol worship (heart symbol yantra), Arasuri Hill trekking, Gabbar Hill viewpoint.",
+    "isMyData": false
   },
   {
     "name": "Gir National Park",
@@ -215,7 +222,8 @@
       "April",
       "May"
     ],
-    "description": "Only natural habitat of Asiatic lions, 674 sq km sanctuary, leopards, marsh crocodiles, 300+ bird species, Kamleshwar Dam, wildlife safaris."
+    "description": "Only natural habitat of Asiatic lions, 674 sq km sanctuary, leopards, marsh crocodiles, 300+ bird species, Kamleshwar Dam, wildlife safaris.",
+    "isMyData": false
   },
   {
     "name": "Blackbuck National Park (Velavadar)",
@@ -244,7 +252,8 @@
       "April",
       "May"
     ],
-    "description": "Largest population of blackbuck antelopes in India, grassland ecosystem, wolves, harriers, lesser floricans, open safari experience."
+    "description": "Largest population of blackbuck antelopes in India, grassland ecosystem, wolves, harriers, lesser floricans, open safari experience.",
+    "isMyData": false
   },
   {
     "name": "Marine National Park",
@@ -271,7 +280,8 @@
       "February",
       "March"
     ],
-    "description": "India's first marine national park, coral reefs, 42 islands, dolphins, sea turtles, puffer fish, octopuses, mangroves, intertidal zones."
+    "description": "India's first marine national park, coral reefs, 42 islands, dolphins, sea turtles, puffer fish, octopuses, mangroves, intertidal zones.",
+    "isMyData": false
   },
   {
     "name": "White Desert of Kutch (Rann of Kutch)",
@@ -290,7 +300,8 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["November", "December", "January", "February"],
-    "description": "World's largest salt desert, white sand expanse under moonlight, Rann Utsav cultural festival, traditional Kutchi handicrafts, desert camping, flamingos."
+    "description": "World's largest salt desert, white sand expanse under moonlight, Rann Utsav cultural festival, traditional Kutchi handicrafts, desert camping, flamingos.",
+    "isMyData": false
   },
   {
     "name": "Kala Dungar",
@@ -315,7 +326,8 @@
       "January",
       "February"
     ],
-    "description": "Black Hill, highest point in Kutch (462m), 360-degree views of White Rann, Dattatreya Temple, India-Pakistan border views, magnetic hill phenomenon."
+    "description": "Black Hill, highest point in Kutch (462m), 360-degree views of White Rann, Dattatreya Temple, India-Pakistan border views, magnetic hill phenomenon.",
+    "isMyData": false
   },
   {
     "name": "Saputara Hill Station",
@@ -343,7 +355,8 @@
       "April",
       "May"
     ],
-    "description": "Only hill station in Gujarat, Sahyadri range, tribal culture, Saputara Lake, ropeway, sunset point, Rose Garden, Vansda National Park nearby."
+    "description": "Only hill station in Gujarat, Sahyadri range, tribal culture, Saputara Lake, ropeway, sunset point, Rose Garden, Vansda National Park nearby.",
+    "isMyData": false
   },
   {
     "name": "Wilson Hills",
@@ -371,7 +384,8 @@
       "April",
       "May"
     ],
-    "description": "Scenic hill station at 750m altitude, British-era bungalows, forested trails, waterfalls during monsoon, peaceful retreat near Maharashtra border."
+    "description": "Scenic hill station at 750m altitude, British-era bungalows, forested trails, waterfalls during monsoon, peaceful retreat near Maharashtra border.",
+    "isMyData": false
   },
   {
     "name": "Mandvi Beach",
@@ -397,7 +411,8 @@
       "February",
       "March"
     ],
-    "description": "Private beach with windmills, Vijay Vilas Palace, camel rides, water sports, shipbuilding yards, sunset views over Arabian Sea."
+    "description": "Private beach with windmills, Vijay Vilas Palace, camel rides, water sports, shipbuilding yards, sunset views over Arabian Sea.",
+    "isMyData": false
   },
   {
     "name": "Dwarka Beach",
@@ -423,7 +438,8 @@
       "February",
       "March"
     ],
-    "description": "Sacred beach near Dwarkadhish Temple, pilgrimage bathing ghats, underwater archaeological excavations of ancient Dwarka city, Gomti Ghat."
+    "description": "Sacred beach near Dwarkadhish Temple, pilgrimage bathing ghats, underwater archaeological excavations of ancient Dwarka city, Gomti Ghat.",
+    "isMyData": false
   },
   {
     "name": "Lothal Archaeological Site",
@@ -450,7 +466,8 @@
       "February",
       "March"
     ],
-    "description": "Harappan civilization port city (2400 BCE), world's earliest known dock, bead-making factory, museum with seals, pottery, urban planning ruins."
+    "description": "Harappan civilization port city (2400 BCE), world's earliest known dock, bead-making factory, museum with seals, pottery, urban planning ruins.",
+    "isMyData": false
   },
   {
     "name": "Sabarmati Ashram",
@@ -477,7 +494,8 @@
       "February",
       "March"
     ],
-    "description": "Mahatma Gandhi's residence (1917-1930), Dandi March starting point, museum with Gandhi's belongings, spinning wheel, letters, peaceful riverside location."
+    "description": "Mahatma Gandhi's residence (1917-1930), Dandi March starting point, museum with Gandhi's belongings, spinning wheel, letters, peaceful riverside location.",
+    "isMyData": false
   },
   {
     "name": "Adalaj Stepwell",
@@ -504,7 +522,8 @@
       "February",
       "March"
     ],
-    "description": "15th-century five-story stepwell (vav), Indo-Islamic architecture, intricate carvings of flora, fauna, deities, octagonal platform, natural cooling system."
+    "description": "15th-century five-story stepwell (vav), Indo-Islamic architecture, intricate carvings of flora, fauna, deities, octagonal platform, natural cooling system.",
+    "isMyData": false
   },
   {
     "name": "Ahmedabad Old City",
@@ -531,7 +550,8 @@
       "February",
       "March"
     ],
-    "description": "UNESCO World Heritage City (2017), traditional pols (housing clusters), Jama Masjid, Bhadra Fort, Teen Darwaza, Sidi Saiyyed Mosque, heritage walks."
+    "description": "UNESCO World Heritage City (2017), traditional pols (housing clusters), Jama Masjid, Bhadra Fort, Teen Darwaza, Sidi Saiyyed Mosque, heritage walks.",
+    "isMyData": false
   },
   {
     "name": "Statue of Unity",
@@ -558,7 +578,8 @@
       "February",
       "March"
     ],
-    "description": "World's tallest statue (182m) of Sardar Vallabhbhai Patel, viewing gallery at 153m, Valley of Flowers, laser light show, Sardar Sarovar Dam views."
+    "description": "World's tallest statue (182m) of Sardar Vallabhbhai Patel, viewing gallery at 153m, Valley of Flowers, laser light show, Sardar Sarovar Dam views.",
+    "isMyData": false
   },
   {
     "name": "Polo Forest",
@@ -584,7 +605,8 @@
       "February",
       "March"
     ],
-    "description": "Ancient teak forest with 10th-15th century Jain and Hindu temples, tribal villages, camping, trekking, Vanaj River, eco-tourism destination."
+    "description": "Ancient teak forest with 10th-15th century Jain and Hindu temples, tribal villages, camping, trekking, Vanaj River, eco-tourism destination.",
+    "isMyData": false
   },
   {
     "name": "Girnar Hill",
@@ -611,7 +633,8 @@
       "February",
       "March"
     ],
-    "description": "Sacred mountain with 10,000 steps to temples, Jain temples on summit, Dattatreya Temple, Ambaji Temple, ropeway, Ashoka's Rock Edicts at base."
+    "description": "Sacred mountain with 10,000 steps to temples, Jain temples on summit, Dattatreya Temple, Ambaji Temple, ropeway, Ashoka's Rock Edicts at base.",
+    "isMyData": false
   },
   {
     "name": "Tarnetar Fair",
@@ -630,7 +653,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["August", "September"],
-    "description": "Traditional matchmaking fair near Trineteshwar Temple, tribal folk dances, colorful costumes, Raas celebration, Saurashtra culture showcase."
+    "description": "Traditional matchmaking fair near Trineteshwar Temple, tribal folk dances, colorful costumes, Raas celebration, Saurashtra culture showcase.",
+    "isMyData": false
   },
   {
     "name": "Rann Utsav",
@@ -649,6 +673,7 @@
     },
     "monsoonFriendly": "Low",
     "bestVisitMonths": ["November", "December", "January", "February"],
-    "description": "Cultural festival in White Rann, tent city accommodation, folk music and dance, handicraft bazaar, adventure activities, full moon desert nights."
+    "description": "Cultural festival in White Rann, tent city accommodation, folk music and dance, handicraft bazaar, adventure activities, full moon desert nights.",
+    "isMyData": false
   }
 ]

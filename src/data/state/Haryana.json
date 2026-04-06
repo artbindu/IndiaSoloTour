@@ -16,7 +16,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["February", "March"],
-    "description": "10th-century sun reservoir built by Tomar king, amphitheater-like structure, annual Surajkund International Crafts Mela showcasing Indian handicrafts, cultural performances, traditional artisans."
+    "description": "10th-century sun reservoir built by Tomar king, amphitheater-like structure, annual Surajkund International Crafts Mela showcasing Indian handicrafts, cultural performances, traditional artisans.",
+    "isMyData": false
   },
   {
     "name": "Sultanpur National Park",
@@ -42,7 +43,8 @@
       "February",
       "March"
     ],
-    "description": "Bird sanctuary with 250+ species, migratory birds from Siberia and Europe, wetland ecosystem, Greater Flamingos, Siberian Cranes, watchtowers, nature trails, photography spot near Delhi."
+    "description": "Bird sanctuary with 250+ species, migratory birds from Siberia and Europe, wetland ecosystem, Greater Flamingos, Siberian Cranes, watchtowers, nature trails, photography spot near Delhi.",
+    "isMyData": false
   },
   {
     "name": "Kurukshetra",
@@ -69,7 +71,8 @@
       "February",
       "March"
     ],
-    "description": "Land of Bhagavad Gita, site of epic Mahabharata war, Brahma Sarovar, Jyotisar, Sheikh Chilli's Tomb, Kurukshetra Panorama and Science Centre, sacred pilgrimage city."
+    "description": "Land of Bhagavad Gita, site of epic Mahabharata war, Brahma Sarovar, Jyotisar, Sheikh Chilli's Tomb, Kurukshetra Panorama and Science Centre, sacred pilgrimage city.",
+    "isMyData": false
   },
   {
     "name": "Brahma Sarovar",
@@ -96,7 +99,8 @@
       "February",
       "March"
     ],
-    "description": "Ancient sacred water tank created by Lord Brahma, solar eclipse bathing rituals, Gita Jayanti celebrations, Sarveshwar Mahadev Temple, 1800 feet long and 1400 feet wide tank."
+    "description": "Ancient sacred water tank created by Lord Brahma, solar eclipse bathing rituals, Gita Jayanti celebrations, Sarveshwar Mahadev Temple, 1800 feet long and 1400 feet wide tank.",
+    "isMyData": false
   },
   {
     "name": "Jyotisar (Krishna Janmabhoomi)",
@@ -123,7 +127,8 @@
       "February",
       "March"
     ],
-    "description": "Exact spot where Lord Krishna delivered Bhagavad Gita to Arjuna, ancient banyan tree marking the site, marble chariot sculpture, sacred pilgrimage site, Mahabharata connection."
+    "description": "Exact spot where Lord Krishna delivered Bhagavad Gita to Arjuna, ancient banyan tree marking the site, marble chariot sculpture, sacred pilgrimage site, Mahabharata connection.",
+    "isMyData": false
   },
   {
     "name": "Pinjore Gardens",
@@ -150,7 +155,8 @@
       "February",
       "March"
     ],
-    "description": "Yadavindra Gardens, 17th-century Mughal-style terraced garden, seven levels, fountains, historic architecture, Mini Zoo, Japanese Garden, Rajendra Park nearby, Shivalik foothills."
+    "description": "Yadavindra Gardens, 17th-century Mughal-style terraced garden, seven levels, fountains, historic architecture, Mini Zoo, Japanese Garden, Rajendra Park nearby, Shivalik foothills.",
+    "isMyData": false
   },
   {
     "name": "Morni Hills",
@@ -180,7 +186,8 @@
       "May",
       "June"
     ],
-    "description": "Only hill station in Haryana at 1,220m, twin lakes Tikkar Taal, Morni Fort, adventure activities, trekking, paragliding, rock climbing, Shivalik range, peaceful retreat near Chandigarh."
+    "description": "Only hill station in Haryana at 1,220m, twin lakes Tikkar Taal, Morni Fort, adventure activities, trekking, paragliding, rock climbing, Shivalik range, peaceful retreat near Chandigarh.",
+    "isMyData": false
   },
   {
     "name": "Bhindawas Bird Sanctuary",
@@ -206,7 +213,8 @@
       "February",
       "March"
     ],
-    "description": "Largest wetland in Haryana, 250+ bird species, migratory birds including demoiselle cranes, Greater Flamingos, Sarus cranes, birdwatching paradise, watchtowers, nature trails."
+    "description": "Largest wetland in Haryana, 250+ bird species, migratory birds including demoiselle cranes, Greater Flamingos, Sarus cranes, birdwatching paradise, watchtowers, nature trails.",
+    "isMyData": false
   },
   {
     "name": "Asola Bhatti Wildlife Sanctuary",
@@ -232,7 +240,8 @@
       "February",
       "March"
     ],
-    "description": "Northern Ridge extension on Delhi-Haryana border, 32.7 sq km, leopards, jackals, porcupines, 193 bird species, rock formations, hiking trails, eco-tourism, green lung near NCR."
+    "description": "Northern Ridge extension on Delhi-Haryana border, 32.7 sq km, leopards, jackals, porcupines, 193 bird species, rock formations, hiking trails, eco-tourism, green lung near NCR.",
+    "isMyData": false
   },
   {
     "name": "Badkhal Lake",
@@ -258,7 +267,8 @@
       "February",
       "March"
     ],
-    "description": "Artificial lake surrounded by Aravalli hills, picnic spot, boating (when water levels permit), adventure park nearby, nature walks, weekend getaway from Delhi NCR."
+    "description": "Artificial lake surrounded by Aravalli hills, picnic spot, boating (when water levels permit), adventure park nearby, nature walks, weekend getaway from Delhi NCR.",
+    "isMyData": false
   },
   {
     "name": "Tilyar Lake",
@@ -284,7 +294,8 @@
       "February",
       "March"
     ],
-    "description": "Scenic lake with mini zoo, zoo safari, boating, children's park, musical fountain, eco-tourism destination, Tilyar Forest, recreation complex with accommodation facilities."
+    "description": "Scenic lake with mini zoo, zoo safari, boating, children's park, musical fountain, eco-tourism destination, Tilyar Forest, recreation complex with accommodation facilities.",
+    "isMyData": false
   },
   {
     "name": "Farrukhnagar Fort",
@@ -311,7 +322,8 @@
       "February",
       "March"
     ],
-    "description": "18th-century fort built by Faujdar Khan, Mughal and Rajput architecture, seven gates, Jama Masjid, Sheesh Mahal, palaces, baolis (stepwells), historical significance in NCR region."
+    "description": "18th-century fort built by Faujdar Khan, Mughal and Rajput architecture, seven gates, Jama Masjid, Sheesh Mahal, palaces, baolis (stepwells), historical significance in NCR region.",
+    "isMyData": false
   },
   {
     "name": "Rewari Heritage Steam Locomotive Museum",
@@ -338,7 +350,8 @@
       "February",
       "March"
     ],
-    "description": "India's only steam locomotive museum, vintage steam engines from British era, railway heritage, working locomotives, Fairy Queen (world's oldest running steam locomotive), rail enthusiast destination."
+    "description": "India's only steam locomotive museum, vintage steam engines from British era, railway heritage, working locomotives, Fairy Queen (world's oldest running steam locomotive), rail enthusiast destination.",
+    "isMyData": false
   },
   {
     "name": "Chokhi Dhani Village Experience",
@@ -364,7 +377,8 @@
       "February",
       "March"
     ],
-    "description": "Ethnic village resort showcasing Rajasthani culture, traditional food, folk dances, puppet shows, camel rides, village ambiance, cultural performances, handicrafts, family entertainment."
+    "description": "Ethnic village resort showcasing Rajasthani culture, traditional food, folk dances, puppet shows, camel rides, village ambiance, cultural performances, handicrafts, family entertainment.",
+    "isMyData": false
   },
   {
     "name": "Shatavar Mahadev Temple",
@@ -391,7 +405,8 @@
       "February",
       "March"
     ],
-    "description": "Ancient Shiva temple in Shivalik foothills, natural cave temple, Maha Shivratri celebrations, peaceful spiritual atmosphere, trekking to reach temple, mythological significance."
+    "description": "Ancient Shiva temple in Shivalik foothills, natural cave temple, Maha Shivratri celebrations, peaceful spiritual atmosphere, trekking to reach temple, mythological significance.",
+    "isMyData": false
   },
   {
     "name": "Surajkund Mela",
@@ -410,7 +425,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["February", "March"],
-    "description": "Surajkund International Crafts Mela, Asia's largest crafts fair, showcasing handicrafts from all Indian states and international participation, folk performances, traditional cuisine, cultural extravaganza."
+    "description": "Surajkund International Crafts Mela, Asia's largest crafts fair, showcasing handicrafts from all Indian states and international participation, folk performances, traditional cuisine, cultural extravaganza.",
+    "isMyData": false
   },
   {
     "name": "International Mango Festival (Karnal)",
@@ -429,6 +445,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["July"],
-    "description": "Annual mango festival showcasing 500+ mango varieties from India and abroad, tasting sessions, mango competitions, fruit exhibitions, agricultural innovations, cultural programs celebrating king of fruits."
+    "description": "Annual mango festival showcasing 500+ mango varieties from India and abroad, tasting sessions, mango competitions, fruit exhibitions, agricultural innovations, cultural programs celebrating king of fruits.",
+    "isMyData": false
   }
 ]

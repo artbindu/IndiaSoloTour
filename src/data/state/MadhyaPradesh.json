@@ -23,7 +23,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Sanchi Stupa",
@@ -49,7 +50,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Bhimbetka Rock Shelters",
@@ -75,7 +77,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Ujjain Mahakaleshwar Temple",
@@ -101,7 +104,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Omkareshwar Jyotirlinga",
@@ -127,7 +131,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Orchha Fort Complex",
@@ -153,7 +158,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Gwalior Fort",
@@ -179,7 +185,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Mandu (Mandavgarh)",
@@ -205,7 +212,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Bandhavgarh National Park",
@@ -231,7 +239,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Kanha National Park",
@@ -257,7 +266,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Pench National Park",
@@ -283,7 +293,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Satpura National Park",
@@ -309,7 +320,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Pachmarhi",
@@ -338,7 +350,8 @@
       "May",
       "June"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Amarkantak",
@@ -364,7 +377,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Chitrakoot",
@@ -390,7 +404,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Bhedaghat Marble Rocks",
@@ -418,7 +433,8 @@
       "April",
       "May",
       "June"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Dhuandhar Falls",
@@ -446,7 +462,8 @@
       "April",
       "May",
       "June"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Panna National Park",
@@ -472,7 +489,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Raisen Fort",
@@ -498,7 +516,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Tribal Museum, Bhopal",
@@ -523,7 +542,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Bhojpur Temple",
@@ -549,7 +569,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Upper Lake (Bhojtal)",
@@ -573,7 +594,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Tansen Music Festival",
@@ -591,7 +613,8 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["December"]
+    "bestVisitMonths": ["December"],
+    "isMyData": false
   },
   {
     "name": "Khajuraho Dance Festival",
@@ -609,6 +632,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["February"]
+    "bestVisitMonths": ["February"],
+    "isMyData": false
   }
 ]

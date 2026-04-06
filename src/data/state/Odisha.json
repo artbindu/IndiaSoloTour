@@ -23,7 +23,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Konark Sun Temple",
@@ -49,7 +50,8 @@
       "February",
       "March"
     ],
-    "significance": "UNESCO World Heritage Site"
+    "significance": "UNESCO World Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Lingaraj Temple",
@@ -75,7 +77,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Mukteswar Temple",
@@ -101,7 +104,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Dhauli Shanti Stupa",
@@ -127,7 +131,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Chilika Lake",
@@ -146,7 +151,8 @@
     },
     "monsoonFriendly": "High",
     "bestVisitMonths": ["November", "December", "January", "February"],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Satapada (Chilika)",
@@ -164,7 +170,8 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"]
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "isMyData": false
   },
   {
     "name": "Bhitarkanika National Park",
@@ -183,7 +190,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November", "December", "January", "February", "March"],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Simlipal National Park",
@@ -202,7 +210,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November", "December", "January", "February", "March"],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Udayagiri & Khandagiri Caves",
@@ -228,7 +237,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Raghurajpur Heritage Village",
@@ -254,7 +264,8 @@
       "February",
       "March"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Daringbadi",
@@ -278,7 +289,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Deomali Peak",
@@ -302,7 +314,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Taptapani Hot Springs",
@@ -326,7 +339,8 @@
       "December",
       "January",
       "February"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Chandipur Beach",
@@ -351,7 +365,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Gopalpur Beach",
@@ -376,7 +391,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Paradeep Beach",
@@ -401,7 +417,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Odisha State Museum",
@@ -426,7 +443,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Ekamra Haat",
@@ -451,7 +469,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Bali Jatra Festival",
@@ -469,7 +488,8 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November"]
+    "bestVisitMonths": ["November"],
+    "isMyData": false
   },
   {
     "name": "Rath Yatra Festival",
@@ -488,7 +508,8 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["June", "July"],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Hirakud Dam",
@@ -513,7 +534,8 @@
       "January",
       "February"
     ],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   },
   {
     "name": "Nrusinghanath Temple",
@@ -538,7 +560,8 @@
       "January",
       "February",
       "March"
-    ]
+    ],
+    "isMyData": false
   },
   {
     "name": "Ansupa Lake",
@@ -556,7 +579,8 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"]
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "isMyData": false
   },
   {
     "name": "Satkosia Gorge",
@@ -575,6 +599,7 @@
     },
     "monsoonFriendly": "Medium",
     "bestVisitMonths": ["November", "December", "January", "February"],
-    "significance": "National Heritage Site"
+    "significance": "National Heritage Site",
+    "isMyData": false
   }
 ]
