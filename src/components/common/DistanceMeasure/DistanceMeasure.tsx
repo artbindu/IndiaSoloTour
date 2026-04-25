@@ -39,7 +39,6 @@ interface MapClickHandlerProps {
   onPointSet: (point: LatLng) => void;
 }
 
-// Inner component to capture map click events
 function MapClickHandler({
   isActive,
   pointA,
@@ -49,7 +48,6 @@ function MapClickHandler({
   useMapEvents({
     click(e) {
       if (!isActive) return;
-      // If both points already set, don't add more
       if (pointA && pointB) return;
       onPointSet({ lat: e.latlng.lat, lng: e.latlng.lng });
     },
@@ -57,7 +55,12 @@ function MapClickHandler({
   return null;
 }
 
-export function DistanceMeasure(): JSX.Element {
+interface DistanceMeasureProps {
+  isActive: boolean;
+  onToggle: () => void;
+}
+
+export function useDistanceMeasure() {
   const [isActive, setIsActive] = useState<boolean>(false);
   const [pointA, setPointA] = useState<LatLng | null>(null);
   const [pointB, setPointB] = useState<LatLng | null>(null);
@@ -94,21 +97,61 @@ export function DistanceMeasure(): JSX.Element {
     setIsActive((prev) => !prev);
   };
 
+  return {
+    isActive,
+    pointA,
+    pointB,
+    distance,
+    handlePointSet,
+    handleClear,
+    handleToggle,
+  };
+}
+
+export function DistanceMeasure({
+  isActive,
+  onToggle,
+}: DistanceMeasureProps): JSX.Element {
+  // Re-expose internal state for map layers — driven by parent via props
+  const [pointA, setPointA] = useState<LatLng | null>(null);
+  const [pointB, setPointB] = useState<LatLng | null>(null);
+  const [distance, setDistance] = useState<DistanceResult | null>(null);
+
+  // Reset when deactivated
+  React.useEffect(() => {
+    if (!isActive) {
+      setPointA(null);
+      setPointB(null);
+      setDistance(null);
+    }
+  }, [isActive]);
+
+  const handlePointSet = useCallback(
+    (point: LatLng): void => {
+      if (!pointA) {
+        setPointA(point);
+      } else if (!pointB) {
+        setPointB(point);
+        const result = calculateHaversineDistance(
+          pointA.lat,
+          pointA.lng,
+          point.lat,
+          point.lng,
+        );
+        setDistance(result);
+      }
+    },
+    [pointA, pointB],
+  );
+
+  const handleClear = (): void => {
+    setPointA(null);
+    setPointB(null);
+    setDistance(null);
+  };
+
   return (
     <>
-      {/* Floating toolbar button */}
-      <div className="distance-toolbar leaflet-top leaflet-right">
-        <div className="leaflet-control">
-          <button
-            className={`distance-toggle-btn ${isActive ? "active" : ""}`}
-            onClick={handleToggle}
-            title={isActive ? "Exit Measure Mode" : "Measure Distance"}
-          >
-            📏 {isActive ? "Exit Measure" : "Measure Distance"}
-          </button>
-        </div>
-      </div>
-
       {/* Instruction hint when active */}
       {isActive && !pointA && (
         <div className="distance-hint leaflet-bottom leaflet-left">

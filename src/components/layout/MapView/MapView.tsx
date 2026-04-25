@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import {
   MapContainer as LeafletMapContainer,
   TileLayer,
@@ -19,7 +19,6 @@ import {
   getHeritageColor,
 } from "../../../utils/utils";
 
-
 interface MapViewProps {
   filteredPlaces: Place[];
   filteredGiTags: GITagItem[];
@@ -31,6 +30,13 @@ export function MapView({
   filteredGiTags,
   showGiTags,
 }: MapViewProps): JSX.Element {
+  // Measure state lifted here so both LiveLocation (button) and DistanceMeasure (map layers) share it
+  const [isMeasureActive, setIsMeasureActive] = useState<boolean>(false);
+
+  const handleMeasureToggle = (): void => {
+    setIsMeasureActive((prev) => !prev);
+  };
+
   return (
     <LeafletMapContainer
       center={mapConfig.center}
@@ -42,22 +48,24 @@ export function MapView({
         url={mapConfig.tileLayer.url}
       />
 
-      {/* Live Location Component */}
-      <LiveLocation />
+      {/* Live Location + Measure Distance toggle button (stacked bottom-right) */}
+      <LiveLocation
+        isMeasureActive={isMeasureActive}
+        onMeasureToggle={handleMeasureToggle}
+      />
 
-      {/* Distance Measurement Tool */}
-      <DistanceMeasure />
+      {/* Distance Measurement map layers (markers, line, result panel) */}
+      <DistanceMeasure
+        isActive={isMeasureActive}
+        onToggle={handleMeasureToggle}
+      />
 
       {/* Tourist Places */}
       <LayerGroup>
         {filteredPlaces.map((place, index) => {
-          if (!hasValidCoordinates(place.coordinates)) {
-            return null;
-          }
-
+          if (!hasValidCoordinates(place.coordinates)) return null;
           const color = iconColors[place.type] || markerConfig.defaultColor;
           const icon = createCustomIcon(color);
-
           return (
             <Marker
               key={`place-${index}`}
@@ -78,16 +86,10 @@ export function MapView({
                     </span>
                     {place.name}
                   </h3>
-                  <p>
-                    <strong>Type:</strong> {place.type}
-                  </p>
-                  <p>
-                    <strong>Location:</strong> {place.city}, {place.state}
-                  </p>
+                  <p><strong>Type:</strong> {place.type}</p>
+                  <p><strong>Location:</strong> {place.city}, {place.state}</p>
                   {place.heritage &&
-                    (place.heritage.unesco ||
-                      place.heritage.national ||
-                      place.heritage.state) && (
+                    (place.heritage.unesco || place.heritage.national || place.heritage.state) && (
                       <p>
                         <strong>Heritage:</strong>
                         {place.heritage.unesco && " UNESCO"}
@@ -99,10 +101,7 @@ export function MapView({
                     <p className="description">{place.description}</p>
                   )}
                   {place.bestVisitMonths && (
-                    <p>
-                      <strong>Best Visit:</strong>{" "}
-                      {place.bestVisitMonths.join(", ")}
-                    </p>
+                    <p><strong>Best Visit:</strong> {place.bestVisitMonths.join(", ")}</p>
                   )}
                 </div>
               </Popup>
@@ -115,12 +114,8 @@ export function MapView({
       {showGiTags && (
         <LayerGroup>
           {filteredGiTags.map((item, index) => {
-            if (!hasValidCoordinates(item.coordinates)) {
-              return null;
-            }
-
+            if (!hasValidCoordinates(item.coordinates)) return null;
             const icon = createCustomIcon(iconColors["GI Tags"]);
-
             return (
               <Marker
                 key={`gi-${index}`}
@@ -130,15 +125,9 @@ export function MapView({
                 <Popup>
                   <div className="popup-content">
                     <h3>🏅 {item.name}</h3>
-                    <p>
-                      <strong>Type:</strong> {item.Type}
-                    </p>
-                    <p>
-                      <strong>Location:</strong> {item.location}, {item.state}
-                    </p>
-                    <p>
-                      <strong>Significance:</strong> {item.significance}
-                    </p>
+                    <p><strong>Type:</strong> {item.Type}</p>
+                    <p><strong>Location:</strong> {item.location}, {item.state}</p>
+                    <p><strong>Significance:</strong> {item.significance}</p>
                     {item.description && (
                       <p className="description">{item.description}</p>
                     )}

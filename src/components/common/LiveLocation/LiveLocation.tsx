@@ -6,7 +6,6 @@ import {
   getGeolocationErrorMessage,
 } from "../../../utils/utils";
 
-// Component to handle map centering
 function LocationMarker({
   position,
 }: {
@@ -38,10 +37,15 @@ function LocationMarker({
 
 interface LiveLocationProps {
   onLocationChange?: (location: [number, number] | null) => void;
+  // Accept measure toggle props
+  isMeasureActive?: boolean;
+  onMeasureToggle?: () => void;
 }
 
 export function LiveLocation({
   onLocationChange,
+  isMeasureActive = false,
+  onMeasureToggle,
 }: LiveLocationProps): JSX.Element {
   const [currentLocation, setCurrentLocation] = useState<
     [number, number] | null
@@ -49,7 +53,6 @@ export function LiveLocation({
   const [locationLoading, setLocationLoading] = useState<boolean>(false);
   const [locationError, setLocationError] = useState<string | null>(null);
 
-  // Get current location
   const getCurrentLocation = () => {
     setLocationLoading(true);
     setLocationError(null);
@@ -89,8 +92,21 @@ export function LiveLocation({
       {/* Current Location Marker */}
       {currentLocation && <LocationMarker position={currentLocation} />}
 
-      {/* Current Location Button */}
+      {/* Bottom-right button stack */}
       <div className="location-button-container">
+
+        {/* Measure Distance button — sits ABOVE the live location button */}
+        {onMeasureToggle && (
+          <button
+            className={`measure-distance-btn ${isMeasureActive ? "active" : ""}`}
+            onClick={onMeasureToggle}
+            title={isMeasureActive ? "Exit Measure Mode" : "Measure Distance"}
+          >
+            📏
+          </button>
+        )}
+
+        {/* Live Location button */}
         <button
           className="location-button"
           onClick={getCurrentLocation}
@@ -99,7 +115,10 @@ export function LiveLocation({
         >
           {locationLoading ? "🗺️" : "📍"}
         </button>
-        {locationError && <div className="location-error">{locationError}</div>}
+
+        {locationError && (
+          <div className="location-error">{locationError}</div>
+        )}
       </div>
     </>
   );
