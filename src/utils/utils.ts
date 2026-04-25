@@ -280,3 +280,40 @@ export const getHeritageColor = (heritage?: {
   if (heritage.state) return heritageColors[HeritageType.STATE];
   return "transparent";
 };
+
+/**
+ * Calculates the straight-line (haversine) distance between two GPS coordinates
+ * @param lat1 - Latitude of point A
+ * @param lon1 - Longitude of point A
+ * @param lat2 - Latitude of point B
+ * @param lon2 - Longitude of point B
+ * @returns Object with distance in kilometers and miles
+ */
+export const calculateHaversineDistance = (
+  lat1: number,
+  lon1: number,
+  lat2: number,
+  lon2: number,
+): { km: number; miles: number } => {
+  const R = 6371; // Earth's radius in km
+  const toRad = (deg: number): number => (deg * Math.PI) / 180;
+
+  const dLat = toRad(lat2 - lat1);
+  const dLon = toRad(lon2 - lon1);
+
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(toRad(lat1)) *
+      Math.cos(toRad(lat2)) *
+      Math.sin(dLon / 2) *
+      Math.sin(dLon / 2);
+
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  const km = R * c;
+  const miles = km * 0.621371;
+
+  return {
+    km: Math.round(km * 10) / 10,
+    miles: Math.round(miles * 10) / 10,
+  };
+};
