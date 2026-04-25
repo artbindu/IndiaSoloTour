@@ -5,7 +5,7 @@
   right: 10px;
   z-index: 1000;
   display: flex;
-  flex-direction: column;       /* stack vertically */
+  flex-direction: column; /* stack vertically */
   align-items: flex-end;
   gap: 10px;
 }
@@ -108,8 +108,7 @@
 /* ===== Mobile Responsive ===== */
 @media (max-width: 768px) {
   .location-button-container {
-    bottom: 20px;
-    right: 8px;
+    bottom: 90px;
     gap: 8px;
   }
 
@@ -118,5 +117,22 @@
     width: 44px;
     height: 44px;
     font-size: 20px;
+  }
+}
+
+/* ===== Small Mobile (≤480px) ===== */
+@media (max-width: 480px) {
+  .location-button-container {
+    bottom: 90px;
+    right: 8px;
+  }
+}
+
+/* ===== Safe Area support (iOS notch / home bar) ===== */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  @media (max-width: 768px) {
+    .location-button-container {
+      bottom: calc(70px + env(safe-area-inset-bottom));
+    }
   }
 }
