@@ -1,16 +1,16 @@
 /* ===== Bottom-right button stack ===== */
 .location-button-container {
   position: absolute;
-  bottom: 30px;
+  bottom: 80px;
   right: 10px;
   z-index: 1000;
   display: flex;
-  flex-direction: column; /* stack vertically */
+  flex-direction: column;
   align-items: flex-end;
   gap: 10px;
 }
 
-/* ===== Live Location Button ===== */
+/* ===== Live Location (one-shot) Button ===== */
 .location-button {
   background: white;
   border: 2px solid rgba(0, 0, 0, 0.2);
@@ -38,10 +38,10 @@
 
 .location-button:disabled {
   cursor: not-allowed;
-  opacity: 0.6;
+  opacity: 0.5;
 }
 
-/* ===== Measure Distance Button — ABOVE live button ===== */
+/* ===== Measure Distance Button ===== */
 .measure-distance-btn {
   background: white;
   border: 2px solid rgba(0, 0, 0, 0.2);
@@ -76,6 +76,134 @@
   transform: scale(1.05);
 }
 
+/* ===== Live Track Button ===== */
+.live-track-btn {
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.live-track-btn:hover {
+  background: #f0f0f0;
+  border-color: #4caf50;
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(76, 175, 80, 0.4);
+}
+
+.live-track-btn.active {
+  background: #4caf50;
+  border-color: #4caf50;
+  color: white;
+  box-shadow: 0 2px 10px rgba(76, 175, 80, 0.6);
+}
+
+.live-track-btn.active:hover {
+  background: #388e3c;
+  transform: scale(1.05);
+}
+
+/* Pulsing green dot indicator */
+.live-track-dot {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: transparent;
+  border: 2px solid transparent;
+}
+
+.live-track-dot.pulsing {
+  background: #ff4444;
+  border-color: white;
+  animation: pulse-dot 1.4s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%   { transform: scale(0.9); box-shadow: 0 0 0 0 rgba(255, 68, 68, 0.7); }
+  70%  { transform: scale(1);   box-shadow: 0 0 0 6px rgba(255, 68, 68, 0);  }
+  100% { transform: scale(0.9); box-shadow: 0 0 0 0 rgba(255, 68, 68, 0);   }
+}
+
+/* ===== Share Location Button ===== */
+.share-location-btn {
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  animation: slideInBtn 0.25s ease-out;
+}
+
+@keyframes slideInBtn {
+  from { opacity: 0; transform: scale(0.7); }
+  to   { opacity: 1; transform: scale(1);   }
+}
+
+.share-location-btn:hover {
+  background: #f0f0f0;
+  border-color: #2196f3;
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.4);
+}
+
+.share-location-btn.shared {
+  background: #2196f3;
+  border-color: #2196f3;
+  color: white;
+}
+
+/* ===== Share Toast ===== */
+.share-toast {
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  animation: fadeInOut 3s ease forwards;
+  pointer-events: none;
+}
+
+@keyframes fadeInOut {
+  0%   { opacity: 0; transform: translateY(4px); }
+  10%  { opacity: 1; transform: translateY(0);   }
+  80%  { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+/* ===== Live Tracking Badge (in popup) ===== */
+.live-tracking-badge {
+  margin-top: 8px;
+  padding: 4px 8px;
+  background: #e8f5e9;
+  border-left: 3px solid #4caf50;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  color: #2e7d32;
+}
+
 /* ===== Error Message ===== */
 .location-error {
   background: #ff4444;
@@ -90,14 +218,8 @@
 }
 
 @keyframes slideIn {
-  from {
-    opacity: 0;
-    transform: translateX(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
+  from { opacity: 0; transform: translateX(20px); }
+  to   { opacity: 1; transform: translateX(0);    }
 }
 
 .current-location-marker {
@@ -113,7 +235,9 @@
   }
 
   .location-button,
-  .measure-distance-btn {
+  .measure-distance-btn,
+  .live-track-btn,
+  .share-location-btn {
     width: 44px;
     height: 44px;
     font-size: 20px;

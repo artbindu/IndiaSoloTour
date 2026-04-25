@@ -317,3 +317,58 @@ export const calculateHaversineDistance = (
     miles: Math.round(miles * 10) / 10,
   };
 };
+
+/**
+ * Generates a shareable live location URL with lat/lng query params
+ * @param lat - Latitude
+ * @param lng - Longitude
+ * @returns Full shareable URL string
+ */
+export const generateShareUrl = (lat: number, lng: number): string => {
+  const base = window.location.origin + window.location.pathname;
+  return `${base}?lat=${lat.toFixed(6)}&lng=${lng.toFixed(6)}&live=true`;
+};
+
+/**
+ * Parses shared location coords from current URL query params
+ * @returns lat/lng if present in URL, otherwise null
+ */
+export const getSharedLocationFromUrl = (): {
+  lat: number;
+  lng: number;
+} | null => {
+  const params = new URLSearchParams(window.location.search);
+  const lat = parseFloat(params.get("lat") || "");
+  const lng = parseFloat(params.get("lng") || "");
+  const live = params.get("live");
+  if (!isNaN(lat) && !isNaN(lng) && live === "true") {
+    return { lat, lng };
+  }
+  return null;
+};
+
+/**
+ * Copies text to clipboard with fallback for older browsers
+ * @param text - Text to copy
+ * @returns Promise<boolean> — true if successful
+ */
+export const copyToClipboard = async (text: string): Promise<boolean> => {
+  try {
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(text);
+      return true;
+    }
+    // Fallback for older browsers
+    const el = document.createElement("textarea");
+    el.value = text;
+    el.style.position = "absolute";
+    el.style.left = "-9999px";
+    document.body.appendChild(el);
+    el.select();
+    document.execCommand("copy");
+    document.body.removeChild(el);
+    return true;
+  } catch {
+    return false;
+  }
+};
