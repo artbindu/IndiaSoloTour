@@ -1,0 +1,167 @@
+/* ===== Toggle Button ===== */
+.distance-toolbar {
+  margin-top: 80px; /* Below zoom controls */
+}
+
+.distance-toggle-btn {
+  background: white;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease;
+  color: #444;
+}
+
+.distance-toggle-btn:hover {
+  background: #f0f0f0;
+  border-color: #667eea;
+  color: #667eea;
+}
+
+.distance-toggle-btn.active {
+  background: #667eea;
+  color: white;
+  border-color: #667eea;
+  box-shadow: 0 2px 10px rgba(102, 126, 234, 0.5);
+}
+
+/* ===== Hint Box ===== */
+.distance-hint {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.distance-hint-box {
+  background: rgba(255, 255, 255, 0.95);
+  border-left: 4px solid #667eea;
+  border-radius: 6px;
+  padding: 10px 14px;
+  font-size: 13px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  pointer-events: none;
+}
+
+/* ===== Result Panel ===== */
+.distance-result-panel {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  z-index: 1000;
+}
+
+.distance-result-box {
+  background: white;
+  border-radius: 10px;
+  padding: 14px 16px;
+  min-width: 200px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  border: 1px solid #e0e0e0;
+}
+
+.distance-result-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 700;
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+}
+
+.distance-clear-btn {
+  background: #ff5252;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 3px 8px;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.distance-clear-btn:hover {
+  background: #d32f2f;
+}
+
+.distance-result-body {
+  margin-bottom: 10px;
+}
+
+.distance-value {
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+  margin: 4px 0;
+}
+
+.distance-number {
+  font-size: 26px;
+  font-weight: 800;
+  color: #667eea;
+  line-height: 1;
+}
+
+.distance-unit {
+  font-size: 14px;
+  color: #888;
+  font-weight: 500;
+}
+
+.distance-value.secondary .distance-number {
+  font-size: 18px;
+  color: #999;
+}
+
+.distance-coords {
+  font-size: 11px;
+  color: #888;
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+  line-height: 1.8;
+}
+
+/* ===== Marker Pins ===== */
+.distance-marker-pin {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 14px;
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  border: 3px solid white;
+}
+
+.distance-marker-pin.point-a {
+  background: #2979ff;
+}
+
+.distance-marker-pin.point-b {
+  background: #f44336;
+}
+
+/* ===== Mobile Responsive ===== */
+@media (max-width: 768px) {
+  .distance-toggle-btn {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+
+  .distance-number {
+    font-size: 22px;
+  }
+
+  .distance-result-box {
+    min-width: 170px;
+    padding: 10px 12px;
+  }
+}

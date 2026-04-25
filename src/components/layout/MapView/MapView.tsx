@@ -11,12 +11,14 @@ import { mapConfig, iconColors, markerConfig } from "../../../config/config";
 import { Place } from "../../../models/Places";
 import { GITagItem } from "../../../models/Items";
 import { LiveLocation } from "../../common/LiveLocation/LiveLocation";
+import { DistanceMeasure } from "../../common/DistanceMeasure/DistanceMeasure";
 import {
   createCustomIcon,
   hasValidCoordinates,
   getHeritageIcon,
   getHeritageColor,
 } from "../../../utils/utils";
+
 
 interface MapViewProps {
   filteredPlaces: Place[];
@@ -42,6 +44,9 @@ export function MapView({
 
       {/* Live Location Component */}
       <LiveLocation />
+
+      {/* Distance Measurement Tool */}
+      <DistanceMeasure />
 
       {/* Tourist Places */}
       <LayerGroup>
