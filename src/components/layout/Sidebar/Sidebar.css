@@ -37,7 +37,7 @@
 
 .sidebar h1 {
   font-size: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 8px;
   text-align: center;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   display: flex;
@@ -54,7 +54,7 @@
 
 .stats {
   background: rgba(255, 255, 255, 0.1);
-  padding: 15px;
+  padding: 10px;
   border-radius: 8px;
   margin-bottom: 20px;
 }
@@ -175,9 +175,9 @@ input:checked + .slider:before {
 }
 
 .app-version {
-  margin-top: 16px;
-  padding-top: 10px;
-  border-top: 1px solid rgba(255, 255, 255, 0.25);
+  margin: 0 0 14px;
+  padding: 0 0 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
   font-size: 12px;
   font-weight: 700;
   opacity: 0.9;

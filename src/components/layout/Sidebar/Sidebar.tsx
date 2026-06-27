@@ -56,6 +56,9 @@ export function Sidebar({
           <img src={appConfig.url} alt="India" className="title-icon" />
           {appConfig.title}
         </h1>
+        <div className="app-version">
+          Version v{appConfig.version} | {appConfig.shortName}
+        </div>
         {appConfig.showStatistics && (
           <div className="stats">
             <p>
@@ -161,10 +164,6 @@ export function Sidebar({
             ))}
           </div>
         )}
-
-        <div className="app-version">
-          Version v{appConfig.version} | {appConfig.shortName}
-        </div>
       </div>
     </>
   );
