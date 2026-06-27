@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import {
   MapContainer as LeafletMapContainer,
   TileLayer,
@@ -37,6 +37,19 @@ export function MapView({
     setIsMeasureActive((prev) => !prev);
   };
 
+  const iconCacheByType = useMemo(() => {
+    const cache = new Map<string, ReturnType<typeof createCustomIcon>>();
+    for (const place of filteredPlaces) {
+      if (!cache.has(place.type)) {
+        const color = iconColors[place.type] || markerConfig.defaultColor;
+        cache.set(place.type, createCustomIcon(color));
+      }
+    }
+    return cache;
+  }, [filteredPlaces]);
+
+  const giTagIcon = useMemo(() => createCustomIcon(iconColors["GI Tags"]), []);
+
   return (
     <LeafletMapContainer
       center={mapConfig.center}
@@ -64,8 +77,9 @@ export function MapView({
       <LayerGroup>
         {filteredPlaces.map((place, index) => {
           if (!hasValidCoordinates(place.coordinates)) return null;
-          const color = iconColors[place.type] || markerConfig.defaultColor;
-          const icon = createCustomIcon(color);
+          const icon =
+            iconCacheByType.get(place.type) ||
+            createCustomIcon(markerConfig.defaultColor);
           return (
             <Marker
               key={`place-${index}`}
@@ -86,10 +100,16 @@ export function MapView({
                     </span>
                     {place.name}
                   </h3>
-                  <p><strong>Type:</strong> {place.type}</p>
-                  <p><strong>Location:</strong> {place.city}, {place.state}</p>
+                  <p>
+                    <strong>Type:</strong> {place.type}
+                  </p>
+                  <p>
+                    <strong>Location:</strong> {place.city}, {place.state}
+                  </p>
                   {place.heritage &&
-                    (place.heritage.unesco || place.heritage.national || place.heritage.state) && (
+                    (place.heritage.unesco ||
+                      place.heritage.national ||
+                      place.heritage.state) && (
                       <p>
                         <strong>Heritage:</strong>
                         {place.heritage.unesco && " UNESCO"}
@@ -101,7 +121,10 @@ export function MapView({
                     <p className="description">{place.description}</p>
                   )}
                   {place.bestVisitMonths && (
-                    <p><strong>Best Visit:</strong> {place.bestVisitMonths.join(", ")}</p>
+                    <p>
+                      <strong>Best Visit:</strong>{" "}
+                      {place.bestVisitMonths.join(", ")}
+                    </p>
                   )}
                 </div>
               </Popup>
@@ -115,19 +138,24 @@ export function MapView({
         <LayerGroup>
           {filteredGiTags.map((item, index) => {
             if (!hasValidCoordinates(item.coordinates)) return null;
-            const icon = createCustomIcon(iconColors["GI Tags"]);
             return (
               <Marker
                 key={`gi-${index}`}
                 position={[item.coordinates.lat, item.coordinates.long]}
-                icon={icon}
+                icon={giTagIcon}
               >
                 <Popup>
                   <div className="popup-content">
                     <h3>🏅 {item.name}</h3>
-                    <p><strong>Type:</strong> {item.Type}</p>
-                    <p><strong>Location:</strong> {item.location}, {item.state}</p>
-                    <p><strong>Significance:</strong> {item.significance}</p>
+                    <p>
+                      <strong>Type:</strong> {item.Type}
+                    </p>
+                    <p>
+                      <strong>Location:</strong> {item.location}, {item.state}
+                    </p>
+                    <p>
+                      <strong>Significance:</strong> {item.significance}
+                    </p>
                     {item.description && (
                       <p className="description">{item.description}</p>
                     )}

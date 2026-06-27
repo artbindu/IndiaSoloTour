@@ -1,11 +1,17 @@
-import React, { useState, useEffect } from "react";
+import React, {
+  Suspense,
+  lazy,
+  useCallback,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
 import L from "leaflet";
 import "./App.css";
 import { dataSources, appConfig } from "../config/config";
 import { Place } from "../models/Places";
 import { GITagItem } from "../models/Items";
 import { Sidebar } from "../components/layout/Sidebar/Sidebar";
-import { MapView } from "../components/layout/MapView/MapView";
 import {
   filterPlaces,
   filterGiTags,
@@ -19,6 +25,12 @@ import {
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
 import markerIcon from "leaflet/dist/images/marker-icon.png";
 import markerShadow from "leaflet/dist/images/marker-shadow.png";
+
+const MapView = lazy(() =>
+  import("../components/layout/MapView/MapView").then((module) => ({
+    default: module.MapView,
+  })),
+);
 
 // Fix for default marker icon issue in Leaflet with webpack
 delete (L.Icon.Default.prototype as any)._getIconUrl;
@@ -39,11 +51,55 @@ function App(): JSX.Element {
   const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
 
   useEffect(() => {
+    let isCancelled = false;
+
+    const getLoadingStrategy = (): {
+      priorityStateCount: number;
+      backgroundChunkSize: number;
+    } => {
+      const nav = window.navigator as Navigator & {
+        connection?: { effectiveType?: string; saveData?: boolean };
+        deviceMemory?: number;
+      };
+
+      const effectiveType = nav.connection?.effectiveType ?? "";
+      const saveData = Boolean(nav.connection?.saveData);
+      const deviceMemory = nav.deviceMemory ?? 4;
+
+      // Prefer faster first paint on constrained devices/networks.
+      if (saveData || effectiveType === "slow-2g" || effectiveType === "2g") {
+        return { priorityStateCount: 4, backgroundChunkSize: 2 };
+      }
+
+      if (effectiveType === "3g" || deviceMemory <= 4) {
+        return { priorityStateCount: 6, backgroundChunkSize: 3 };
+      }
+
+      return { priorityStateCount: 10, backgroundChunkSize: 6 };
+    };
+
+    const waitForIdle = async (): Promise<void> => {
+      await new Promise<void>((resolve) => {
+        const ric = (
+          window as Window & {
+            requestIdleCallback?: (
+              callback: () => void,
+              options?: { timeout: number },
+            ) => number;
+          }
+        ).requestIdleCallback;
+
+        if (typeof ric === "function") {
+          ric(() => resolve(), { timeout: 120 });
+          return;
+        }
+
+        setTimeout(resolve, 0);
+      });
+    };
+
     const loadAllData = async (): Promise<void> => {
       try {
-        let allPlaces: Place[] = [];
-
-        // Load state files dynamically
         const stateImports: { [key: string]: () => Promise<any> } = {
           AndhraPradesh: () => import("../data/state/AndhraPradesh.json"),
           ArunachalPradesh: () => import("../data/state/ArunachalPradesh.json"),
@@ -99,87 +155,154 @@ function App(): JSX.Element {
           UNESCOHeritage: () => import("../data/special/UNESCOHeritage.json"),
         };
 
-        // Load all state files
-        for (const state of dataSources.stateFiles) {
-          try {
-            if (stateImports[state]) {
-              const data = await stateImports[state]();
-              allPlaces = [...allPlaces, ...data.default];
+        const loadPlaceGroup = async (
+          imports: { [key: string]: () => Promise<any> },
+          fileNames: string[],
+          groupLabel: string,
+        ): Promise<Place[]> => {
+          if (fileNames.length === 0) {
+            return [];
+          }
+
+          const importEntries = fileNames
+            .filter((fileName) => !!imports[fileName])
+            .map((fileName) => ({
+              fileName,
+              loader: imports[fileName],
+            }));
+
+          const settled = await Promise.allSettled(
+            importEntries.map((entry) => entry.loader()),
+          );
+
+          return settled.flatMap((result, index) => {
+            if (result.status === "fulfilled") {
+              return result.value.default as Place[];
             }
-          } catch (error) {
-            console.log(`State file ${state} not found or empty`);
-          }
-        }
 
-        // Load all UT files
-        for (const ut of dataSources.utFiles) {
-          try {
-            if (utImports[ut]) {
-              const data = await utImports[ut]();
-              allPlaces = [...allPlaces, ...data.default];
+            console.warn(
+              `${groupLabel} file ${importEntries[index].fileName} not found or empty`,
+            );
+            return [];
+          });
+        };
+
+        const loadStateChunks = async (
+          fileNames: string[],
+          chunkSize: number,
+        ): Promise<void> => {
+          for (let start = 0; start < fileNames.length; start += chunkSize) {
+            const chunk = fileNames.slice(start, start + chunkSize);
+            const chunkPlaces = await loadPlaceGroup(
+              stateImports,
+              chunk,
+              "State",
+            );
+
+            if (isCancelled || chunkPlaces.length === 0) {
+              continue;
             }
-          } catch (error) {
-            console.log(`UT file ${ut} not found or empty`);
+
+            setPlaces((prevPlaces) => [...prevPlaces, ...chunkPlaces]);
+
+            // Yield to the browser before loading the next chunk.
+            await waitForIdle();
           }
+        };
+
+        const strategy = getLoadingStrategy();
+        const priorityStateCount = Math.min(
+          strategy.priorityStateCount,
+          dataSources.stateFiles.length,
+        );
+        const backgroundChunkSize = Math.max(1, strategy.backgroundChunkSize);
+
+        const priorityStateFiles = dataSources.stateFiles.slice(
+          0,
+          priorityStateCount,
+        );
+        const backgroundStateFiles =
+          dataSources.stateFiles.slice(priorityStateCount);
+
+        const [priorityStatePlaces, utPlaces, specialPlaces] =
+          await Promise.all([
+            loadPlaceGroup(stateImports, priorityStateFiles, "State"),
+            loadPlaceGroup(utImports, dataSources.utFiles, "UT"),
+            loadPlaceGroup(specialImports, dataSources.specialFiles, "Special"),
+          ]);
+
+        if (isCancelled) {
+          return;
         }
 
-        // Load all special files
-        for (const special of dataSources.specialFiles) {
-          try {
-            if (specialImports[special]) {
-              const data = await specialImports[special]();
-              allPlaces = [...allPlaces, ...data.default];
-            }
-          } catch (error) {
-            console.log(`Special file ${special} not found or empty`);
-          }
-        }
+        const firstRenderPlaces = [
+          ...priorityStatePlaces,
+          ...utPlaces,
+          ...specialPlaces,
+        ];
 
-        // Load GI Tags
-        if (appConfig.enableGITags) {
-          try {
-            const giData = await import("../data/GITags.json");
-            setGiTags(giData.default);
-          } catch (error) {
-            console.log("GI Tags file not found or empty");
-          }
-        }
-
-        console.log("Loaded places:", allPlaces.length);
-        setPlaces(allPlaces);
+        setPlaces(firstRenderPlaces);
         setLoading(false);
+
+        if (appConfig.enableGITags) {
+          void import("../data/GITags.json")
+            .then((giDataResult) => {
+              if (!isCancelled) {
+                setGiTags(giDataResult.default as GITagItem[]);
+              }
+            })
+            .catch(() => {
+              console.warn("GI Tags file not found or empty");
+            });
+        }
+
+        await loadStateChunks(backgroundStateFiles, backgroundChunkSize);
       } catch (error) {
         console.error("Error loading data:", error);
-        setLoading(false);
+        if (!isCancelled) {
+          setLoading(false);
+        }
       }
     };
 
     loadAllData();
+
+    return () => {
+      isCancelled = true;
+    };
   }, []);
 
-  // Apply all filters using utility functions
-  const filteredPlaces: Place[] = filterPlaces(
-    places,
-    locationTypeFilter,
-    stateFilter,
-    userPreference,
+  const filteredPlaces = useMemo(
+    () => filterPlaces(places, locationTypeFilter, stateFilter, userPreference),
+    [places, locationTypeFilter, stateFilter, userPreference],
   );
 
-  // Filter GI Tags using utility function
-  const filteredGiTags: GITagItem[] = filterGiTags(giTags, showGiTags);
+  const filteredGiTags = useMemo(
+    () => filterGiTags(giTags, showGiTags),
+    [giTags, showGiTags],
+  );
 
-  const uniqueTypes: string[] = getUniqueTypes(places, stateFilter);
-  const uniqueStates: string[] = getUniqueStates(places, giTags);
+  const uniqueTypes = useMemo(
+    () => getUniqueTypes(places, stateFilter),
+    [places, stateFilter],
+  );
 
-  // Helper function to count places by type using utility
-  const placesCountByType = (type: string): number => {
-    return countPlacesByType(places, type, stateFilter);
-  };
+  const uniqueStates = useMemo(
+    () => getUniqueStates(places, giTags),
+    [places, giTags],
+  );
 
-  // Auto-hide sidebar on mobile after filter change using utility
-  const handleFilterChange = (callback: () => void) => {
-    utilHandleFilterChange(callback, setSidebarOpen);
-  };
+  const placesCountByType = useCallback(
+    (type: string): number => countPlacesByType(places, type, stateFilter),
+    [places, stateFilter],
+  );
+
+  const handleFilterChange = useCallback(
+    (callback: () => void) => {
+      utilHandleFilterChange(callback, setSidebarOpen);
+    },
+    [setSidebarOpen],
+  );
 
   if (loading) {
     return (
@@ -215,11 +338,24 @@ function App(): JSX.Element {
         giTagsTotal={giTags.length}
         handleFilterChange={handleFilterChange}
       />
-      <MapView
-        filteredPlaces={filteredPlaces}
-        filteredGiTags={filteredGiTags}
-        showGiTags={showGiTags}
-      />
+      <Suspense
+        fallback={
+          <div className="loading">
+            <img
+              src={`${process.env.PUBLIC_URL}/favicon.ico`}
+              alt="Loading"
+              className="loading-icon"
+            />
+            <span>Loading map view...</span>
+          </div>
+        }
+      >
+        <MapView
+          filteredPlaces={filteredPlaces}
+          filteredGiTags={filteredGiTags}
+          showGiTags={showGiTags}
+        />
+      </Suspense>
     </div>
   );
 }
