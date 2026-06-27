@@ -50,6 +50,8 @@ export interface DataSources {
 export interface AppConfig {
   url: string;
   title: string;
+  shortName: string;
+  version: string;
   sidebarWidth: number;
   enableGITags: boolean;
   showLegend: boolean;
@@ -108,7 +110,7 @@ export const iconColors: IconColors = {
   "GI Tags": "#FF1493",
   "Char Dham": "#FF6B35",
   "Chota Char Dham": "#00ccff",
-  "Jyotirlinga": "#FFA500",
+  Jyotirlinga: "#FFA500",
   "Shakti Peeth": "#DA70D6",
   "UNESCO Heritage": "#FFD700",
 };
@@ -190,6 +192,8 @@ export const dataSources: DataSources = {
 export const appConfig: AppConfig = {
   url: "https://artbindu-app.github.io/whoami/images/profile/india.svg",
   title: "India Solo Tour",
+  shortName: "@rtB!ndu",
+  version: "0.3.0",
   sidebarWidth: 320,
   enableGITags: true,
   showLegend: true,

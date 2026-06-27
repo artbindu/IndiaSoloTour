@@ -161,6 +161,10 @@ export function Sidebar({
             ))}
           </div>
         )}
+
+        <div className="app-version">
+          Version v{appConfig.version} | {appConfig.shortName}
+        </div>
       </div>
     </>
   );
