@@ -5,6 +5,7 @@ import {
   createCurrentLocationIcon,
   getGeolocationErrorMessage,
   generateShareUrl,
+  getSharedLocationFromUrl,
   copyToClipboard,
 } from "../../../utils/utils";
 
@@ -15,12 +16,14 @@ interface LocationMarkerProps {
   position: [number, number];
   isTracking: boolean;
   shareUrl: string | null;
+  initialZoom?: number;
 }
 
 function LocationMarker({
   position,
   isTracking,
   shareUrl,
+  initialZoom = 13,
 }: LocationMarkerProps): JSX.Element {
   const map = useMap();
   const hasCenteredRef = useRef<boolean>(false);
@@ -29,14 +32,14 @@ function LocationMarker({
     if (position) {
       if (!hasCenteredRef.current) {
         // First fix: fly to location
-        map.flyTo(position, 13, { duration: 1.5 });
+        map.flyTo(position, initialZoom, { duration: 1.5 });
         hasCenteredRef.current = true;
       } else if (isTracking) {
         // Subsequent updates while tracking: smooth pan (no zoom change)
         map.panTo(position, { animate: true, duration: 0.5 });
       }
     }
-  }, [position, map, isTracking]);
+  }, [position, map, isTracking, initialZoom]);
 
   const currentLocationIcon = createCurrentLocationIcon();
 
@@ -44,9 +47,7 @@ function LocationMarker({
     <Marker position={position} icon={currentLocationIcon}>
       <Popup>
         <div className="popup-content">
-          <h3>
-            {isTracking ? "📡 Live Location" : "📍 Your Location"}
-          </h3>
+          <h3>{isTracking ? "📡 Live Location" : "📍 Your Location"}</h3>
           <p>
             <strong>Lat:</strong> {position[0].toFixed(6)}
           </p>
@@ -84,12 +85,15 @@ export function LiveLocation({
   isMeasureActive = false,
   onMeasureToggle,
 }: LiveLocationProps): JSX.Element {
-  const [currentLocation, setCurrentLocation] = useState<[number, number] | null>(null);
+  const [currentLocation, setCurrentLocation] = useState<
+    [number, number] | null
+  >(null);
   const [locationLoading, setLocationLoading] = useState<boolean>(false);
   const [locationError, setLocationError] = useState<string | null>(null);
 
   // Share / tracking state
   const [isTracking, setIsTracking] = useState<boolean>(false);
+  const [isSharedLocation, setIsSharedLocation] = useState<boolean>(false);
   const [shareUrl, setShareUrl] = useState<string | null>(null);
   const [shareStatus, setShareStatus] = useState<ShareStatus>("idle");
 
@@ -186,6 +190,22 @@ export function LiveLocation({
     };
   }, []);
 
+  // ── Initialize from shared URL (?lat=..&lng=..&live=true) ───────────
+  useEffect(() => {
+    const sharedLocation = getSharedLocationFromUrl();
+    if (!sharedLocation) return;
+
+    const location: [number, number] = [sharedLocation.lat, sharedLocation.lng];
+    setIsSharedLocation(true);
+    setCurrentLocation(location);
+    setShareUrl(generateShareUrl(sharedLocation.lat, sharedLocation.lng));
+    setLocationError(null);
+
+    if (onLocationChange) {
+      onLocationChange(location);
+    }
+  }, [onLocationChange]);
+
   // ── Share the live location URL ───────────────────────────────────────
   const handleShare = useCallback(async (): Promise<void> => {
     if (!shareUrl || !currentLocation) return;
@@ -230,12 +250,12 @@ export function LiveLocation({
           position={currentLocation}
           isTracking={isTracking}
           shareUrl={shareUrl}
+          initialZoom={isSharedLocation ? 16 : 13}
         />
       )}
 
       {/* ── Bottom-right button stack ── */}
       <div className="location-button-container">
-
         {/* Measure Distance button — top of stack */}
         {onMeasureToggle && (
           <button
@@ -284,9 +304,7 @@ export function LiveLocation({
         )}
 
         {/* Error message */}
-        {locationError && (
-          <div className="location-error">{locationError}</div>
-        )}
+        {locationError && <div className="location-error">{locationError}</div>}
       </div>
     </>
   );
