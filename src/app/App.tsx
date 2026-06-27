@@ -49,8 +49,41 @@ function App(): JSX.Element {
   const [stateFilter, setStateFilter] = useState<string>("all");
   const [loading, setLoading] = useState<boolean>(true);
   const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
+  const [locationPermission, setLocationPermission] = useState<
+    "checking" | "granted" | "denied"
+  >("checking");
+
+  const requestLocationAccess = useCallback(() => {
+    if (!navigator.geolocation) {
+      setLocationPermission("denied");
+      return;
+    }
+
+    setLocationPermission("checking");
+    navigator.geolocation.getCurrentPosition(
+      () => {
+        setLocationPermission("granted");
+      },
+      () => {
+        setLocationPermission("denied");
+      },
+      {
+        enableHighAccuracy: false,
+        timeout: 10000,
+        maximumAge: 60000,
+      },
+    );
+  }, []);
 
   useEffect(() => {
+    requestLocationAccess();
+  }, [requestLocationAccess]);
+
+  useEffect(() => {
+    if (locationPermission !== "granted") {
+      return;
+    }
+
     let isCancelled = false;
 
     const getLoadingStrategy = (): {
@@ -270,7 +303,7 @@ function App(): JSX.Element {
     return () => {
       isCancelled = true;
     };
-  }, []);
+  }, [locationPermission]);
 
   const filteredPlaces = useMemo(
     () => filterPlaces(places, locationTypeFilter, stateFilter, userPreference),
@@ -303,6 +336,31 @@ function App(): JSX.Element {
     },
     [setSidebarOpen],
   );
+
+  if (locationPermission === "checking") {
+    return (
+      <div className="loading">
+        <img
+          src={`${process.env.PUBLIC_URL}/favicon.ico`}
+          alt="Location"
+          className="loading-icon"
+        />
+        <span>Requesting location access...</span>
+      </div>
+    );
+  }
+
+  if (locationPermission === "denied") {
+    return (
+      <div className="permission-request">
+        <h2>Location Access Required</h2>
+        <p>Please allow location access to continue loading the application.</p>
+        <button onClick={requestLocationAccess} className="permission-button">
+          Retry Location Access
+        </button>
+      </div>
+    );
+  }
 
   if (loading) {
     return (

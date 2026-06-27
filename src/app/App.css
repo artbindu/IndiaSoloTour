@@ -23,6 +23,42 @@
   animation: spin 4s linear infinite;
 }
 
+.permission-request {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+  color: #2f3b63;
+  gap: 12px;
+}
+
+.permission-request h2 {
+  margin: 0;
+}
+
+.permission-request p {
+  margin: 0;
+  max-width: 420px;
+}
+
+.permission-button {
+  margin-top: 8px;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-weight: 600;
+  color: white;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  cursor: pointer;
+}
+
+.permission-button:hover {
+  opacity: 0.95;
+}
+
 @keyframes spin {
   from {
     transform: rotateY(0deg);
