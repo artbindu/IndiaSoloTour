@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 
 
+### [0.4.9](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.8...v0.4.9) (2026-07-02)
+
+
+### 🐛 Bug Fixes
+
+* sync workflow fixes from MapRotation to main ([f009af0](https://github.com/artbindu/IndiaSoloTour/commit/f009af04d3c6713bc25355f76935512d90628c23))
+
 ### [0.4.8](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.7...v0.4.8) (2026-07-02)
 
 
