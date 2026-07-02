@@ -3,6 +3,8 @@
 All notable changes to this project will be documented in this file.
 
 
+### [0.4.7](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.6...v0.4.7) (2026-07-02)
+
 ### 0.4.1 (2026-07-02)
 
 ## 0.4.0 (2026-07-02)
