@@ -6,10 +6,12 @@ Interactive map visualizing tourism destinations and GI-tagged items across Indi
 
 ## Features
 
-🗺️ Interactive markers with color-coded categories  
-🔍 Filter by location type and state  
-📊 Statistics dashboard  
-📱 Responsive design
+🗺️ Color-coded markers for 10+ tourism categories across all states & UTs  
+🔍 Filter by location type, state, and GI Tags  
+📐 Multi-point distance measurement with per-segment breakdown  
+📡 Live GPS tracking with shareable location URL  
+📊 Statistics dashboard and color-coded legend  
+📱 Responsive design with collapsible sidebar
 
 ## Quick Start
 
@@ -28,7 +30,7 @@ npm run build
 
 ## Tech Stack
 
-React 18 • TypeScript • Leaflet • OpenStreetMap
+React 18 • TypeScript • Leaflet • react-leaflet • OpenStreetMap
 
 ## License
 
