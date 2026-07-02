@@ -12,6 +12,7 @@ import { Place } from "../../../models/Places";
 import { GITagItem } from "../../../models/Items";
 import { LiveLocation } from "../../common/LiveLocation/LiveLocation";
 import { DistanceMeasure } from "../../common/DistanceMeasure/DistanceMeasure";
+import { CompassMarker } from "../../common/CompassMarker/CompassMarker";
 import {
   createCustomIcon,
   hasValidCoordinates,
@@ -60,6 +61,9 @@ export function MapView({
         attribution={mapConfig.tileLayer.attribution}
         url={mapConfig.tileLayer.url}
       />
+
+      {/* Compass — top-right, clear of DistanceMeasure (bottom-left) and LiveLocation (bottom-right) */}
+      <CompassMarker position="top-right" size={72} />
 
       {/* Live Location + Measure Distance toggle button (stacked bottom-right) */}
       <LiveLocation

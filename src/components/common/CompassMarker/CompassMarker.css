@@ -1,0 +1,31 @@
+/*
+ * CompassMarker
+ * ─────────────
+ * Absolutely positioned overlay — no map library dependency.
+ * pointer-events: none so the map beneath remains fully interactive.
+ */
+
+.compass-marker {
+  position: absolute;
+  z-index: 1000;
+  /* Never block map pan / zoom / click */
+  pointer-events: none;
+  /* Prevents the div itself from capturing gestures */
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Smooth rotation transitions when `rotation` prop changes */
+.compass-marker svg {
+  transition: transform 0.3s ease;
+  /* Ensure crisp rendering */
+  shape-rendering: geometricPrecision;
+}
+
+/* ── Responsive scaling ── */
+@media (max-width: 480px) {
+  .compass-marker {
+    /* Allow consumers to scale down on very small screens via CSS override */
+    transform-origin: top center;
+  }
+}
