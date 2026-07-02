@@ -14,25 +14,6 @@ Interactive map visualizing tourism destinations and GI-tagged items across Indi
 📊 Statistics dashboard and color-coded legend  
 📱 Responsive design with collapsible sidebar
 
-## Quick Start
-
-```bash
-npm install
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000)
-
-## Build
-
-```bash
-npm run build
-```
-
-## Release Strategy
-
-See [doc/RELEASE.md](doc/RELEASE.md) for versioning, PR title conventions, and manual release commands.
-
 ## Tech Stack
 
 React 18 • TypeScript • Leaflet • react-leaflet • OpenStreetMap
