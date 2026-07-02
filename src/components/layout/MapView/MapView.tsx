@@ -1,5 +1,8 @@
 import React, { useMemo, useState, useCallback, useRef, memo } from "react";
 import L from "leaflet";
+import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
+import markerIcon from "leaflet/dist/images/marker-icon.png";
+import markerShadow from "leaflet/dist/images/marker-shadow.png";
 import {
   MapContainer as LeafletMapContainer,
   TileLayer,
@@ -24,6 +27,14 @@ import {
   getHeritageIcon,
   getHeritageColor,
 } from "../../../utils/utils";
+
+// Fix default marker icon paths for webpack builds.
+delete (L.Icon.Default.prototype as any)._getIconUrl;
+L.Icon.Default.mergeOptions({
+  iconRetinaUrl: markerIcon2x,
+  iconUrl: markerIcon,
+  shadowUrl: markerShadow,
+});
 
 interface MapViewProps {
   filteredPlaces: Place[];
