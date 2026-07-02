@@ -1,0 +1,59 @@
+name: Auto Delete Merged Branch
+
+on:
+  pull_request:
+    types:
+      - closed
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  delete-branch:
+    name: Delete Source Branch After Merge
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Delete merged source branch
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            const headRef = pr.head.ref;
+            const headRepo = pr.head.repo.full_name;
+            const baseRepo = context.repo.owner + '/' + context.repo.repo;
+
+            // Skip deletion for forks, protected/default branches, or empty refs.
+            const blockedBranches = new Set(['main', 'project']);
+            if (!headRef) {
+              core.info('No source branch found; skipping.');
+              return;
+            }
+
+            if (headRepo !== baseRepo) {
+              core.info(`PR source is from fork (${headRepo}); skipping branch deletion.`);
+              return;
+            }
+
+            if (blockedBranches.has(headRef)) {
+              core.info(`Branch ${headRef} is protected by workflow policy; skipping deletion.`);
+              return;
+            }
+
+            try {
+              await github.rest.git.deleteRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: `heads/${headRef}`,
+              });
+              core.info(`Deleted merged branch: ${headRef}`);
+            } catch (error) {
+              // If branch is already deleted, do not fail the workflow.
+              if (error.status === 422 || error.status === 404) {
+                core.info(`Branch ${headRef} was already deleted.`);
+                return;
+              }
+              throw error;
+            }
