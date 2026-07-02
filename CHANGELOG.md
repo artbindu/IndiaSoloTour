@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 
 
+### [0.4.10](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.9...v0.4.10) (2026-07-02)
+
+
+### 📝 Documentation
+
+* move release docs to doc/ and fix README link ([d547471](https://github.com/artbindu/IndiaSoloTour/commit/d5474719ae254917bbec9a20d07df4eaf329cf08))
+
+
+### 🐛 Bug Fixes
+
+* update docs ([265d4b9](https://github.com/artbindu/IndiaSoloTour/commit/265d4b98c99602478b6d0812b173d3a9c8e2de40))
+
 ### [0.4.9](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.8...v0.4.9) (2026-07-02)
 
 
