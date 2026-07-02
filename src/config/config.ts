@@ -193,7 +193,7 @@ export const appConfig: AppConfig = {
   url: "https://artbindu-app.github.io/whoami/images/profile/india.svg",
   title: "India Solo Tour",
   shortName: "@rtB!ndu",
-  version: "0.3.0",
+  version: "0.4.5",
   sidebarWidth: 320,
   enableGITags: true,
   showLegend: true,
