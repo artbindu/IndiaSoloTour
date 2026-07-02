@@ -79,6 +79,8 @@ function MapClickHandler({ isActive, onPointAdd }: MapClickHandlerProps): null {
 interface DistanceMeasureProps {
   isActive: boolean;
   onToggle: () => void;
+  pendingPoint?: { lat: number; lng: number } | null;
+  onPendingPointConsumed?: () => void;
 }
 
 export function useDistanceMeasure() {
@@ -123,6 +125,8 @@ export function useDistanceMeasure() {
 export function DistanceMeasure({
   isActive,
   onToggle,
+  pendingPoint,
+  onPendingPointConsumed,
 }: DistanceMeasureProps): JSX.Element {
   const [points, setPoints] = useState<LatLng[]>([]);
 
@@ -130,6 +134,15 @@ export function DistanceMeasure({
   React.useEffect(() => {
     if (!isActive) setPoints([]);
   }, [isActive]);
+
+  // Consume a point injected externally (e.g. click on live-location marker)
+  React.useEffect(() => {
+    if (pendingPoint && isActive) {
+      handlePointAdd(pendingPoint);
+      onPendingPointConsumed?.();
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pendingPoint]);
 
   const handlePointAdd = useCallback((point: LatLng): void => {
     setPoints((prev) => [...prev, point]);

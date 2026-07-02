@@ -17,6 +17,8 @@ interface LocationMarkerProps {
   isTracking: boolean;
   shareUrl: string | null;
   initialZoom?: number;
+  isMeasureActive?: boolean;
+  onMeasurePointAdd?: (point: { lat: number; lng: number }) => void;
 }
 
 function LocationMarker({
@@ -24,6 +26,8 @@ function LocationMarker({
   isTracking,
   shareUrl,
   initialZoom = 13,
+  isMeasureActive = false,
+  onMeasurePointAdd,
 }: LocationMarkerProps): JSX.Element {
   const map = useMap();
   const hasCenteredRef = useRef<boolean>(false);
@@ -44,7 +48,17 @@ function LocationMarker({
   const currentLocationIcon = createCurrentLocationIcon();
 
   return (
-    <Marker position={position} icon={currentLocationIcon}>
+    <Marker
+      position={position}
+      icon={currentLocationIcon}
+      eventHandlers={{
+        click: () => {
+          if (isMeasureActive && onMeasurePointAdd) {
+            onMeasurePointAdd({ lat: position[0], lng: position[1] });
+          }
+        },
+      }}
+    >
       <Popup>
         <div className="popup-content">
           <h3>{isTracking ? "📡 Live Location" : "📍 Your Location"}</h3>
@@ -70,6 +84,7 @@ interface LiveLocationProps {
   onLocationChange?: (location: [number, number] | null) => void;
   isMeasureActive?: boolean;
   onMeasureToggle?: () => void;
+  onMeasurePointAdd?: (point: { lat: number; lng: number }) => void;
 }
 
 // ─────────────────────────────────────────────
@@ -84,6 +99,7 @@ export function LiveLocation({
   onLocationChange,
   isMeasureActive = false,
   onMeasureToggle,
+  onMeasurePointAdd,
 }: LiveLocationProps): JSX.Element {
   const [currentLocation, setCurrentLocation] = useState<
     [number, number] | null
@@ -251,6 +267,8 @@ export function LiveLocation({
           isTracking={isTracking}
           shareUrl={shareUrl}
           initialZoom={isSharedLocation ? 16 : 13}
+          isMeasureActive={isMeasureActive}
+          onMeasurePointAdd={onMeasurePointAdd}
         />
       )}
 
