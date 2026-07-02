@@ -14,6 +14,11 @@
   pointer-events: none;
 }
 
+.distance-hint-sub {
+  color: #888;
+  font-size: 11px;
+}
+
 /* ===== Result Panel ===== */
 .distance-result-panel {
   margin-bottom: 10px;
@@ -40,6 +45,26 @@
   margin-bottom: 10px;
   border-bottom: 1px solid #eee;
   padding-bottom: 8px;
+}
+
+.distance-actions {
+  display: flex;
+  gap: 4px;
+}
+
+.distance-undo-btn {
+  background: #ff9800;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 3px 8px;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.distance-undo-btn:hover {
+  background: #e65100;
 }
 
 .distance-clear-btn {
@@ -92,6 +117,50 @@
   border-top: 1px solid #eee;
   padding-top: 8px;
   line-height: 1.8;
+  max-height: 80px;
+  overflow-y: auto;
+}
+
+/* ===== Segment Breakdown ===== */
+.distance-segments {
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+  margin-bottom: 8px;
+}
+
+.distance-segments-title {
+  font-size: 11px;
+  font-weight: 700;
+  color: #555;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+.distance-segment-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: #666;
+  line-height: 1.7;
+}
+
+.distance-segment-label {
+  color: #888;
+}
+
+.distance-segment-val {
+  font-weight: 600;
+  color: #555;
+}
+
+/* ===== Add-more hint inside result box ===== */
+.distance-add-hint {
+  font-size: 11px;
+  color: #667eea;
+  margin-top: 8px;
+  border-top: 1px solid #eee;
+  padding-top: 6px;
 }
 
 /* ===== Marker Pins ===== */
@@ -109,11 +178,15 @@
   border: 3px solid white;
 }
 
-.distance-marker-pin.point-a {
+.distance-marker-pin.point-first {
   background: #2979ff;
 }
 
-.distance-marker-pin.point-b {
+.distance-marker-pin.point-mid {
+  background: #7c4dff;
+}
+
+.distance-marker-pin.point-last {
   background: #f44336;
 }
 

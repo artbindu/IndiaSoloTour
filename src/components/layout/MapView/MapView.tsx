@@ -33,6 +33,11 @@ export function MapView({
 }: MapViewProps): JSX.Element {
   // Measure state lifted here so both LiveLocation (button) and DistanceMeasure (map layers) share it
   const [isMeasureActive, setIsMeasureActive] = useState<boolean>(false);
+  // Bridge: live-location marker click → DistanceMeasure point
+  const [pendingMeasurePoint, setPendingMeasurePoint] = useState<{
+    lat: number;
+    lng: number;
+  } | null>(null);
 
   const handleMeasureToggle = (): void => {
     setIsMeasureActive((prev) => !prev);
@@ -69,12 +74,15 @@ export function MapView({
       <LiveLocation
         isMeasureActive={isMeasureActive}
         onMeasureToggle={handleMeasureToggle}
+        onMeasurePointAdd={setPendingMeasurePoint}
       />
 
       {/* Distance Measurement map layers (markers, line, result panel) */}
       <DistanceMeasure
         isActive={isMeasureActive}
         onToggle={handleMeasureToggle}
+        pendingPoint={pendingMeasurePoint}
+        onPendingPointConsumed={() => setPendingMeasurePoint(null)}
       />
 
       {/* Tourist Places */}
