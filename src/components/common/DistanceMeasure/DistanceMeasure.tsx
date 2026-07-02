@@ -93,6 +93,10 @@ export function useDistanceMeasure() {
     setPoints((prev) => prev.slice(0, -1));
   };
 
+  const handleRemovePoint = useCallback((index: number): void => {
+    setPoints((prev) => prev.filter((_, i) => i !== index));
+  }, []);
+
   const handleClear = (): void => {
     setPoints([]);
   };
@@ -110,6 +114,7 @@ export function useDistanceMeasure() {
     totalDistance,
     handlePointAdd,
     handleUndo,
+    handleRemovePoint,
     handleClear,
     handleToggle,
   };
@@ -133,6 +138,10 @@ export function DistanceMeasure({
   const handleUndo = (): void => {
     setPoints((prev) => prev.slice(0, -1));
   };
+
+  const handleRemovePoint = useCallback((index: number): void => {
+    setPoints((prev) => prev.filter((_, i) => i !== index));
+  }, []);
 
   const handleClear = (): void => {
     setPoints([]);
@@ -225,7 +234,8 @@ export function DistanceMeasure({
 
             {/* Prompt to add more points */}
             <div className="distance-add-hint">
-              🖱️ Click map to add Point {pointCount + 1}
+              🖱️ Click map to add Point {pointCount + 1} &nbsp;·&nbsp;
+              Double-click a marker to remove it
             </div>
           </div>
         </div>
@@ -242,6 +252,12 @@ export function DistanceMeasure({
             key={i}
             position={[p.lat, p.lng]}
             icon={createPointIcon(String(i + 1), type)}
+            eventHandlers={{
+              dblclick: (e) => {
+                e.originalEvent.stopPropagation();
+                handleRemovePoint(i);
+              },
+            }}
           >
             <Popup>
               <strong>📍 Point {i + 1}</strong>
@@ -258,6 +274,10 @@ export function DistanceMeasure({
                   </strong>
                 </>
               )}
+              <br />
+              <span style={{ fontSize: "11px", color: "#888" }}>
+                Double-click to remove
+              </span>
             </Popup>
           </Marker>
         );
