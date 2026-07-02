@@ -67,8 +67,8 @@ export function MapView({
         url={mapConfig.tileLayer.url}
       />
 
-      {/* Compass — top-right, clear of DistanceMeasure (bottom-left) and LiveLocation (bottom-right) */}
-      <CompassMarker position="top-right" size={72} />
+      {/* Compass — top-right on desktop, bottom-left on mobile (via .map-compass media query) */}
+      <CompassMarker position="top-right" size={72} className="map-compass" />
 
       {/* Live Location + Measure Distance toggle button (stacked bottom-right) */}
       <LiveLocation
