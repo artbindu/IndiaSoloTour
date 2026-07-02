@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useMemo, useState, useCallback } from "react";
 import {
   MapContainer as LeafletMapContainer,
   TileLayer,
@@ -13,6 +13,7 @@ import { GITagItem } from "../../../models/Items";
 import { LiveLocation } from "../../common/LiveLocation/LiveLocation";
 import { DistanceMeasure } from "../../common/DistanceMeasure/DistanceMeasure";
 import { CompassMarker } from "../../common/CompassMarker/CompassMarker";
+import { MapRotation } from "../../common/MapRotation/MapRotation";
 import {
   createCustomIcon,
   hasValidCoordinates,
@@ -38,10 +39,16 @@ export function MapView({
     lat: number;
     lng: number;
   } | null>(null);
+  // Bearing state — shared between MapRotation (source) and CompassMarker (display)
+  const [mapBearing, setMapBearing] = useState<number>(0);
 
   const handleMeasureToggle = (): void => {
     setIsMeasureActive((prev) => !prev);
   };
+
+  const handleBearingChange = useCallback((b: number): void => {
+    setMapBearing(b);
+  }, []);
 
   const iconCacheByType = useMemo(() => {
     const cache = new Map<string, ReturnType<typeof createCustomIcon>>();
@@ -60,6 +67,7 @@ export function MapView({
     <LeafletMapContainer
       center={mapConfig.center}
       zoom={mapConfig.defaultZoom}
+      rotate={true}
       style={{ height: "100vh", width: "100%" }}
     >
       <TileLayer
@@ -67,8 +75,16 @@ export function MapView({
         url={mapConfig.tileLayer.url}
       />
 
-      {/* Compass — top-right on desktop, bottom-left on mobile (via .map-compass media query) */}
-      <CompassMarker position="top-right" size={72} className="map-compass" />
+      {/* Compass — top-right on desktop, bottom-left on mobile; rotates with map bearing */}
+      <CompassMarker
+        position="top-right"
+        size={72}
+        className="map-compass"
+        rotation={mapBearing}
+      />
+
+      {/* Map rotation — enables leaflet-rotate, tracks bearing, shows Reset-North button */}
+      <MapRotation onBearingChange={handleBearingChange} />
 
       {/* Live Location + Measure Distance toggle button (stacked bottom-right) */}
       <LiveLocation
