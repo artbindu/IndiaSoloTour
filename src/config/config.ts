@@ -1,3 +1,6 @@
+// Import version from package.json (auto-updated on release)
+import packageJson from "../../package.json";
+
 export interface MapConfig {
   center: [number, number];
   defaultZoom: number;
@@ -193,7 +196,7 @@ export const appConfig: AppConfig = {
   url: "https://artbindu-app.github.io/whoami/images/profile/india.svg",
   title: "India Solo Tour",
   shortName: "@rtB!ndu",
-  version: "0.4.5",
+  version: packageJson.version,
   sidebarWidth: 320,
   enableGITags: true,
   showLegend: true,
