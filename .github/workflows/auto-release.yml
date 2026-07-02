@@ -1,0 +1,96 @@
+name: Auto Release
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  NODE_VERSION: "20.20.0"
+
+jobs:
+  release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+
+      - name: Configure Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check if this is a release commit
+        id: check_release
+        run: |
+          LAST_COMMIT=$(git log -1 --pretty=%B)
+          if [[ $LAST_COMMIT == chore\(release\):* ]]; then
+            echo "is_release=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_release=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate release notes and bump version
+        if: steps.check_release.outputs.is_release == 'false'
+        run: npm run release -- --skip.commit --skip.tag
+        continue-on-error: true
+
+      - name: Check for version changes
+        id: version_check
+        run: |
+          if git diff --quiet package.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "new_version=$(jq -r .version package.json)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit version bump and changelog
+        if: steps.version_check.outputs.has_changes == 'true'
+        run: |
+          git add package.json package-lock.json CHANGELOG.md
+          git commit -m "chore(release): v$(jq -r .version package.json)"
+          git push origin main
+
+      - name: Get version info
+        id: version_info
+        run: |
+          VERSION=$(jq -r .version package.json)
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "tag=v$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        if: steps.version_check.outputs.has_changes == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.version_info.outputs.tag }}
+          name: Release ${{ steps.version_info.outputs.version }}
+          body_path: CHANGELOG.md
+          draft: false
+          prerelease: false
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and Deploy to Pages
+        if: steps.version_check.outputs.has_changes == 'true'
+        run: npm run build
+        env:
+          CI: false
