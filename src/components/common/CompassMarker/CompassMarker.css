@@ -23,9 +23,17 @@
 }
 
 /* ── Responsive scaling ── */
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .compass-marker {
     /* Allow consumers to scale down on very small screens via CSS override */
     transform-origin: top center;
+  }
+  /* MapView instance: move to bottom-left on mobile to clear bottom-right buttons */
+  .compass-marker.map-compass {
+    top: auto !important;
+    right: auto !important;
+    bottom: 70px !important;
+    left: 10px !important;
+    transform: none !important;
   }
 }
