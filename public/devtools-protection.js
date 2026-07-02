@@ -43,30 +43,27 @@
     }
   });
 
-  // DevTools detection (temporarily disabled)
-  var enableDevToolsDetection = false;
-  if (enableDevToolsDetection) {
-    var devtools = { open: false, orientation: null };
-    var threshold = 160;
+  // DevTools detection (always enabled)
+  var devtools = { open: false, orientation: null };
+  var threshold = 160;
 
-    var check = function () {
-      if (
-        window.outerWidth - window.innerWidth > threshold ||
-        window.outerHeight - window.innerHeight > threshold
-      ) {
-        if (!devtools.open) {
-          devtools.open = true;
-          // Redirect or show warning
-          document.body.innerHTML =
-            '<div style="display:flex;justify-content:center;align-items:center;height:100vh;font-size:24px;color:#667eea;">Developer tools detected. Please close them to continue.</div>';
-        }
-      } else {
-        devtools.open = false;
+  var check = function () {
+    if (
+      window.outerWidth - window.innerWidth > threshold ||
+      window.outerHeight - window.innerHeight > threshold
+    ) {
+      if (!devtools.open) {
+        devtools.open = true;
+        // Redirect or show warning
+        document.body.innerHTML =
+          '<div style="display:flex;justify-content:center;align-items:center;height:100vh;font-size:24px;color:#667eea;">Developer tools detected. Please close them to continue.</div>';
       }
-    };
+    } else {
+      devtools.open = false;
+    }
+  };
 
-    setInterval(check, 500);
-  }
+  setInterval(check, 500);
 
   // Clear console periodically
   setInterval(function () {

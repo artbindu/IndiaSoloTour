@@ -6,7 +6,6 @@ import React, {
   useMemo,
   useState,
 } from "react";
-import L from "leaflet";
 import "./App.css";
 import { dataSources, appConfig } from "../config/config";
 import { Place } from "../models/Places";
@@ -17,28 +16,14 @@ import {
   filterGiTags,
   getUniqueTypes,
   getUniqueStates,
-  countPlacesByType,
   handleFilterChange as utilHandleFilterChange,
 } from "../utils/utils";
-
-// Import marker images
-import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
-import markerIcon from "leaflet/dist/images/marker-icon.png";
-import markerShadow from "leaflet/dist/images/marker-shadow.png";
 
 const MapView = lazy(() =>
   import("../components/layout/MapView/MapView").then((module) => ({
     default: module.MapView,
   })),
 );
-
-// Fix for default marker icon issue in Leaflet with webpack
-delete (L.Icon.Default.prototype as any)._getIconUrl;
-L.Icon.Default.mergeOptions({
-  iconRetinaUrl: markerIcon2x,
-  iconUrl: markerIcon,
-  shadowUrl: markerShadow,
-});
 
 function App(): JSX.Element {
   const [places, setPlaces] = useState<Place[]>([]);
@@ -220,16 +205,18 @@ function App(): JSX.Element {
           });
         };
 
-        const loadStateChunks = async (
+        const loadPlaceChunks = async (
+          imports: { [key: string]: () => Promise<any> },
           fileNames: string[],
+          groupLabel: string,
           chunkSize: number,
         ): Promise<void> => {
           for (let start = 0; start < fileNames.length; start += chunkSize) {
             const chunk = fileNames.slice(start, start + chunkSize);
             const chunkPlaces = await loadPlaceGroup(
-              stateImports,
+              imports,
               chunk,
-              "State",
+              groupLabel,
             );
 
             if (isCancelled || chunkPlaces.length === 0) {
@@ -257,24 +244,17 @@ function App(): JSX.Element {
         const backgroundStateFiles =
           dataSources.stateFiles.slice(priorityStateCount);
 
-        const [priorityStatePlaces, utPlaces, specialPlaces] =
-          await Promise.all([
-            loadPlaceGroup(stateImports, priorityStateFiles, "State"),
-            loadPlaceGroup(utImports, dataSources.utFiles, "UT"),
-            loadPlaceGroup(specialImports, dataSources.specialFiles, "Special"),
-          ]);
+        const priorityStatePlaces = await loadPlaceGroup(
+          stateImports,
+          priorityStateFiles,
+          "State",
+        );
 
         if (isCancelled) {
           return;
         }
 
-        const firstRenderPlaces = [
-          ...priorityStatePlaces,
-          ...utPlaces,
-          ...specialPlaces,
-        ];
-
-        setPlaces(firstRenderPlaces);
+        setPlaces(priorityStatePlaces);
         setLoading(false);
 
         if (appConfig.enableGITags) {
@@ -289,7 +269,27 @@ function App(): JSX.Element {
             });
         }
 
-        await loadStateChunks(backgroundStateFiles, backgroundChunkSize);
+        // Load remaining datasets after first paint.
+        await loadPlaceChunks(
+          utImports,
+          dataSources.utFiles,
+          "UT",
+          backgroundChunkSize,
+        );
+
+        await loadPlaceChunks(
+          specialImports,
+          dataSources.specialFiles,
+          "Special",
+          backgroundChunkSize,
+        );
+
+        await loadPlaceChunks(
+          stateImports,
+          backgroundStateFiles,
+          "State",
+          backgroundChunkSize,
+        );
       } catch (error) {
         console.error("Error loading data:", error);
         if (!isCancelled) {
@@ -325,9 +325,24 @@ function App(): JSX.Element {
     [places, giTags],
   );
 
+  const placesCountByTypeMap = useMemo(() => {
+    const counts: Record<string, number> = { all: 0 };
+
+    for (const place of places) {
+      if (stateFilter !== "all" && place.state !== stateFilter) {
+        continue;
+      }
+
+      counts.all += 1;
+      counts[place.type] = (counts[place.type] || 0) + 1;
+    }
+
+    return counts;
+  }, [places, stateFilter]);
+
   const placesCountByType = useCallback(
-    (type: string): number => countPlacesByType(places, type, stateFilter),
-    [places, stateFilter],
+    (type: string): number => placesCountByTypeMap[type] || 0,
+    [placesCountByTypeMap],
   );
 
   const handleFilterChange = useCallback(
