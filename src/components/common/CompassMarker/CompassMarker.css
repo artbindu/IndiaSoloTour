@@ -22,6 +22,25 @@
   shape-rendering: geometricPrecision;
 }
 
+/* ── Clickable state (when onClick handler is present) ── */
+.compass-marker[role="button"] {
+  outline: 2px solid transparent;
+  outline-offset: 4px;
+  border-radius: 50%;
+  transition:
+    outline 0.2s ease,
+    transform 0.2s ease;
+}
+
+.compass-marker[role="button"]:hover {
+  outline: 2px solid rgba(102, 126, 234, 0.5);
+  transform: scale(1.05);
+}
+
+.compass-marker[role="button"]:active {
+  transform: scale(0.95);
+}
+
 /* ── Responsive scaling ── */
 @media (max-width: 768px) {
   .compass-marker {

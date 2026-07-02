@@ -41,6 +41,8 @@ export interface CompassMarkerProps {
    * @default 0
    */
   rotation?: number;
+  /** Optional click handler (e.g., to reset map bearing to North) */
+  onClick?: () => void;
 }
 
 // ─────────────────────────────────────────────
@@ -94,6 +96,7 @@ export function CompassMarker({
   position = "top-center",
   size = 72,
   rotation = 0,
+  onClick,
 }: CompassMarkerProps): JSX.Element {
   const positionStyle = resolvePositionStyle(position);
 
@@ -104,6 +107,8 @@ export function CompassMarker({
     ...style,
     width: size,
     height: size,
+    cursor: onClick ? "pointer" : "default",
+    pointerEvents: onClick ? "auto" : "none",
   };
 
   // SVG coordinate constants (viewBox 0 0 80 80, center 40 40, ring r 28)
@@ -115,8 +120,16 @@ export function CompassMarker({
     <div
       className={`compass-marker ${className}`}
       style={wrapperStyle}
-      role="img"
-      aria-label={`Compass — North is ${rotation === 0 ? "up" : `${rotation}° clockwise`}`}
+      role={onClick ? "button" : "img"}
+      aria-label={`Compass — North is ${rotation === 0 ? "up" : `${rotation}° clockwise`}${onClick ? " — Click to reset" : ""}`}
+      onClick={onClick}
+      onKeyDown={(e) => {
+        if (onClick && (e.key === "Enter" || e.key === " ")) {
+          e.preventDefault();
+          onClick();
+        }
+      }}
+      tabIndex={onClick ? 0 : -1}
     >
       <svg
         viewBox="0 0 80 80"
