@@ -178,6 +178,7 @@ export function MapView({
       center={mapConfig.center}
       zoom={mapConfig.defaultZoom}
       rotate={true}
+      touchRotate={true}
       style={{ height: "100vh", width: "100%" }}
     >
       <TileLayer

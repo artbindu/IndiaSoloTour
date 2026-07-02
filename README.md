@@ -1,4 +1,4 @@
-# India Solo Tour
+# India Solo Tour <img src="https://artbindu-app.github.io/whoami/images/profile/india.svg" style="height: 1.9em; vertical-align: middle;" alt="India Flag">
 
 Interactive map visualizing tourism destinations and GI-tagged items across India using React, Leaflet, and OpenStreetMap.
 
@@ -20,10 +20,4 @@ React 18 • TypeScript • Leaflet • react-leaflet • OpenStreetMap
 
 ## License
 
-MIT
-
-## Author
-
-**[@artbindu](https://github.com/artbindu)
-
-An interactive tourism map showcasing the rich cultural heritage and geographical indicators of India.
+[**@rtB!ndu**](https://github.com/artbindu) <img src="https://artbindu-app.github.io/whoami/images/profile/india.svg" style="height: 2em; vertical-align: middle;" alt="India Flag"> **MIT**

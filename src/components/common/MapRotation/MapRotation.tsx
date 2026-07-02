@@ -44,6 +44,13 @@ export const MapRotation = forwardRef<MapRotationHandle, MapRotationProps>(
     useEffect(() => {
       if (!map) return;
 
+      // Some mobile browsers initialize plugin gesture handlers as disabled.
+      // Force-enable touch rotation so two-finger twist works consistently.
+      const touchRotate = (
+        map as unknown as { touchRotate?: { enable: () => void } }
+      ).touchRotate;
+      touchRotate?.enable?.();
+
       const sync = (): void => {
         const now = Date.now();
         if (now - lastUpdateRef.current < BEARING_UPDATE_THROTTLE) return;
