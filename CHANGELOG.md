@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 
 
+### [0.4.12](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.11...v0.4.12) (2026-07-02)
+
+
+### 🐛 Bug Fixes
+
+* add devtools config ([95de050](https://github.com/artbindu/IndiaSoloTour/commit/95de050de83f9fef9493411438f53808d111ba58))
+* auto delete branch ([c71f038](https://github.com/artbindu/IndiaSoloTour/commit/c71f0388c3e9c69f1692fda1acbde906642d2dd4))
+* disabled auto release ([9c0fc90](https://github.com/artbindu/IndiaSoloTour/commit/9c0fc90e25b8523eac2a96ae57324b91cfcd72a3))
+
 ### [0.4.11](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.10...v0.4.11) (2026-07-02)
 
 
