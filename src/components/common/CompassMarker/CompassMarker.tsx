@@ -90,7 +90,7 @@ function resolvePositionStyle(
  * map container (Leaflet, Mapbox, plain div, etc.) — it has no map-specific
  * dependencies and does not block pointer events on the map beneath it.
  */
-export function CompassMarker({
+function CompassMarkerComponent({
   className = "",
   style,
   position = "top-center",
@@ -298,3 +298,6 @@ export function CompassMarker({
     </div>
   );
 }
+
+/** Memoized CompassMarker to prevent re-renders when parent updates other state */
+export const CompassMarker = React.memo(CompassMarkerComponent);
