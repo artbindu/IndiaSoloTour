@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 
 
+### [0.4.11](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.10...v0.4.11) (2026-07-02)
+
+
+### 🐛 Bug Fixes
+
+* devtool detection disabled ([db22f00](https://github.com/artbindu/IndiaSoloTour/commit/db22f003708525f03cc2e0b643593161282b764f))
+
 ### [0.4.10](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.9...v0.4.10) (2026-07-02)
 
 
