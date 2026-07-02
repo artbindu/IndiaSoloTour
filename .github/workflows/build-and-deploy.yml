@@ -11,26 +11,19 @@ on:
       - project
   workflow_dispatch:
 
-env:
-  NODE_VERSION: "20.20.0"
-
 jobs:
   build:
     name: Build Application
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [20.20.0]
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js ${{ matrix.node-version }}
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version-file: ".nvmrc"
           cache: "npm"
 
       - name: Install dependencies
@@ -51,7 +44,7 @@ jobs:
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
-        if: matrix.node-version == '20.20.0' && github.event_name == 'push'
+        if: github.event_name == 'push'
         with:
           name: build-output
           path: build/
@@ -60,7 +53,7 @@ jobs:
 
       - name: Upload coverage reports
         uses: actions/upload-artifact@v4
-        if: matrix.node-version == '20.20.0'
+        if: always()
         with:
           name: coverage-report
           path: coverage/
@@ -88,7 +81,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version-file: ".nvmrc"
           cache: "npm"
 
       - name: Install dependencies
@@ -128,7 +121,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version-file: ".nvmrc"
           cache: "npm"
 
       - name: Install dependencies

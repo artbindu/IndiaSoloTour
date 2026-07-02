@@ -22,7 +22,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "18.x"
+          node-version-file: ".nvmrc"
           cache: "npm"
 
       - name: Install dependencies
@@ -33,7 +33,7 @@ jobs:
         continue-on-error: true
 
       - name: Build check
-        run: npm run build:standard
+        run: npm run build
         env:
           CI: false
 
@@ -51,7 +51,7 @@ jobs:
             **Branch:** \`${{ github.head_ref }}\`
             **Commit:** \`${{ github.sha }}\``;
 
-            github.rest.issues.createComment({
+            await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
