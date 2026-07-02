@@ -1,4 +1,4 @@
-import React, { useMemo, useState, useCallback } from "react";
+import React, { useMemo, useState, useCallback, useRef } from "react";
 import {
   MapContainer as LeafletMapContainer,
   TileLayer,
@@ -13,7 +13,10 @@ import { GITagItem } from "../../../models/Items";
 import { LiveLocation } from "../../common/LiveLocation/LiveLocation";
 import { DistanceMeasure } from "../../common/DistanceMeasure/DistanceMeasure";
 import { CompassMarker } from "../../common/CompassMarker/CompassMarker";
-import { MapRotation } from "../../common/MapRotation/MapRotation";
+import {
+  MapRotation,
+  type MapRotationHandle,
+} from "../../common/MapRotation/MapRotation";
 import {
   createCustomIcon,
   hasValidCoordinates,
@@ -42,12 +45,19 @@ export function MapView({
   // Bearing state — shared between MapRotation (source) and CompassMarker (display)
   const [mapBearing, setMapBearing] = useState<number>(0);
 
+  // Ref to MapRotation to access its reset function
+  const mapRotationRef = useRef<MapRotationHandle>(null);
+
   const handleMeasureToggle = (): void => {
     setIsMeasureActive((prev) => !prev);
   };
 
   const handleBearingChange = useCallback((b: number): void => {
     setMapBearing(b);
+  }, []);
+
+  const handleCompassClick = useCallback((): void => {
+    mapRotationRef.current?.resetToNorth();
   }, []);
 
   const iconCacheByType = useMemo(() => {
@@ -75,16 +85,17 @@ export function MapView({
         url={mapConfig.tileLayer.url}
       />
 
-      {/* Compass — top-right on desktop, bottom-left on mobile; rotates with map bearing */}
+      {/* Compass — top-right on desktop, bottom-left on mobile; rotates with map bearing; click to reset */}
       <CompassMarker
         position="top-right"
         size={72}
         className="map-compass"
         rotation={mapBearing}
+        onClick={handleCompassClick}
       />
 
-      {/* Map rotation — enables leaflet-rotate, tracks bearing, shows Reset-North button */}
-      <MapRotation onBearingChange={handleBearingChange} />
+      {/* Map rotation — enables leaflet-rotate, tracks bearing, shows rotation buttons */}
+      <MapRotation ref={mapRotationRef} onBearingChange={handleBearingChange} />
 
       {/* Live Location + Measure Distance toggle button (stacked bottom-right) */}
       <LiveLocation
