@@ -1,10 +1,19 @@
-import { useEffect, useCallback, forwardRef, useImperativeHandle } from "react";
+import {
+  useEffect,
+  useCallback,
+  forwardRef,
+  useImperativeHandle,
+  useRef,
+} from "react";
 import { useMap } from "react-leaflet";
 import "leaflet-rotate";
 import "./MapRotation.css";
 
 /** Step in degrees for each button press. */
 const ROTATION_STEP = 15;
+
+/** Throttle bearing updates to 100ms (10 FPS max) to reduce re-renders */
+const BEARING_UPDATE_THROTTLE = 100;
 
 interface MapRotationProps {
   /** Called whenever the map bearing changes (degrees, clockwise from North). */
@@ -30,11 +39,16 @@ export interface MapRotationHandle {
 export const MapRotation = forwardRef<MapRotationHandle, MapRotationProps>(
   function MapRotation({ onBearingChange }, ref) {
     const map = useMap();
+    const lastUpdateRef = useRef<number>(0);
 
     useEffect(() => {
       if (!map) return;
 
       const sync = (): void => {
+        const now = Date.now();
+        if (now - lastUpdateRef.current < BEARING_UPDATE_THROTTLE) return;
+        lastUpdateRef.current = now;
+
         const raw = map.getBearing?.() ?? 0;
         const b = ((raw % 360) + 360) % 360;
         onBearingChange?.(b);

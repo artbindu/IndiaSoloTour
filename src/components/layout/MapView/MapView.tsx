@@ -1,4 +1,5 @@
-import React, { useMemo, useState, useCallback, useRef } from "react";
+import React, { useMemo, useState, useCallback, useRef, memo } from "react";
+import L from "leaflet";
 import {
   MapContainer as LeafletMapContainer,
   TileLayer,
@@ -29,6 +30,105 @@ interface MapViewProps {
   filteredGiTags: GITagItem[];
   showGiTags: boolean;
 }
+
+/**
+ * PlaceMarker — memoized to prevent re-renders when parent state changes
+ * Only re-renders if the place object reference changes
+ */
+const PlaceMarker = memo<{
+  place: Place;
+  index: number;
+  icon: L.Icon | L.DivIcon;
+}>(({ place, index, icon }) => {
+  if (!hasValidCoordinates(place.coordinates)) return null;
+  return (
+    <Marker
+      key={`place-${index}`}
+      position={[place.coordinates.lat, place.coordinates.long]}
+      icon={icon as L.Icon}
+    >
+      <Popup>
+        <div className="popup-content">
+          <h3>
+            <span
+              style={{
+                backgroundColor: getHeritageColor(place.heritage),
+                padding: "8px",
+                borderRadius: "50%",
+              }}
+            >
+              {getHeritageIcon(place.heritage)}{" "}
+            </span>
+            {place.name}
+          </h3>
+          <p>
+            <strong>Type:</strong> {place.type}
+          </p>
+          <p>
+            <strong>Location:</strong> {place.city}, {place.state}
+          </p>
+          {place.heritage &&
+            (place.heritage.unesco ||
+              place.heritage.national ||
+              place.heritage.state) && (
+              <p>
+                <strong>Heritage:</strong>
+                {place.heritage.unesco && " UNESCO"}
+                {place.heritage.national && " National"}
+                {place.heritage.state && " State"}
+              </p>
+            )}
+          {place.description && (
+            <p className="description">{place.description}</p>
+          )}
+          {place.bestVisitMonths && (
+            <p>
+              <strong>Best Visit:</strong> {place.bestVisitMonths.join(", ")}
+            </p>
+          )}
+        </div>
+      </Popup>
+    </Marker>
+  );
+});
+PlaceMarker.displayName = "PlaceMarker";
+
+/**
+ * GITagMarker — memoized to prevent re-renders when parent state changes
+ */
+const GITagMarker = memo<{
+  item: GITagItem;
+  index: number;
+  icon: L.Icon | L.DivIcon;
+}>(({ item, index, icon }) => {
+  if (!hasValidCoordinates(item.coordinates)) return null;
+  return (
+    <Marker
+      key={`gi-${index}`}
+      position={[item.coordinates.lat, item.coordinates.long]}
+      icon={icon as L.Icon}
+    >
+      <Popup>
+        <div className="popup-content">
+          <h3>🏅 {item.name}</h3>
+          <p>
+            <strong>Type:</strong> {item.Type}
+          </p>
+          <p>
+            <strong>Location:</strong> {item.location}, {item.state}
+          </p>
+          <p>
+            <strong>Significance:</strong> {item.significance}
+          </p>
+          {item.description && (
+            <p className="description">{item.description}</p>
+          )}
+        </div>
+      </Popup>
+    </Marker>
+  );
+});
+GITagMarker.displayName = "GITagMarker";
 
 export function MapView({
   filteredPlaces,
@@ -115,59 +215,16 @@ export function MapView({
       {/* Tourist Places */}
       <LayerGroup>
         {filteredPlaces.map((place, index) => {
-          if (!hasValidCoordinates(place.coordinates)) return null;
           const icon =
             iconCacheByType.get(place.type) ||
             createCustomIcon(markerConfig.defaultColor);
           return (
-            <Marker
+            <PlaceMarker
               key={`place-${index}`}
-              position={[place.coordinates.lat, place.coordinates.long]}
+              place={place}
+              index={index}
               icon={icon}
-            >
-              <Popup>
-                <div className="popup-content">
-                  <h3>
-                    <span
-                      style={{
-                        backgroundColor: getHeritageColor(place.heritage),
-                        padding: "8px",
-                        borderRadius: "50%",
-                      }}
-                    >
-                      {getHeritageIcon(place.heritage)}{" "}
-                    </span>
-                    {place.name}
-                  </h3>
-                  <p>
-                    <strong>Type:</strong> {place.type}
-                  </p>
-                  <p>
-                    <strong>Location:</strong> {place.city}, {place.state}
-                  </p>
-                  {place.heritage &&
-                    (place.heritage.unesco ||
-                      place.heritage.national ||
-                      place.heritage.state) && (
-                      <p>
-                        <strong>Heritage:</strong>
-                        {place.heritage.unesco && " UNESCO"}
-                        {place.heritage.national && " National"}
-                        {place.heritage.state && " State"}
-                      </p>
-                    )}
-                  {place.description && (
-                    <p className="description">{place.description}</p>
-                  )}
-                  {place.bestVisitMonths && (
-                    <p>
-                      <strong>Best Visit:</strong>{" "}
-                      {place.bestVisitMonths.join(", ")}
-                    </p>
-                  )}
-                </div>
-              </Popup>
-            </Marker>
+            />
           );
         })}
       </LayerGroup>
@@ -175,34 +232,14 @@ export function MapView({
       {/* GI Tags */}
       {showGiTags && (
         <LayerGroup>
-          {filteredGiTags.map((item, index) => {
-            if (!hasValidCoordinates(item.coordinates)) return null;
-            return (
-              <Marker
-                key={`gi-${index}`}
-                position={[item.coordinates.lat, item.coordinates.long]}
-                icon={giTagIcon}
-              >
-                <Popup>
-                  <div className="popup-content">
-                    <h3>🏅 {item.name}</h3>
-                    <p>
-                      <strong>Type:</strong> {item.Type}
-                    </p>
-                    <p>
-                      <strong>Location:</strong> {item.location}, {item.state}
-                    </p>
-                    <p>
-                      <strong>Significance:</strong> {item.significance}
-                    </p>
-                    {item.description && (
-                      <p className="description">{item.description}</p>
-                    )}
-                  </div>
-                </Popup>
-              </Marker>
-            );
-          })}
+          {filteredGiTags.map((item, index) => (
+            <GITagMarker
+              key={`gi-${index}`}
+              item={item}
+              index={index}
+              icon={giTagIcon}
+            />
+          ))}
         </LayerGroup>
       )}
     </LeafletMapContainer>
