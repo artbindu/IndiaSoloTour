@@ -65,7 +65,7 @@ jobs:
       - name: Commit version bump and changelog
         if: steps.version_check.outputs.has_changes == 'true'
         run: |
-          git add package.json package-lock.json CHANGELOG.md
+          git add package.json package-lock.json CHANGELOG.md src/config/config.ts
           git commit -m "chore(release): v$(jq -r .version package.json)"
           git push origin main
 

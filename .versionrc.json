@@ -13,6 +13,18 @@
     { "type": "ci", "section": "👷 CI/CD", "hidden": true }
   ],
   "releaseCommitMessageFormat": "chore(release): {{currentTag}}",
+  "bumpFiles": [
+    {
+      "filename": "package.json",
+      "type": "json"
+    },
+    {
+      "filename": "src/config/config.ts",
+      "type": "application/x.ts",
+      "search": "version: \"[0-9]+\\.[0-9]+\\.[0-9]+\"",
+      "replace": "version: \"{{version}}\""
+    }
+  ],
   "scripts": {
     "postchangelog": "echo \"✅ CHANGELOG.md updated\""
   },
