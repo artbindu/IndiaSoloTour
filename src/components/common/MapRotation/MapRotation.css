@@ -1,0 +1,65 @@
+/* ===== Rotation control container ===== */
+.map-rotation-container {
+  position: fixed;
+  top: 92px;
+  right: 10px;
+  z-index: 400;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  pointer-events: auto;
+}
+
+/* ===== Single combined rotation pill button ===== */
+.rotation-btn-combined {
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  height: 36px;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  transition: background 0.2s;
+  user-select: none;
+}
+
+.rotation-btn-combined:hover {
+  background: #f0f0f0;
+  border-color: #667eea;
+}
+
+.rotation-half {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 100%;
+  font-size: 18px;
+  transition: background 0.15s;
+}
+
+.rotation-half:first-child:hover {
+  background: rgba(102, 126, 234, 0.12);
+}
+
+.rotation-half:last-child:hover {
+  background: rgba(102, 126, 234, 0.12);
+}
+
+.rotation-divider {
+  width: 1px;
+  height: 60%;
+  background: rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+}
+
+/* Hide rotation button on mobile (gestures are used instead) */
+@media (max-width: 768px) {
+  .rotation-btn-combined {
+    display: none;
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "india-solo-tour-map",
+  "version": "0.4.11",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://artbindu.github.io/IndiaSoloTour",
+  "engines": {
+    "node": ">=22.16.0",
+    "npm": ">=9.0.0"
+  },
+  "scripts": {
+    "build:local": "cross-env PUBLIC_URL=. react-scripts build",
+    "start:dev": "npx serve -s build -l 3000",
+    "clean": "rimraf build",
+    "dev": "npm run clean && npm run build:local && npm run start:dev",
+    "dev:watch": "nodemon --watch src --ext ts,tsx,css,json --exec \"npm run build:local\"",
+    "start": "react-scripts start",
+    "build": "react-scripts build && npm run obfuscate",
+    "build:watch": "nodemon --watch src --ext ts,tsx,css,json --exec \"npm run build\"",
+    "obfuscate": "node scripts/obfuscate.js",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "release": "standard-version",
+    "release:patch": "standard-version --release-as patch",
+    "release:minor": "standard-version --release-as minor",
+    "release:major": "standard-version --release-as major",
+    "release:first": "standard-version --first-release",
+    "release:dry": "standard-version --dry-run",
+    "format": "prettier --write \"**/*.json\" \"**/*.tsx\""
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/leaflet": "^1.9.8",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "leaflet": "^1.9.4",
+    "leaflet-rotate": "^0.2.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "cross-env": "^10.1.0",
+    "javascript-obfuscator": "^4.1.1",
+    "nodemon": "^3.1.11",
+    "prettier": "^3.3.3",
+    "rimraf": "^6.1.2",
+    "serve": "^14.2.5",
+    "standard-version": "^9.5.0"
+  },
+  "overrides": {
+    "@tootallnate/once": "3.0.1",
+    "nth-check": "2.1.1",
+    "serialize-javascript": "7.0.5",
+    "underscore": "1.13.8"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

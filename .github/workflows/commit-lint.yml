@@ -1,0 +1,68 @@
+name: Conventional Commits Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  commit-lint:
+    name: Validate Commit Messages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate PR title
+        uses: amannn/action-semantic-pull-request@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          types: |
+            feat
+            fix
+            perf
+            revert
+            docs
+            style
+            refactor
+            test
+            build
+            chore
+            ci
+          requireScope: false
+          disallowScopes: |
+            release
+
+      - name: Comment on PR
+        uses: actions/github-script@v7
+        if: always()
+        continue-on-error: true
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+
+            // Determine version bump based on PR title
+            const title = pr.title.toLowerCase();
+            let bump = 'patch';
+
+            if (title.includes('feat:') || title.includes('feat(')) {
+              bump = 'minor';
+            } else if (title.includes('breaking') || title.includes('breaking change')) {
+              bump = 'major';
+            }
+
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `## 🚀 Release Strategy\n\nWhen merged, this PR will trigger a **${bump.toUpperCase()}** version bump.\n\n- **feat**: triggers minor version bump\n- **fix/perf**: triggers patch version bump\n- **breaking**: triggers major version bump`
+            });

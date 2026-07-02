@@ -1,0 +1,638 @@
+[
+  {
+    "name": "Khajuraho Group of Monuments",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Chhatarpur",
+    "coordinates": {
+      "lat": 24.8318,
+      "long": 79.9199
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Sanchi Stupa",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "coordinates": {
+      "lat": 23.4866,
+      "long": 77.739
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Bhimbetka Rock Shelters",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "coordinates": {
+      "lat": 22.9396,
+      "long": 77.6143
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Ujjain Mahakaleshwar Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "coordinates": {
+      "lat": 23.1828,
+      "long": 75.7682
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Omkareshwar Jyotirlinga",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Khandwa",
+    "coordinates": {
+      "lat": 22.2441,
+      "long": 76.151
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Orchha Fort Complex",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Niwari",
+    "coordinates": {
+      "lat": 25.3516,
+      "long": 78.6405
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Gwalior Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "coordinates": {
+      "lat": 26.2313,
+      "long": 78.1696
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Mandu (Mandavgarh)",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Dhar",
+    "coordinates": {
+      "lat": 22.366,
+      "long": 75.385
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Bandhavgarh National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Umaria",
+    "coordinates": {
+      "lat": 23.685,
+      "long": 81.042
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Kanha National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Mandla",
+    "coordinates": {
+      "lat": 22.3345,
+      "long": 80.6115
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Pench National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Seoni",
+    "coordinates": {
+      "lat": 21.7,
+      "long": 79.5
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Satpura National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Narmadapuram",
+    "coordinates": {
+      "lat": 22.5,
+      "long": 78.433
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Pachmarhi",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Narmadapuram",
+    "coordinates": {
+      "lat": 22.4674,
+      "long": 78.4346
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Amarkantak",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Anuppur",
+    "coordinates": {
+      "lat": 22.675,
+      "long": 81.75
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Chitrakoot",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Satna",
+    "coordinates": {
+      "lat": 25.2,
+      "long": 80.85
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Bhedaghat Marble Rocks",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Jabalpur",
+    "coordinates": {
+      "lat": 23.1415,
+      "long": 79.802
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Dhuandhar Falls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Jabalpur",
+    "coordinates": {
+      "lat": 23.139,
+      "long": 79.803
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Panna National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Panna",
+    "coordinates": {
+      "lat": 24.718,
+      "long": 80.187
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Raisen Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "coordinates": {
+      "lat": 23.332,
+      "long": 77.797
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Tribal Museum, Bhopal",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "coordinates": {
+      "lat": 23.233,
+      "long": 77.434
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Bhojpur Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "coordinates": {
+      "lat": 23.104,
+      "long": 77.598
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Upper Lake (Bhojtal)",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "coordinates": {
+      "lat": 23.259,
+      "long": 77.4
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Tansen Music Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "coordinates": {
+      "lat": 26.2183,
+      "long": 78.1828
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["December"],
+    "isMyData": false
+  },
+  {
+    "name": "Khajuraho Dance Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Chhatarpur",
+    "coordinates": {
+      "lat": 24.8318,
+      "long": 79.9199
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["February"],
+    "isMyData": false
+  }
+]

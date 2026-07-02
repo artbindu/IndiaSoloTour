@@ -1,0 +1,67 @@
+.leaflet-container {
+    flex: 1;
+}
+
+.popup-content {
+    max-width: 300px;
+}
+
+.popup-content h3 {
+    margin: 0 0 10px 0;
+    color: #667eea;
+    font-size: 18px;
+}
+
+.popup-content p {
+    margin: 5px 0;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.popup-content .description {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+    color: #666;
+    font-style: italic;
+}
+
+/* Custom marker styling */
+.custom-marker {
+    background: none;
+    border: none;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .leaflet-container {
+        height: 55vh;
+    }
+
+    .popup-content {
+        max-width: 250px;
+    }
+
+    .popup-content h3 {
+        font-size: 16px;
+    }
+
+    .popup-content p {
+        font-size: 12px;
+    }
+}
+
+/* Small mobile devices */
+@media (max-width: 480px) {
+    .leaflet-container {
+        height: 50vh;
+    }
+}
+
+/* Landscape orientation for mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    .leaflet-container {
+        height: 100vh;
+        width: 100%;
+    }
+}

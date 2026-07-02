@@ -1,0 +1,623 @@
+[
+  {
+    "name": "Meenakshi Amman Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "coordinates": {
+      "lat": 9.9195,
+      "long": 78.1193
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Great Living Chola Temples",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur / Ariyalur / Kumbakonam",
+    "coordinates": {
+      "lat": 10.7828,
+      "long": 79.131
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage property representing the architectural, artistic, and cultural achievements of the Chola dynasty (10th–13th century CE).",
+    "others": [
+      "Includes Brihadeeswarar Temple (Thanjavur)",
+      "Includes Gangaikonda Cholapuram Temple",
+      "Includes Airavatesvara Temple (Darasuram)",
+      "ASI Protected Monuments"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Shore Temple",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Chengalpattu (Mahabalipuram)",
+    "coordinates": {
+      "lat": 12.6166,
+      "long": 80.1994
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Group of Monuments, Mahabalipuram",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Chengalpattu",
+    "coordinates": {
+      "lat": 12.6208,
+      "long": 80.1945
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Rameshwaram Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Ramanathapuram",
+    "coordinates": {
+      "lat": 9.2881,
+      "long": 79.3174
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Kanyakumari",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Kanyakumari",
+    "coordinates": {
+      "lat": 8.0883,
+      "long": 77.5385
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Marina Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "coordinates": {
+      "lat": 13.05,
+      "long": 80.2824
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "isMyData": false
+  },
+  {
+    "name": "Ooty (Udhagamandalam)",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Nilgiris",
+    "coordinates": {
+      "lat": 11.4064,
+      "long": 76.6932
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Coonoor",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Nilgiris",
+    "coordinates": {
+      "lat": 11.353,
+      "long": 76.7959
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Kodaikanal",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Dindigul",
+    "coordinates": {
+      "lat": 10.2381,
+      "long": 77.4892
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October",
+      "November"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Mudumalai National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Nilgiris",
+    "coordinates": {
+      "lat": 11.57,
+      "long": 76.535
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Anamalai Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "coordinates": {
+      "lat": 10.48,
+      "long": 77.03
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Gulf of Mannar Marine Biosphere",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Ramanathapuram",
+    "coordinates": {
+      "lat": 9.15,
+      "long": 79.25
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Courtallam Waterfalls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Tenkasi",
+    "coordinates": {
+      "lat": 8.931,
+      "long": 77.269
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["June", "July", "August", "September"],
+    "isMyData": false
+  },
+  {
+    "name": "Yercaud",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Salem",
+    "coordinates": {
+      "lat": 11.775,
+      "long": 78.209
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Vellore Fort",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Vellore",
+    "coordinates": {
+      "lat": 12.9165,
+      "long": 79.1325
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Chidambaram Nataraja Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Cuddalore",
+    "coordinates": {
+      "lat": 11.399,
+      "long": 79.693
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Tharangambadi (Tranquebar)",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Mayiladuthurai",
+    "coordinates": {
+      "lat": 11.028,
+      "long": 79.853
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Chettinad Heritage Villages",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Sivaganga",
+    "coordinates": {
+      "lat": 10.2,
+      "long": 78.78
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "DakshinaChitra",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Chengalpattu",
+    "coordinates": {
+      "lat": 12.708,
+      "long": 80.197
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Auroville",
+    "type": "Wellness / Yoga Retreats",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Villupuram",
+    "coordinates": {
+      "lat": 12.005,
+      "long": 79.81
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "isMyData": false
+  },
+  {
+    "name": "Vaitheeswaran Koil",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Mayiladuthurai",
+    "coordinates": {
+      "lat": 11.24,
+      "long": 79.74
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Pongal Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 11.1271,
+      "long": 78.6569
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["January"],
+    "isMyData": false
+  },
+  {
+    "name": "Chithirai Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "coordinates": {
+      "lat": 9.9195,
+      "long": 78.1193
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["April", "May"],
+    "isMyData": false
+  }
+]

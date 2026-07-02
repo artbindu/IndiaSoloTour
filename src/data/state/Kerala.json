@@ -1,0 +1,657 @@
+[
+  {
+    "name": "Sabarimala Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Pathanamthitta",
+    "coordinates": {
+      "lat": 9.432,
+      "long": 77.081
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": ["November", "December", "January"],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Padmanabhaswamy Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "coordinates": {
+      "lat": 8.482,
+      "long": 76.943
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Guruvayur Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Thrissur",
+    "coordinates": {
+      "lat": 10.594,
+      "long": 76.041
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Fort Kochi",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Ernakulam",
+    "coordinates": {
+      "lat": 9.9667,
+      "long": 76.2425
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Mattancherry Palace",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Ernakulam",
+    "coordinates": {
+      "lat": 9.958,
+      "long": 76.259
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Hill Palace Museum",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Ernakulam",
+    "coordinates": {
+      "lat": 9.998,
+      "long": 76.357
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Varkala Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "coordinates": {
+      "lat": 8.7379,
+      "long": 76.7163
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Kovalam Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "coordinates": {
+      "lat": 8.4,
+      "long": 76.978
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Marari Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Alappuzha",
+    "coordinates": {
+      "lat": 9.608,
+      "long": 76.305
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Alleppey Backwaters",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Alappuzha",
+    "coordinates": {
+      "lat": 9.4981,
+      "long": 76.3388
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Kumarakom Backwaters",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Kottayam",
+    "coordinates": {
+      "lat": 9.617,
+      "long": 76.432
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Munnar",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Idukki",
+    "coordinates": {
+      "lat": 10.0889,
+      "long": 77.0595
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Wayanad",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Wayanad",
+    "coordinates": {
+      "lat": 11.685,
+      "long": 76.131
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Vagamon",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Idukki",
+    "coordinates": {
+      "lat": 9.687,
+      "long": 76.903
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Eravikulam National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Idukki",
+    "coordinates": {
+      "lat": 10.184,
+      "long": 77.026
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Periyar Tiger Reserve",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Idukki",
+    "coordinates": {
+      "lat": 9.463,
+      "long": 77.243
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Silent Valley National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Palakkad",
+    "coordinates": {
+      "lat": 11.082,
+      "long": 76.54
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Athirappilly Waterfalls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Thrissur",
+    "coordinates": {
+      "lat": 10.285,
+      "long": 76.569
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Meesapulimala Trek",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Idukki",
+    "coordinates": {
+      "lat": 10.115,
+      "long": 77.13
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Thenmala Eco Tourism",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Kollam",
+    "coordinates": {
+      "lat": 8.978,
+      "long": 77.095
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Kalaripayattu Centres",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Kannur",
+    "coordinates": {
+      "lat": 11.874,
+      "long": 75.37
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Kerala Kalamandalam",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Thrissur",
+    "coordinates": {
+      "lat": 10.647,
+      "long": 76.067
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "significance": "National Heritage Site",
+    "isMyData": false
+  },
+  {
+    "name": "Arogyapuri Ayurveda Centres",
+    "type": "Wellness / Yoga Retreats",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 10.8505,
+      "long": 76.2711
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Onam Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 10.8505,
+      "long": 76.2711
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["August", "September"],
+    "isMyData": false
+  },
+  {
+    "name": "Vishu Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Kerala",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 10.8505,
+      "long": 76.2711
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["April"],
+    "isMyData": false
+  }
+]

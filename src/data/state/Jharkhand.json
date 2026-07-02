@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Baidyanath Dham (Deoghar)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Deoghar",
+    "coordinates": {
+      "lat": 24.4926,
+      "long": 86.6947
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Parasnath Hill (Shikharji)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Giridih",
+    "coordinates": {
+      "lat": 23.963,
+      "long": 86.133
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Rajrappa Chhinnamasta Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Chhatarpur",
+    "coordinates": {
+      "lat": 23.631,
+      "long": 85.8
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Betla National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Latehar",
+    "coordinates": {
+      "lat": 23.829,
+      "long": 84.188
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Netarhat",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Latehar",
+    "coordinates": {
+      "lat": 23.472,
+      "long": 84.27
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Hundru Falls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "coordinates": {
+      "lat": 23.449,
+      "long": 85.659
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Dassam Falls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "coordinates": {
+      "lat": 23.395,
+      "long": 85.683
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Jonha Falls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "coordinates": {
+      "lat": 23.356,
+      "long": 85.674
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Patratu Valley & Dam",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ramgarh",
+    "coordinates": {
+      "lat": 23.654,
+      "long": 85.321
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Birsa Zoological Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "coordinates": {
+      "lat": 23.42,
+      "long": 85.322
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Rock Garden & Jharkhand War Memorial",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "coordinates": {
+      "lat": 23.372,
+      "long": 85.309
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Tagore Hill",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "coordinates": {
+      "lat": 23.386,
+      "long": 85.31
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Rajmahal Hills",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Sahibganj",
+    "coordinates": {
+      "lat": 25.03,
+      "long": 87.62
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Udhwa Lake Bird Sanctuary",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Sahibganj",
+    "coordinates": {
+      "lat": 24.986,
+      "long": 87.664
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "High",
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "isMyData": false
+  },
+  {
+    "name": "Lodh Falls",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Latehar",
+    "coordinates": {
+      "lat": 23.563,
+      "long": 84.679
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Maluti Temples",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Dumka",
+    "coordinates": {
+      "lat": 24.34,
+      "long": 87.255
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Rajmahal Palace Ruins",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Sahibganj",
+    "coordinates": {
+      "lat": 25.03,
+      "long": 87.62
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Tribal Museum (Ranchi)",
+    "type": "Cultural / Ethnic Villages",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "coordinates": {
+      "lat": 23.361,
+      "long": 85.325
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false
+  },
+  {
+    "name": "Sarhul Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 23.61,
+      "long": 85.279
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["March", "April"],
+    "isMyData": false
+  },
+  {
+    "name": "Karam Festival",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Jharkhand",
+    "city": "Statewide",
+    "coordinates": {
+      "lat": 23.61,
+      "long": 85.279
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["August", "September"],
+    "isMyData": false
+  }
+]

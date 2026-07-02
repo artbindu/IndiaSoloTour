@@ -1,0 +1,679 @@
+[
+  {
+    "name": "Rani ki Vav",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Patan",
+    "coordinates": {
+      "lat": 23.858,
+      "long": 72.101
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage stepwell built in 11th century, 7 levels of intricate sculptures depicting avatars of Vishnu, Maru-Gurjara architecture masterpiece.",
+    "isMyData": false
+  },
+  {
+    "name": "Champaner–Pavagadh Archaeological Park",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Panchmahal",
+    "coordinates": {
+      "lat": 22.485,
+      "long": 73.537
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site with 8th-14th century forts, palaces, mosques, temples, Kalika Mata Temple atop Pavagadh Hill, Indo-Islamic architecture.",
+    "isMyData": false
+  },
+  {
+    "name": "Dholavira (Harappan City)",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Kutch",
+    "coordinates": {
+      "lat": 23.861,
+      "long": 70.216
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage Site, one of India's largest Harappan civilization cities (3000 BCE), sophisticated water management, unique signboard system.",
+    "isMyData": false
+  },
+  {
+    "name": "Sun Temple, Modhera",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Mehsana",
+    "coordinates": {
+      "lat": 23.588,
+      "long": 72.133
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "11th-century Sun Temple dedicated to Surya, exquisite carvings, Sabha Mandap, Kunda (stepwell), astronomical alignment at equinoxes, Solanki architecture.",
+    "isMyData": false
+  },
+  {
+    "name": "Somnath Jyotirlinga Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Gir Somnath",
+    "coordinates": {
+      "lat": 20.888,
+      "long": 70.401
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "First among 12 Jyotirlingas, ancient temple rebuilt multiple times, seaside location, evening aarti, historical significance spanning millennia.",
+    "isMyData": false
+  },
+  {
+    "name": "Dwarkadhish Temple (Dwarka)",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Devbhumi Dwarka",
+    "coordinates": {
+      "lat": 22.239,
+      "long": 68.967
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Char Dham pilgrimage site, Krishna's legendary kingdom, 5-storied temple with 60 pillars, Gomti Ghat, Beyt Dwarka island, ancient maritime history.",
+    "isMyData": false
+  },
+  {
+    "name": "Ambaji Temple",
+    "type": "Religious / Spiritual Places",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Banaskantha",
+    "coordinates": {
+      "lat": 24.331,
+      "long": 72.851
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "One of 51 Shakti Peeths, sacred to Goddess Amba, no idol worship (heart symbol yantra), Arasuri Hill trekking, Gabbar Hill viewpoint.",
+    "isMyData": false
+  },
+  {
+    "name": "Gir National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Gir Somnath",
+    "coordinates": {
+      "lat": 21.124,
+      "long": 70.824
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Only natural habitat of Asiatic lions, 674 sq km sanctuary, leopards, marsh crocodiles, 300+ bird species, Kamleshwar Dam, wildlife safaris.",
+    "isMyData": false
+  },
+  {
+    "name": "Blackbuck National Park (Velavadar)",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Bhavnagar",
+    "coordinates": {
+      "lat": 21.875,
+      "long": 72.081
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Largest population of blackbuck antelopes in India, grassland ecosystem, wolves, harriers, lesser floricans, open safari experience.",
+    "isMyData": false
+  },
+  {
+    "name": "Marine National Park",
+    "type": "Wildlife / National Parks",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Jamnagar",
+    "coordinates": {
+      "lat": 22.471,
+      "long": 70.057
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "India's first marine national park, coral reefs, 42 islands, dolphins, sea turtles, puffer fish, octopuses, mangroves, intertidal zones.",
+    "isMyData": false
+  },
+  {
+    "name": "White Desert of Kutch (Rann of Kutch)",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Kutch",
+    "coordinates": {
+      "lat": 23.733,
+      "long": 69.859
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "description": "World's largest salt desert, white sand expanse under moonlight, Rann Utsav cultural festival, traditional Kutchi handicrafts, desert camping, flamingos.",
+    "isMyData": false
+  },
+  {
+    "name": "Kala Dungar",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Kutch",
+    "coordinates": {
+      "lat": 23.816,
+      "long": 69.659
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "description": "Black Hill, highest point in Kutch (462m), 360-degree views of White Rann, Dattatreya Temple, India-Pakistan border views, magnetic hill phenomenon.",
+    "isMyData": false
+  },
+  {
+    "name": "Saputara Hill Station",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Dang",
+    "coordinates": {
+      "lat": 20.576,
+      "long": 73.745
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Only hill station in Gujarat, Sahyadri range, tribal culture, Saputara Lake, ropeway, sunset point, Rose Garden, Vansda National Park nearby.",
+    "isMyData": false
+  },
+  {
+    "name": "Wilson Hills",
+    "type": "Mountains / Hill Stations",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Valsad",
+    "coordinates": {
+      "lat": 20.655,
+      "long": 73.673
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "description": "Scenic hill station at 750m altitude, British-era bungalows, forested trails, waterfalls during monsoon, peaceful retreat near Maharashtra border.",
+    "isMyData": false
+  },
+  {
+    "name": "Mandvi Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Kutch",
+    "coordinates": {
+      "lat": 22.833,
+      "long": 69.356
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Private beach with windmills, Vijay Vilas Palace, camel rides, water sports, shipbuilding yards, sunset views over Arabian Sea.",
+    "isMyData": false
+  },
+  {
+    "name": "Dwarka Beach",
+    "type": "Beaches / Coastal Areas",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Devbhumi Dwarka",
+    "coordinates": {
+      "lat": 22.24,
+      "long": 68.97
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred beach near Dwarkadhish Temple, pilgrimage bathing ghats, underwater archaeological excavations of ancient Dwarka city, Gomti Ghat.",
+    "isMyData": false
+  },
+  {
+    "name": "Lothal Archaeological Site",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "coordinates": {
+      "lat": 22.522,
+      "long": 72.249
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Harappan civilization port city (2400 BCE), world's earliest known dock, bead-making factory, museum with seals, pottery, urban planning ruins.",
+    "isMyData": false
+  },
+  {
+    "name": "Sabarmati Ashram",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "coordinates": {
+      "lat": 23.06,
+      "long": 72.58
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Mahatma Gandhi's residence (1917-1930), Dandi March starting point, museum with Gandhi's belongings, spinning wheel, letters, peaceful riverside location.",
+    "isMyData": false
+  },
+  {
+    "name": "Adalaj Stepwell",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "coordinates": {
+      "lat": 23.166,
+      "long": 72.58
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "15th-century five-story stepwell (vav), Indo-Islamic architecture, intricate carvings of flora, fauna, deities, octagonal platform, natural cooling system.",
+    "isMyData": false
+  },
+  {
+    "name": "Ahmedabad Old City",
+    "type": "Historical / Heritage Sites",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "coordinates": {
+      "lat": 23.0225,
+      "long": 72.5714
+    },
+    "heritage": {
+      "unesco": true,
+      "national": false,
+      "state": false
+    },
+    "significance": "UNESCO World Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "UNESCO World Heritage City (2017), traditional pols (housing clusters), Jama Masjid, Bhadra Fort, Teen Darwaza, Sidi Saiyyed Mosque, heritage walks.",
+    "isMyData": false
+  },
+  {
+    "name": "Statue of Unity",
+    "type": "Urban / City Tourism",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Narmada",
+    "coordinates": {
+      "lat": 21.838,
+      "long": 73.719
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "World's tallest statue (182m) of Sardar Vallabhbhai Patel, viewing gallery at 153m, Valley of Flowers, laser light show, Sardar Sarovar Dam views.",
+    "isMyData": false
+  },
+  {
+    "name": "Polo Forest",
+    "type": "Eco / Sustainable Tourism Spots",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Sabarkantha",
+    "coordinates": {
+      "lat": 23.483,
+      "long": 73.274
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "High",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Ancient teak forest with 10th-15th century Jain and Hindu temples, tribal villages, camping, trekking, Vanaj River, eco-tourism destination.",
+    "isMyData": false
+  },
+  {
+    "name": "Girnar Hill",
+    "type": "Adventure / Trekking Destinations",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Junagadh",
+    "coordinates": {
+      "lat": 21.52,
+      "long": 70.47
+    },
+    "heritage": {
+      "unesco": false,
+      "national": true,
+      "state": false
+    },
+    "significance": "National Heritage Site",
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "description": "Sacred mountain with 10,000 steps to temples, Jain temples on summit, Dattatreya Temple, Ambaji Temple, ropeway, Ashoka's Rock Edicts at base.",
+    "isMyData": false
+  },
+  {
+    "name": "Tarnetar Fair",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Surendranagar",
+    "coordinates": {
+      "lat": 22.005,
+      "long": 71.221
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["August", "September"],
+    "description": "Traditional matchmaking fair near Trineteshwar Temple, tribal folk dances, colorful costumes, Raas celebration, Saurashtra culture showcase.",
+    "isMyData": false
+  },
+  {
+    "name": "Rann Utsav",
+    "type": "Festivals / Event Destinations",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Kutch",
+    "coordinates": {
+      "lat": 23.733,
+      "long": 69.859
+    },
+    "heritage": {
+      "unesco": false,
+      "national": false,
+      "state": true
+    },
+    "monsoonFriendly": "Low",
+    "bestVisitMonths": ["November", "December", "January", "February"],
+    "description": "Cultural festival in White Rann, tent city accommodation, folk music and dance, handicraft bazaar, adventure activities, full moon desert nights.",
+    "isMyData": false
+  }
+]
