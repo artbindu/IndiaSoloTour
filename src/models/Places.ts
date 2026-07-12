@@ -40,4 +40,5 @@ export interface Place {
   description?: string;
   others?: string[];
   images?: string[];
+  url?: string;
 }

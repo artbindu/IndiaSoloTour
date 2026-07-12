@@ -105,12 +105,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "Meadow of Flowers, Asia's highest ski resort, world's highest green golf course, Gulmarg Gondola (cable car), snow sports hub, Apharwat Peak access, winter skiing paradise, summer meadows.",
     "isMyData": false,
     "url": ""
@@ -131,12 +126,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "4390m peak accessible via Gulmarg Gondola Phase 2, highest point for skiing in India, panoramic Himalayan views, advanced ski terrain, snow-covered year-round, adventure sports destination.",
     "isMyData": false,
     "url": ""
@@ -145,7 +135,7 @@
     "name": "Amarnath Cave Temple",
     "type": "Religious / Spiritual Places",
     "country": "India",
-    "state": "Jammu and Kashmir",
+    "state": "Jammu & Kashmir",
     "city": "Anantnag",
     "coordinates": {
       "lat": 34.2146,
@@ -478,13 +468,7 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Largest and wealthiest Buddhist monastery in Ladakh, Drukpa Lineage, founded 1630, Hemis Festival (June-July), sacred masked Cham dances, ancient thangkas, copper statue of Buddha, Hemis National Park nearby.",
     "isMyData": false,
     "url": ""
@@ -506,13 +490,7 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "12-storey monastery complex resembling Potala Palace, 15th century, Gelugpa Order, 12-meter Maitreya Buddha statue, monastery museum, morning prayer assembly (6 AM), stunning Indus Valley views, 19km from Leh.",
     "isMyData": false,
     "url": ""
@@ -533,13 +511,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "134km endorheic lake at 4350m, extends from India to China, crystal-clear blue water changing colors, brackish water freezes in winter, Bollywood '3 Idiots' location, camping, migratory birds, permits required.",
     "isMyData": false,
     "url": ""
@@ -560,13 +532,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Valley of Flowers, accessed via Khardung La (world's highest motorable pass), double-humped Bactrian camels at Hunder sand dunes, Diskit Monastery with 32m Maitreya Buddha, Shyok and Nubra river confluence.",
     "isMyData": false,
     "url": ""
@@ -587,12 +553,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "Remote Himalayan valley, frozen Zanskar River Chadar Trek (winter), Phugtal Monastery in cliff cave, ancient Buddhist monasteries, trekking routes, Zanskar-Padum circuit, high-altitude desert landscape, adventure hub.",
     "isMyData": false,
     "url": ""
@@ -642,13 +603,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["May", "June", "July", "August", "September"],
     "description": "Accessible glacier 3km from Sonamarg via pony or short trek, snow-covered year-round, sledging on snow, alpine scenery, photography spot, mini Switzerland of Kashmir, day trip destination.",
     "isMyData": false,
     "url": ""
@@ -729,12 +684,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "World's second-highest cable car, two-phase gondola to Apharwat Peak (3979m), Phase 1 to Kongdori (2600m), Phase 2 to Apharwat (3979m), skiing access, panoramic Himalayan views, operated by JKTDC.",
     "isMyData": false,
     "url": ""
@@ -755,9 +705,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "July"
-    ],
+    "bestVisitMonths": ["July"],
     "description": "Annual Buddhist festival celebrating Guru Padmasambhava's birthday at Hemis Monastery, masked Cham dance performances, traditional music, colorful costumes, sacred thangka unfurling (every 12 years), cultural immersion, June-July.",
     "isMyData": false,
     "url": ""
@@ -778,10 +726,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April"
-    ],
+    "bestVisitMonths": ["March", "April"],
     "description": "Asia's largest tulip garden, 1.5 million tulips of 60+ varieties, opened 2007, Zabarwan mountain foothills, Dal Lake backdrop, annual Tulip Festival (March-April), floral terraces, photography paradise, short blooming season.",
     "isMyData": false,
     "url": ""

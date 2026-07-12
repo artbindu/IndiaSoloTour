@@ -79,12 +79,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "October",
-      "November",
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "A Mughal city founded by Emperor Akbar, featuring grand palaces, mosques, and courtyards.",
     "others": [
       "UNESCO World Heritage Site (1986)",
@@ -174,12 +169,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "Rock-cut Hindu cave temples on Elephanta Island, known for sculptures of Lord Shiva and elaborate carvings.",
     "others": [
       "UNESCO World Heritage Site (1987)",
@@ -205,12 +195,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "13th-century Sun Temple built in the shape of a colossal chariot, dedicated to the Sun God.",
     "others": [
       "UNESCO World Heritage Site (1984)",
@@ -236,12 +221,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "7th-8th century Pallava monuments by the Bay of Bengal, including rock-cut temples and shore temples.",
     "others": [
       "UNESCO World Heritage Site (1984)",
@@ -267,12 +247,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February",
-      "March"
-    ],
+    "bestVisitMonths": ["December", "January", "February", "March"],
     "description": "Temples of Chola dynasty architecture, demonstrating outstanding Dravidian style and cultural achievement.",
     "others": [
       "UNESCO World Heritage Site (1987)",
@@ -330,12 +305,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "October",
-      "November",
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "7th-8th century temples blending Chalukya architectural forms of northern and southern India.",
     "others": [
       "UNESCO World Heritage Site (1987)",
@@ -393,12 +363,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "October",
-      "November",
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "Ancient Buddhist stupas, monasteries, and temples, reflecting early Buddhist architecture and art.",
     "others": [
       "UNESCO World Heritage Site (1989)",
@@ -473,14 +438,14 @@
     "url": ""
   },
   {
-    "name": "Mountain Railways of India",
+    "name": "Darjeeling Himalayan Railway",
     "type": "UNESCO Heritage",
     "country": "India",
-    "state": "Various (Darjeeling, Nilgiri, Kalka–Shimla)",
-    "city": "Various",
+    "state": "West Bengal",
+    "city": "Darjeeling",
     "coordinates": {
-      "lat": 30.325,
-      "long": 78.079
+      "lat": 27.041,
+      "long": 88.2663
     },
     "heritage": {
       "unesco": true,
@@ -488,17 +453,64 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April",
-      "October",
-      "November"
-    ],
-    "description": "Historic hill railways demonstrating engineering achievement in mountainous terrains.",
+    "bestVisitMonths": ["March", "April", "October", "November"],
+    "description": "UNESCO-listed narrow-gauge mountain railway connecting New Jalpaiguri and Darjeeling.",
     "others": [
       "UNESCO World Heritage Site (1999)",
       "Engineering heritage",
-      "Tourist attraction"
+      "Toy Train"
+    ],
+    "isMyData": true,
+    "url": ""
+  },
+  {
+    "name": "Nilgiri Mountain Railway",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Udhagamandalam (Ooty)",
+    "coordinates": {
+      "lat": 11.4064,
+      "long": 76.6932
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["March", "April", "October", "November"],
+    "description": "UNESCO-listed rack railway connecting Mettupalayam and Ooty through the Nilgiri Hills.",
+    "others": [
+      "UNESCO World Heritage Site (2005)",
+      "Rack railway",
+      "Toy Train"
+    ],
+    "isMyData": true,
+    "url": ""
+  },
+  {
+    "name": "Kalka–Shimla Railway",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "coordinates": {
+      "lat": 31.1048,
+      "long": 77.1734
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["March", "April", "October", "November"],
+    "description": "UNESCO-listed narrow-gauge railway connecting Kalka and Shimla through numerous tunnels and bridges.",
+    "others": [
+      "UNESCO World Heritage Site (2008)",
+      "Engineering heritage",
+      "Toy Train"
     ],
     "isMyData": true,
     "url": ""
@@ -552,12 +564,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "October",
-      "November",
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "Prehistoric rock shelters with cave paintings depicting early human life and hunting scenes.",
     "others": [
       "UNESCO World Heritage Site (2003)",
@@ -583,12 +590,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "October",
-      "November",
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "Historic city with forts, palaces, mosques, and temples reflecting cultural fusion.",
     "others": [
       "UNESCO World Heritage Site (2004)",
@@ -614,12 +616,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "description": "Historic railway station combining Victorian Gothic architecture with traditional Indian features.",
     "others": [
       "UNESCO World Heritage Site (2004)",
@@ -805,12 +802,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "March",
-      "April",
-      "October",
-      "November"
-    ],
+    "bestVisitMonths": ["March", "April", "October", "November"],
     "description": "Biodiverse national park and mountain landscape with spiritual significance to the local communities.",
     "others": [
       "UNESCO World Heritage Site (2016)",
@@ -900,12 +892,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "description": "Ensemble of Victorian Gothic and Art Deco buildings representing colonial-era urban development.",
     "others": [
       "UNESCO World Heritage Site (2018)",
@@ -1091,12 +1078,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "description": "Famous wildlife sanctuary home to the world's largest population of the one-horned rhinoceros.",
     "others": [
       "UNESCO World Heritage Site (1985)",
@@ -1123,11 +1105,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["November", "December", "January"],
     "description": "Biodiverse wildlife sanctuary at the foothills of the Himalayas, known for rare and endangered species.",
     "others": [
       "UNESCO World Heritage Site (1985)",
@@ -1187,11 +1165,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["December", "January", "February"],
     "description": "Largest mangrove forest in the world, known for its tidal waterways and Royal Bengal Tigers.",
     "others": [
       "UNESCO World Heritage Site (1987)",
@@ -1218,12 +1192,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "June",
-      "July",
-      "August",
-      "September"
-    ],
+    "bestVisitMonths": ["June", "July", "August", "September"],
     "description": "High-altitude Himalayan parks known for alpine flora, endemic species, and dramatic landscapes.",
     "others": [
       "UNESCO World Heritage Site (1988)",
@@ -1250,12 +1219,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "October",
-      "November",
-      "December",
-      "January"
-    ],
+    "bestVisitMonths": ["October", "November", "December", "January"],
     "description": "Ancient mountain range recognized as one of the world's eight biodiversity hotspots.",
     "others": [
       "UNESCO World Heritage Site (2012)",
@@ -1282,12 +1246,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "April",
-      "May",
-      "October",
-      "November"
-    ],
+    "bestVisitMonths": ["April", "May", "October", "November"],
     "description": "High-altitude Himalayan national park known for alpine meadows, forests, glaciers, and exceptional biodiversity.",
     "others": [
       "UNESCO World Heritage Site (2014)",
@@ -1314,12 +1273,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "March",
-      "April",
-      "October",
-      "November"
-    ],
+    "bestVisitMonths": ["March", "April", "October", "November"],
     "description": "Himalayan national park centered around Mount Khangchendzonga, revered for its natural beauty and cultural significance.",
     "others": [
       "UNESCO World Heritage Site (2016)",

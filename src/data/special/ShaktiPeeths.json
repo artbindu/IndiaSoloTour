@@ -16,13 +16,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
-    ],
+    "bestVisitMonths": ["Oct", "Nov", "Dec", "Jan", "Feb"],
     "description": "Right Toes",
     "others": [],
     "isMyData": true,
@@ -45,13 +39,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
-    ],
+    "bestVisitMonths": ["Oct", "Nov", "Dec", "Jan", "Feb"],
     "description": "Genital organ",
     "others": [],
     "isMyData": true,
@@ -74,11 +62,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov",
-      "Dec"
-    ],
+    "bestVisitMonths": ["Oct", "Nov", "Dec"],
     "description": "Earrings",
     "others": [],
     "isMyData": true,
@@ -101,10 +85,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "description": "Breasts",
     "others": [],
     "isMyData": true,
@@ -127,10 +108,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "description": "Feet",
     "others": [],
     "isMyData": true,
@@ -153,10 +131,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "description": "Pelvis",
     "others": [],
     "isMyData": true,
@@ -179,10 +154,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "description": "Right Arm",
     "others": [],
     "isMyData": true,
@@ -205,10 +177,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "description": "Bones",
     "others": [],
     "isMyData": true,
@@ -231,11 +200,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Mar",
-      "Apr",
-      "Oct"
-    ],
+    "bestVisitMonths": ["Mar", "Apr", "Oct"],
     "description": "Tongue",
     "others": [],
     "isMyData": true,
@@ -258,10 +223,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Nov",
-      "Dec"
-    ],
+    "bestVisitMonths": ["Nov", "Dec"],
     "description": "Brahmarandhra",
     "others": [],
     "isMyData": true,
@@ -272,7 +234,7 @@
     "name": "Shrinagar Shakti Peeth",
     "type": "Shakti Peeth",
     "country": "India",
-    "state": "Jammu and Kashmir",
+    "state": "Jammu & Kashmir",
     "city": "Srinagar",
     "coordinates": {
       "lat": 34.0837,
@@ -285,10 +247,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "May",
-      "Jun"
-    ],
+    "bestVisitMonths": ["May", "Jun"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -311,10 +270,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Mar",
-      "Apr"
-    ],
+    "bestVisitMonths": ["Mar", "Apr"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -337,10 +293,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -363,10 +316,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -389,10 +339,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -415,10 +362,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -441,10 +385,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "Nov",
-      "Dec"
-    ],
+    "bestVisitMonths": ["Nov", "Dec"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -467,9 +408,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -492,9 +431,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -517,9 +454,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -542,9 +477,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -567,9 +500,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "Nov"
-    ],
+    "bestVisitMonths": ["Nov"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -592,9 +523,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -617,10 +546,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Oct",
-      "Nov"
-    ],
+    "bestVisitMonths": ["Oct", "Nov"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -643,9 +569,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -668,10 +592,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Mar",
-      "Apr"
-    ],
+    "bestVisitMonths": ["Mar", "Apr"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -694,9 +615,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -719,9 +638,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -744,9 +661,7 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -756,7 +671,7 @@
     "name": "Amarnath Shaktipeeth",
     "type": "Shakti Peeth",
     "country": "India",
-    "state": "Jammu and Kashmir",
+    "state": "Jammu & Kashmir",
     "city": "Amarnath",
     "coordinates": {
       "lat": 34.2146,
@@ -769,13 +684,10 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Jul",
-      "Aug"
-    ],
+    "bestVisitMonths": ["Jul", "Aug"],
     "others": [],
     "isMyData": true,
-    "url": ""
+    "url": "https://www.youtube.com/watch?v=_F6iDCTNEME"
   },
   {
     "id": 31,
@@ -795,9 +707,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -820,9 +730,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -845,9 +753,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -870,9 +776,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -895,9 +799,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -920,9 +822,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -945,9 +845,7 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -970,9 +868,7 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -995,9 +891,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1020,9 +914,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1045,9 +937,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1070,9 +960,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1093,9 +981,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1116,9 +1002,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1139,9 +1023,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1162,9 +1044,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1185,9 +1065,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1208,9 +1086,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1231,9 +1107,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1254,9 +1128,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
@@ -1277,9 +1149,7 @@
       "unesco": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "Oct"
-    ],
+    "bestVisitMonths": ["Oct"],
     "others": [],
     "isMyData": true,
     "url": ""
