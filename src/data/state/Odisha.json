@@ -24,7 +24,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Konark Sun Temple",
@@ -51,7 +52,8 @@
       "March"
     ],
     "significance": "UNESCO World Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Lingaraj Temple",
@@ -78,7 +80,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Mukteswar Temple",
@@ -105,7 +108,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Dhauli Shanti Stupa",
@@ -132,7 +136,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chilika Lake",
@@ -150,9 +155,15 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Satapada (Chilika)",
@@ -170,8 +181,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Bhitarkanika National Park",
@@ -189,9 +206,16 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Simlipal National Park",
@@ -209,9 +233,16 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Udayagiri & Khandagiri Caves",
@@ -238,7 +269,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Raghurajpur Heritage Village",
@@ -265,7 +297,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Daringbadi",
@@ -290,7 +323,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Deomali Peak",
@@ -315,7 +349,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Taptapani Hot Springs",
@@ -340,7 +375,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chandipur Beach",
@@ -366,7 +402,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Gopalpur Beach",
@@ -392,7 +429,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Paradeep Beach",
@@ -418,7 +456,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Odisha State Museum",
@@ -444,7 +483,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Ekamra Haat",
@@ -470,7 +510,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Bali Jatra Festival",
@@ -488,8 +529,11 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Rath Yatra Festival",
@@ -507,9 +551,13 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["June", "July"],
+    "bestVisitMonths": [
+      "June",
+      "July"
+    ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Hirakud Dam",
@@ -535,7 +583,8 @@
       "February"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Nrusinghanath Temple",
@@ -561,7 +610,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Ansupa Lake",
@@ -579,8 +629,14 @@
       "state": true
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Satkosia Gorge",
@@ -598,8 +654,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   }
 ]

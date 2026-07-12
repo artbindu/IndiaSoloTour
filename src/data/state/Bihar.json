@@ -24,7 +24,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Bodhi Tree",
@@ -51,7 +52,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Nalanda Mahavihara",
@@ -78,7 +80,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Rajgir",
@@ -105,7 +108,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Gridhakuta (Vulture's Peak)",
@@ -132,7 +136,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vikramshila University Ruins",
@@ -159,7 +164,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vaishali",
@@ -186,7 +192,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kesaria Stupa",
@@ -213,7 +220,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Takht Sri Patna Sahib",
@@ -240,7 +248,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vishnupad Temple",
@@ -267,7 +276,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Barabar Caves",
@@ -294,7 +304,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Golghar",
@@ -321,7 +332,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Patna Museum",
@@ -347,7 +359,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Eco Park, Patna",
@@ -372,7 +385,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Valmiki Tiger Reserve",
@@ -391,8 +405,15 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February", "March"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kanwar Lake Bird Sanctuary",
@@ -411,8 +432,14 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kakolat Waterfall",
@@ -440,7 +467,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Rajgir Hot Springs",
@@ -466,7 +494,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Pawapuri Jal Mandir",
@@ -493,7 +522,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Sonepur Cattle Fair",
@@ -511,8 +541,11 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chhath Puja (Ganga Ghats)",
@@ -530,7 +563,11 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "October",
+      "November"
+    ],
+    "isMyData": false,
+    "url": ""
   }
 ]

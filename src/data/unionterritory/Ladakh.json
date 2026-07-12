@@ -24,7 +24,8 @@
       "October"
     ],
     "description": "Capital of Ladakh at 3500m altitude, bustling market, Tibetan handicrafts, cafes, homestays, acclimatization base for high-altitude travel, Leh Main Bazaar, ancient trade route heritage, gateway to Ladakh.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Shanti Stupa",
@@ -52,7 +53,8 @@
       "October"
     ],
     "description": "White-domed Buddhist stupa built by Japanese Buddhist organization (1991), peace pagoda, panoramic views of Leh town and Indus Valley, golden Buddha reliefs, sunrise-sunset views, 500 steps climb.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Leh Palace",
@@ -80,7 +82,8 @@
       "October"
     ],
     "description": "17th-century royal palace built by King Sengge Namgyal, 9-storey structure, former residence of Ladakhi royal family, Tibetan architecture inspired by Potala Palace, museum, panoramic mountain views, ruins restoration ongoing.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Pangong Lake",
@@ -98,9 +101,16 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "134km endorheic lake at 4350m altitude, extends from India to China, crystal-clear blue water changing colors, brackish water freezes in winter, Bollywood '3 Idiots' fame, camping, migratory birds, permits required.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Tso Moriri Lake",
@@ -118,9 +128,16 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "High-altitude lake at 4522m in Changthang plateau, Ramsar Wetland Site, pristine turquoise waters, Korzok village and monastery nearby, black-necked cranes, Tibetan wild ass (Kiang), remote beauty, camping spot.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Nubra Valley",
@@ -138,9 +155,16 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "Valley of Flowers accessed via Khardung La, double-humped Bactrian camels at Hunder sand dunes, Diskit Monastery with 32m Maitreya Buddha, Shyok and Nubra river confluence, apricot orchards, cold desert landscape.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Khardung La Pass",
@@ -167,7 +191,8 @@
       "October"
     ],
     "description": "World's highest motorable pass at 5359m (claimed), gateway to Nubra and Shyok valleys, snow-covered peaks, prayer flags, photo stop, road trip milestone, strategic military importance, oxygen thin air challenges.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Hemis Monastery",
@@ -186,9 +211,16 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "Largest and wealthiest Buddhist monastery in Ladakh, Drukpa Lineage, founded 1630, annual Hemis Festival (June-July), sacred masked Cham dances, ancient thangkas, copper statue of Buddha, Hemis National Park nearby.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Thiksey Monastery",
@@ -207,9 +239,16 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "12-storey monastery complex resembling Potala Palace, 15th century, Gelugpa Order, 12-meter Maitreya Buddha statue, monastery museum, morning prayer assembly (6 AM), stunning Indus Valley views, 19km from Leh.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Diskit Monastery",
@@ -228,9 +267,16 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "Oldest and largest monastery in Nubra Valley, 14th-century Gelugpa Order, 32-meter Maitreya Buddha statue overlooking valley, stunning views of Shyok River, ancient murals, annual Dosmoche Festival.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Alchi Monastery",
@@ -249,9 +295,16 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "11th-century monastery complex, one of oldest surviving Buddhist monasteries in Ladakh, Indo-Himalayan art masterpieces, wood carvings, ancient wall paintings, Lotsawa Lha-Khang temple, UNESCO tentative list, flat terrain unlike hillside monasteries.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Magnetic Hill",
@@ -278,7 +331,8 @@
       "October"
     ],
     "description": "Gravity Hill phenomenon where vehicles appear to defy gravity and roll uphill, optical illusion caused by road layout and surrounding slopes, 30km from Leh on Leh-Kargil highway, popular tourist curiosity stop.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Zanskar Valley",
@@ -296,9 +350,15 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "Remote Himalayan valley, frozen Zanskar River Chadar Trek (winter), Phugtal Monastery in cliff cave, ancient Buddhist monasteries, trekking routes, Zanskar-Padum circuit, high-altitude desert landscape, adventure hub, challenging access.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Lamayuru Monastery",
@@ -317,9 +377,16 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "One of oldest and largest monasteries in Ladakh (10th-11th century), Moonland landscape with eroded rock formations, Red-hat (Drigung Kagyu) sect, annual Yuru Kabgyat festival with mask dances, ancient library, 127km from Leh.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Stok Palace & Museum",
@@ -346,7 +413,8 @@
       "October"
     ],
     "description": "Current residence of Ladakhi royal family, 200-year-old palace converted to museum, royal artifacts, thangkas, crown jewels, royal attire, weapons, heritage guesthouse accommodation, Stok Kangri trek base, 15km from Leh.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chang La Pass",
@@ -373,7 +441,8 @@
       "October"
     ],
     "description": "Third-highest motorable pass in world at 5360m, gateway to Pangong Lake via Leh-Changthang route, prayer flags, snow-covered peaks, Chang La Baba shrine, Indian Army post, altitude sickness risk, oxygen thin.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Turtuk Village",
@@ -391,9 +460,16 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "Northernmost village accessible to tourists, captured from Pakistan in 1971, Balti culture and cuisine, apricot orchards, homestays, Turtuk Waterfall, museum showcasing Balti heritage, views of K2 range, unique cultural experience.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Likir Monastery",
@@ -412,9 +488,16 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "11th-century Gelugpa Order monastery, 23-meter golden Maitreya Buddha statue (2000), ancient thangkas and frescoes, annual Likir Dosmoche Festival, Likir Gompa School, views of Indus Valley, 52km from Leh.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Diskit Festival",
@@ -432,9 +515,12 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["September"],
+    "bestVisitMonths": [
+      "September"
+    ],
     "description": "Annual Dosmoche Festival at Diskit Monastery, mask dances (Cham), colorful costumes, traditional music, Buddhist rituals, burning of evil effigies, cultural immersion, September celebration, victory of good over evil theme.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Hemis Festival",
@@ -452,9 +538,12 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["July"],
+    "bestVisitMonths": [
+      "July"
+    ],
     "description": "Largest and most famous Buddhist festival in Ladakh, celebrates Guru Padmasambhava's birthday at Hemis Monastery, masked Cham dance performances, traditional music, colorful costumes, sacred thangka unfurling (every 12 years), June-July.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chadar Trek",
@@ -472,9 +561,13 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["January", "February"],
+    "bestVisitMonths": [
+      "January",
+      "February"
+    ],
     "description": "Frozen River Trek on Zanskar River, one of most challenging winter treks in world, walk on 3-6 feet thick ice sheet, temperatures drop to -30°C, 9-day trek to Phugtal Monastery, extreme adventure, acclimatization crucial.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Siachen Base Camp",
@@ -492,8 +585,14 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "Gateway to world's highest battlefield, Siachen Glacier viewing point, tribute to Indian Army soldiers, special permits required, restricted access area, high-altitude challenge, patriotic destination, extreme weather conditions, limited tourist access.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   }
 ]

@@ -1,25 +1,22 @@
 
-import {TravelPlaceType} from "./Model.ts";
+import {TravelPlaceType, Places} from "./Model.ts";
 
-export const places = {
-  name: "Koraput",
-  type: TravelPlaceType.MountainsHillStations,
+const deomali: Places = {
+  name: "Deomali Peak",
+  type: TravelPlaceType.AdventureTrekking,
   country: "India",
   state: "Odisha",
   city: "Koraput",
   coordinates: {
-    lat: 18.8135,
-    long: 82.7123,
+    lat: 18.6508,
+    long: 82.9468,
   },
   heritage: {
     unesco: false,
     national: false,
   },
-  monsoonFriendly: "High",
+  monsoonFriendly: "Medium",
   bestVisitMonths: [
-    "July",
-    "August",
-    "September",
     "October",
     "November",
     "December",
@@ -27,20 +24,5 @@ export const places = {
     "February"
   ],
   description:
-    "Koraput is a picturesque hill district in southern Odisha known for its lush valleys, waterfalls, tribal culture, coffee plantations, and pleasant climate. It is one of Eastern India's most scenic destinations and serves as the gateway to several eco-tourism and heritage sites.",
-  others: [
-    "Deomali Peak (Highest mountain in Odisha)",
-    "Duduma Waterfall",
-    "Kolab Reservoir",
-    "Gupteswar Cave Temple",
-    "Sabara Srikhetra (Jagannath Temple)",
-    "Onukadelli Tribal Market",
-    "Coffee Plantations",
-    "Matsya Tirtha",
-    "Maliguda Railway Tunnel",
-    "Balda Caves",
-    "Rani Duduma Waterfall",
-    "Koraput Tribal Museum"
-  ],
-  images: [ ]
+    "At approximately 1,672 meters, Deomali is the highest peak in Odisha. It is famous for sunrise views, trekking, camping, and surrounding coffee plantations."
 };

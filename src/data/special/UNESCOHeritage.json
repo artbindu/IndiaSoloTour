@@ -28,7 +28,8 @@
       "Major tourist attraction",
       "Mughal architecture masterpiece"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Agra Fort",
@@ -59,7 +60,8 @@
       "Mughal architecture",
       "Historical monument"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Fatehpur Sikri",
@@ -77,14 +79,20 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["October", "November", "December", "January"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
     "description": "A Mughal city founded by Emperor Akbar, featuring grand palaces, mosques, and courtyards.",
     "others": [
       "UNESCO World Heritage Site (1986)",
       "Mughal architecture",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Ajanta Caves",
@@ -115,7 +123,8 @@
       "Buddhist art",
       "Ancient cave architecture"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Ellora Caves",
@@ -146,7 +155,8 @@
       "Rock-cut architecture",
       "Cultural and religious heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Elephanta Caves",
@@ -164,14 +174,20 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["December", "January", "February", "March"],
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
     "description": "Rock-cut Hindu cave temples on Elephanta Island, known for sculptures of Lord Shiva and elaborate carvings.",
     "others": [
       "UNESCO World Heritage Site (1987)",
       "Cultural heritage",
       "Historic cave temples"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Sun Temple, Konark",
@@ -189,14 +205,20 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["December", "January", "February", "March"],
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
     "description": "13th-century Sun Temple built in the shape of a colossal chariot, dedicated to the Sun God.",
     "others": [
       "UNESCO World Heritage Site (1984)",
       "Kalinga architecture",
       "Historic temple"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Group of Monuments at Mahabalipuram",
@@ -214,14 +236,20 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["December", "January", "February", "March"],
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
     "description": "7th-8th century Pallava monuments by the Bay of Bengal, including rock-cut temples and shore temples.",
     "others": [
       "UNESCO World Heritage Site (1984)",
       "Pallava architecture",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Great Living Chola Temples",
@@ -239,14 +267,20 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["December", "January", "February", "March"],
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
     "description": "Temples of Chola dynasty architecture, demonstrating outstanding Dravidian style and cultural achievement.",
     "others": [
       "UNESCO World Heritage Site (1987)",
       "Chola architecture",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Group of Monuments at Hampi",
@@ -277,7 +311,8 @@
       "Vijayanagara architecture",
       "Historical site"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Group of Monuments at Pattadakal",
@@ -295,14 +330,20 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
     "description": "7th-8th century temples blending Chalukya architectural forms of northern and southern India.",
     "others": [
       "UNESCO World Heritage Site (1987)",
       "Chalukya architecture",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Khajuraho Group of Monuments",
@@ -333,7 +374,8 @@
       "Hindu and Jain temples",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Buddhist Monuments at Sanchi",
@@ -351,14 +393,20 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
     "description": "Ancient Buddhist stupas, monasteries, and temples, reflecting early Buddhist architecture and art.",
     "others": [
       "UNESCO World Heritage Site (1989)",
       "Stupa architecture",
       "Buddhist pilgrimage site"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Humayun’s Tomb",
@@ -389,7 +437,8 @@
       "Mughal architecture",
       "Historical monument"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Qutb Minar and its Monuments",
@@ -420,7 +469,8 @@
       "Islamic architecture",
       "Historical complex"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Mountain Railways of India",
@@ -438,14 +488,20 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["March", "April", "October", "November"],
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "October",
+      "November"
+    ],
     "description": "Historic hill railways demonstrating engineering achievement in mountainous terrains.",
     "others": [
       "UNESCO World Heritage Site (1999)",
       "Engineering heritage",
       "Tourist attraction"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Mahabodhi Temple Complex at Bodh Gaya",
@@ -477,7 +533,8 @@
       "ASI Protected Monument",
       "Major Buddhist pilgrimage site"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Rock Shelters of Bhimbetka",
@@ -495,14 +552,20 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
     "description": "Prehistoric rock shelters with cave paintings depicting early human life and hunting scenes.",
     "others": [
       "UNESCO World Heritage Site (2003)",
       "Prehistoric art",
       "Archaeological site"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Champaner–Pavagadh Archaeological Park",
@@ -520,14 +583,20 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["October", "November", "December", "January"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
     "description": "Historic city with forts, palaces, mosques, and temples reflecting cultural fusion.",
     "others": [
       "UNESCO World Heritage Site (2004)",
       "Archaeological park",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Chhatrapati Shivaji Maharaj Terminus",
@@ -545,14 +614,20 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
     "description": "Historic railway station combining Victorian Gothic architecture with traditional Indian features.",
     "others": [
       "UNESCO World Heritage Site (2004)",
       "Architectural heritage",
       "Railway landmark"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Red Fort Complex",
@@ -583,7 +658,8 @@
       "Mughal architecture",
       "Historical monument"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Jantar Mantar, Jaipur",
@@ -614,7 +690,8 @@
       "Astronomical instruments",
       "Scientific heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Hill Forts of Rajasthan",
@@ -645,7 +722,8 @@
       "Military architecture",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Rani-ki-Vav (Queen’s Stepwell)",
@@ -676,7 +754,8 @@
       "Stepwell architecture",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Archaeological Site of Nalanda Mahavihara",
@@ -707,7 +786,8 @@
       "Ancient university",
       "Buddhist heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Khangchendzonga National Park (Mixed)",
@@ -725,14 +805,20 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["March", "April", "October", "November"],
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "October",
+      "November"
+    ],
     "description": "Biodiverse national park and mountain landscape with spiritual significance to the local communities.",
     "others": [
       "UNESCO World Heritage Site (2016)",
       "Mixed natural and cultural heritage",
       "Himalayan ecosystem"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "The Architectural Work of Le Corbusier",
@@ -763,7 +849,8 @@
       "Modern architecture",
       "Urban planning"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Historic City of Ahmedabad",
@@ -794,7 +881,8 @@
       "Cultural heritage",
       "Architectural ensemble"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
@@ -812,14 +900,20 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
     "description": "Ensemble of Victorian Gothic and Art Deco buildings representing colonial-era urban development.",
     "others": [
       "UNESCO World Heritage Site (2018)",
       "Architectural heritage",
       "Cultural ensemble"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Jaipur City, Rajasthan",
@@ -850,7 +944,8 @@
       "Urban planning",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Kakatiya Rudreshwara (Ramappa) Temple",
@@ -881,7 +976,8 @@
       "Kakatiya architecture",
       "Cultural heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Dholavira (Harappan City)",
@@ -912,7 +1008,8 @@
       "Harappan civilization",
       "Archaeological site"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Santiniketan",
@@ -943,7 +1040,8 @@
       "Cultural heritage",
       "Educational center"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Sacred Ensembles of the Hoysalas",
@@ -974,7 +1072,8 @@
       "Hoysala architecture",
       "Cultural and religious heritage"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Kaziranga National Park",
@@ -992,7 +1091,12 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
     "description": "Famous wildlife sanctuary home to the world's largest population of the one-horned rhinoceros.",
     "others": [
       "UNESCO World Heritage Site (1985)",
@@ -1000,7 +1104,8 @@
       "Important Bird Area",
       "Brahmaputra floodplain ecosystem"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Manas Wildlife Sanctuary",
@@ -1018,7 +1123,11 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January"
+    ],
     "description": "Biodiverse wildlife sanctuary at the foothills of the Himalayas, known for rare and endangered species.",
     "others": [
       "UNESCO World Heritage Site (1985)",
@@ -1026,7 +1135,8 @@
       "Biosphere Reserve",
       "Eastern Himalayan biodiversity hotspot"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Keoladeo National Park",
@@ -1058,7 +1168,8 @@
       "Ramsar Wetland",
       "Former royal hunting reserve"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Sundarbans National Park",
@@ -1076,7 +1187,11 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["December", "January", "February"],
+    "bestVisitMonths": [
+      "December",
+      "January",
+      "February"
+    ],
     "description": "Largest mangrove forest in the world, known for its tidal waterways and Royal Bengal Tigers.",
     "others": [
       "UNESCO World Heritage Site (1987)",
@@ -1084,7 +1199,8 @@
       "Biosphere Reserve",
       "Mangrove ecosystem"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Nanda Devi and Valley of Flowers National Parks",
@@ -1102,7 +1218,12 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["June", "July", "August", "September"],
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
     "description": "High-altitude Himalayan parks known for alpine flora, endemic species, and dramatic landscapes.",
     "others": [
       "UNESCO World Heritage Site (1988)",
@@ -1110,7 +1231,8 @@
       "Himalayan ecosystem",
       "Valley of endemic flowers"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Western Ghats",
@@ -1128,7 +1250,12 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["October", "November", "December", "January"],
+    "bestVisitMonths": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
     "description": "Ancient mountain range recognized as one of the world's eight biodiversity hotspots.",
     "others": [
       "UNESCO World Heritage Site (2012)",
@@ -1136,7 +1263,8 @@
       "Multiple protected areas",
       "High endemism"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Great Himalayan National Park",
@@ -1154,7 +1282,12 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["April", "May", "October", "November"],
+    "bestVisitMonths": [
+      "April",
+      "May",
+      "October",
+      "November"
+    ],
     "description": "High-altitude Himalayan national park known for alpine meadows, forests, glaciers, and exceptional biodiversity.",
     "others": [
       "UNESCO World Heritage Site (2014)",
@@ -1162,7 +1295,8 @@
       "Western Himalayas ecosystem",
       "Protected wildlife reserve"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Khangchendzonga National Park",
@@ -1180,7 +1314,12 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["March", "April", "October", "November"],
+    "bestVisitMonths": [
+      "March",
+      "April",
+      "October",
+      "November"
+    ],
     "description": "Himalayan national park centered around Mount Khangchendzonga, revered for its natural beauty and cultural significance.",
     "others": [
       "UNESCO World Heritage Site (2016)",
@@ -1188,6 +1327,7 @@
       "Himalayan biodiversity hotspot",
       "Sacred landscape of Sikkim"
     ],
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   }
 ]

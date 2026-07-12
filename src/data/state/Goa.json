@@ -25,7 +25,8 @@
       "March"
     ],
     "description": "UNESCO World Heritage Site, 16th-century baroque church holding mortal remains of St. Francis Xavier, exemplary Jesuit architecture.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Se Cathedral",
@@ -53,7 +54,8 @@
       "March"
     ],
     "description": "One of Asia's largest churches, Portuguese-Gothic architecture, famous Golden Bell, dedicated to St. Catherine of Alexandria.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Church of St. Cajetan",
@@ -81,7 +83,8 @@
       "March"
     ],
     "description": "17th-century Corinthian-style church inspired by St. Peter's Basilica in Rome, known for its dome and Italian architecture.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Fort Aguada",
@@ -109,7 +112,8 @@
       "March"
     ],
     "description": "17th-century Portuguese fort with lighthouse, panoramic views of Arabian Sea, freshwater spring, popular sunset point.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chapora Fort",
@@ -136,7 +140,8 @@
       "March"
     ],
     "description": "Famous 'Dil Chahta Hai' fort, 1717 Portuguese fort ruins overlooking Vagator Beach and Chapora River, stunning viewpoint.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Reis Magos Fort",
@@ -164,7 +169,8 @@
       "March"
     ],
     "description": "16th-century Portuguese fort with museum, art gallery, views of Mandovi River, recently restored heritage structure.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Calangute Beach",
@@ -191,7 +197,8 @@
       "March"
     ],
     "description": "Queen of Beaches, largest and most popular beach in North Goa, water sports hub, vibrant beach shacks and nightlife.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Baga Beach",
@@ -218,7 +225,8 @@
       "March"
     ],
     "description": "Famous for Tito's nightclub, water sports, parasailing, beach parties, lively atmosphere, and seafood restaurants.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Anjuna Beach",
@@ -245,7 +253,8 @@
       "March"
     ],
     "description": "Hippie culture hub, famous Wednesday Flea Market, beach parties, rocky shoreline, Curlies Beach Shack, trance music scene.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vagator Beach",
@@ -272,7 +281,8 @@
       "March"
     ],
     "description": "Dramatic cliffs, red laterite rock formations, Chapora Fort views, tranquil atmosphere, popular with backpackers.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Candolim Beach",
@@ -299,7 +309,8 @@
       "March"
     ],
     "description": "Quieter beach than Calangute, long stretch of sand, water sports, Fort Aguada proximity, family-friendly atmosphere.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Colva Beach",
@@ -326,7 +337,8 @@
       "March"
     ],
     "description": "Most popular South Goa beach, white sand, coconut palms, water sports, beach shacks, lively yet relaxed vibe.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Benaulim Beach",
@@ -353,7 +365,8 @@
       "March"
     ],
     "description": "Serene beach south of Colva, less crowded, fishing village charm, dolphin spotting, peaceful ambiance.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Palolem Beach",
@@ -380,7 +393,8 @@
       "March"
     ],
     "description": "Crescent-shaped paradise beach, coconut palms, beach huts, kayaking, dolphin trips, silent noise parties, backpacker favorite.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Butterfly Beach",
@@ -407,7 +421,8 @@
       "March"
     ],
     "description": "Secluded beach accessible by boat, dolphins, butterflies, pristine sands, snorkeling, peaceful getaway.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Dudhsagar Waterfalls",
@@ -426,9 +441,16 @@
     },
     "significance": "National Heritage Site",
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["June", "July", "August", "September", "October"],
+    "bestVisitMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
     "description": "India's 5th highest waterfall (310m), 'Sea of Milk' cascades, jungle trekking, jeep safari through Bhagwan Mahavir Sanctuary.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Bhagwan Mahavir Wildlife Sanctuary",
@@ -456,7 +478,8 @@
       "March"
     ],
     "description": "Largest wildlife sanctuary in Goa, Bengal tigers, leopards, deer, Indian bison, black panthers, tropical biodiversity.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Mollem National Park",
@@ -484,7 +507,8 @@
       "March"
     ],
     "description": "Part of Western Ghats biodiversity hotspot, Dudhsagar Falls gateway, trekking trails, diverse flora and fauna.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Spice Plantations (Ponda)",
@@ -511,7 +535,8 @@
       "March"
     ],
     "description": "Organic spice farms with cardamom, cinnamon, nutmeg, pepper, traditional Goan lunch, elephant interactions, nature walks.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Salim Ali Bird Sanctuary",
@@ -538,7 +563,8 @@
       "March"
     ],
     "description": "Mangrove habitat on Chorao Island, 400+ bird species, boat safari through backwaters, migratory birds, kingfishers, herons.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Fontainhas (Latin Quarter)",
@@ -565,7 +591,8 @@
       "March"
     ],
     "description": "Old Portuguese quarter in Panaji, colorful heritage houses, narrow winding streets, art galleries, heritage walks, colonial charm.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Panaji Riverfront",
@@ -591,7 +618,8 @@
       "February"
     ],
     "description": "Promenade along Mandovi River, sunset views, floating casinos, river cruises, Church of Our Lady of Immaculate Conception.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Mandovi River Cruise",
@@ -617,7 +645,8 @@
       "February"
     ],
     "description": "Evening river cruises with live Goan folk music and dance, dinner cruises, sunset views, entertainment on water.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Anjuna Flea Market",
@@ -635,9 +664,16 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February", "March"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
     "description": "Iconic Wednesday market since 1960s, handicrafts, jewelry, clothes, spices, Tibetan goods, hippie culture legacy.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Goa Carnival",
@@ -655,9 +691,12 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["February"],
+    "bestVisitMonths": [
+      "February"
+    ],
     "description": "Unique Latin-style carnival with colorful parades, floats, King Momo, music, dancing, feasting, Portuguese heritage celebration.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Sunburn Music Festival",
@@ -675,8 +714,11 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["December"],
+    "bestVisitMonths": [
+      "December"
+    ],
     "description": "Asia's largest electronic dance music festival, international DJs, multiple stages, beach parties, EDM culture hub.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   }
 ]

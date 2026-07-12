@@ -15,9 +15,14 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["November", "December", "January"],
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January"
+    ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Padmanabhaswamy Temple",
@@ -44,7 +49,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Guruvayur Temple",
@@ -71,7 +77,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Fort Kochi",
@@ -98,7 +105,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Mattancherry Palace",
@@ -125,7 +133,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Hill Palace Museum",
@@ -152,7 +161,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Varkala Beach",
@@ -178,7 +188,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kovalam Beach",
@@ -204,7 +215,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Marari Beach",
@@ -230,7 +242,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Alleppey Backwaters",
@@ -257,7 +270,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kumarakom Backwaters",
@@ -284,7 +298,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Munnar",
@@ -314,7 +329,8 @@
       "May"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Wayanad",
@@ -342,7 +358,8 @@
       "April",
       "May"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vagamon",
@@ -370,7 +387,8 @@
       "April",
       "May"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Eravikulam National Park",
@@ -400,7 +418,8 @@
       "May"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Periyar Tiger Reserve",
@@ -428,7 +447,8 @@
       "April"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Silent Valley National Park",
@@ -455,7 +475,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Athirappilly Waterfalls",
@@ -481,7 +502,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Meesapulimala Trek",
@@ -508,7 +530,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Thenmala Eco Tourism",
@@ -535,7 +558,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kalaripayattu Centres",
@@ -561,7 +585,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kerala Kalamandalam",
@@ -588,7 +613,8 @@
       "March"
     ],
     "significance": "National Heritage Site",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Arogyapuri Ayurveda Centres",
@@ -614,7 +640,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Onam Festival",
@@ -632,8 +659,12 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["August", "September"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "August",
+      "September"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vishu Festival",
@@ -651,7 +682,10 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["April"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "April"
+    ],
+    "isMyData": false,
+    "url": ""
   }
 ]

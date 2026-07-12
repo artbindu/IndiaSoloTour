@@ -25,7 +25,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Srisailam Mallikarjuna Temple",
@@ -52,7 +53,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Lepakshi Veerabhadra Temple",
@@ -78,7 +80,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Amaravati Buddhist Site",
@@ -104,7 +107,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Undavalli Caves",
@@ -131,7 +135,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Araku Valley",
@@ -156,7 +161,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Borra Caves",
@@ -181,7 +187,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Lambasingi",
@@ -199,8 +206,14 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Rishikonda Beach",
@@ -226,7 +239,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Yarada Beach",
@@ -252,7 +266,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Rushikonda Beach",
@@ -278,7 +293,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Gandikota Fort & Canyon",
@@ -303,7 +319,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Belum Caves",
@@ -328,7 +345,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Sri Venkateswara National Park",
@@ -354,7 +372,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Papikondalu Hills",
@@ -379,7 +398,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Coringa Wildlife Sanctuary",
@@ -397,8 +417,14 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November", "December", "January", "February"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Pulicat Lake (AP side)",
@@ -416,8 +442,14 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": ["November", "December", "January", "February"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kondaveedu Fort",
@@ -442,7 +474,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Simhachalam Temple",
@@ -468,7 +501,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vijayawada Kanaka Durga Temple",
@@ -495,7 +529,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Maredumilli Forest",
@@ -520,7 +555,8 @@
       "January",
       "February"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Visakha Museum & Submarine",
@@ -546,7 +582,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "RK Beach Road",
@@ -572,7 +609,8 @@
       "February",
       "March"
     ],
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Ugadi Festival",
@@ -590,8 +628,12 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["March", "April"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "March",
+      "April"
+    ],
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Brahmotsavam (Tirupati)",
@@ -609,7 +651,11 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["September", "October"],
-    "isMyData": false
+    "bestVisitMonths": [
+      "September",
+      "October"
+    ],
+    "isMyData": false,
+    "url": ""
   }
 ]

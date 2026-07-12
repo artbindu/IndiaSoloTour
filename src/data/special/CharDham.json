@@ -15,9 +15,15 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "September", "October"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
     "description": "Presiding Deity: Vishnu (Salvation)",
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Dwarka",
@@ -44,8 +50,11 @@
       "March"
     ],
     "description": "Presiding Deity: Krishna (Liberation)",
-    "others": ["ASI Heritage Site"],
-    "isMyData": true
+    "others": [
+      "ASI Heritage Site"
+    ],
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Puri (Jagannath)",
@@ -72,7 +81,8 @@
       "March"
     ],
     "description": "Presiding Deity: Vishnu/Jagannath (Moksha)",
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Rameshwaram",
@@ -99,7 +109,8 @@
       "March"
     ],
     "description": "Presiding Deity: Shiva (Purification)",
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Yamunotri",
@@ -117,9 +128,15 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "September", "October"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
     "description": "Presiding Deity: Goddess Yamuna",
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Gangotri",
@@ -137,9 +154,15 @@
       "state": true
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "September", "October"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
     "description": "Presiding Deity: Goddess Ganga",
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Kedarnath",
@@ -157,9 +180,15 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "September", "October"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
     "description": "Presiding Deity: Lord Shiva",
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   },
   {
     "name": "Badrinath",
@@ -177,8 +206,14 @@
       "state": false
     },
     "monsoonFriendly": "Low",
-    "bestVisitMonths": ["May", "June", "September", "October"],
+    "bestVisitMonths": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
     "description": "Presiding Deity: Lord Vishnu",
-    "isMyData": true
+    "isMyData": true,
+    "url": ""
   }
 ]
