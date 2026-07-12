@@ -1,8 +1,7 @@
-
 enum HeritageType {
-    ShaktiPeeth = 'Shakti Peeth',
-    CharDham = 'Char Dham',
-    ChotaCharDham = 'Chota Char Dham',
+  ShaktiPeeth = "Shakti Peeth",
+  CharDham = "Char Dham",
+  ChotaCharDham = "Chota Char Dham",
 }
 
 enum TravelPlaceType {
@@ -17,28 +16,26 @@ enum TravelPlaceType {
   WellnessYoga = "Wellness / Yoga Retreats",
   EcoSustainable = "Eco / Sustainable Tourism Spots",
   FestivalsEvents = "Festivals / Event Destinations",
-  SeasonalClimateBased = "Seasonal / Climate-based Destinations"
+  SeasonalClimateBased = "Seasonal / Climate-based Destinations",
 }
 
 interface Places {
-    name: string;
-    type: TravelPlaceType | HeritageType;
-    country: string;
-    state: string;
-    city: string;
-    coordinates: {
-        lat: number;
-        long: number;
-    };
-    heritage: {
-        unesco: boolean;
-        national: boolean;
-    };
-    monsoonFriendly: 'High' | 'Medium' | 'Low';
-    bestVisitMonths: string[];
-    description?: string;
-    others?: string[];
-    images?: string[];
+  name: string;
+  type: TravelPlaceType | HeritageType;
+  country: string;
+  state: string;
+  city: string;
+  coordinates: {
+    lat: number;
+    long: number;
+  };
+  heritage: {
+    unesco: boolean;
+    national: boolean;
+  };
+  monsoonFriendly: "High" | "Medium" | "Low";
+  bestVisitMonths: string[];
+  description?: string;
+  others?: string[];
+  images?: string[];
 }
-
-
