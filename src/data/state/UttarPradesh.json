@@ -25,7 +25,8 @@
       "March"
     ],
     "description": "UNESCO World Heritage Site, one of Seven Wonders of the World, white marble mausoleum built by Shah Jahan for Mumtaz Mahal, Mughal architecture masterpiece, symbol of eternal love.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Agra Fort",
@@ -53,7 +54,8 @@
       "March"
     ],
     "description": "UNESCO World Heritage Site, massive 16th-century Mughal fort with red sandstone, Jahangir Palace, Khas Mahal, Diwan-i-Khas, Shah Jahan's prison, Taj Mahal views.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Fatehpur Sikri",
@@ -81,7 +83,8 @@
       "March"
     ],
     "description": "UNESCO World Heritage Site, abandoned Mughal capital built by Akbar (1571), Buland Darwaza (54m high gate), Jama Masjid, Panch Mahal, Diwan-i-Khas, red sandstone complex.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Varanasi Ghats",
@@ -109,7 +112,8 @@
       "March"
     ],
     "description": "88 ghats along Ganges River, Dashashwamedh Ghat evening aarti, Manikarnika cremation ghat, boat rides at sunrise, ancient spiritual rituals, world's oldest living city.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kashi Vishwanath Temple (Jyotirlinga)",
@@ -137,7 +141,8 @@
       "March"
     ],
     "description": "One of 12 Jyotirlingas, most sacred Shiva temple, golden spire, rebuilt multiple times, Kashi Vishwanath Corridor project, spiritual epicenter of Hinduism.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Sarnath",
@@ -165,7 +170,8 @@
       "March"
     ],
     "description": "Where Buddha delivered first sermon after enlightenment, Dhamek Stupa, Ashoka Pillar with Lion Capital (national emblem), archaeological museum, Buddhist pilgrimage site.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Prayagraj Triveni Sangam",
@@ -193,7 +199,8 @@
       "March"
     ],
     "description": "Sacred confluence of Ganges, Yamuna, and mythical Saraswati rivers, Kumbh Mela venue, holy dip for moksha, boat rides to sangam point, Prayagraj Fort nearby.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Ayodhya Ram Janmabhoomi",
@@ -221,7 +228,8 @@
       "March"
     ],
     "description": "Birthplace of Lord Rama, newly constructed Ram Mandir, Hanuman Garhi, Kanak Bhawan, Saryu River ghats, Ram Navami celebrations, ancient spiritual city from Ramayana.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Mathura Krishna Janmabhoomi",
@@ -249,7 +257,8 @@
       "March"
     ],
     "description": "Birthplace of Lord Krishna, Krishna Janmabhoomi Temple complex, Keshava Dev Temple, Yamuna River ghats, Janmashtami celebrations, museums with Krishna artifacts.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vrindavan",
@@ -277,7 +286,8 @@
       "March"
     ],
     "description": "Krishna's childhood playground, 5,000+ temples including Banke Bihari, ISKCON temple, Prem Mandir, Radha Raman Temple, Holi celebrations, bhajan-kirtan culture.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Jhansi Fort",
@@ -305,7 +315,8 @@
       "March"
     ],
     "description": "17th-century hilltop fort associated with Rani Lakshmibai, 1857 rebellion site, Shiva temple, museum with weapons and artifacts, panoramic city views.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chunar Fort",
@@ -333,7 +344,8 @@
       "March"
     ],
     "description": "Ancient fort on Ganges banks dating to Vikramaditya era, Mughal & British history, Sonwa Mandap, underground passages, Ganges views, sandstone quarries.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Bara Imambara",
@@ -361,7 +373,8 @@
       "March"
     ],
     "description": "1784 Nawabi architecture masterpiece by Asaf-ud-Daula, world's largest arched hall without support beams, Bhool Bhulaiya (labyrinth), Asafi Mosque, stepwell.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chota Imambara",
@@ -389,7 +402,8 @@
       "March"
     ],
     "description": "Palace of Lights, built by Muhammad Ali Shah (1838), ornate interiors with chandeliers, Nawabi tombs, silver throne replica, beautiful illuminations during festivals.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Rumi Darwaza",
@@ -416,7 +430,8 @@
       "March"
     ],
     "description": "Turkish Gate, 60-foot-high gateway built in 1784, inspired by Constantinople's Sublime Porte, symbol of Lucknow, Awadhi architecture, intricately decorated arches.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Dudhwa National Park",
@@ -444,7 +459,8 @@
       "April"
     ],
     "description": "Tiger reserve in Terai region, swamp deer (barasingha), one-horned rhinoceros, elephants, 400+ bird species, sal forests, grasslands, Nepal border proximity.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Nawabganj Bird Sanctuary",
@@ -471,7 +487,8 @@
       "March"
     ],
     "description": "Wetland sanctuary near Lucknow, 250+ bird species, migratory birds in winter, sarus cranes, painted storks, boating facilities, birdwatching paradise.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kushinagar",
@@ -499,7 +516,8 @@
       "March"
     ],
     "description": "Where Buddha attained Mahaparinirvana (final nirvana), Mahaparinirvana Temple with reclining Buddha statue, Ramabhar Stupa (cremation site), Buddhist pilgrimage circuit.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chitrakoot",
@@ -527,7 +545,8 @@
       "March"
     ],
     "description": "Where Lord Rama spent 11 years in exile, Ramghat on Mandakini River, Kamadgiri temple hill, Hanuman Dhara, Sati Anusuya Ashram, Sphatik Shila, Ramayana heritage.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Vindhyachal Temple",
@@ -555,7 +574,8 @@
       "March"
     ],
     "description": "Vindhyavasini Devi Shakti Peeth, ancient temple on Vindhya hills, Navratri celebrations, Ashtabhuja Temple, Kali Khoh cave temple, Ganges proximity.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Hastinapur Wildlife Sanctuary",
@@ -582,7 +602,8 @@
       "March"
     ],
     "description": "Named after Mahabharata's capital Hastinapur, Ganges floodplain ecosystem, swamp deer, Bengal foxes, 350+ bird species, riverine forests, ancient archaeological sites.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Sravasti",
@@ -610,7 +631,8 @@
       "March"
     ],
     "description": "Where Buddha spent 24 rainy seasons, Jetavana monastery ruins, Anathapindika's Stupa, Angulimala Stupa, Anandabodhi Tree, important Buddhist pilgrimage site.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Lucknow Residency",
@@ -638,7 +660,8 @@
       "March"
     ],
     "description": "Ruins of British Residency complex, 1857 Siege of Lucknow site, museum with battle artifacts, cemetery, preserved cannonball marks, colonial history landmark.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Chambal Wildlife Sanctuary",
@@ -666,7 +689,8 @@
       "March"
     ],
     "description": "National Chambal Sanctuary, critically endangered gharials (fish-eating crocodiles), Gangetic river dolphins, mugger crocodiles, river safaris, pristine Chambal River ecosystem.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Kumbh Mela (Prayagraj)",
@@ -685,9 +709,13 @@
     },
     "significance": "UNESCO World Heritage Site",
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["January", "February"],
+    "bestVisitMonths": [
+      "January",
+      "February"
+    ],
     "description": "UNESCO Intangible Cultural Heritage, world's largest religious gathering (every 12 years, Ardh Kumbh every 6), millions take holy dip at Sangam, spiritual processions, sadhus.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   },
   {
     "name": "Dev Deepawali",
@@ -705,8 +733,11 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": ["November"],
+    "bestVisitMonths": [
+      "November"
+    ],
     "description": "Festival of Lights of the Gods, 15 days after Diwali on Kartik Purnima, millions of diyas lit on Ganges ghats, spectacular illuminated riverfront, Ganga aarti ceremonies.",
-    "isMyData": false
+    "isMyData": false,
+    "url": ""
   }
 ]
