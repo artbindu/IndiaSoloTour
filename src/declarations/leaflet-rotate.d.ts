@@ -6,13 +6,13 @@
  */
 
 // Side-effect import — patching L.Map at load time
-// Extend Leaflet's own types
-import "leaflet";
-
 declare module "leaflet-rotate" {
   const _default: undefined;
   export default _default;
 }
+
+// Extend Leaflet's own types
+import "leaflet";
 
 declare module "leaflet" {
   interface MapOptions {
