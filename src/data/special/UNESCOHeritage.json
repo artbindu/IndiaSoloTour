@@ -473,14 +473,14 @@
     "url": ""
   },
   {
-    "name": "Mountain Railways of India",
+    "name": "Darjeeling Himalayan Railway",
     "type": "UNESCO Heritage",
     "country": "India",
-    "state": "Various (Darjeeling, Nilgiri, Kalka–Shimla)",
-    "city": "Various",
+    "state": "West Bengal",
+    "city": "Darjeeling",
     "coordinates": {
-      "lat": 30.325,
-      "long": 78.079
+      "lat": 27.041,
+      "long": 88.2663
     },
     "heritage": {
       "unesco": true,
@@ -488,17 +488,64 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April",
-      "October",
-      "November"
-    ],
-    "description": "Historic hill railways demonstrating engineering achievement in mountainous terrains.",
+    "bestVisitMonths": ["March", "April", "October", "November"],
+    "description": "UNESCO-listed narrow-gauge mountain railway connecting New Jalpaiguri and Darjeeling.",
     "others": [
       "UNESCO World Heritage Site (1999)",
       "Engineering heritage",
-      "Tourist attraction"
+      "Toy Train"
+    ],
+    "isMyData": true,
+    "url": ""
+  },
+  {
+    "name": "Nilgiri Mountain Railway",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Udhagamandalam (Ooty)",
+    "coordinates": {
+      "lat": 11.4064,
+      "long": 76.6932
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["March", "April", "October", "November"],
+    "description": "UNESCO-listed rack railway connecting Mettupalayam and Ooty through the Nilgiri Hills.",
+    "others": [
+      "UNESCO World Heritage Site (2005)",
+      "Rack railway",
+      "Toy Train"
+    ],
+    "isMyData": true,
+    "url": ""
+  },
+  {
+    "name": "Kalka–Shimla Railway",
+    "type": "UNESCO Heritage",
+    "country": "India",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "coordinates": {
+      "lat": 31.1048,
+      "long": 77.1734
+    },
+    "heritage": {
+      "unesco": true,
+      "national": true,
+      "state": false
+    },
+    "monsoonFriendly": "Medium",
+    "bestVisitMonths": ["March", "April", "October", "November"],
+    "description": "UNESCO-listed narrow-gauge railway connecting Kalka and Shimla through numerous tunnels and bridges.",
+    "others": [
+      "UNESCO World Heritage Site (2008)",
+      "Engineering heritage",
+      "Toy Train"
     ],
     "isMyData": true,
     "url": ""

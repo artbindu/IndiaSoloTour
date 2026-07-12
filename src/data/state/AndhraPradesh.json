@@ -1,13 +1,13 @@
 [
   {
-    "name": "Tirumala Venkateswara Temple",
+    "name": "Sri Venkateswara Temple (Tirupati Balaji)",
     "type": "Religious / Spiritual Places",
     "country": "India",
     "state": "Andhra Pradesh",
-    "city": "Tirupati (Tirupati)",
+    "city": "Tirupati",
     "coordinates": {
       "lat": 13.6833,
-      "long": 79.347
+      "long": 79.3476
     },
     "heritage": {
       "unesco": false,
@@ -25,8 +25,9 @@
       "February",
       "March"
     ],
-    "isMyData": false,
-    "url": ""
+    "description": "One of the world's richest and most visited Hindu temples, dedicated to Lord Venkateswara (an incarnation of Lord Vishnu). Situated atop the Tirumala Hills, the temple is renowned for its Dravidian architecture, sacred rituals, and the annual Brahmotsavam festival.",
+    "isMyData": true,
+    "url": "https://www.youtube.com/watch?v=2pVJMRx8WLw"
   },
   {
     "name": "Srisailam Mallikarjuna Temple",
@@ -206,12 +207,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "isMyData": false,
     "url": ""
   },
@@ -417,12 +413,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "isMyData": false,
     "url": ""
   },
@@ -442,12 +433,7 @@
       "state": false
     },
     "monsoonFriendly": "High",
-    "bestVisitMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
+    "bestVisitMonths": ["November", "December", "January", "February"],
     "isMyData": false,
     "url": ""
   },
@@ -628,10 +614,7 @@
       "state": true
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "March",
-      "April"
-    ],
+    "bestVisitMonths": ["March", "April"],
     "isMyData": false,
     "url": ""
   },
@@ -651,10 +634,7 @@
       "state": false
     },
     "monsoonFriendly": "Medium",
-    "bestVisitMonths": [
-      "September",
-      "October"
-    ],
+    "bestVisitMonths": ["September", "October"],
     "isMyData": false,
     "url": ""
   }

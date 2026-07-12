@@ -57,6 +57,14 @@ export const filterPlaces = (
   userPreference: boolean,
 ): Place[] => {
   return places.filter((place) => {
+    // Country Filter - if getUniqueStates returns country name (without India)
+    if (
+      stateFilter &&
+      stateFilter.indexOf("⭐") >= 0 &&
+      place.country === stateFilter.replace(/\W+/gi, "")
+    ) {
+      return true;
+    }
     // Location Type Filter
     if (locationTypeFilter !== "all" && place.type !== locationTypeFilter) {
       return false;
@@ -125,7 +133,9 @@ export const getUniqueStates = (
 ): string[] => {
   return [
     ...new Set([
-      ...places.map((place) => place.state),
+      ...places
+        .filter((place) => place.coordinates.lat && place.coordinates.long)
+        .map((place) => place.country.toLowerCase() === "india" ? place.state : `${place.country} ⭐`),
       ...giTags.map((item) => item.state),
     ]),
   ].sort();
@@ -163,11 +173,7 @@ export const hasValidCoordinates = (coordinates: {
   lat?: number;
   long?: number;
 }): boolean => {
-  return !!(
-    coordinates &&
-    coordinates.lat !== undefined &&
-    coordinates.long !== undefined
-  );
+  return !!(coordinates && coordinates.lat && coordinates.long);
 };
 
 /**

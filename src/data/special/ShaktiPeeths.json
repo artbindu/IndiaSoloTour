@@ -272,7 +272,7 @@
     "name": "Shrinagar Shakti Peeth",
     "type": "Shakti Peeth",
     "country": "India",
-    "state": "Jammu and Kashmir",
+    "state": "Jammu & Kashmir",
     "city": "Srinagar",
     "coordinates": {
       "lat": 34.0837,
@@ -756,7 +756,7 @@
     "name": "Amarnath Shaktipeeth",
     "type": "Shakti Peeth",
     "country": "India",
-    "state": "Jammu and Kashmir",
+    "state": "Jammu & Kashmir",
     "city": "Amarnath",
     "coordinates": {
       "lat": 34.2146,
@@ -775,7 +775,7 @@
     ],
     "others": [],
     "isMyData": true,
-    "url": ""
+    "url": "https://www.youtube.com/watch?v=_F6iDCTNEME"
   },
   {
     "id": 31,

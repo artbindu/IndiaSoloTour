@@ -70,7 +70,7 @@ const PlaceMarker = memo<{
             >
               {getHeritageIcon(place.heritage)}{" "}
             </span>
-            {place.name}
+            {place.name} {place.url && <a href={place.url} target="_blank" rel="noopener noreferrer">🎥</a>}
           </h3>
           <p>
             <strong>Type:</strong> {place.type}
