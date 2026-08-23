@@ -184,6 +184,10 @@ input:checked + .slider:before {
   text-align: center;
 }
 
+.app-version-link {
+  color: white;
+}
+
 .legend-color {
   width: 20px;
   height: 20px;

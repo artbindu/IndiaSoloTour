@@ -52,6 +52,7 @@ export interface DataSources {
 
 export interface AppConfig {
   url: string;
+  authorUrl: string;
   title: string;
   shortName: string;
   version: string;
@@ -194,6 +195,7 @@ export const dataSources: DataSources = {
 // App Configuration
 export const appConfig: AppConfig = {
   url: "https://artbindu-app.github.io/whoami/images/profile/india.svg",
+  authorUrl: "https://artbindu-app.github.io/whoami/",
   title: "India Solo Tour",
   shortName: "@rtB!ndu",
   version: packageJson.version,
