@@ -57,7 +57,10 @@ export function Sidebar({
           {appConfig.title}
         </h1>
         <div className="app-version">
-          Version v{appConfig.version} | {appConfig.shortName}
+          <a className="app-version-link" href={appConfig.authorUrl} target="_blank" 
+            rel="noopener noreferrer" title="View Portfolio">
+            Version v{appConfig.version} | {appConfig.shortName}
+          </a>
         </div>
         {appConfig.showStatistics && (
           <div className="stats">

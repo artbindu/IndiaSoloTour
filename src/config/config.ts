@@ -54,6 +54,7 @@ export interface AppConfig {
   url: string;
   title: string;
   shortName: string;
+  authorUrl: string;
   version: string;
   sidebarWidth: number;
   enableGITags: boolean;
@@ -196,6 +197,7 @@ export const appConfig: AppConfig = {
   url: "https://artbindu-app.github.io/whoami/images/profile/india.svg",
   title: "India Solo Tour",
   shortName: "@rtB!ndu",
+  authorUrl: "https://artbindu-app.github.io/whoami/",
   version: packageJson.version,
   sidebarWidth: 320,
   enableGITags: true,
