@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 
 
+### [0.4.13](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.12...v0.4.13) (2026-09-30)
+
+
+### ⏪ Reverts
+
+* Revert "fix: add devtools config" ([2760823](https://github.com/artbindu/IndiaSoloTour/commit/27608232b1d70bc41c1c7112e29265b875ae0398))
+
+
+### 🐛 Bug Fixes
+
+* reverted commit 95de050 ([7231f6b](https://github.com/artbindu/IndiaSoloTour/commit/7231f6b5a79bb7b844e239c0bd35b21e34457522))
+
 ### [0.4.12](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.11...v0.4.12) (2026-07-02)
 
 
