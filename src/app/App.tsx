@@ -352,6 +352,12 @@ function App(): JSX.Element {
     [setSidebarOpen],
   );
 
+  const handleSearchSelection = useCallback((): void => {
+    if (window.innerWidth <= 768) {
+      setSidebarOpen(false);
+    }
+  }, []);
+
   if (locationPermission === "checking") {
     return (
       <div className="loading">
@@ -426,7 +432,10 @@ function App(): JSX.Element {
         <MapView
           filteredPlaces={filteredPlaces}
           filteredGiTags={filteredGiTags}
+          allPlaces={places}
+          allGiTags={giTags}
           showGiTags={showGiTags}
+          onSearchSelection={handleSearchSelection}
         />
       </Suspense>
     </div>
