@@ -58,6 +58,7 @@ interface MapViewProps {
   allPlaces: Place[];
   allGiTags: GITagItem[];
   showGiTags: boolean;
+  sidebarOpen: boolean;
   onSearchSelection?: () => void;
 }
 
@@ -139,6 +140,7 @@ export function MapView({
   allPlaces,
   allGiTags,
   showGiTags,
+  sidebarOpen,
   onSearchSelection,
 }: MapViewProps): JSX.Element {
   // Measure state lifted here so both LiveLocation (button) and DistanceMeasure (map layers) share it
@@ -317,6 +319,7 @@ export function MapView({
         <MapSearch
           places={allPlaces}
           giTags={allGiTags}
+          sidebarOpen={sidebarOpen}
           onSelectResult={handleSearchSelection}
           onSelectGeocodeResult={handleGeocodeSelection}
           onClear={handleSearchClear}
