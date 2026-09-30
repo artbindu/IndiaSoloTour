@@ -146,7 +146,7 @@ export function Sidebar({
               </label>
               <span className="switch-label">
                 {showGiTags
-                  ? `ON - Showing ${giTagsTotal} GI Tags`
+                  ? `ON - View ${giTagsTotal} GI Tags`
                   : "OFF - Hidden"}
               </span>
             </div>
