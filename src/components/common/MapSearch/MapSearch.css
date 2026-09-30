@@ -226,4 +226,25 @@
     padding: 9px 0;
     font-size: 14px;
   }
+
+  .map-search--sidebar-open {
+    right: auto;
+    left: 12px;
+    width: min(156px, calc(50vw - 24px));
+  }
+
+  .map-search--sidebar-open .map-search__input-wrap {
+    min-height: 38px;
+    padding: 0 8px;
+  }
+
+  .map-search--sidebar-open .map-search__icon {
+    margin-right: 5px;
+    font-size: 18px;
+  }
+
+  .map-search--sidebar-open .map-search__input {
+    padding: 7px 0;
+    font-size: 12px;
+  }
 }

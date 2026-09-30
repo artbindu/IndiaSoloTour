@@ -18,6 +18,7 @@ import "./MapSearch.css";
 interface MapSearchProps {
   places: Place[];
   giTags: GITagItem[];
+  sidebarOpen?: boolean;
   onSelectResult?: (entry: SearchEntry) => void;
   onSelectGeocodeResult?: (result: GeocodeResult) => void;
   onClear?: () => void;
@@ -28,6 +29,7 @@ const LISTBOX_ID = "map-search-results";
 export function MapSearch({
   places,
   giTags,
+  sidebarOpen = false,
   onSelectResult,
   onSelectGeocodeResult,
   onClear,
@@ -253,7 +255,10 @@ export function MapSearch({
       : "";
 
   return (
-    <div className="map-search" ref={wrapperRef}>
+    <div
+      className={`map-search${sidebarOpen ? " map-search--sidebar-open" : ""}`}
+      ref={wrapperRef}
+    >
       <div className="map-search__input-wrap">
         <span className="map-search__icon" aria-hidden="true">
           ⌕
@@ -281,7 +286,9 @@ export function MapSearch({
                   ? `${LISTBOX_ID}-osm-action`
                   : undefined
           }
-          placeholder="Search Places or GI tags"
+          placeholder={
+            sidebarOpen ? "Search places…" : "Search Places or GI tags"
+          }
           value={query}
           onChange={(event) => {
             setQuery(event.target.value);
