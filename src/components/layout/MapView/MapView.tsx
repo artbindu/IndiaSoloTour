@@ -27,6 +27,7 @@ import {
 } from "../../../config/config";
 import { Place } from "../../../models/Places";
 import { GITagItem } from "../../../models/Items";
+import { GeocodeResult } from "../../../utils/geocode";
 import { MapSearch } from "../../common/MapSearch/MapSearch";
 import { LiveLocation } from "../../common/LiveLocation/LiveLocation";
 import { DistanceMeasure } from "../../common/DistanceMeasure/DistanceMeasure";
@@ -37,7 +38,11 @@ import {
 } from "../../common/MapRotation/MapRotation";
 import { createCustomIcon, hasValidCoordinates } from "../../../utils/utils";
 import { getSearchEntryId, SearchEntry } from "../../../utils/search";
-import { GITagPopupContent, PlacePopupContent } from "./MapPopups";
+import {
+  GeocodePopupContent,
+  GITagPopupContent,
+  PlacePopupContent,
+} from "./MapPopups";
 
 // Fix default marker icon paths for webpack builds.
 delete (L.Icon.Default.prototype as any)._getIconUrl;
@@ -53,6 +58,7 @@ interface MapViewProps {
   allPlaces: Place[];
   allGiTags: GITagItem[];
   showGiTags: boolean;
+  sidebarOpen: boolean;
   onSearchSelection?: () => void;
 }
 
@@ -134,6 +140,7 @@ export function MapView({
   allPlaces,
   allGiTags,
   showGiTags,
+  sidebarOpen,
   onSearchSelection,
 }: MapViewProps): JSX.Element {
   // Measure state lifted here so both LiveLocation (button) and DistanceMeasure (map layers) share it
@@ -148,7 +155,16 @@ export function MapView({
   const [temporaryResult, setTemporaryResult] = useState<SearchEntry | null>(
     null,
   );
+  const [temporaryGeocode, setTemporaryGeocode] =
+    useState<GeocodeResult | null>(null);
   const markerRefs = useRef<Map<string, L.Marker>>(new Map());
+  const geocodeMarkerRef = useRef<L.Marker | null>(null);
+  const setGeocodeMarkerRef = useCallback((marker: L.Marker | null): void => {
+    if (!marker) {
+      geocodeMarkerRef.current?.closePopup();
+    }
+    geocodeMarkerRef.current = marker;
+  }, []);
   const selectedResultId = temporaryResult?.id;
   const setSelectedMarkerRef = useCallback(
     (marker: L.Marker | null) => {
@@ -228,6 +244,7 @@ export function MapView({
     (entry: SearchEntry): void => {
       const visible = isResultVisible(entry);
 
+      setTemporaryGeocode(null);
       setTemporaryResult(visible ? null : entry);
       onSearchSelection?.();
 
@@ -240,7 +257,17 @@ export function MapView({
 
   const handleSearchClear = useCallback((): void => {
     setTemporaryResult(null);
+    setTemporaryGeocode(null);
   }, []);
+
+  const handleGeocodeSelection = useCallback(
+    (result: GeocodeResult): void => {
+      setTemporaryResult(null);
+      setTemporaryGeocode(result);
+      onSearchSelection?.();
+    },
+    [onSearchSelection],
+  );
 
   const resultColor = temporaryResult
     ? temporaryResult.kind === "gi"
@@ -267,6 +294,14 @@ export function MapView({
     }
   }, [temporaryResult, isResultVisible]);
 
+  useEffect(() => {
+    if (!temporaryGeocode) return;
+    const timeout = window.setTimeout(() => {
+      geocodeMarkerRef.current?.openPopup();
+    }, 0);
+    return () => window.clearTimeout(timeout);
+  }, [temporaryGeocode]);
+
   return (
     <LeafletMapContainer
       center={mapConfig.center}
@@ -284,7 +319,9 @@ export function MapView({
         <MapSearch
           places={allPlaces}
           giTags={allGiTags}
+          sidebarOpen={sidebarOpen}
           onSelectResult={handleSearchSelection}
+          onSelectGeocodeResult={handleGeocodeSelection}
           onClear={handleSearchClear}
         />
       )}
@@ -367,6 +404,20 @@ export function MapView({
             ) : (
               <GITagPopupContent item={temporaryResult.item as GITagItem} />
             )}
+          </Popup>
+        </Marker>
+      )}
+
+      {temporaryGeocode && (
+        <Marker
+          key={`osm-${temporaryGeocode.lat}-${temporaryGeocode.lng}`}
+          position={[temporaryGeocode.lat, temporaryGeocode.lng]}
+          icon={selectedResultIcon}
+          zIndexOffset={1000}
+          ref={setGeocodeMarkerRef}
+        >
+          <Popup>
+            <GeocodePopupContent result={temporaryGeocode} />
           </Popup>
         </Marker>
       )}

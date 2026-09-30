@@ -435,6 +435,7 @@ function App(): JSX.Element {
           allPlaces={places}
           allGiTags={giTags}
           showGiTags={showGiTags}
+          sidebarOpen={sidebarOpen}
           onSearchSelection={handleSearchSelection}
         />
       </Suspense>
