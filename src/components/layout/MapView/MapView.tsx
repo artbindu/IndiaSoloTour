@@ -1,4 +1,12 @@
-import React, { useMemo, useState, useCallback, useRef, memo } from "react";
+import React, {
+  useMemo,
+  useState,
+  useCallback,
+  useRef,
+  useEffect,
+  memo,
+  MutableRefObject,
+} from "react";
 import L from "leaflet";
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
 import markerIcon from "leaflet/dist/images/marker-icon.png";
@@ -11,9 +19,15 @@ import {
   LayerGroup,
 } from "react-leaflet";
 import "./MapView.css";
-import { mapConfig, iconColors, markerConfig } from "../../../config/config";
+import {
+  features,
+  iconColors,
+  mapConfig,
+  markerConfig,
+} from "../../../config/config";
 import { Place } from "../../../models/Places";
 import { GITagItem } from "../../../models/Items";
+import { MapSearch } from "../../common/MapSearch/MapSearch";
 import { LiveLocation } from "../../common/LiveLocation/LiveLocation";
 import { DistanceMeasure } from "../../common/DistanceMeasure/DistanceMeasure";
 import { CompassMarker } from "../../common/CompassMarker/CompassMarker";
@@ -21,12 +35,9 @@ import {
   MapRotation,
   type MapRotationHandle,
 } from "../../common/MapRotation/MapRotation";
-import {
-  createCustomIcon,
-  hasValidCoordinates,
-  getHeritageIcon,
-  getHeritageColor,
-} from "../../../utils/utils";
+import { createCustomIcon, hasValidCoordinates } from "../../../utils/utils";
+import { getSearchEntryId, SearchEntry } from "../../../utils/search";
+import { GITagPopupContent, PlacePopupContent } from "./MapPopups";
 
 // Fix default marker icon paths for webpack builds.
 delete (L.Icon.Default.prototype as any)._getIconUrl;
@@ -39,8 +50,26 @@ L.Icon.Default.mergeOptions({
 interface MapViewProps {
   filteredPlaces: Place[];
   filteredGiTags: GITagItem[];
+  allPlaces: Place[];
+  allGiTags: GITagItem[];
   showGiTags: boolean;
+  onSearchSelection?: () => void;
 }
+
+type MarkerRegistry = MutableRefObject<Map<string, L.Marker>>;
+
+const registerMarker = (
+  markerRefs: MarkerRegistry,
+  id: string,
+  marker: L.Marker | null,
+): void => {
+  if (marker) {
+    markerRefs.current.set(id, marker);
+  } else {
+    markerRefs.current.get(id)?.closePopup();
+    markerRefs.current.delete(id);
+  }
+};
 
 /**
  * PlaceMarker — memoized to prevent re-renders when parent state changes
@@ -48,56 +77,23 @@ interface MapViewProps {
  */
 const PlaceMarker = memo<{
   place: Place;
-  index: number;
+  id: string;
   icon: L.Icon | L.DivIcon;
-}>(({ place, index, icon }) => {
+  markerRefs: MarkerRegistry;
+}>(({ place, id, icon, markerRefs }) => {
+  const setMarkerRef = useCallback(
+    (marker: L.Marker | null) => registerMarker(markerRefs, id, marker),
+    [id, markerRefs],
+  );
   if (!hasValidCoordinates(place.coordinates)) return null;
   return (
     <Marker
-      key={`place-${index}`}
+      ref={setMarkerRef}
       position={[place.coordinates.lat, place.coordinates.long]}
       icon={icon as L.Icon}
     >
       <Popup>
-        <div className="popup-content">
-          <h3>
-            <span
-              style={{
-                backgroundColor: getHeritageColor(place.heritage),
-                padding: "8px",
-                borderRadius: "50%",
-              }}
-            >
-              {getHeritageIcon(place.heritage)}{" "}
-            </span>
-            {place.name} {place.url && <a href={place.url} target="_blank" rel="noopener noreferrer">🎥</a>}
-          </h3>
-          <p>
-            <strong>Type:</strong> {place.type}
-          </p>
-          <p>
-            <strong>Location:</strong> {place.city}, {place.state}
-          </p>
-          {place.heritage &&
-            (place.heritage.unesco ||
-              place.heritage.national ||
-              place.heritage.state) && (
-              <p>
-                <strong>Heritage:</strong>
-                {place.heritage.unesco && " UNESCO"}
-                {place.heritage.national && " National"}
-                {place.heritage.state && " State"}
-              </p>
-            )}
-          {place.description && (
-            <p className="description">{place.description}</p>
-          )}
-          {place.bestVisitMonths && (
-            <p>
-              <strong>Best Visit:</strong> {place.bestVisitMonths.join(", ")}
-            </p>
-          )}
-        </div>
+        <PlacePopupContent place={place} />
       </Popup>
     </Marker>
   );
@@ -109,32 +105,23 @@ PlaceMarker.displayName = "PlaceMarker";
  */
 const GITagMarker = memo<{
   item: GITagItem;
-  index: number;
+  id: string;
   icon: L.Icon | L.DivIcon;
-}>(({ item, index, icon }) => {
+  markerRefs: MarkerRegistry;
+}>(({ item, id, icon, markerRefs }) => {
+  const setMarkerRef = useCallback(
+    (marker: L.Marker | null) => registerMarker(markerRefs, id, marker),
+    [id, markerRefs],
+  );
   if (!hasValidCoordinates(item.coordinates)) return null;
   return (
     <Marker
-      key={`gi-${index}`}
+      ref={setMarkerRef}
       position={[item.coordinates.lat, item.coordinates.long]}
       icon={icon as L.Icon}
     >
       <Popup>
-        <div className="popup-content">
-          <h3>🏅 {item.name}</h3>
-          <p>
-            <strong>Type:</strong> {item.Type}
-          </p>
-          <p>
-            <strong>Location:</strong> {item.location}, {item.state}
-          </p>
-          <p>
-            <strong>Significance:</strong> {item.significance}
-          </p>
-          {item.description && (
-            <p className="description">{item.description}</p>
-          )}
-        </div>
+        <GITagPopupContent item={item} />
       </Popup>
     </Marker>
   );
@@ -144,7 +131,10 @@ GITagMarker.displayName = "GITagMarker";
 export function MapView({
   filteredPlaces,
   filteredGiTags,
+  allPlaces,
+  allGiTags,
   showGiTags,
+  onSearchSelection,
 }: MapViewProps): JSX.Element {
   // Measure state lifted here so both LiveLocation (button) and DistanceMeasure (map layers) share it
   const [isMeasureActive, setIsMeasureActive] = useState<boolean>(false);
@@ -155,6 +145,41 @@ export function MapView({
   } | null>(null);
   // Bearing state — shared between MapRotation (source) and CompassMarker (display)
   const [mapBearing, setMapBearing] = useState<number>(0);
+  const [temporaryResult, setTemporaryResult] = useState<SearchEntry | null>(
+    null,
+  );
+  const markerRefs = useRef<Map<string, L.Marker>>(new Map());
+  const selectedResultId = temporaryResult?.id;
+  const setSelectedMarkerRef = useCallback(
+    (marker: L.Marker | null) => {
+      if (selectedResultId) {
+        registerMarker(markerRefs, selectedResultId, marker);
+      }
+    },
+    [selectedResultId],
+  );
+
+  const visiblePlaces = useMemo(
+    () =>
+      Array.from(
+        new Map(
+          filteredPlaces.map((place) => [
+            getSearchEntryId("place", place),
+            place,
+          ]),
+        ).values(),
+      ),
+    [filteredPlaces],
+  );
+  const visibleGiTags = useMemo(
+    () =>
+      Array.from(
+        new Map(
+          filteredGiTags.map((item) => [getSearchEntryId("gi", item), item]),
+        ).values(),
+      ),
+    [filteredGiTags],
+  );
 
   // Ref to MapRotation to access its reset function
   const mapRotationRef = useRef<MapRotationHandle>(null);
@@ -173,16 +198,74 @@ export function MapView({
 
   const iconCacheByType = useMemo(() => {
     const cache = new Map<string, ReturnType<typeof createCustomIcon>>();
-    for (const place of filteredPlaces) {
+    for (const place of visiblePlaces) {
       if (!cache.has(place.type)) {
         const color = iconColors[place.type] || markerConfig.defaultColor;
         cache.set(place.type, createCustomIcon(color));
       }
     }
     return cache;
-  }, [filteredPlaces]);
+  }, [visiblePlaces]);
 
   const giTagIcon = useMemo(() => createCustomIcon(iconColors["GI Tags"]), []);
+
+  const isResultVisible = useCallback(
+    (entry: SearchEntry): boolean => {
+      if (entry.kind === "place") {
+        return visiblePlaces.some(
+          (place) => getSearchEntryId("place", place) === entry.id,
+        );
+      }
+      return (
+        showGiTags &&
+        visibleGiTags.some((item) => getSearchEntryId("gi", item) === entry.id)
+      );
+    },
+    [visiblePlaces, visibleGiTags, showGiTags],
+  );
+
+  const handleSearchSelection = useCallback(
+    (entry: SearchEntry): void => {
+      const visible = isResultVisible(entry);
+
+      setTemporaryResult(visible ? null : entry);
+      onSearchSelection?.();
+
+      if (visible) {
+        markerRefs.current.get(entry.id)?.openPopup();
+      }
+    },
+    [isResultVisible, onSearchSelection],
+  );
+
+  const handleSearchClear = useCallback((): void => {
+    setTemporaryResult(null);
+  }, []);
+
+  const resultColor = temporaryResult
+    ? temporaryResult.kind === "gi"
+      ? iconColors["GI Tags"]
+      : iconColors[temporaryResult.type] || markerConfig.defaultColor
+    : markerConfig.defaultColor;
+  const selectedResultIcon = useMemo(
+    () =>
+      L.divIcon({
+        className: "search-selected-marker",
+        html: `<span class="search-selected-marker__dot" style="background-color:${resultColor}"></span>`,
+        iconSize: [36, 36],
+        iconAnchor: [18, 18],
+      }),
+    [resultColor],
+  );
+
+  useEffect(() => {
+    if (temporaryResult && !isResultVisible(temporaryResult)) {
+      const timeout = window.setTimeout(() => {
+        markerRefs.current.get(temporaryResult.id)?.openPopup();
+      }, 0);
+      return () => window.clearTimeout(timeout);
+    }
+  }, [temporaryResult, isResultVisible]);
 
   return (
     <LeafletMapContainer
@@ -196,6 +279,15 @@ export function MapView({
         attribution={mapConfig.tileLayer.attribution}
         url={mapConfig.tileLayer.url}
       />
+
+      {features.search && (
+        <MapSearch
+          places={allPlaces}
+          giTags={allGiTags}
+          onSelectResult={handleSearchSelection}
+          onClear={handleSearchClear}
+        />
+      )}
 
       {/* Compass — top-right on desktop, bottom-left on mobile; rotates with map bearing; click to reset */}
       <CompassMarker
@@ -226,16 +318,18 @@ export function MapView({
 
       {/* Tourist Places */}
       <LayerGroup>
-        {filteredPlaces.map((place, index) => {
+        {visiblePlaces.map((place) => {
+          const id = getSearchEntryId("place", place);
           const icon =
             iconCacheByType.get(place.type) ||
             createCustomIcon(markerConfig.defaultColor);
           return (
             <PlaceMarker
-              key={`place-${index}`}
+              key={id}
+              id={id}
               place={place}
-              index={index}
               icon={icon}
+              markerRefs={markerRefs}
             />
           );
         })}
@@ -244,15 +338,37 @@ export function MapView({
       {/* GI Tags */}
       {showGiTags && (
         <LayerGroup>
-          {filteredGiTags.map((item, index) => (
-            <GITagMarker
-              key={`gi-${index}`}
-              item={item}
-              index={index}
-              icon={giTagIcon}
-            />
-          ))}
+          {visibleGiTags.map((item) => {
+            const id = getSearchEntryId("gi", item);
+            return (
+              <GITagMarker
+                key={id}
+                id={id}
+                item={item}
+                icon={giTagIcon}
+                markerRefs={markerRefs}
+              />
+            );
+          })}
         </LayerGroup>
+      )}
+
+      {temporaryResult && !isResultVisible(temporaryResult) && (
+        <Marker
+          key={`selected-${temporaryResult.id}`}
+          position={temporaryResult.coordinates}
+          icon={selectedResultIcon}
+          zIndexOffset={1000}
+          ref={setSelectedMarkerRef}
+        >
+          <Popup>
+            {temporaryResult.kind === "place" ? (
+              <PlacePopupContent place={temporaryResult.item as Place} />
+            ) : (
+              <GITagPopupContent item={temporaryResult.item as GITagItem} />
+            )}
+          </Popup>
+        </Marker>
       )}
     </LeafletMapContainer>
   );

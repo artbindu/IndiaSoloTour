@@ -209,6 +209,6 @@ export const appConfig: AppConfig = {
 export const features: Features = {
   clustering: false,
   heatmap: false,
-  search: false,
+  search: true,
   routing: false,
 };
