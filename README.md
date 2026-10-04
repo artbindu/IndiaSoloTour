@@ -7,12 +7,13 @@ Interactive map visualizing tourism destinations and GI-tagged items across Indi
 ## Features
 
 🗺️ Color-coded markers for 10+ tourism categories across all states & UTs  
-🔍 Filter by location type, state, and GI Tags  
+⚙️ Filter by location type, state, and GI Tags  
 📐 Multi-point distance measurement with per-segment breakdown  
 📡 Live GPS tracking with shareable location URL  
 🧭 Map rotation with interactive compass reset  
 📊 Statistics dashboard and color-coded legend  
-📱 Responsive design with collapsible sidebar
+📱 Responsive design with collapsible sidebar  
+🔍 Add Mapsearch with OpenStreetMap fallback 
 
 ## Tech Stack
 
