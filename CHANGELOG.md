@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 
 
+### [0.4.14](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.13...v0.4.14) (2026-10-04)
+
+
+### 🐛 Bug Fixes
+
+* Mobile sidebar vs Search tags ([7634c11](https://github.com/artbindu/IndiaSoloTour/commit/7634c11c4a75b85f5e46dc8bf499ee5e7015e381))
+
 ### [0.4.13](https://github.com/artbindu/IndiaSoloTour/compare/v0.4.12...v0.4.13) (2026-09-30)
 
 
